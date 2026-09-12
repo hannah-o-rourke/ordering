@@ -1,29 +1,60 @@
 # Newspeak House Order Paper
 
-A dinner ordering sheet for two sittings at Newspeak House, taking orders from up
-to 30 people for [Bangkok Bites](https://www.bangkokbites.uk/), 147 Bethnal Green
-Road — four doors down from the house at 133.
+A dinner ordering sheet for two sittings, taking orders from up to 30 people for
+[Bangkok Bites](https://www.bangkokbites.uk/) at 147 Bethnal Green Road — four
+doors down from the house at 133.
 
-**Live page:** https://claude.ai/code/artifact/081dc60c-27a4-4fae-88a6-774cd9ae29d7
+`index.html` is the whole app. It runs two ways from the same file:
 
-## What it does
+| | Who can open it | Storage |
+|---|---|---|
+| **Published artifact** | only people signed in to the same Claude organisation | the artifact `db` capability |
+| **Self-hosted** (`server.js`) | **anyone with the link** | `data.json` on the server |
 
-- Two sittings, each with its own roll of names and its own tally.
-- Up to 30 distinct people. A person is identified by their name: typing a name
-  that is already on the roll pulls that order back up for editing, so people can
-  change their minds without creating duplicates.
-- Per-person notes for allergies and spice level.
-- A **tally** view that adds up every dish across a sitting — the list you read
-  down the phone to the restaurant.
-- A **Clerk's table** (admin panel) to set the two dates, replace the menu, and
-  close the list.
-- Plain-text export of both sittings for emailing.
+Because the thirty people ordering are outside the organisation, **self-hosted is
+the one to use.** The page picks its backend at load: if it's running inside a
+Claude artifact it uses `db`, otherwise it talks to the server it came from.
 
-## Editing the menu
+## Running it
 
-The starting menu carries only the prices that could be verified; everything else
-is marked *price TBC*. To replace it, open the page → **Clerk's table** → **The
-menu**, and paste one dish per line:
+```bash
+npm install          # one dependency, nodemailer, only needed for the email button
+npm start            # http://localhost:3000
+```
+
+Then put it anywhere that runs Node — Railway, Render, Fly, a VPS. There's no
+database to provision; orders land in `data.json` next to the server. Point
+`DATA_FILE` at a persistent volume if the host has an ephemeral filesystem.
+
+### Settings
+
+Copy `.env.example` to `.env`, or export these before `npm start`:
+
+| Variable | What it does |
+|---|---|
+| `PORT` | Port to listen on (default `3000`) |
+| `DATA_FILE` | Where orders are kept (default `./data.json`) |
+| `ADMIN_TOKEN` | If set, the clerk's table and the email button need `?admin=<token>`. Share the plain link with everyone; keep the `?admin=` one to yourself. |
+| `ORDER_EMAIL_TO` | Recipients (default `ed@newspeak.house,hannah@campaignlab.uk`) |
+| `SMTP_URL` | e.g. `smtps://user:pass@smtp.gmail.com:465` — needed for the email button. For Gmail use an [App Password](https://myaccount.google.com/apppasswords), not your account password. |
+| `SMTP_FROM` | `From:` address |
+
+## Using it
+
+**Ordering.** Pick a sitting, put your name down, tap dishes up and down, table
+the order. Typing a name that's already on the roll pulls that order back up to
+edit, so people can change their minds without creating duplicates. Thirty
+distinct names, each able to order for both sittings.
+
+**Emailing the list.** Open the clerk's table with your `?admin=` link and press
+**Email it to Ed & Hannah**. It sends both sittings — the tally and the
+who-ordered-what — to `ORDER_EMAIL_TO`. Ed can do this himself whenever he wants
+it; nobody has to be standing by.
+
+**Setting the dates.** Clerk's table → the two sittings. Whatever you type is
+what everyone sees.
+
+**Editing the menu.** Clerk's table → the menu. One dish per line:
 
 ```
 Course | Dish | Price
@@ -32,22 +63,37 @@ Curries | Green Curry (medium) | 9.50
 Sushi | Vegetarian Sushi
 ```
 
-Leave the price off and the dish shows as *price TBC*. Saving replaces the menu
-for everyone.
+Leave the price off and the dish shows as *tbc*. Saving replaces the menu for
+everyone.
 
-## Storage
+### About the starting menu
 
-Orders live in the artifact's `db` capability, not in this repo:
+The session that built this could not reach `bangkokbites.uk` — the sandbox's
+egress policy blocks it — so the menu carries only dishes and prices that could
+be confirmed from public listings:
 
-- `config/settings` — `{ menu, nights, closed }`, editable by people with edit
-  access to the artifact.
-- `orders/<name-slug>` — one document per person, holding both sittings.
+> Papaya Salad £7.50 · Salt & Pepper Chicken £8.50 · Green Curry (medium) £9.50 ·
+> Massaman Curry (mild) £9.50 · Pad Thai £10.50 · Vegan Pad Thai £10.99 ·
+> Kao Pad Kra Praw (medium hot) £10.99
 
-## Caveat on access
+Every other dish is listed with its price as *tbc* rather than invented. Paste
+the real menu into the clerk's table and it's fixed everywhere at once.
 
-An artifact that declares `db` is organisation-internal: everyone who opens it
-has to be signed in and in the same Claude organisation as the owner. If the
-thirty people ordering are not, this page cannot be the thing they go to, and the
-app needs hosting somewhere public instead. `index.html` is the whole app and
-carries no secrets, so it ports cleanly to any host once the two `claude.use("db")`
-calls are swapped for an ordinary backend.
+Note that Bangkok Bites run 50% off Monday–Thursday evenings, so these full list
+prices should overstate the actual bill.
+
+## API
+
+Used by the page; useful if you want to script against it.
+
+| Route | Does |
+|---|---|
+| `GET /api/state` | `{config, orders, cap, admin}` |
+| `POST /api/order` | `{id, order}` — upsert one person's order |
+| `POST /api/order/delete` | `{id}` — withdraw |
+| `POST /api/config` | `{config}` — menu, dates, open/closed *(admin)* |
+| `POST /api/email` | `{text}` — send the list *(admin)* |
+
+The server re-validates everything a client sends: names are required,
+quantities clamp to 1–20, prices must parse, the thirty-person cap and the
+closed-list flag are enforced server-side.

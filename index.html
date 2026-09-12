@@ -322,7 +322,9 @@ footer .mono{font-size:12px}
       <div class="admin-card">
         <h4>Plain text of every order</h4>
         <p>Both sittings, ready to paste into an email or read out.</p>
-        <div class="actions"><button class="btn ghost" id="aBuild">Write it out</button></div>
+        <div class="actions"><button class="btn ghost" id="aBuild">Write it out</button>
+          <button class="btn" id="aEmail" hidden>Email it to Ed &amp; Hannah</button>
+          <span id="aEmailMsg"></span></div>
         <div class="copyout" id="aOut" hidden></div>
       </div>
     </div>
@@ -360,7 +362,7 @@ footer .mono{font-size:12px}
   ];
   var DEFAULT_NIGHTS = [{id:"n1",label:"First sitting"},{id:"n2",label:"Second sitting"}];
 
-  var db=null, cfg=null, orders=[], night="n1", meId=null;
+  var store=null, cfg=null, orders=[], night="n1", meId=null;
   var draft={};           // {nightId: {dishKey: qty}}
   var draftNotes={};      // {nightId: notes}
   var loadedFor=null;     // slug whose saved order is currently in the draft
@@ -418,7 +420,7 @@ footer .mono{font-size:12px}
   /* ------------------------------------------------ render ------------------ */
   function renderNotices(){
     var n=[];
-    if(!db) n.push("<b>Orders aren’t being saved in this view.</b> You can still build an order and read it out, but nothing you do here reaches the roll. Open the published page while signed in to save.");
+    if(!store) n.push("<b>Orders aren’t being saved in this view.</b> You can still build an order and read it out, but nothing you do here reaches the roll.");
     if(isShut()) n.push("<b>The list is closed.</b> No new orders or changes are going through.");
     $("notices").innerHTML = n.map(function(t){return '<div class="notice">'+t+"</div>";}).join("");
   }
@@ -600,9 +602,9 @@ footer .mono{font-size:12px}
       nights:payloadNights,updatedAt:new Date().toISOString()};
 
     meId=id; loadedFor=id;
-    if(!db){ flash(msg,"Built — but not saved, this view can’t reach the roll.",true); renderAll(); return; }
+    if(!store){ flash(msg,"Built — but not saved, this view can’t reach the roll.",true); renderAll(); return; }
     $("btnSave").disabled=true;
-    db.doc("orders/"+id).set(body).then(function(){
+    store.saveOrder(id,body).then(function(){
       flash(msg,"Tabled. You’re on the roll.");
     })["catch"](function(e){
       flash(msg,e&&e.code==="quota_exceeded"?"The list is full.":"Couldn’t save — try once more.",true);
@@ -615,8 +617,8 @@ footer .mono{font-size:12px}
     if(!id){ flash(msg,"Put the name you used in first.",true); return; }
     if(isShut()){ flash(msg,"The list is closed.",true); return; }
     draft={}; draftNotes={}; $("fNotes").value="";
-    if(!db){ renderAll(); return; }
-    db.doc("orders/"+id)["delete"]().then(function(){
+    if(!store){ renderAll(); return; }
+    store.deleteOrder(id).then(function(){
       meId=null; loadedFor=null;
       flash(msg,"Withdrawn.");
     })["catch"](function(){ flash(msg,"Couldn’t withdraw — try once more.",true); });
@@ -624,10 +626,10 @@ footer .mono{font-size:12px}
 
   function saveConfig(patch){
     var m=$("aMsg");
-    if(!db){ flash(m,"Can’t save from this view.",true); return; }
+    if(!store){ flash(m,"Can’t save from this view.",true); return; }
     var next={menu:menu(),nights:nights(),closed:isShut()};
     Object.keys(patch).forEach(function(k){ next[k]=patch[k]; });
-    db.doc("config/settings").set(next).then(function(){ flash(m,"Saved."); })
+    store.saveConfig(next).then(function(){ flash(m,"Saved."); })
     ["catch"](function(){ flash(m,"Couldn’t save — you may not have edit access.",true); });
   }
 
@@ -693,6 +695,16 @@ footer .mono{font-size:12px}
   $("aResetMenu").addEventListener("click",function(){
     $("aMenu").value=menuToText(DEFAULT_MENU); saveConfig({menu:DEFAULT_MENU});
   });
+  $("aEmail").addEventListener("click",function(){
+    var m=$("aEmailMsg"), b=$("aEmail");
+    if(!store||!store.emailOrders)return;
+    b.disabled=true; m.className="saved"; m.textContent="Sending\u2026";
+    store.emailOrders(plainText()).then(function(r){
+      flash(m,"Sent to "+(r&&r.to?r.to:"both addresses")+".");
+    })["catch"](function(e){
+      flash(m,(e&&e.message)||"Couldn\u2019t send \u2014 check the mail settings on the server.",true);
+    })["finally"](function(){ b.disabled=false; });
+  });
   $("aBuild").addEventListener("click",function(){
     var o=$("aOut"); o.hidden=false; o.textContent=plainText();
   });
@@ -701,28 +713,93 @@ footer .mono{font-size:12px}
   $("aMenu").value=menuToText(DEFAULT_MENU);
   renderAll();
 
+  function adoptConfig(next){
+    cfg=next;
+    if(cfg&&cfg.nights&&cfg.nights.length===2){
+      if(!$("aN1").value)$("aN1").value=cfg.nights[0].label;
+      if(!$("aN2").value)$("aN2").value=cfg.nights[1].label;
+    }
+    if(cfg&&Array.isArray(cfg.menu)&&cfg.menu.length&&document.activeElement!==$("aMenu")){
+      $("aMenu").value=menuToText(cfg.menu);
+    }
+  }
+  function adoptOrders(list){
+    orders=list; maybeLoadExisting();
+  }
+
+  /* Self-hosted: talk to the server this page came from. */
+  function httpStore(){
+    var adminKey="";
+    try{
+      adminKey=new URLSearchParams(location.search).get("admin")||sessionStorage.getItem("op_admin")||"";
+      if(adminKey)sessionStorage.setItem("op_admin",adminKey);
+    }catch(e){ adminKey=new URLSearchParams(location.search).get("admin")||""; }
+    function req(path,body){
+      var headers={};
+      if(body)headers["Content-Type"]="application/json";
+      if(adminKey)headers["X-Admin-Token"]=adminKey;
+      return fetch(path,{method:body?"POST":"GET",headers:headers,
+        body:body?JSON.stringify(body):undefined}).then(function(r){
+        return r.json().then(function(j){
+          if(!r.ok)throw new Error((j&&j.error)||"Request failed");
+          return j;
+        });
+      });
+    }
+    var timer=null;
+    function pull(){
+      req("/api/state").then(function(st){
+        adoptConfig(st.config||null); adoptOrders(st.orders||[]);
+        $("aEmail").hidden=!st.admin;
+        renderAll();
+      })["catch"](function(){});
+    }
+    return {
+      mode:"http",
+      start:function(){ pull(); timer=setInterval(pull,5000);
+        document.addEventListener("visibilitychange",function(){ if(!document.hidden)pull(); }); },
+      saveOrder:function(id,body){ return req("/api/order",{id:id,order:body}).then(pull); },
+      deleteOrder:function(id){ return req("/api/order/delete",{id:id}).then(pull); },
+      saveConfig:function(next){ return req("/api/config",{config:next}).then(pull); },
+      emailOrders:function(text){ return req("/api/email",{text:text}); }
+    };
+  }
+
+  /* Published artifact: the db capability. */
+  function dbStore(handle){
+    return {
+      mode:"db",
+      start:function(){
+        handle.doc("config/settings").onSnapshot(function(snap){
+          adoptConfig(snap.exists?snap.data():null); renderAll();
+        },function(){ renderNotices(); });
+        handle.collection("orders").limit(200).onSnapshot(function(snap){
+          adoptOrders(snap.docs.map(function(d){ var o=d.data()||{}; o.id=d.id; return o; }));
+          renderAll();
+        },function(){ renderNotices(); });
+      },
+      saveOrder:function(id,body){ return handle.doc("orders/"+id).set(body); },
+      deleteOrder:function(id){ return handle.doc("orders/"+id)["delete"](); },
+      saveConfig:function(next){ return handle.doc("config/settings").set(next); },
+      emailOrders:null
+    };
+  }
+
+  function install(s){
+    store=s;
+    if(store.emailOrders&&store.mode==="http")$("aEmail").hidden=false;
+    store.start(); renderNotices();
+  }
+
   if(window.claude&&window.claude.use){
     window.claude.use("db").then(function(handle){
-      if(!handle){ renderNotices(); return; }
-      db=handle;
-      db.doc("config/settings").onSnapshot(function(snap){
-        cfg=snap.exists?snap.data():null;
-        if(cfg&&cfg.nights&&cfg.nights.length===2){
-          if(!$("aN1").value)$("aN1").value=cfg.nights[0].label;
-          if(!$("aN2").value)$("aN2").value=cfg.nights[1].label;
-        }
-        if(cfg&&Array.isArray(cfg.menu)&&cfg.menu.length&&document.activeElement!==$("aMenu")){
-          $("aMenu").value=menuToText(cfg.menu);
-        }
-        renderAll();
-      },function(){ renderNotices(); });
-      db.collection("orders").limit(200).onSnapshot(function(snap){
-        orders=snap.docs.map(function(d){ var o=d.data()||{}; o.id=d.id; return o; });
-        maybeLoadExisting();
-        renderAll();
-      },function(){ renderNotices(); });
+      if(handle){ install(dbStore(handle)); return; }
       renderNotices();
     })["catch"](function(){ renderNotices(); });
+  } else if(location.protocol==="http:"||location.protocol==="https:"){
+    install(httpStore());
+  } else {
+    renderNotices();
   }
 })();
 </script>

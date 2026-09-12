@@ -1,0 +1,16 @@
+{
+  "name": "newspeak-house-order-paper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dinner ordering sheet for two sittings at Newspeak House",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
