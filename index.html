@@ -339,6 +339,11 @@ footer .mono{font-size:12px}
 <script>
 (function(){
   "use strict";
+  /* Paste the Apps Script web-app URL here (the one ending /exec) to run this
+     page from GitHub Pages. Leave it empty and the page falls back to the
+     Node server in this repo, or to the artifact db when published as one. */
+  var API_URL = "";
+
   var CAP = 30;
   var DEFAULT_MENU = [
     ["Starters","Vegetable Spring Rolls",null],
@@ -559,7 +564,18 @@ footer .mono{font-size:12px}
     var s=slug($("fName").value);
     if(!s||s===loadedFor)return;
     var found=orders.filter(function(o){return o.id===s;})[0];
-    if(!found)return;
+    if(!found){
+      /* Somebody else is at the keyboard now. Whatever is in the draft was
+         pulled up for the previous name, so it belongs to them — clear it
+         rather than filing it under this person. Work this visitor typed in
+         themselves (nothing was ever loaded) is left alone. */
+      if(loadedFor){
+        loadedFor=null; meId=null; draft={}; draftNotes={};
+        $("fNotes").value="";
+        renderAll();
+      }
+      return;
+    }
     loadedFor=s; meId=s;
     draft={}; draftNotes={};
     Object.keys(found.nights||{}).forEach(function(nId){
@@ -728,12 +744,17 @@ footer .mono{font-size:12px}
   }
 
   /* Self-hosted: talk to the server this page came from. */
-  function httpStore(){
-    var adminKey="";
+  function readAdminKey(){
+    var k="";
     try{
-      adminKey=new URLSearchParams(location.search).get("admin")||sessionStorage.getItem("op_admin")||"";
-      if(adminKey)sessionStorage.setItem("op_admin",adminKey);
-    }catch(e){ adminKey=new URLSearchParams(location.search).get("admin")||""; }
+      k=new URLSearchParams(location.search).get("admin")||sessionStorage.getItem("op_admin")||"";
+      if(k)sessionStorage.setItem("op_admin",k);
+    }catch(e){ k=new URLSearchParams(location.search).get("admin")||""; }
+    return k;
+  }
+
+  function httpStore(){
+    var adminKey=readAdminKey();
     function req(path,body){
       var headers={};
       if(body)headers["Content-Type"]="application/json";
@@ -765,6 +786,38 @@ footer .mono{font-size:12px}
     };
   }
 
+  /* GitHub Pages: talk to the Apps Script web app.
+     Posts are sent as text/plain so they stay "simple" under CORS — a JSON
+     content type would trigger a preflight that Apps Script cannot answer. */
+  function appsScriptStore(endpoint){
+    var adminKey=readAdminKey();
+    function call(action,payload){
+      var body=Object.assign({action:action,token:adminKey},payload||{});
+      return fetch(endpoint,{method:"POST",redirect:"follow",
+        headers:{"Content-Type":"text/plain;charset=utf-8"},
+        body:JSON.stringify(body)})
+        .then(function(r){ return r.json(); })
+        .then(function(j){ if(j&&j.error)throw new Error(j.error); return j; });
+    }
+    var timer=null;
+    function pull(){
+      call("state").then(function(st){
+        adoptConfig(st.config||null); adoptOrders(st.orders||[]);
+        $("aEmail").hidden=!st.admin;
+        renderAll();
+      })["catch"](function(){});
+    }
+    return {
+      mode:"apps-script",
+      start:function(){ pull(); timer=setInterval(pull,5000);
+        document.addEventListener("visibilitychange",function(){ if(!document.hidden)pull(); }); },
+      saveOrder:function(id,body){ return call("order",{id:id,order:body}).then(pull); },
+      deleteOrder:function(id){ return call("delete",{id:id}).then(pull); },
+      saveConfig:function(next){ return call("config",{config:next}).then(pull); },
+      emailOrders:function(text){ return call("email",{text:text}); }
+    };
+  }
+
   /* Published artifact: the db capability. */
   function dbStore(handle){
     return {
@@ -787,15 +840,22 @@ footer .mono{font-size:12px}
 
   function install(s){
     store=s;
-    if(store.emailOrders&&store.mode==="http")$("aEmail").hidden=false;
+    if(store.emailOrders&&store.mode!=="db")$("aEmail").hidden=false;
     store.start(); renderNotices();
   }
+
+  var apiOverride="";
+  try{ apiOverride=new URLSearchParams(location.search).get("api")||""; }catch(e){}
+  var endpoint=apiOverride||API_URL;
 
   if(window.claude&&window.claude.use){
     window.claude.use("db").then(function(handle){
       if(handle){ install(dbStore(handle)); return; }
+      if(endpoint){ install(appsScriptStore(endpoint)); return; }
       renderNotices();
     })["catch"](function(){ renderNotices(); });
+  } else if(endpoint){
+    install(appsScriptStore(endpoint));
   } else if(location.protocol==="http:"||location.protocol==="https:"){
     install(httpStore());
   } else {

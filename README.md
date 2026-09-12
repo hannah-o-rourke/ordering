@@ -4,18 +4,67 @@ A dinner ordering sheet for two sittings, taking orders from up to 30 people for
 [Bangkok Bites](https://www.bangkokbites.uk/) at 147 Bethnal Green Road — four
 doors down from the house at 133.
 
-`index.html` is the whole app. It runs two ways from the same file:
+`index.html` is the whole app. It runs three ways from the same file, picking
+its backend at load:
 
 | | Who can open it | Storage |
 |---|---|---|
-| **Published artifact** | only people signed in to the same Claude organisation | the artifact `db` capability |
+| **GitHub Pages + Apps Script** | **anyone with the link** | a Google Sheet |
 | **Self-hosted** (`server.js`) | **anyone with the link** | `data.json` on the server |
+| **Published artifact** | only people in the same Claude organisation | the artifact `db` capability |
 
-Because the thirty people ordering are outside the organisation, **self-hosted is
-the one to use.** The page picks its backend at load: if it's running inside a
-Claude artifact it uses `db`, otherwise it talks to the server it came from.
+GitHub Pages on its own cannot run this. Pages serves static files, so there is
+nowhere for thirty people's orders to be *shared* — each person would build an
+order that never left their own browser. Pages hosts the page; Apps Script holds
+the orders and sends the email.
 
-## Running it
+## Deploying on GitHub Pages
+
+### 1. The backend
+
+Everything is in [`apps-script/Code.gs`](apps-script/Code.gs), and the setup
+steps are in the comment at the top of that file. In short: paste it into a new
+project at [script.google.com](https://script.google.com), run `setup` once,
+then **Deploy ▸ New deployment ▸ Web app** with *Execute as: Me* and *Who has
+access: Anyone*. Copy the URL ending in `/exec`.
+
+Running `setup` creates the spreadsheet the orders live in and prints an admin
+token to the log. Keep that token; it guards the menu editor and the email
+button.
+
+Why "Anyone" is safe here: the script only ever exposes the five actions below,
+it re-validates everything sent to it, and the menu editor and email button are
+behind the admin token. Nobody gets access to your Google account.
+
+### 2. The page
+
+Paste the `/exec` URL into `API_URL` near the top of the script block in
+`index.html`:
+
+```js
+var API_URL = "https://script.google.com/macros/s/AKfy.../exec";
+```
+
+Then in the repo, **Settings ▸ Pages ▸ Source: GitHub Actions**. Pushing
+`index.html` to `main` publishes it via
+[`.github/workflows/pages.yml`](.github/workflows/pages.yml), which deploys the
+page alone — the Node server and the Apps Script source stay in the repo but are
+not part of the site.
+
+Your ordering link is then `https://<you>.github.io/ordering/`, and your own
+admin link is that plus `?admin=<token>`.
+
+### A note on CORS
+
+The page posts to Apps Script as `text/plain` on purpose. That keeps the request
+"simple" under CORS, so the browser sends it straight through; a JSON content
+type would trigger a preflight `OPTIONS` that Apps Script has no way to answer.
+`Code.gs` parses the body itself. Don't "fix" the content type.
+
+## Running it without GitHub Pages
+
+`server.js` is the same app against a Node backend, if you would rather not use
+Apps Script. Leave `API_URL` empty and it talks to whichever server sent it.
 
 ```bash
 npm install          # one dependency, nodemailer, only needed for the email button
@@ -93,6 +142,9 @@ Used by the page; useful if you want to script against it.
 | `POST /api/order/delete` | `{id}` — withdraw |
 | `POST /api/config` | `{config}` — menu, dates, open/closed *(admin)* |
 | `POST /api/email` | `{text}` — send the list *(admin)* |
+
+The Apps Script backend takes the same five as `{action: "state"|"order"|
+"delete"|"config"|"email", token, ...}` posted to the one `/exec` URL.
 
 The server re-validates everything a client sends: names are required,
 quantities clamp to 1–20, prices must parse, the thirty-person cap and the
