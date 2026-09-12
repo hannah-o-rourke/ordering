@@ -1,0 +1,729 @@
+<title>Newspeak House Order Paper</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Bodoni+Moda:opsz,wght@6..96,400;6..96,700;6..96,900&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{
+  --paper:#E6E5E0; --paper-2:#F1F0EC; --paper-3:#DBDAD3;
+  --ink:#17171A; --ink-2:#55555C; --ink-3:#7E7E85;
+  --rule:#C3C2BB; --rule-2:#AFAEA6;
+  --accent:#E0007A; --accent-ink:#FFFFFF; --accent-soft:#F8D9E9;
+  --good:#2E6B4F; --good-soft:#D9E8E0;
+  --warn:#8A5200; --warn-soft:#F2E3CC;
+  --shadow:0 1px 0 rgba(23,23,26,.06);
+  --display:"Bodoni Moda",Georgia,"Times New Roman",serif;
+  --body:"Archivo","Helvetica Neue",Helvetica,Arial,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#131316; --paper-2:#1C1C20; --paper-3:#0D0D10;
+    --ink:#EDECE6; --ink-2:#9A9A94; --ink-3:#76766F;
+    --rule:#34343A; --rule-2:#45454C;
+    --accent:#FF3D9A; --accent-ink:#16060E; --accent-soft:#37101F;
+    --good:#6FCF97; --good-soft:#16281E;
+    --warn:#E0A94F; --warn-soft:#2C2214;
+    --shadow:0 1px 0 rgba(0,0,0,.4);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#131316; --paper-2:#1C1C20; --paper-3:#0D0D10;
+  --ink:#EDECE6; --ink-2:#9A9A94; --ink-3:#76766F;
+  --rule:#34343A; --rule-2:#45454C;
+  --accent:#FF3D9A; --accent-ink:#16060E; --accent-soft:#37101F;
+  --good:#6FCF97; --good-soft:#16281E;
+  --warn:#E0A94F; --warn-soft:#2C2214;
+  --shadow:0 1px 0 rgba(0,0,0,.4);
+}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);
+  margin:0;padding-block:0 64px;padding-left:20px;padding-right:20px;
+  font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto}
+a{color:var(--accent)}
+h1,h2,h3{text-wrap:balance;margin:0}
+button{font-family:inherit;font-size:inherit;color:inherit}
+:focus-visible{outline:2.5px solid var(--accent);outline-offset:2px;border-radius:2px}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.eyebrow{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--ink-2)}
+
+/* ---------- masthead ---------- */
+.masthead{border-bottom:3px solid var(--ink);padding-block:26px 12px;margin-bottom:0}
+.masthead .top{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:baseline;
+  justify-content:space-between;border-bottom:1px solid var(--rule);padding-bottom:10px}
+.title{font-family:var(--display);font-weight:900;font-size:clamp(40px,10.5vw,84px);
+  line-height:.92;letter-spacing:-.015em;margin:16px 0 10px}
+.title em{font-style:italic;font-weight:400;color:var(--accent)}
+.standfirst{font-size:clamp(15px,2.4vw,18px);color:var(--ink-2);max-width:56ch;margin-bottom:16px}
+.standfirst strong{color:var(--ink);font-weight:600}
+
+/* ---------- status strip ---------- */
+.strip{display:flex;flex-wrap:wrap;gap:0;border:1px solid var(--rule);
+  border-left:4px solid var(--accent);background:var(--paper-2);margin-block:18px 28px}
+.strip .cell{flex:1 1 150px;padding:11px 14px;border-right:1px solid var(--rule)}
+.strip .cell:last-child{border-right:0}
+.strip .k{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3);display:block;margin-bottom:3px}
+.strip .v{font-family:var(--mono);font-size:19px;font-weight:600;letter-spacing:-.01em}
+.strip .v small{font-size:12px;color:var(--ink-3);font-weight:400}
+.pill{display:inline-block;font-family:var(--mono);font-size:11px;font-weight:600;
+  letter-spacing:.08em;text-transform:uppercase;padding:3px 9px;border-radius:999px}
+.pill.open{background:var(--good-soft);color:var(--good);border:1px solid var(--good)}
+.pill.shut{background:var(--warn-soft);color:var(--warn);border:1px solid var(--warn)}
+
+/* ---------- notices ---------- */
+.notice{border:1px solid var(--rule);border-left:4px solid var(--warn);
+  background:var(--warn-soft);color:var(--ink);padding:12px 14px;margin-bottom:20px;font-size:14px}
+.notice b{font-weight:600}
+
+/* ---------- section headers ---------- */
+.sec{margin-top:40px}
+.sec-head{display:flex;align-items:baseline;gap:12px;border-bottom:2px solid var(--ink);padding-bottom:7px}
+.sec-head h2{font-family:var(--display);font-size:clamp(22px,4vw,30px);font-weight:700;letter-spacing:-.01em}
+.sec-head .num{font-family:var(--mono);font-size:11px;font-weight:600;color:var(--accent);
+  letter-spacing:.14em;text-transform:uppercase}
+.sec-note{font-size:13.5px;color:var(--ink-2);margin-top:9px}
+
+/* ---------- sittings ---------- */
+.sittings{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;margin-top:16px}
+.sitting{position:relative;text-align:left;background:var(--paper-2);border:1px solid var(--rule-2);
+  padding:14px 15px;cursor:pointer;transition:border-color .12s,background .12s}
+.sitting:hover{border-color:var(--ink-2)}
+.sitting[aria-pressed="true"]{border-color:var(--accent);border-width:2px;padding:13px 14px;
+  background:var(--accent-soft)}
+.sitting .s-n{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3);display:block}
+.sitting[aria-pressed="true"] .s-n{color:var(--accent)}
+.sitting .s-d{font-family:var(--display);font-size:21px;font-weight:700;margin-top:3px;line-height:1.15}
+.sitting .s-c{font-family:var(--mono);font-size:12px;color:var(--ink-2);margin-top:5px}
+
+/* ---------- identity ---------- */
+.fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-top:16px}
+label.f{display:block}
+label.f .l{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-2);display:block;margin-bottom:5px}
+input[type=text],input[type=email],textarea,select{width:100%;font-family:var(--body);font-size:15px;
+  background:var(--paper-2);color:var(--ink);border:1px solid var(--rule-2);padding:9px 11px;border-radius:0}
+textarea{min-height:70px;resize:vertical;line-height:1.45}
+input::placeholder,textarea::placeholder{color:var(--ink-3)}
+.hint{font-size:12.5px;color:var(--ink-2);margin-top:7px}
+
+/* ---------- menu ---------- */
+.course{margin-top:26px}
+.course-h{display:flex;align-items:baseline;justify-content:space-between;gap:10px;
+  border-bottom:1px solid var(--ink);padding-bottom:5px;margin-bottom:2px}
+.course-h h3{font-family:var(--display);font-size:19px;font-weight:700;font-style:italic}
+.course-h .c-ct{font-family:var(--mono);font-size:11px;color:var(--ink-3)}
+.dish{display:grid;grid-template-columns:1fr auto auto;gap:10px 14px;align-items:center;
+  padding:9px 0;border-bottom:1px dotted var(--rule)}
+.dish:last-child{border-bottom:0}
+.dish.on{background:linear-gradient(90deg,var(--accent-soft),transparent 65%)}
+.d-name{font-size:15.5px;font-weight:500;line-height:1.3}
+.d-name .tbc{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--warn);border:1px solid var(--warn);padding:1px 5px;margin-left:7px;
+  vertical-align:1px;white-space:nowrap}
+.d-price{font-family:var(--mono);font-size:14px;color:var(--ink-2);font-variant-numeric:tabular-nums;
+  text-align:right;min-width:56px}
+.stepper{display:flex;align-items:center;border:1px solid var(--rule-2);background:var(--paper-2)}
+.stepper button{width:32px;height:32px;border:0;background:transparent;cursor:pointer;
+  font-family:var(--mono);font-size:16px;font-weight:600;line-height:1;color:var(--ink-2);padding:0}
+.stepper button:hover:not(:disabled){background:var(--accent);color:var(--accent-ink)}
+.stepper button:disabled{opacity:.3;cursor:default}
+.stepper .q{width:30px;text-align:center;font-family:var(--mono);font-size:15px;font-weight:600;
+  font-variant-numeric:tabular-nums}
+.stepper.z .q{color:var(--ink-3)}
+
+/* ---------- basket / submit ---------- */
+.basket{border:1px solid var(--rule-2);background:var(--paper-2);margin-top:26px}
+.basket-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px;
+  padding:11px 15px;border-bottom:1px solid var(--rule);background:var(--paper-3)}
+.basket-h .bt{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-2)}
+.basket-h .tot{font-family:var(--mono);font-size:17px;font-weight:600}
+.basket ul{list-style:none;margin:0;padding:9px 15px}
+.basket li{display:flex;justify-content:space-between;gap:12px;padding:4px 0;font-size:14.5px}
+.basket li .bq{font-family:var(--mono);color:var(--accent);font-weight:600;margin-right:8px}
+.basket li .bp{font-family:var(--mono);color:var(--ink-2);font-variant-numeric:tabular-nums}
+.basket .empty{padding:14px 15px;font-size:14px;color:var(--ink-3);font-style:italic}
+.actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:18px}
+.btn{border:0;padding:13px 26px;font-family:var(--mono);font-size:13px;font-weight:600;
+  letter-spacing:.1em;text-transform:uppercase;cursor:pointer;background:var(--accent);
+  color:var(--accent-ink);transition:opacity .12s}
+.btn:hover:not(:disabled){opacity:.86}
+.btn:disabled{opacity:.4;cursor:not-allowed}
+.btn.ghost{background:transparent;color:var(--ink-2);border:1px solid var(--rule-2)}
+.btn.ghost:hover:not(:disabled){border-color:var(--ink);color:var(--ink);opacity:1}
+.saved{font-family:var(--mono);font-size:12.5px;color:var(--good);font-weight:500}
+.errmsg{font-family:var(--mono);font-size:12.5px;color:var(--warn);font-weight:500}
+
+/* ---------- roll ---------- */
+.roll{margin-top:14px;border:1px solid var(--rule)}
+.roll-row{display:grid;grid-template-columns:minmax(120px,1.1fr) 3fr auto;gap:10px 14px;
+  padding:10px 14px;border-bottom:1px solid var(--rule);align-items:baseline}
+.roll-row:last-child{border-bottom:0}
+.roll-row.hd{background:var(--paper-3);border-bottom:1px solid var(--rule-2)}
+.roll-row.hd span{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-2)}
+.roll-row.me{background:var(--accent-soft)}
+.r-name{font-weight:600;font-size:15px;overflow-wrap:anywhere}
+.r-name .you{font-family:var(--mono);font-size:9.5px;font-weight:600;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--accent);display:block}
+.r-items{font-size:14px;color:var(--ink-2);line-height:1.45}
+.r-items .none{font-style:italic;color:var(--ink-3)}
+.r-tot{font-family:var(--mono);font-size:14px;font-weight:600;text-align:right;font-variant-numeric:tabular-nums}
+.empty-roll{padding:22px 16px;text-align:center;color:var(--ink-3);font-size:14.5px;font-style:italic}
+
+/* ---------- tally ---------- */
+.tally{margin-top:14px;border:1px solid var(--rule);background:var(--paper-2)}
+.tally-row{display:flex;justify-content:space-between;gap:14px;padding:9px 14px;
+  border-bottom:1px dotted var(--rule);font-size:15px}
+.tally-row:last-child{border-bottom:0}
+.tally-row .tq{font-family:var(--mono);font-weight:600;color:var(--accent);min-width:34px}
+.tally-row .tn{flex:1}
+.tally-row .tp{font-family:var(--mono);color:var(--ink-2);font-variant-numeric:tabular-nums}
+.tally-foot{display:flex;justify-content:space-between;padding:11px 14px;
+  border-top:2px solid var(--ink);background:var(--paper-3);
+  font-family:var(--mono);font-weight:600;font-size:15px}
+
+/* ---------- admin ---------- */
+details.admin{margin-top:44px;border-top:1px solid var(--rule);padding-top:14px}
+details.admin summary{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3);cursor:pointer;list-style:none}
+details.admin summary::-webkit-details-marker{display:none}
+details.admin summary::before{content:"▸ ";color:var(--accent)}
+details.admin[open] summary::before{content:"▾ "}
+.admin-body{margin-top:18px;display:grid;gap:18px}
+.admin-card{border:1px solid var(--rule);background:var(--paper-2);padding:15px}
+.admin-card h4{margin:0 0 4px;font-family:var(--mono);font-size:11px;font-weight:600;
+  letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2)}
+.admin-card p{margin:0 0 11px;font-size:13px;color:var(--ink-2)}
+.admin-card textarea{font-family:var(--mono);font-size:12.5px;min-height:170px}
+.copyout{font-family:var(--mono);font-size:12px;white-space:pre-wrap;background:var(--paper-3);
+  border:1px solid var(--rule);padding:11px;max-height:230px;overflow:auto;margin-top:10px}
+
+footer{margin-top:52px;border-top:1px solid var(--rule);padding-top:15px;
+  font-size:13px;color:var(--ink-3);display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between}
+footer .mono{font-size:12px}
+@media (max-width:560px){
+  .dish{grid-template-columns:1fr auto;row-gap:6px}
+  .dish .stepper{grid-column:2;grid-row:1/span 2}
+  .d-price{text-align:left;grid-column:1}
+  .roll-row{grid-template-columns:1fr auto}
+  .roll-row .r-items{grid-column:1/-1}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<div class="wrap">
+  <header class="masthead">
+    <div class="top">
+      <span class="eyebrow">Newspeak House &middot; London College of Political Technology</span>
+      <span class="eyebrow" id="sessionDate">133 Bethnal Green Road E2</span>
+    </div>
+    <h1 class="title">Order <em>Paper</em></h1>
+    <p class="standfirst">Dinner from <strong>Bangkok Bites</strong>, 147 Bethnal Green Road &mdash; four doors down.
+      Two sittings. Put your name against what you want and it goes on the roll; the whole order is read down
+      the phone as one list.</p>
+  </header>
+
+  <div class="strip">
+    <div class="cell"><span class="k">Sitting</span><span class="v" id="stSitting">&mdash;</span></div>
+    <div class="cell"><span class="k">Names down</span><span class="v" id="stSeats">0 <small>/ 30</small></span></div>
+    <div class="cell"><span class="k">Dishes</span><span class="v" id="stDishes">0</span></div>
+    <div class="cell"><span class="k">Running total</span><span class="v" id="stTotal">&pound;0.00</span></div>
+    <div class="cell"><span class="k">Status</span><span class="v"><span class="pill open" id="stStatus">Open</span></span></div>
+  </div>
+
+  <div id="notices"></div>
+
+  <section class="sec">
+    <div class="sec-head"><span class="num">I</span><h2>Choose your sitting</h2></div>
+    <div class="sittings" id="sittings"></div>
+  </section>
+
+  <section class="sec">
+    <div class="sec-head"><span class="num">II</span><h2>Put your name down</h2></div>
+    <p class="sec-note">Type the name you used before to pull your order back up and change it. One entry per person,
+      thirty people in all.</p>
+    <div class="fields">
+      <label class="f" for="fName"><span class="l">Name</span>
+        <input type="text" id="fName" placeholder="e.g. Hannah O'Rourke" autocomplete="name" maxlength="60"></label>
+      <label class="f" for="fEmail"><span class="l">Email &mdash; optional</span>
+        <input type="email" id="fEmail" placeholder="so we can chase you for the money" autocomplete="email" maxlength="120"></label>
+    </div>
+    <p class="hint" id="nameHint"></p>
+  </section>
+
+  <section class="sec">
+    <div class="sec-head"><span class="num">III</span><h2>The menu</h2></div>
+    <p class="sec-note" id="menuNote">Bangkok Bites run <strong>50% off</strong> Monday to Thursday evenings, so the
+      prices below are the full list price &mdash; expect the bill to come in under it.</p>
+    <div id="menu"></div>
+
+    <label class="f" for="fNotes" style="margin-top:24px;display:block">
+      <span class="l">Allergies, spice level, anything else</span>
+      <textarea id="fNotes" placeholder="e.g. no peanuts; mild please; no fish sauce" maxlength="400"></textarea></label>
+
+    <div class="basket">
+      <div class="basket-h"><span class="bt">Your order &mdash; <span id="bSitting">sitting</span></span>
+        <span class="tot" id="bTotal">&pound;0.00</span></div>
+      <div id="basketBody"></div>
+    </div>
+
+    <div class="actions">
+      <button class="btn" id="btnSave">Table my order</button>
+      <button class="btn ghost" id="btnClear">Withdraw</button>
+      <span id="saveMsg"></span>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="sec-head"><span class="num">IV</span><h2>The roll</h2></div>
+    <p class="sec-note">Everyone down for <span id="rollSitting">this sitting</span>.</p>
+    <div class="roll" id="roll"></div>
+  </section>
+
+  <section class="sec">
+    <div class="sec-head"><span class="num">V</span><h2>Tally for the restaurant</h2></div>
+    <p class="sec-note">Every dish across the sitting, added up. This is the bit you read down the phone.</p>
+    <div class="tally" id="tally"></div>
+  </section>
+
+  <details class="admin">
+    <summary>Clerk's table &mdash; set the dates, edit the menu, close the list</summary>
+    <div class="admin-body">
+      <div class="admin-card">
+        <h4>The two sittings</h4>
+        <p>Whatever you type here is what everybody sees.</p>
+        <div class="fields">
+          <label class="f" for="aN1"><span class="l">First sitting</span>
+            <input type="text" id="aN1" maxlength="60" placeholder="Thursday 24 September"></label>
+          <label class="f" for="aN2"><span class="l">Second sitting</span>
+            <input type="text" id="aN2" maxlength="60" placeholder="Friday 25 September"></label>
+        </div>
+        <div class="actions">
+          <button class="btn ghost" id="aSaveNights">Save dates</button>
+          <button class="btn ghost" id="aToggle">Close the list</button>
+          <span id="aMsg"></span>
+        </div>
+      </div>
+
+      <div class="admin-card">
+        <h4>The menu</h4>
+        <p>One dish per line as <code>Course | Dish | Price</code>. Leave the price out and it shows as
+          <em>price TBC</em>. Paste the real menu in here and it replaces the lot for everyone.</p>
+        <textarea id="aMenu" spellcheck="false"></textarea>
+        <div class="actions">
+          <button class="btn ghost" id="aSaveMenu">Save menu</button>
+          <button class="btn ghost" id="aResetMenu">Back to the starting menu</button>
+        </div>
+      </div>
+
+      <div class="admin-card">
+        <h4>Plain text of every order</h4>
+        <p>Both sittings, ready to paste into an email or read out.</p>
+        <div class="actions"><button class="btn ghost" id="aBuild">Write it out</button></div>
+        <div class="copyout" id="aOut" hidden></div>
+      </div>
+    </div>
+  </details>
+
+  <footer>
+    <span>Newspeak House &mdash; 133 Bethnal Green Road, London E2 7DG</span>
+    <span class="mono">Bangkok Bites &mdash; 147 Bethnal Green Road, E2 7DG</span>
+  </footer>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  var CAP = 30;
+  var DEFAULT_MENU = [
+    ["Starters","Vegetable Spring Rolls",null],
+    ["Starters","Prawn Tempura",null],
+    ["Starters","Chicken Satay Skewers",null],
+    ["Starters","Thai Fish Cakes",null],
+    ["Starters","Prawn Toast",null],
+    ["Starters","Chicken & Prawn Dim Sum (4 pcs)",null],
+    ["Starters","Salt & Pepper Chicken",8.50],
+    ["Starters","Papaya Salad",7.50],
+    ["Curries","Green Curry (medium)",9.50],
+    ["Curries","Massaman Curry (mild)",9.50],
+    ["Curries","Red Curry",null],
+    ["Noodles & Rice","Pad Thai",10.50],
+    ["Noodles & Rice","Vegan Pad Thai",10.99],
+    ["Noodles & Rice","Kao Pad Kra Praw (medium hot)",10.99],
+    ["Noodles & Rice","Chicken Chow Mein",null],
+    ["Noodles & Rice","Katsu Chicken",null],
+    ["Noodles & Rice","Egg Fried Rice",null],
+    ["Sushi","Vegetarian Sushi",null]
+  ];
+  var DEFAULT_NIGHTS = [{id:"n1",label:"First sitting"},{id:"n2",label:"Second sitting"}];
+
+  var db=null, cfg=null, orders=[], night="n1", meId=null;
+  var draft={};           // {nightId: {dishKey: qty}}
+  var draftNotes={};      // {nightId: notes}
+  var loadedFor=null;     // slug whose saved order is currently in the draft
+  var $=function(id){return document.getElementById(id);};
+
+  function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){
+    return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
+  function slug(s){
+    var v=String(s||"").toLowerCase().trim().replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"");
+    return v.slice(0,60);
+  }
+  function money(n){return "£"+Number(n||0).toFixed(2);}
+  function dishKey(course,name){return slug(course)+"--"+slug(name);}
+
+  function menu(){ return (cfg&&Array.isArray(cfg.menu)&&cfg.menu.length)?cfg.menu:DEFAULT_MENU; }
+  function nights(){ return (cfg&&Array.isArray(cfg.nights)&&cfg.nights.length===2)?cfg.nights:DEFAULT_NIGHTS; }
+  function isShut(){ return !!(cfg&&cfg.closed); }
+
+  function menuToText(m){
+    return m.map(function(r){return r[0]+" | "+r[1]+(r[2]==null?"":" | "+Number(r[2]).toFixed(2));}).join("\n");
+  }
+  function textToMenu(t){
+    var out=[];
+    String(t||"").split("\n").forEach(function(line){
+      if(!line.trim())return;
+      var p=line.split("|").map(function(x){return x.trim();});
+      if(p.length<2||!p[0]||!p[1])return;
+      var price=null;
+      if(p[2]){ var n=parseFloat(String(p[2]).replace(/[^0-9.]/g,"")); if(isFinite(n))price=n; }
+      out.push([p[0].slice(0,40),p[1].slice(0,80),price]);
+    });
+    return out;
+  }
+
+  function qtyOf(k){ return (draft[night]&&draft[night][k])||0; }
+  function setQty(k,v){
+    if(!draft[night])draft[night]={};
+    if(v<=0)delete draft[night][k]; else draft[night][k]=Math.min(v,20);
+  }
+
+  /* ---- the current draft, as stored items ---- */
+  function draftItems(nId){
+    var d=draft[nId]||{}, items=[];
+    menu().forEach(function(r){
+      var k=dishKey(r[0],r[1]), q=d[k];
+      if(q>0) items.push({key:k,course:r[0],name:r[1],price:r[2],qty:q});
+    });
+    return items;
+  }
+  function itemsTotal(items){
+    return items.reduce(function(a,i){return a+(i.price==null?0:i.price*i.qty);},0);
+  }
+  function anyTbc(items){ return items.some(function(i){return i.price==null;}); }
+
+  /* ------------------------------------------------ render ------------------ */
+  function renderNotices(){
+    var n=[];
+    if(!db) n.push("<b>Orders aren’t being saved in this view.</b> You can still build an order and read it out, but nothing you do here reaches the roll. Open the published page while signed in to save.");
+    if(isShut()) n.push("<b>The list is closed.</b> No new orders or changes are going through.");
+    $("notices").innerHTML = n.map(function(t){return '<div class="notice">'+t+"</div>";}).join("");
+  }
+
+  function renderSittings(){
+    var ns=nights();
+    $("sittings").innerHTML = ns.map(function(x){
+      var c=orders.filter(function(o){return o.nights&&o.nights[x.id]&&o.nights[x.id].items&&o.nights[x.id].items.length;}).length;
+      return '<button class="sitting" type="button" data-n="'+esc(x.id)+'" aria-pressed="'+(x.id===night)+'">'
+        +'<span class="s-n">'+(x.id==="n1"?"Sitting I":"Sitting II")+'</span>'
+        +'<span class="s-d">'+esc(x.label)+"</span>"
+        +'<span class="s-c">'+c+" "+(c===1?"name":"names")+" down</span></button>";
+    }).join("");
+  }
+
+  function renderMenu(){
+    var by={}, order=[];
+    menu().forEach(function(r){ if(!by[r[0]]){by[r[0]]=[];order.push(r[0]);} by[r[0]].push(r); });
+    var shut=isShut();
+    $("menu").innerHTML = order.map(function(course){
+      var rows=by[course].map(function(r){
+        var k=dishKey(r[0],r[1]), q=qtyOf(k);
+        return '<div class="dish'+(q>0?" on":"")+'">'
+          +'<div class="d-name">'+esc(r[1])+(r[2]==null?'<span class="tbc">price tbc</span>':"")+"</div>"
+          +'<div class="d-price">'+(r[2]==null?"&mdash;":money(r[2]))+"</div>"
+          +'<div class="stepper'+(q>0?"":" z")+'">'
+          +'<button type="button" data-k="'+k+'" data-d="-1" aria-label="One fewer '+esc(r[1])+'"'+((q<=0||shut)?" disabled":"")+">&minus;</button>"
+          +'<span class="q" aria-live="off">'+q+"</span>"
+          +'<button type="button" data-k="'+k+'" data-d="1" aria-label="One more '+esc(r[1])+'"'+(shut?" disabled":"")+">+</button>"
+          +"</div></div>";
+      }).join("");
+      var n=by[course].length;
+      return '<div class="course"><div class="course-h"><h3>'+esc(course)+"</h3>"
+        +'<span class="c-ct">'+n+" "+(n===1?"dish":"dishes")+"</span></div>"+rows+"</div>";
+    }).join("");
+  }
+
+  function renderBasket(){
+    var items=draftItems(night), ns=nights();
+    var lbl=(ns.filter(function(x){return x.id===night;})[0]||{}).label||"";
+    $("bSitting").textContent=lbl;
+    $("bTotal").innerHTML=money(itemsTotal(items))+(anyTbc(items)?"+":"");
+    if(!items.length){
+      $("basketBody").innerHTML='<div class="empty">Nothing chosen yet.</div>';
+    } else {
+      $("basketBody").innerHTML="<ul>"+items.map(function(i){
+        return "<li><span><span class='bq'>"+i.qty+"×</span>"+esc(i.name)+"</span>"
+          +"<span class='bp'>"+(i.price==null?"tbc":money(i.price*i.qty))+"</span></li>";
+      }).join("")+"</ul>";
+    }
+  }
+
+  function renderStrip(){
+    var ns=nights(), lbl=(ns.filter(function(x){return x.id===night;})[0]||{}).label||"—";
+    $("stSitting").textContent=lbl;
+    var forNight=orders.filter(function(o){return o.nights&&o.nights[night]&&o.nights[night].items&&o.nights[night].items.length;});
+    var dishes=0,total=0,tbc=false;
+    forNight.forEach(function(o){
+      o.nights[night].items.forEach(function(i){
+        dishes+=i.qty; if(i.price==null)tbc=true; else total+=i.price*i.qty;
+      });
+    });
+    $("stSeats").innerHTML=orders.length+' <small>/ '+CAP+"</small>";
+    $("stDishes").textContent=dishes;
+    $("stTotal").innerHTML=money(total)+(tbc?"<small>+</small>":"");
+    var p=$("stStatus");
+    p.textContent=isShut()?"Closed":"Open";
+    p.className="pill "+(isShut()?"shut":"open");
+  }
+
+  function renderRoll(){
+    var ns=nights(), lbl=(ns.filter(function(x){return x.id===night;})[0]||{}).label||"";
+    $("rollSitting").textContent=lbl;
+    var rows=orders.filter(function(o){return o.nights&&o.nights[night]&&o.nights[night].items&&o.nights[night].items.length;})
+      .sort(function(a,b){return String(a.name||"").localeCompare(String(b.name||""));});
+    if(!rows.length){
+      $("roll").innerHTML='<div class="empty-roll">Nobody down for this sitting yet. Be the first.</div>';
+      return;
+    }
+    var head='<div class="roll-row hd"><span>Name</span><span>Order</span><span style="text-align:right">Total</span></div>';
+    $("roll").innerHTML=head+rows.map(function(o){
+      var items=o.nights[night].items, t=itemsTotal(items);
+      var line=items.map(function(i){return i.qty+"× "+esc(i.name);}).join(", ");
+      var note=o.nights[night].notes?'<br><em style="color:var(--ink-3)">'+esc(o.nights[night].notes)+"</em>":"";
+      return '<div class="roll-row'+(o.id===meId?" me":"")+'">'
+        +'<div class="r-name">'+esc(o.name)+(o.id===meId?'<span class="you">you</span>':"")+"</div>"
+        +'<div class="r-items">'+line+note+"</div>"
+        +'<div class="r-tot">'+(anyTbc(items)?money(t)+"+":money(t))+"</div></div>";
+    }).join("");
+  }
+
+  function tallyFor(nId){
+    var agg={},order=[];
+    orders.forEach(function(o){
+      var slot=o.nights&&o.nights[nId];
+      if(!slot||!slot.items)return;
+      slot.items.forEach(function(i){
+        if(!agg[i.key]){agg[i.key]={name:i.name,price:i.price,qty:0};order.push(i.key);}
+        agg[i.key].qty+=i.qty;
+        if(agg[i.key].price==null&&i.price!=null)agg[i.key].price=i.price;
+      });
+    });
+    return order.map(function(k){return agg[k];}).sort(function(a,b){return b.qty-a.qty||a.name.localeCompare(b.name);});
+  }
+
+  function renderTally(){
+    var list=tallyFor(night);
+    if(!list.length){ $("tally").innerHTML='<div class="empty-roll">Nothing to tally yet.</div>'; return; }
+    var total=0,tbc=false;
+    list.forEach(function(r){ if(r.price==null)tbc=true; else total+=r.price*r.qty; });
+    $("tally").innerHTML=list.map(function(r){
+      return '<div class="tally-row"><span class="tq">'+r.qty+"×</span>"
+        +'<span class="tn">'+esc(r.name)+"</span>"
+        +'<span class="tp">'+(r.price==null?"tbc":money(r.price*r.qty))+"</span></div>";
+    }).join("")
+    +'<div class="tally-foot"><span>Total to pay</span><span>'+money(total)+(tbc?" +tbc":"")+"</span></div>";
+  }
+
+  function renderAll(){
+    renderNotices(); renderSittings(); renderStrip(); renderMenu();
+    renderBasket(); renderRoll(); renderTally(); renderNameHint();
+  }
+
+  function renderNameHint(){
+    var s=slug($("fName").value);
+    var h="";
+    if(!s){ h="Thirty places in all &mdash; "+orders.length+" taken so far."; }
+    else if(orders.some(function(o){return o.id===s;})){ h="Found your entry &mdash; change what you like and table it again."; }
+    else if(orders.length>=CAP){ h="<strong>All thirty places are taken.</strong> Ask whoever is organising to raise the limit."; }
+    else { h="New name &mdash; you’d be number "+(orders.length+1)+" of "+CAP+"."; }
+    $("nameHint").innerHTML=h;
+  }
+
+  /* -------- pull a saved order into the draft when the name matches -------- */
+  function maybeLoadExisting(){
+    var s=slug($("fName").value);
+    if(!s||s===loadedFor)return;
+    var found=orders.filter(function(o){return o.id===s;})[0];
+    if(!found)return;
+    loadedFor=s; meId=s;
+    draft={}; draftNotes={};
+    Object.keys(found.nights||{}).forEach(function(nId){
+      var slot=found.nights[nId]||{};
+      draft[nId]={};
+      (slot.items||[]).forEach(function(i){ draft[nId][i.key]=i.qty; });
+      draftNotes[nId]=slot.notes||"";
+    });
+    if(found.email&&!$("fEmail").value)$("fEmail").value=found.email;
+    $("fNotes").value=draftNotes[night]||"";
+    renderAll();
+  }
+
+  /* ---------------------------------------------- persistence -------------- */
+  function flash(el,msg,bad){
+    el.className=bad?"errmsg":"saved";
+    el.textContent=msg;
+    setTimeout(function(){ if(el.textContent===msg)el.textContent=""; },4000);
+  }
+
+  function save(){
+    var msg=$("saveMsg");
+    var name=$("fName").value.trim();
+    if(!name){ flash(msg,"Put your name in first.",true); $("fName").focus(); return; }
+    var id=slug(name);
+    if(!id){ flash(msg,"That name needs at least one letter or number.",true); return; }
+    if(isShut()){ flash(msg,"The list is closed.",true); return; }
+    var exists=orders.some(function(o){return o.id===id;});
+    if(!exists&&orders.length>=CAP){ flash(msg,"All thirty places are taken.",true); return; }
+
+    draftNotes[night]=$("fNotes").value.trim();
+    var payloadNights={};
+    nights().forEach(function(x){
+      var items=draftItems(x.id);
+      if(items.length||draftNotes[x.id]) payloadNights[x.id]={items:items,notes:draftNotes[x.id]||""};
+    });
+    if(!Object.keys(payloadNights).length){ flash(msg,"Choose at least one dish.",true); return; }
+
+    var body={name:name.slice(0,60),email:$("fEmail").value.trim().slice(0,120),
+      nights:payloadNights,updatedAt:new Date().toISOString()};
+
+    meId=id; loadedFor=id;
+    if(!db){ flash(msg,"Built — but not saved, this view can’t reach the roll.",true); renderAll(); return; }
+    $("btnSave").disabled=true;
+    db.doc("orders/"+id).set(body).then(function(){
+      flash(msg,"Tabled. You’re on the roll.");
+    })["catch"](function(e){
+      flash(msg,e&&e.code==="quota_exceeded"?"The list is full.":"Couldn’t save — try once more.",true);
+    })["finally"](function(){ $("btnSave").disabled=false; });
+  }
+
+  function withdraw(){
+    var msg=$("saveMsg");
+    var id=slug($("fName").value);
+    if(!id){ flash(msg,"Put the name you used in first.",true); return; }
+    if(isShut()){ flash(msg,"The list is closed.",true); return; }
+    draft={}; draftNotes={}; $("fNotes").value="";
+    if(!db){ renderAll(); return; }
+    db.doc("orders/"+id)["delete"]().then(function(){
+      meId=null; loadedFor=null;
+      flash(msg,"Withdrawn.");
+    })["catch"](function(){ flash(msg,"Couldn’t withdraw — try once more.",true); });
+  }
+
+  function saveConfig(patch){
+    var m=$("aMsg");
+    if(!db){ flash(m,"Can’t save from this view.",true); return; }
+    var next={menu:menu(),nights:nights(),closed:isShut()};
+    Object.keys(patch).forEach(function(k){ next[k]=patch[k]; });
+    db.doc("config/settings").set(next).then(function(){ flash(m,"Saved."); })
+    ["catch"](function(){ flash(m,"Couldn’t save — you may not have edit access.",true); });
+  }
+
+  function plainText(){
+    var ns=nights(), out=[];
+    out.push("NEWSPEAK HOUSE — BANGKOK BITES ORDER");
+    out.push("147 Bethnal Green Road, London E2 7DG");
+    out.push("Names down: "+orders.length+" of "+CAP);
+    ns.forEach(function(x){
+      var rows=orders.filter(function(o){return o.nights&&o.nights[x.id]&&o.nights[x.id].items&&o.nights[x.id].items.length;})
+        .sort(function(a,b){return String(a.name).localeCompare(String(b.name));});
+      out.push(""); out.push("=== "+x.label.toUpperCase()+" — "+rows.length+" people ===");
+      if(!rows.length){ out.push("(nobody down)"); return; }
+      out.push(""); out.push("-- Tally to read to the restaurant --");
+      var t=tallyFor(x.id),tot=0,tbc=false;
+      t.forEach(function(r){
+        out.push("  "+r.qty+" x "+r.name+(r.price==null?"  (price tbc)":"  "+money(r.price*r.qty)));
+        if(r.price==null)tbc=true; else tot+=r.price*r.qty;
+      });
+      out.push("  TOTAL: "+money(tot)+(tbc?" plus items priced tbc":""));
+      out.push(""); out.push("-- Who ordered what --");
+      rows.forEach(function(o){
+        var items=o.nights[x.id].items;
+        out.push("  "+o.name+(o.email?" <"+o.email+">":"")+" — "+money(itemsTotal(items))+(anyTbc(items)?"+":""));
+        items.forEach(function(i){ out.push("      "+i.qty+" x "+i.name); });
+        if(o.nights[x.id].notes) out.push("      note: "+o.nights[x.id].notes);
+      });
+    });
+    return out.join("\n");
+  }
+
+  /* ---------------------------------------------- events ------------------- */
+  $("sittings").addEventListener("click",function(e){
+    var b=e.target.closest("button[data-n]"); if(!b)return;
+    draftNotes[night]=$("fNotes").value.trim();
+    night=b.getAttribute("data-n");
+    $("fNotes").value=draftNotes[night]||"";
+    renderAll();
+  });
+  $("menu").addEventListener("click",function(e){
+    var b=e.target.closest("button[data-k]"); if(!b||b.disabled)return;
+    var k=b.getAttribute("data-k"), d=parseInt(b.getAttribute("data-d"),10);
+    setQty(k,qtyOf(k)+d);
+    renderMenu(); renderBasket();
+  });
+  $("fName").addEventListener("input",renderNameHint);
+  $("fName").addEventListener("change",maybeLoadExisting);
+  $("fName").addEventListener("blur",maybeLoadExisting);
+  $("btnSave").addEventListener("click",save);
+  $("btnClear").addEventListener("click",withdraw);
+  $("aSaveNights").addEventListener("click",function(){
+    var ns=nights();
+    saveConfig({nights:[
+      {id:"n1",label:($("aN1").value.trim()||ns[0].label).slice(0,60)},
+      {id:"n2",label:($("aN2").value.trim()||ns[1].label).slice(0,60)}]});
+  });
+  $("aToggle").addEventListener("click",function(){ saveConfig({closed:!isShut()}); });
+  $("aSaveMenu").addEventListener("click",function(){
+    var m=textToMenu($("aMenu").value);
+    if(!m.length){ flash($("aMsg"),"That didn’t parse — one dish per line, Course | Dish | Price.",true); return; }
+    saveConfig({menu:m});
+  });
+  $("aResetMenu").addEventListener("click",function(){
+    $("aMenu").value=menuToText(DEFAULT_MENU); saveConfig({menu:DEFAULT_MENU});
+  });
+  $("aBuild").addEventListener("click",function(){
+    var o=$("aOut"); o.hidden=false; o.textContent=plainText();
+  });
+
+  /* ---------------------------------------------- boot --------------------- */
+  $("aMenu").value=menuToText(DEFAULT_MENU);
+  renderAll();
+
+  if(window.claude&&window.claude.use){
+    window.claude.use("db").then(function(handle){
+      if(!handle){ renderNotices(); return; }
+      db=handle;
+      db.doc("config/settings").onSnapshot(function(snap){
+        cfg=snap.exists?snap.data():null;
+        if(cfg&&cfg.nights&&cfg.nights.length===2){
+          if(!$("aN1").value)$("aN1").value=cfg.nights[0].label;
+          if(!$("aN2").value)$("aN2").value=cfg.nights[1].label;
+        }
+        if(cfg&&Array.isArray(cfg.menu)&&cfg.menu.length&&document.activeElement!==$("aMenu")){
+          $("aMenu").value=menuToText(cfg.menu);
+        }
+        renderAll();
+      },function(){ renderNotices(); });
+      db.collection("orders").limit(200).onSnapshot(function(snap){
+        orders=snap.docs.map(function(d){ var o=d.data()||{}; o.id=d.id; return o; });
+        maybeLoadExisting();
+        renderAll();
+      },function(){ renderNotices(); });
+      renderNotices();
+    })["catch"](function(){ renderNotices(); });
+  }
+})();
+</script>
