@@ -381,7 +381,7 @@ footer .mono{font-size:12px}
   /* Paste the Apps Script web-app URL here (the one ending /exec) to run this
      page from GitHub Pages. Leave it empty and the page falls back to the
      Node server in this repo, or to the artifact db when published as one. */
-  var API_URL = "";
+  var API_URL = "https://script.google.com/macros/s/AKfycbzZ7DNWma1ggFXt8rb_gD3aWhK-azC866vCITOU50PRcGhuud00_cnvwZQno0vnCmokxg/exec";
 
   var CAP = 30;
   var DEFAULT_MENU = [
@@ -571,6 +571,7 @@ footer .mono{font-size:12px}
   var DEFAULT_NIGHTS = [{id:"n1",label:"First sitting"},{id:"n2",label:"Second sitting"}];
 
   var store=null, cfg=null, orders=[], night="n1", meId=null;
+  var storeError=null;    // set when the backend stops answering
   var openCourses={};     // {courseSlug: bool} — which courses the reader opened
   var draft={};           // {nightId: {dishKey: qty}}
   var draftNotes={};      // {nightId: notes}
@@ -639,6 +640,7 @@ footer .mono{font-size:12px}
   function renderNotices(){
     var n=[];
     if(!store) n.push("<b>Orders aren’t being saved in this view.</b> You can still build an order and read it out, but nothing you do here reaches the roll.");
+    else if(storeError) n.push(storeError);
     if(isShut()) n.push("<b>The list is closed.</b> No new orders or changes are going through.");
     $("notices").innerHTML = n.map(function(t){return '<div class="notice">'+t+"</div>";}).join("");
   }
@@ -889,7 +891,10 @@ footer .mono{font-size:12px}
     store.saveOrder(id,body).then(function(){
       flash(msg,"Tabled. You’re on the roll.");
     })["catch"](function(e){
-      flash(msg,e&&e.code==="quota_exceeded"?"The list is full.":"Couldn’t save — try once more.",true);
+      var why = (e&&e.code==="quota_exceeded") ? "The list is full."
+              : (e&&e.message) ? e.message
+              : "Couldn’t save — try once more.";
+      flash(msg,why,true);
     })["finally"](function(){ $("btnSave").disabled=false; });
   }
 
@@ -1088,13 +1093,21 @@ footer .mono{font-size:12px}
         .then(function(r){ return r.json(); })
         .then(function(j){ if(j&&j.error)throw new Error(j.error); return j; });
     }
-    var timer=null;
+    var timer=null, everReached=false;
     function pull(){
       call("state").then(function(st){
+        everReached=true; storeError=null;
         adoptConfig(st.config||null); adoptOrders(st.orders||[]);
         $("aEmail").hidden=!st.admin;
         renderAll();
-      })["catch"](function(){});
+      })["catch"](function(e){
+        /* Nothing can be saved while this is true, so say so plainly and name
+           the setting that is nearly always the cause. */
+        storeError = everReached
+          ? "<b>Lost touch with the order book.</b> Your last change may not have saved. This page keeps retrying — if it stays like this, reload."
+          : "<b>Can’t reach the order book, so nothing will save yet.</b> In Apps Script, open <b>Deploy ▸ Manage deployments</b> and check that <b>Who has access</b> is <b>Anyone</b> and <b>Execute as</b> is <b>Me</b>. After any edit to the script you must deploy again — editing alone does not update the live URL.";
+        renderNotices();
+      });
     }
     return {
       mode:"apps-script",
