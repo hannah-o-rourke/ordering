@@ -568,7 +568,7 @@ footer .mono{font-size:12px}
     ["Mocktails","Strawberry Daiquiri",6.00],
     ["Mocktails","Piña Colada",6.00]
   ];
-  var DEFAULT_NIGHTS = [{id:"n1",label:"First sitting"},{id:"n2",label:"Second sitting"}];
+  var DEFAULT_NIGHTS = [{id:"n1",label:"Thursday 17 September"},{id:"n2",label:"Friday 18 September"}];
 
   var store=null, cfg=null, orders=[], night="n1", meId=null;
   var storeError=null;    // set when the backend stops answering
@@ -599,6 +599,27 @@ footer .mono{font-size:12px}
   function menu(){ return (cfg&&Array.isArray(cfg.menu)&&cfg.menu.length)?cfg.menu:DEFAULT_MENU; }
   function nights(){ return (cfg&&Array.isArray(cfg.nights)&&cfg.nights.length===2)?cfg.nights:DEFAULT_NIGHTS; }
   function isShut(){ return !!(cfg&&cfg.closed); }
+
+  /* Bangkok Bites run 50% off Monday to Thursday evenings, so what the listed
+     prices mean depends on which night you are ordering for. The labels are
+     free text, so read the weekday out of them and fall back to the plain rule
+     when there isn't one. */
+  var DEAL_DAYS = ["monday","tuesday","wednesday","thursday"];
+  var FULL_DAYS = ["friday","saturday","sunday"];
+  function dealNote(){
+    var ns=nights(), lbl="";
+    for(var i=0;i<ns.length;i++) if(ns[i].id===night) lbl=String(ns[i].label||"").toLowerCase();
+    var has=function(list){ return list.some(function(d){ return lbl.indexOf(d)>=0; }); };
+    if(has(DEAL_DAYS))
+      return "Prices below are the full list price. Bangkok Bites run <strong>50% off</strong> "
+        + "Monday to Thursday evenings, so this sitting should come in at about <strong>half</strong> "
+        + "of what the totals say.";
+    if(has(FULL_DAYS))
+      return "Prices below are what you'll pay. The <strong>50% off</strong> only runs Monday to "
+        + "Thursday, so this sitting is at <strong>full price</strong>.";
+    return "Bangkok Bites run <strong>50% off</strong> Monday to Thursday evenings. Prices below are "
+      + "the full list price.";
+  }
 
   function menuToText(m){
     return m.map(function(r){return r[0]+" | "+r[1]+(r[2]==null?"":" | "+Number(r[2]).toFixed(2));}).join("\n");
@@ -813,6 +834,7 @@ footer .mono{font-size:12px}
   }
 
   function renderAll(){
+    $("menuNote").innerHTML=dealNote();
     renderNotices(); renderSittings(); renderStrip(); renderMenu();
     renderBasket(); renderRoll(); renderTally(); renderNameHint();
   }
