@@ -30,7 +30,7 @@ const DATA_FILE = process.env.DATA_FILE || path.join(__dirname, "data.json");
 const ADMIN_TOKEN = process.env.ADMIN_TOKEN || "";
 const EMAIL_TO = (process.env.ORDER_EMAIL_TO || "ed@newspeak.house,hannah@campaignlab.uk")
   .split(",").map((s) => s.trim()).filter(Boolean);
-const DEFAULT_CAP = 30;
+const DEFAULT_CAP = 0; // 0 = no limit; the clerk's table can set one
 
 /* ----------------------------------------------------------- storage ------ */
 let state = { config: null, orders: {} };
@@ -201,6 +201,7 @@ const server = http.createServer(async (req, res) => {
         nights: Array.isArray(c.nights) ? c.nights.slice(0, 2).map((n, i) => ({
           id: i === 0 ? "n1" : "n2",
           label: String(n.label || "").slice(0, 60),
+          date: String(n.date || "").slice(0, 60),
         })) : null,
         closed: !!c.closed,
         cap: (c.cap === undefined || c.cap === null || c.cap === "")

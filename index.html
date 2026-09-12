@@ -94,7 +94,9 @@ button{font-family:inherit;font-size:inherit;color:inherit}
   background:var(--accent-soft)}
 .sitting .s-n{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
   text-transform:uppercase;color:var(--ink-3);display:block}
-.sitting .s-d,.sitting .s-c{display:block}
+.sitting .s-d,.sitting .s-c,.sitting .s-when{display:block}
+.sitting .s-when{font-family:var(--body);font-size:14px;color:var(--ink-2);margin-top:2px}
+.sitting[aria-pressed="true"] .s-when{color:var(--ink)}
 .sitting[aria-pressed="true"] .s-n{color:var(--accent)}
 .sitting .s-d{font-family:var(--display);font-size:21px;font-weight:700;margin-top:3px;line-height:1.15}
 .sitting .s-c{font-family:var(--mono);font-size:12px;color:var(--ink-2);margin-top:5px}
@@ -143,14 +145,11 @@ input::placeholder,textarea::placeholder{color:var(--ink-3)}
   text-transform:uppercase;background:var(--accent);color:var(--accent-ink);padding:2px 7px;
   border-radius:999px}
 .c-chosen[hidden]{display:none}
-.dish{display:grid;grid-template-columns:1fr auto auto;gap:10px 14px;align-items:center;
+.dish{display:grid;grid-template-columns:1fr auto;gap:10px 14px;align-items:center;
   padding:9px 0 9px 20px;border-bottom:1px dotted var(--rule)}
 .dish:last-child{border-bottom:0}
 .dish.on{background:linear-gradient(90deg,var(--accent-soft),transparent 65%)}
 .d-name{font-size:15.5px;font-weight:500;line-height:1.3}
-.d-price .tbc{color:var(--warn);font-size:12.5px;letter-spacing:.06em}
-.d-price{font-family:var(--mono);font-size:14px;color:var(--ink-2);font-variant-numeric:tabular-nums;
-  text-align:right;min-width:56px}
 .stepper{display:flex;align-items:center;border:1px solid var(--rule-2);background:var(--paper-2)}
 .stepper button{width:32px;height:32px;border:0;background:transparent;cursor:pointer;
   font-family:var(--mono);font-size:16px;font-weight:600;line-height:1;color:var(--ink-2);padding:0}
@@ -166,11 +165,10 @@ input::placeholder,textarea::placeholder{color:var(--ink-3)}
   padding:11px 15px;border-bottom:1px solid var(--rule);background:var(--paper-3)}
 .basket-h .bt{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
   text-transform:uppercase;color:var(--ink-2)}
-.basket-h .tot{font-family:var(--mono);font-size:17px;font-weight:600}
+.basket-h .tot{font-family:var(--mono);font-size:13px;font-weight:600;color:var(--ink-2)}
 .basket ul{list-style:none;margin:0;padding:9px 15px}
 .basket li{display:flex;justify-content:space-between;gap:12px;padding:4px 0;font-size:14.5px}
 .basket li .bq{font-family:var(--mono);color:var(--accent);font-weight:600;margin-right:8px}
-.basket li .bp{font-family:var(--mono);color:var(--ink-2);font-variant-numeric:tabular-nums}
 .basket .empty{padding:14px 15px;font-size:14px;color:var(--ink-3);font-style:italic}
 .actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:18px}
 .btn{border:0;padding:13px 26px;font-family:var(--mono);font-size:13px;font-weight:600;
@@ -185,7 +183,7 @@ input::placeholder,textarea::placeholder{color:var(--ink-3)}
 
 /* ---------- roll ---------- */
 .roll{margin-top:14px;border:1px solid var(--rule)}
-.roll-row{display:grid;grid-template-columns:minmax(120px,1.1fr) 3fr auto;gap:10px 14px;
+.roll-row{display:grid;grid-template-columns:minmax(120px,1fr) 3fr;gap:10px 14px;
   padding:10px 14px;border-bottom:1px solid var(--rule);align-items:baseline}
 .roll-row:last-child{border-bottom:0}
 .roll-row.hd{background:var(--paper-3);border-bottom:1px solid var(--rule-2)}
@@ -197,7 +195,6 @@ input::placeholder,textarea::placeholder{color:var(--ink-3)}
   text-transform:uppercase;color:var(--accent);display:block}
 .r-items{font-size:14px;color:var(--ink-2);line-height:1.45}
 .r-items .none{font-style:italic;color:var(--ink-3)}
-.r-tot{font-family:var(--mono);font-size:14px;font-weight:600;text-align:right;font-variant-numeric:tabular-nums}
 .empty-roll{padding:22px 16px;text-align:center;color:var(--ink-3);font-size:14.5px;font-style:italic}
 
 /* ---------- tally ---------- */
@@ -207,7 +204,6 @@ input::placeholder,textarea::placeholder{color:var(--ink-3)}
 .tally-row:last-child{border-bottom:0}
 .tally-row .tq{font-family:var(--mono);font-weight:600;color:var(--accent);min-width:34px}
 .tally-row .tn{flex:1}
-.tally-row .tp{font-family:var(--mono);color:var(--ink-2);font-variant-numeric:tabular-nums}
 .tally-foot{display:flex;justify-content:space-between;padding:11px 14px;
   border-top:2px solid var(--ink);background:var(--paper-3);
   font-family:var(--mono);font-weight:600;font-size:15px}
@@ -232,10 +228,7 @@ footer{margin-top:52px;border-top:1px solid var(--rule);padding-top:15px;
   font-size:13px;color:var(--ink-3);display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between}
 footer .mono{font-size:12px}
 @media (max-width:560px){
-  .dish{grid-template-columns:1fr auto;row-gap:6px}
-  .dish .stepper{grid-column:2;grid-row:1/span 2}
-  .d-price{text-align:left;grid-column:1}
-  .roll-row{grid-template-columns:1fr auto}
+  .roll-row{grid-template-columns:1fr}
   .roll-row .r-items{grid-column:1/-1}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
@@ -257,7 +250,6 @@ footer .mono{font-size:12px}
     <div class="cell"><span class="k">Sitting</span><span class="v" id="stSitting">&mdash;</span></div>
     <div class="cell"><span class="k">Names down</span><span class="v" id="stSeats">0 <small>/ 30</small></span></div>
     <div class="cell"><span class="k">Dishes</span><span class="v" id="stDishes">0</span></div>
-    <div class="cell"><span class="k">Running total</span><span class="v" id="stTotal">&pound;0.00</span></div>
     <div class="cell"><span class="k">Status</span><span class="v"><span class="pill open" id="stStatus">Open</span></span></div>
   </div>
 
@@ -281,8 +273,8 @@ footer .mono{font-size:12px}
 
   <section class="sec">
     <div class="sec-head"><span class="num">III</span><h2>The menu</h2></div>
-    <p class="sec-note" id="menuNote">Bangkok Bites run <strong>50% off</strong> Monday to Thursday evenings, so the
-      prices below are the full list price &mdash; expect the bill to come in under it.</p>
+    <p class="sec-note" id="menuNote">Everything Bangkok Bites make, by course. Search it or open a course, then
+      tap <strong>+</strong> for each thing you want. Dinner is on the house &mdash; order what you'll eat.</p>
 
     <div class="searchbar">
       <label class="l" for="fSearch" style="position:absolute;left:-9999px">Search the menu</label>
@@ -333,12 +325,16 @@ footer .mono{font-size:12px}
         <h4>The two sittings</h4>
         <p>Whatever you type here is what everybody sees.</p>
         <div class="fields">
-          <label class="f" for="aN1"><span class="l">First sitting</span>
-            <input type="text" id="aN1" maxlength="60" placeholder="Thursday 17 September"></label>
-          <label class="f" for="aN2"><span class="l">Second sitting</span>
-            <input type="text" id="aN2" maxlength="60" placeholder="Friday 18 September"></label>
+          <label class="f" for="aN1"><span class="l">First sitting &mdash; name</span>
+            <input type="text" id="aN1" maxlength="60" placeholder="Faculty Dinner"></label>
+          <label class="f" for="aD1"><span class="l">First sitting &mdash; when</span>
+            <input type="text" id="aD1" maxlength="60" placeholder="Thursday 17 September"></label>
+          <label class="f" for="aN2"><span class="l">Second sitting &mdash; name</span>
+            <input type="text" id="aN2" maxlength="60" placeholder="Welcome Dinner"></label>
+          <label class="f" for="aD2"><span class="l">Second sitting &mdash; when</span>
+            <input type="text" id="aD2" maxlength="60" placeholder="Friday 18 September"></label>
           <label class="f" for="aCap"><span class="l">Places &mdash; 0 for no limit</span>
-            <input type="text" id="aCap" inputmode="numeric" maxlength="4" placeholder="30"></label>
+            <input type="text" id="aCap" inputmode="numeric" maxlength="4" placeholder="0"></label>
         </div>
         <div class="actions">
           <button class="btn ghost" id="aSaveNights">Save dates</button>
@@ -383,7 +379,7 @@ footer .mono{font-size:12px}
      Node server in this repo, or to the artifact db when published as one. */
   var API_URL = "https://script.google.com/macros/s/AKfycbz5cdQ4yPM5Ba4orgeVsVbuXfpkA8I4EYdTGKMZnAPZX2CHBEmHyAELkmWSdQQC3SvS/exec";
 
-  var DEFAULT_CAP = 30;
+  var DEFAULT_CAP = 0;   // 0 = no limit; the clerk's table can set one
   var DEFAULT_MENU = [
     ["Appetizers","Prawn Cracker",2.99],
     ["Appetizers","Mix Platter for Two",13.5],
@@ -568,7 +564,10 @@ footer .mono{font-size:12px}
     ["Mocktails","Strawberry Daiquiri",6.00],
     ["Mocktails","Piña Colada",6.00]
   ];
-  var DEFAULT_NIGHTS = [{id:"n1",label:"Thursday 17 September"},{id:"n2",label:"Friday 18 September"}];
+  var DEFAULT_NIGHTS = [
+    {id:"n1",label:"Faculty Dinner",date:"Thursday 17 September"},
+    {id:"n2",label:"Welcome Dinner",date:"Friday 18 September"}
+  ];
 
   var store=null, cfg=null, orders=[], night="n1", meId=null;
   var storeError=null;    // set when the backend stops answering
@@ -598,38 +597,14 @@ footer .mono{font-size:12px}
 
   function menu(){ return (cfg&&Array.isArray(cfg.menu)&&cfg.menu.length)?cfg.menu:DEFAULT_MENU; }
   function nights(){ return (cfg&&Array.isArray(cfg.nights)&&cfg.nights.length===2)?cfg.nights:DEFAULT_NIGHTS; }
+  function nightOf(id){
+    var ns=nights();
+    for(var i=0;i<ns.length;i++) if(ns[i].id===id) return ns[i];
+    return {id:id,label:"",date:""};
+  }
   function isShut(){ return !!(cfg&&cfg.closed); }
 
-  /* How many people are expected is a guess until they turn up, so the limit is
-     a setting rather than a constant, and 0 means "as many as want to come". */
-  function capOf(){
-    if(cfg && cfg.cap !== undefined && cfg.cap !== null && cfg.cap !== "") return Number(cfg.cap)||0;
-    return DEFAULT_CAP;
-  }
-  function capped(){ return capOf() > 0; }
-  function isFull(){ return capped() && orders.length >= capOf(); }
-
-  /* Bangkok Bites run 50% off Monday to Thursday evenings, so what the listed
-     prices mean depends on which night you are ordering for. The labels are
-     free text, so read the weekday out of them and fall back to the plain rule
-     when there isn't one. */
-  var DEAL_DAYS = ["monday","tuesday","wednesday","thursday"];
-  var FULL_DAYS = ["friday","saturday","sunday"];
-  function dealNote(){
-    var ns=nights(), lbl="";
-    for(var i=0;i<ns.length;i++) if(ns[i].id===night) lbl=String(ns[i].label||"").toLowerCase();
-    var has=function(list){ return list.some(function(d){ return lbl.indexOf(d)>=0; }); };
-    if(has(DEAL_DAYS))
-      return "Prices below are the full list price. Bangkok Bites run <strong>50% off</strong> "
-        + "Monday to Thursday evenings, so this sitting should come in at about <strong>half</strong> "
-        + "of what the totals say.";
-    if(has(FULL_DAYS))
-      return "Prices below are what you'll pay. The <strong>50% off</strong> only runs Monday to "
-        + "Thursday, so this sitting is at <strong>full price</strong>.";
-    return "Bangkok Bites run <strong>50% off</strong> Monday to Thursday evenings. Prices below are "
-      + "the full list price.";
-  }
-
+  /* The clerk's table edits the menu as text, one dish per line. */
   function menuToText(m){
     return m.map(function(r){return r[0]+" | "+r[1]+(r[2]==null?"":" | "+Number(r[2]).toFixed(2));}).join("\n");
   }
@@ -645,6 +620,15 @@ footer .mono{font-size:12px}
     });
     return out;
   }
+
+  /* How many people are expected is a guess until they turn up, so the limit is
+     a setting rather than a constant, and 0 means "as many as want to come". */
+  function capOf(){
+    if(cfg && cfg.cap !== undefined && cfg.cap !== null && cfg.cap !== "") return Number(cfg.cap)||0;
+    return DEFAULT_CAP;
+  }
+  function capped(){ return capOf() > 0; }
+  function isFull(){ return capped() && orders.length >= capOf(); }
 
   function qtyOf(k){ return (draft[night]&&draft[night][k])||0; }
   function setQty(k,v){
@@ -682,6 +666,7 @@ footer .mono{font-size:12px}
       return '<button class="sitting" type="button" data-n="'+esc(x.id)+'" aria-pressed="'+(x.id===night)+'">'
         +'<span class="s-n">'+(x.id==="n1"?"Sitting I":"Sitting II")+'</span>'
         +'<span class="s-d">'+esc(x.label)+"</span>"
+        +(x.date?'<span class="s-when">'+esc(x.date)+"</span>":"")
         +'<span class="s-c">'+c+" "+(c===1?"name":"names")+" down</span></button>";
     }).join("");
   }
@@ -722,7 +707,6 @@ footer .mono{font-size:12px}
         var k=dishKey(r[0],r[1]), q=qtyOf(k);
         return '<div class="dish'+(q>0?" on":"")+'" data-dk="'+k+'">'
           +'<div class="d-name">'+esc(r[1])+"</div>"
-          +'<div class="d-price">'+(r[2]==null?'<span class="tbc">tbc</span>':money(r[2]))+"</div>"
           +'<div class="stepper'+(q>0?"":" z")+'">'
           +'<button type="button" data-k="'+k+'" data-d="-1" aria-label="One fewer '+esc(r[1])+'"'+((q<=0||shut)?" disabled":"")+">&minus;</button>"
           +'<span class="q" aria-live="off">'+q+"</span>"
@@ -762,56 +746,49 @@ footer .mono{font-size:12px}
   }
 
   function renderBasket(){
-    var items=draftItems(night), ns=nights();
-    var lbl=(ns.filter(function(x){return x.id===night;})[0]||{}).label||"";
-    $("bSitting").textContent=lbl;
-    $("bTotal").innerHTML=money(itemsTotal(items))+(anyTbc(items)?"+":"");
+    var items=draftItems(night);
+    $("bSitting").textContent=nightOf(night).label;
+    var n=items.reduce(function(a,i){return a+i.qty;},0);
+    $("bTotal").textContent=n+(n===1?" dish":" dishes");
     if(!items.length){
       $("basketBody").innerHTML='<div class="empty">Nothing chosen yet.</div>';
     } else {
       $("basketBody").innerHTML="<ul>"+items.map(function(i){
-        return "<li><span><span class='bq'>"+i.qty+"×</span>"+esc(i.name)+"</span>"
-          +"<span class='bp'>"+(i.price==null?"tbc":money(i.price*i.qty))+"</span></li>";
+        return "<li><span><span class='bq'>"+i.qty+"×</span>"+esc(i.name)+"</span></li>";
       }).join("")+"</ul>";
     }
   }
 
   function renderStrip(){
-    var ns=nights(), lbl=(ns.filter(function(x){return x.id===night;})[0]||{}).label||"—";
-    $("stSitting").textContent=lbl;
+    $("stSitting").textContent=nightOf(night).label||"—";
     var forNight=orders.filter(function(o){return o.nights&&o.nights[night]&&o.nights[night].items&&o.nights[night].items.length;});
-    var dishes=0,total=0,tbc=false;
+    var dishes=0;
     forNight.forEach(function(o){
-      o.nights[night].items.forEach(function(i){
-        dishes+=i.qty; if(i.price==null)tbc=true; else total+=i.price*i.qty;
-      });
+      o.nights[night].items.forEach(function(i){ dishes+=i.qty; });
     });
     $("stSeats").innerHTML=orders.length+(capped()?' <small>/ '+capOf()+"</small>":"");
     $("stDishes").textContent=dishes;
-    $("stTotal").innerHTML=money(total)+(tbc?"<small>+</small>":"");
     var p=$("stStatus");
     p.textContent=isShut()?"Closed":"Open";
     p.className="pill "+(isShut()?"shut":"open");
   }
 
   function renderRoll(){
-    var ns=nights(), lbl=(ns.filter(function(x){return x.id===night;})[0]||{}).label||"";
-    $("rollSitting").textContent=lbl;
+    $("rollSitting").textContent=nightOf(night).label;
     var rows=orders.filter(function(o){return o.nights&&o.nights[night]&&o.nights[night].items&&o.nights[night].items.length;})
       .sort(function(a,b){return String(a.name||"").localeCompare(String(b.name||""));});
     if(!rows.length){
       $("roll").innerHTML='<div class="empty-roll">Nobody down for this sitting yet. Be the first.</div>';
       return;
     }
-    var head='<div class="roll-row hd"><span>Name</span><span>Order</span><span style="text-align:right">Total</span></div>';
+    var head='<div class="roll-row hd"><span>Name</span><span>Order</span></div>';
     $("roll").innerHTML=head+rows.map(function(o){
-      var items=o.nights[night].items, t=itemsTotal(items);
+      var items=o.nights[night].items;
       var line=items.map(function(i){return i.qty+"× "+esc(i.name);}).join(", ");
       var note=o.nights[night].notes?'<br><em style="color:var(--ink-3)">'+esc(o.nights[night].notes)+"</em>":"";
       return '<div class="roll-row'+(o.id===meId?" me":"")+'">'
         +'<div class="r-name">'+esc(o.name)+(o.id===meId?'<span class="you">you</span>':"")+"</div>"
-        +'<div class="r-items">'+line+note+"</div>"
-        +'<div class="r-tot">'+(anyTbc(items)?money(t)+"+":money(t))+"</div></div>";
+        +'<div class="r-items">'+line+note+"</div></div>";
     }).join("");
   }
 
@@ -832,18 +809,16 @@ footer .mono{font-size:12px}
   function renderTally(){
     var list=tallyFor(night);
     if(!list.length){ $("tally").innerHTML='<div class="empty-roll">Nothing to tally yet.</div>'; return; }
-    var total=0,tbc=false;
-    list.forEach(function(r){ if(r.price==null)tbc=true; else total+=r.price*r.qty; });
+    var dishes=list.reduce(function(a,r){return a+r.qty;},0);
     $("tally").innerHTML=list.map(function(r){
       return '<div class="tally-row"><span class="tq">'+r.qty+"×</span>"
-        +'<span class="tn">'+esc(r.name)+"</span>"
-        +'<span class="tp">'+(r.price==null?"tbc":money(r.price*r.qty))+"</span></div>";
+        +'<span class="tn">'+esc(r.name)+"</span></div>";
     }).join("")
-    +'<div class="tally-foot"><span>Total to pay</span><span>'+money(total)+(tbc?" +tbc":"")+"</span></div>";
+    +'<div class="tally-foot"><span>'+list.length+(list.length===1?" dish":" different dishes")
+    +'</span><span>'+dishes+" in all</span></div>";
   }
 
   function renderAll(){
-    $("menuNote").innerHTML=dealNote();
     renderNotices(); renderSittings(); renderStrip(); renderMenu();
     renderBasket(); renderRoll(); renderTally(); renderNameHint();
   }
@@ -961,7 +936,9 @@ footer .mono{font-size:12px}
     ns.forEach(function(x){
       var rows=orders.filter(function(o){return o.nights&&o.nights[x.id]&&o.nights[x.id].items&&o.nights[x.id].items.length;})
         .sort(function(a,b){return String(a.name).localeCompare(String(b.name));});
-      out.push(""); out.push("=== "+x.label.toUpperCase()+" — "+rows.length+" people ===");
+      out.push("");
+      out.push("=== "+String(x.label).toUpperCase()+(x.date?" — "+x.date:"")
+        +" — "+rows.length+(rows.length===1?" person ===":" people ==="));
       if(!rows.length){ out.push("(nobody down)"); return; }
       out.push(""); out.push("-- Tally to read to the restaurant --");
       var t=tallyFor(x.id),tot=0,tbc=false;
@@ -1026,8 +1003,10 @@ footer .mono{font-size:12px}
   $("aSaveNights").addEventListener("click",function(){
     var ns=nights(), raw=$("aCap").value.trim();
     saveConfig({
-      nights:[{id:"n1",label:($("aN1").value.trim()||ns[0].label).slice(0,60)},
-              {id:"n2",label:($("aN2").value.trim()||ns[1].label).slice(0,60)}],
+      nights:[{id:"n1",label:($("aN1").value.trim()||ns[0].label).slice(0,60),
+                       date:($("aD1").value.trim()||ns[0].date||"").slice(0,60)},
+              {id:"n2",label:($("aN2").value.trim()||ns[1].label).slice(0,60),
+                       date:($("aD2").value.trim()||ns[1].date||"").slice(0,60)}],
       cap: raw==="" ? capOf() : Math.max(0,parseInt(raw,10)||0)
     });
   });

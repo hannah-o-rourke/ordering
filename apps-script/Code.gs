@@ -20,11 +20,11 @@
  * and it prints one in the log; put it after ?admin= on your own link.
  */
 
-var DEFAULT_CAP = 30;
+var DEFAULT_CAP = 0; // 0 means no limit; set one in the clerk's table
 var EMAIL_TO = 'ed@newspeak.house,hannah@campaignlab.uk';
 var SHEET_NAME = 'Orders';
 var CONFIG_SHEET = 'Config';
-var HEADERS = ['id', 'name', 'updated', 'first sitting', 'second sitting', 'total', 'json'];
+var HEADERS = ['id', 'name', 'updated', 'faculty dinner', 'welcome dinner', 'total', 'json'];
 
 /* ------------------------------------------------------------ setup ------ */
 
@@ -41,7 +41,7 @@ function setup() {
   Logger.log('Admin token: ' + token);
   Logger.log('Your admin link will be:  <your pages url>/?admin=' + token);
   Logger.log('Order list will be emailed to: ' + EMAIL_TO);
-  Logger.log('Places: ' + cap_() + ' (0 means no limit; change it in the clerk\'s table)');
+  Logger.log('Places: ' + (cap_() ? cap_() : 'no limit') + ' (set one in the clerk\'s table)');
   return { sheet: ss.getUrl(), token: token };
 }
 
@@ -228,7 +228,11 @@ function handle_(action, data) {
         : null,
       nights: Object.prototype.toString.call(c.nights) === '[object Array]'
         ? c.nights.slice(0, 2).map(function (n, i) {
-            return { id: i === 0 ? 'n1' : 'n2', label: String(n.label || '').slice(0, 60) };
+            return {
+              id: i === 0 ? 'n1' : 'n2',
+              label: String(n.label || '').slice(0, 60),
+              date: String(n.date || '').slice(0, 60)
+            };
           })
         : null,
       closed: !!c.closed,

@@ -97,8 +97,18 @@ can order for both sittings.
 
 Name only — no email is asked for or stored, since nobody is being invoiced.
 
-**How many places.** Clerk's table → **Places**. Defaults to 30; set it to `0`
-for no limit. The limit is enforced on the server, not just in the page.
+**How many places.** Clerk's table → **Places**. Defaults to `0`, meaning no
+limit. Put a number in to cap it; that cap is enforced on the server, not just
+in the page.
+
+**No prices are shown to the people ordering.** Nobody is paying, so the menu,
+the basket, the roll and the tally all show dishes and quantities only. Prices
+are still held against every dish and still appear in the list emailed to the
+organisers, which is where the money actually matters.
+
+**The two sittings** are named as well as dated — "Faculty Dinner" on Thursday
+17 September and "Welcome Dinner" on Friday 18 September by default. Both the
+name and the date are editable in the clerk's table.
 
 **Emailing the list.** Open the clerk's table with your `?admin=` link and press
 **Email it to Ed & Hannah**. It sends both sittings — the tally and the
