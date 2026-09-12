@@ -20,11 +20,11 @@
  * and it prints one in the log; put it after ?admin= on your own link.
  */
 
-var CAP = 30;
+var DEFAULT_CAP = 30;
 var EMAIL_TO = 'ed@newspeak.house,hannah@campaignlab.uk';
 var SHEET_NAME = 'Orders';
 var CONFIG_SHEET = 'Config';
-var HEADERS = ['id', 'name', 'email', 'updated', 'first sitting', 'second sitting', 'total', 'json'];
+var HEADERS = ['id', 'name', 'updated', 'first sitting', 'second sitting', 'total', 'json'];
 
 /* ------------------------------------------------------------ setup ------ */
 
@@ -41,6 +41,7 @@ function setup() {
   Logger.log('Admin token: ' + token);
   Logger.log('Your admin link will be:  <your pages url>/?admin=' + token);
   Logger.log('Order list will be emailed to: ' + EMAIL_TO);
+  Logger.log('Places: ' + cap_() + ' (0 means no limit; change it in the clerk\'s table)');
   return { sheet: ss.getUrl(), token: token };
 }
 
@@ -57,9 +58,9 @@ function openBook_() {
   if (sheet.getLastRow() === 0) {
     sheet.getRange(1, 1, 1, HEADERS.length).setValues([HEADERS]).setFontWeight('bold');
     sheet.setFrozenRows(1);
+    sheet.setColumnWidth(4, 280);
     sheet.setColumnWidth(5, 280);
-    sheet.setColumnWidth(6, 280);
-    sheet.hideColumns(8); // the json column is machinery, not for reading
+    sheet.hideColumns(7); // the json column is machinery, not for reading
   }
   if (!ss.getSheetByName(CONFIG_SHEET)) ss.insertSheet(CONFIG_SHEET).hideSheet();
   var first = ss.getSheetByName('Sheet1');
@@ -113,12 +114,7 @@ function cleanOrder_(input) {
     nights[String(keys[i]).slice(0, 12)] = { items: items, notes: String(slot.notes || '').slice(0, 400) };
   }
   if (!Object.keys(nights).length) throw new Error('An order needs at least one sitting');
-  return {
-    name: name,
-    email: String(input.email || '').trim().slice(0, 120),
-    nights: nights,
-    updatedAt: new Date().toISOString()
-  };
+  return { name: name, nights: nights, updatedAt: new Date().toISOString() };
 }
 
 /* ------------------------------------------------------------- store ----- */
@@ -130,7 +126,7 @@ function readOrders_() {
   for (var i = 0; i < rows.length; i++) {
     if (!rows[i][0]) continue;
     try {
-      var o = JSON.parse(rows[i][7]);
+      var o = JSON.parse(rows[i][6]);
       o.id = String(rows[i][0]);
       out.push(o);
     } catch (e) { /* a row someone edited by hand — skip it rather than fall over */ }
@@ -161,11 +157,17 @@ function total_(order) {
   return t;
 }
 
+function cap_() {
+  var cfg = readConfig_();
+  if (cfg && cfg.cap !== undefined && cfg.cap !== null && cfg.cap !== '') return Number(cfg.cap) || 0;
+  return DEFAULT_CAP;
+}
+
 function writeOrder_(id, order) {
-  var sh = sheet_(), row = findRow_(id);
-  if (!row && readOrders_().length >= CAP) throw new Error('All thirty places are taken');
+  var sh = sheet_(), row = findRow_(id), cap = cap_();
+  if (!row && cap > 0 && readOrders_().length >= cap) throw new Error('Every place is taken');
   var values = [[
-    id, order.name, order.email, order.updatedAt,
+    id, order.name, order.updatedAt,
     describe_(order.nights.n1), describe_(order.nights.n2),
     total_(order), JSON.stringify(order)
   ]];
@@ -189,7 +191,7 @@ function handle_(action, data) {
     return json_({
       config: readConfig_(),
       orders: readOrders_(),
-      cap: CAP,
+      cap: cap_(),
       admin: isAdmin_(data.token)
     });
   }
@@ -229,7 +231,8 @@ function handle_(action, data) {
             return { id: i === 0 ? 'n1' : 'n2', label: String(n.label || '').slice(0, 60) };
           })
         : null,
-      closed: !!c.closed
+      closed: !!c.closed,
+      cap: (c.cap === undefined || c.cap === null || c.cap === '') ? DEFAULT_CAP : Math.max(0, Number(c.cap) || 0)
     });
     return json_({ ok: true });
   }
@@ -259,9 +262,18 @@ function route_(action, data) {
   finally { lock.releaseLock(); }
 }
 
+/**
+ * Also accepts the POST body as a `payload` query parameter, so the page can
+ * fall back to GET where a browser refuses the cross-origin POST.
+ */
 function doGet(e) {
   var p = (e && e.parameter) || {};
-  return route_(p.action || 'state', p);
+  var data = p;
+  if (p.payload) {
+    try { data = JSON.parse(p.payload); }
+    catch (err) { return fail_('Bad payload'); }
+  }
+  return route_(data.action || p.action || 'state', data);
 }
 
 /**

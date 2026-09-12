@@ -30,7 +30,7 @@ const DATA_FILE = process.env.DATA_FILE || path.join(__dirname, "data.json");
 const ADMIN_TOKEN = process.env.ADMIN_TOKEN || "";
 const EMAIL_TO = (process.env.ORDER_EMAIL_TO || "ed@newspeak.house,hannah@campaignlab.uk")
   .split(",").map((s) => s.trim()).filter(Boolean);
-const CAP = 30;
+const DEFAULT_CAP = 30;
 
 /* ----------------------------------------------------------- storage ------ */
 let state = { config: null, orders: {} };
@@ -54,6 +54,13 @@ function persist() {
       if (dirty) { dirty = false; persist(); }
     });
   });
+}
+
+/** How many people are expected is a setting; 0 means no limit. */
+function capOf() {
+  const c = state.config;
+  if (c && c.cap !== undefined && c.cap !== null && c.cap !== "") return Number(c.cap) || 0;
+  return DEFAULT_CAP;
 }
 
 /* ------------------------------------------------------------ helpers ----- */
@@ -107,12 +114,7 @@ function cleanOrder(input) {
     nights[String(key).slice(0, 12)] = { items, notes: String(slot.notes || "").slice(0, 400) };
   }
   if (!Object.keys(nights).length) throw new Error("An order needs at least one sitting");
-  return {
-    name,
-    email: String(input.email || "").trim().slice(0, 120),
-    nights,
-    updatedAt: new Date().toISOString(),
-  };
+  return { name, nights, updatedAt: new Date().toISOString() };
 }
 
 /* -------------------------------------------------------------- email ----- */
@@ -154,7 +156,7 @@ const server = http.createServer(async (req, res) => {
       const orders = Object.entries(state.orders)
         .map(([id, o]) => Object.assign({ id }, o))
         .sort((a, b) => String(a.name).localeCompare(String(b.name)));
-      return send(res, 200, { config: state.config, orders, cap: CAP, admin: !ADMIN_TOKEN || isAdmin(req, url) });
+      return send(res, 200, { config: state.config, orders, cap: capOf(), admin: !ADMIN_TOKEN || isAdmin(req, url) });
     }
 
     if (req.method === "POST" && route === "/api/order") {
@@ -162,8 +164,9 @@ const server = http.createServer(async (req, res) => {
       const id = slug(body.id || (body.order && body.order.name));
       if (!id) return fail(res, 400, "That name needs at least one letter or number");
       if (state.config && state.config.closed) return fail(res, 409, "The list is closed");
-      if (!state.orders[id] && Object.keys(state.orders).length >= CAP) {
-        return fail(res, 409, "All thirty places are taken");
+      const cap = capOf();
+      if (!state.orders[id] && cap > 0 && Object.keys(state.orders).length >= cap) {
+        return fail(res, 409, "Every place is taken");
       }
       let order;
       try { order = cleanOrder(body.order); }
@@ -200,6 +203,8 @@ const server = http.createServer(async (req, res) => {
           label: String(n.label || "").slice(0, 60),
         })) : null,
         closed: !!c.closed,
+        cap: (c.cap === undefined || c.cap === null || c.cap === "")
+          ? DEFAULT_CAP : Math.max(0, Number(c.cap) || 0),
       };
       persist();
       return send(res, 200, { ok: true });

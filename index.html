@@ -270,13 +270,11 @@ footer .mono{font-size:12px}
 
   <section class="sec">
     <div class="sec-head"><span class="num">II</span><h2>Put your name down</h2></div>
-    <p class="sec-note">Type the name you used before to pull your order back up and change it. One entry per person,
-      thirty people in all.</p>
+    <p class="sec-note">Type the name you used before to pull your order back up and change it. One entry per
+      person.</p>
     <div class="fields">
       <label class="f" for="fName"><span class="l">Name</span>
         <input type="text" id="fName" placeholder="e.g. Hannah O'Rourke" autocomplete="name" maxlength="60"></label>
-      <label class="f" for="fEmail"><span class="l">Email &mdash; optional</span>
-        <input type="email" id="fEmail" placeholder="so we can chase you for the money" autocomplete="email" maxlength="120"></label>
     </div>
     <p class="hint" id="nameHint"></p>
   </section>
@@ -336,9 +334,11 @@ footer .mono{font-size:12px}
         <p>Whatever you type here is what everybody sees.</p>
         <div class="fields">
           <label class="f" for="aN1"><span class="l">First sitting</span>
-            <input type="text" id="aN1" maxlength="60" placeholder="Thursday 24 September"></label>
+            <input type="text" id="aN1" maxlength="60" placeholder="Thursday 17 September"></label>
           <label class="f" for="aN2"><span class="l">Second sitting</span>
-            <input type="text" id="aN2" maxlength="60" placeholder="Friday 25 September"></label>
+            <input type="text" id="aN2" maxlength="60" placeholder="Friday 18 September"></label>
+          <label class="f" for="aCap"><span class="l">Places &mdash; 0 for no limit</span>
+            <input type="text" id="aCap" inputmode="numeric" maxlength="4" placeholder="30"></label>
         </div>
         <div class="actions">
           <button class="btn ghost" id="aSaveNights">Save dates</button>
@@ -383,7 +383,7 @@ footer .mono{font-size:12px}
      Node server in this repo, or to the artifact db when published as one. */
   var API_URL = "https://script.google.com/macros/s/AKfycbzZ7DNWma1ggFXt8rb_gD3aWhK-azC866vCITOU50PRcGhuud00_cnvwZQno0vnCmokxg/exec";
 
-  var CAP = 30;
+  var DEFAULT_CAP = 30;
   var DEFAULT_MENU = [
     ["Appetizers","Prawn Cracker",2.99],
     ["Appetizers","Mix Platter for Two",13.5],
@@ -600,6 +600,15 @@ footer .mono{font-size:12px}
   function nights(){ return (cfg&&Array.isArray(cfg.nights)&&cfg.nights.length===2)?cfg.nights:DEFAULT_NIGHTS; }
   function isShut(){ return !!(cfg&&cfg.closed); }
 
+  /* How many people are expected is a guess until they turn up, so the limit is
+     a setting rather than a constant, and 0 means "as many as want to come". */
+  function capOf(){
+    if(cfg && cfg.cap !== undefined && cfg.cap !== null && cfg.cap !== "") return Number(cfg.cap)||0;
+    return DEFAULT_CAP;
+  }
+  function capped(){ return capOf() > 0; }
+  function isFull(){ return capped() && orders.length >= capOf(); }
+
   /* Bangkok Bites run 50% off Monday to Thursday evenings, so what the listed
      prices mean depends on which night you are ordering for. The labels are
      free text, so read the weekday out of them and fall back to the plain rule
@@ -777,7 +786,7 @@ footer .mono{font-size:12px}
         dishes+=i.qty; if(i.price==null)tbc=true; else total+=i.price*i.qty;
       });
     });
-    $("stSeats").innerHTML=orders.length+' <small>/ '+CAP+"</small>";
+    $("stSeats").innerHTML=orders.length+(capped()?' <small>/ '+capOf()+"</small>":"");
     $("stDishes").textContent=dishes;
     $("stTotal").innerHTML=money(total)+(tbc?"<small>+</small>":"");
     var p=$("stStatus");
@@ -842,10 +851,14 @@ footer .mono{font-size:12px}
   function renderNameHint(){
     var s=slug($("fName").value);
     var h="";
-    if(!s){ h="Thirty places in all &mdash; "+orders.length+" taken so far."; }
+    if(!s){ h = capped()
+      ? capOf()+" places in all &mdash; "+orders.length+" taken so far."
+      : orders.length+(orders.length===1?" name":" names")+" down so far."; }
     else if(orders.some(function(o){return o.id===s;})){ h="Found your entry &mdash; change what you like and table it again."; }
-    else if(orders.length>=CAP){ h="<strong>All thirty places are taken.</strong> Ask whoever is organising to raise the limit."; }
-    else { h="New name &mdash; you’d be number "+(orders.length+1)+" of "+CAP+"."; }
+    else if(isFull()){ h="<strong>Every place is taken.</strong> Ask whoever is organising to add more."; }
+    else { h = capped()
+      ? "New name &mdash; you’d be number "+(orders.length+1)+" of "+capOf()+"."
+      : "New name &mdash; you’d be number "+(orders.length+1)+"."; }
     $("nameHint").innerHTML=h;
   }
 
@@ -874,7 +887,6 @@ footer .mono{font-size:12px}
       (slot.items||[]).forEach(function(i){ draft[nId][i.key]=i.qty; });
       draftNotes[nId]=slot.notes||"";
     });
-    if(found.email&&!$("fEmail").value)$("fEmail").value=found.email;
     $("fNotes").value=draftNotes[night]||"";
     renderAll();
   }
@@ -894,7 +906,7 @@ footer .mono{font-size:12px}
     if(!id){ flash(msg,"That name needs at least one letter or number.",true); return; }
     if(isShut()){ flash(msg,"The list is closed.",true); return; }
     var exists=orders.some(function(o){return o.id===id;});
-    if(!exists&&orders.length>=CAP){ flash(msg,"All thirty places are taken.",true); return; }
+    if(!exists&&isFull()){ flash(msg,"Every place is taken.",true); return; }
 
     draftNotes[night]=$("fNotes").value.trim();
     var payloadNights={};
@@ -904,8 +916,7 @@ footer .mono{font-size:12px}
     });
     if(!Object.keys(payloadNights).length){ flash(msg,"Choose at least one dish.",true); return; }
 
-    var body={name:name.slice(0,60),email:$("fEmail").value.trim().slice(0,120),
-      nights:payloadNights,updatedAt:new Date().toISOString()};
+    var body={name:name.slice(0,60),nights:payloadNights,updatedAt:new Date().toISOString()};
 
     meId=id; loadedFor=id;
     if(!store){ flash(msg,"Built — but not saved, this view can’t reach the roll.",true); renderAll(); return; }
@@ -936,7 +947,7 @@ footer .mono{font-size:12px}
   function saveConfig(patch){
     var m=$("aMsg");
     if(!store){ flash(m,"Can’t save from this view.",true); return; }
-    var next={menu:menu(),nights:nights(),closed:isShut()};
+    var next={menu:menu(),nights:nights(),closed:isShut(),cap:capOf()};
     Object.keys(patch).forEach(function(k){ next[k]=patch[k]; });
     store.saveConfig(next).then(function(){ flash(m,"Saved."); })
     ["catch"](function(){ flash(m,"Couldn’t save — you may not have edit access.",true); });
@@ -946,7 +957,7 @@ footer .mono{font-size:12px}
     var ns=nights(), out=[];
     out.push("NEWSPEAK HOUSE — BANGKOK BITES ORDER");
     out.push("147 Bethnal Green Road, London E2 7DG");
-    out.push("Names down: "+orders.length+" of "+CAP);
+    out.push("Names down: "+orders.length+(capped()?" of "+capOf():""));
     ns.forEach(function(x){
       var rows=orders.filter(function(o){return o.nights&&o.nights[x.id]&&o.nights[x.id].items&&o.nights[x.id].items.length;})
         .sort(function(a,b){return String(a.name).localeCompare(String(b.name));});
@@ -962,7 +973,7 @@ footer .mono{font-size:12px}
       out.push(""); out.push("-- Who ordered what --");
       rows.forEach(function(o){
         var items=o.nights[x.id].items;
-        out.push("  "+o.name+(o.email?" <"+o.email+">":"")+" — "+money(itemsTotal(items))+(anyTbc(items)?"+":""));
+        out.push("  "+o.name+" — "+money(itemsTotal(items))+(anyTbc(items)?"+":""));
         items.forEach(function(i){ out.push("      "+i.qty+" x "+i.name); });
         if(o.nights[x.id].notes) out.push("      note: "+o.nights[x.id].notes);
       });
@@ -1013,10 +1024,12 @@ footer .mono{font-size:12px}
   $("btnSave").addEventListener("click",save);
   $("btnClear").addEventListener("click",withdraw);
   $("aSaveNights").addEventListener("click",function(){
-    var ns=nights();
-    saveConfig({nights:[
-      {id:"n1",label:($("aN1").value.trim()||ns[0].label).slice(0,60)},
-      {id:"n2",label:($("aN2").value.trim()||ns[1].label).slice(0,60)}]});
+    var ns=nights(), raw=$("aCap").value.trim();
+    saveConfig({
+      nights:[{id:"n1",label:($("aN1").value.trim()||ns[0].label).slice(0,60)},
+              {id:"n2",label:($("aN2").value.trim()||ns[1].label).slice(0,60)}],
+      cap: raw==="" ? capOf() : Math.max(0,parseInt(raw,10)||0)
+    });
   });
   $("aToggle").addEventListener("click",function(){ saveConfig({closed:!isShut()}); });
   $("aSaveMenu").addEventListener("click",function(){
@@ -1107,13 +1120,24 @@ footer .mono{font-size:12px}
      content type would trigger a preflight that Apps Script cannot answer. */
   function appsScriptStore(endpoint){
     var adminKey=readAdminKey();
+    function unwrap(r){
+      return r.json().then(function(j){ if(j&&j.error)throw new Error(j.error); return j; });
+    }
     function call(action,payload){
       var body=Object.assign({action:action,token:adminKey},payload||{});
       return fetch(endpoint,{method:"POST",redirect:"follow",
         headers:{"Content-Type":"text/plain;charset=utf-8"},
         body:JSON.stringify(body)})
-        .then(function(r){ return r.json(); })
-        .then(function(j){ if(j&&j.error)throw new Error(j.error); return j; });
+        .then(unwrap)
+        ["catch"](function(e){
+          /* A TypeError here is the browser refusing the response, not the
+             script saying no — usually a deployment that redirects to a Google
+             sign-in. The same call as a GET survives some of those, so try it
+             before giving up. */
+          if(!(e instanceof TypeError)) throw e;
+          return fetch(endpoint+"?payload="+encodeURIComponent(JSON.stringify(body)),
+            {method:"GET",redirect:"follow"}).then(unwrap);
+        });
     }
     var timer=null, everReached=false;
     function pull(){
@@ -1127,7 +1151,8 @@ footer .mono{font-size:12px}
            the setting that is nearly always the cause. */
         storeError = everReached
           ? "<b>Lost touch with the order book.</b> Your last change may not have saved. This page keeps retrying — if it stays like this, reload."
-          : "<b>Can’t reach the order book, so nothing will save yet.</b> In Apps Script, open <b>Deploy ▸ Manage deployments</b> and check that <b>Who has access</b> is <b>Anyone</b> and <b>Execute as</b> is <b>Me</b>. After any edit to the script you must deploy again — editing alone does not update the live URL.";
+          : "<b>Can’t reach the order book, so nothing will save yet.</b> In Apps Script, open <b>Deploy ▸ Manage deployments</b> and check that <b>Who has access</b> is <b>Anyone</b> and <b>Execute as</b> is <b>Me</b>. After any edit to the script you must deploy again — editing alone does not update the live URL."
+            + "<br><span class='mono' style='font-size:12px;color:var(--ink-2)'>" + esc((e&&e.message)||String(e)) + "</span>";
         renderNotices();
       });
     }
@@ -1170,20 +1195,35 @@ footer .mono{font-size:12px}
 
   var apiOverride="";
   try{ apiOverride=new URLSearchParams(location.search).get("api")||""; }catch(e){}
-  var endpoint=apiOverride||API_URL;
 
-  if(window.claude&&window.claude.use){
+  /* Three backends, picked by what actually answers rather than by a build
+     flag: the artifact db when running as an artifact; otherwise the server
+     that served this page, if it offers the API; otherwise the Apps Script
+     web app, which is the case on GitHub Pages, where /api is a 404. */
+  function chooseHttpBackend(){
+    if(location.protocol!=="http:"&&location.protocol!=="https:"){
+      if(API_URL) install(appsScriptStore(API_URL)); else renderNotices();
+      return;
+    }
+    fetch("/api/state",{method:"GET"}).then(function(r){
+      if(!r.ok)throw new Error("no local api");
+      return r.json();
+    }).then(function(){
+      install(httpStore());
+    })["catch"](function(){
+      if(API_URL) install(appsScriptStore(API_URL)); else renderNotices();
+    });
+  }
+
+  if(apiOverride){
+    install(appsScriptStore(apiOverride));
+  } else if(window.claude&&window.claude.use){
     window.claude.use("db").then(function(handle){
       if(handle){ install(dbStore(handle)); return; }
-      if(endpoint){ install(appsScriptStore(endpoint)); return; }
-      renderNotices();
-    })["catch"](function(){ renderNotices(); });
-  } else if(endpoint){
-    install(appsScriptStore(endpoint));
-  } else if(location.protocol==="http:"||location.protocol==="https:"){
-    install(httpStore());
+      chooseHttpBackend();
+    })["catch"](chooseHttpBackend);
   } else {
-    renderNotices();
+    chooseHttpBackend();
   }
 })();
 </script>

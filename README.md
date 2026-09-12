@@ -92,8 +92,13 @@ Copy `.env.example` to `.env`, or export these before `npm start`:
 
 **Ordering.** Pick a sitting, put your name down, tap dishes up and down, table
 the order. Typing a name that's already on the roll pulls that order back up to
-edit, so people can change their minds without creating duplicates. Thirty
-distinct names, each able to order for both sittings.
+edit, so people can change their minds without creating duplicates. Each person
+can order for both sittings.
+
+Name only — no email is asked for or stored, since nobody is being invoiced.
+
+**How many places.** Clerk's table → **Places**. Defaults to 30; set it to `0`
+for no limit. The limit is enforced on the server, not just in the page.
 
 **Emailing the list.** Open the clerk's table with your `?admin=` link and press
 **Email it to Ed & Hannah**. It sends both sittings — the tally and the
