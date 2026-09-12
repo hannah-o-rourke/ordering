@@ -115,18 +115,16 @@ Sushi | Vegetarian Sushi
 Leave the price off and the dish shows as *tbc*. Saving replaces the menu for
 everyone.
 
-### About the starting menu
+### The menu as shipped
 
-The session that built this could not reach `bangkokbites.uk` — the sandbox's
-egress policy blocks it — so the menu carries only dishes and prices that could
-be confirmed from public listings:
+182 dishes across 29 courses, as supplied by the restaurant. Two carry no price
+on their menu — Sweet Pumpkin (6 pieces) and Crispy Aromatic Roasted Duck — and
+show as *tbc* rather than being guessed at.
 
-> Papaya Salad £7.50 · Salt & Pepper Chicken £8.50 · Green Curry (medium) £9.50 ·
-> Massaman Curry (mild) £9.50 · Pad Thai £10.50 · Vegan Pad Thai £10.99 ·
-> Kao Pad Kra Praw (medium hot) £10.99
-
-Every other dish is listed with its price as *tbc* rather than invented. Paste
-the real menu into the clerk's table and it's fixed everywhere at once.
+Courses written `Category · Dish` hold the protein choices for one dish, so the
+row reads just "Chicken" under a "Thai Curries · Green Curry (medium)" heading.
+On the roll, the tally and the email that same row reads "Green Curry (medium) —
+Chicken", because "2 × Chicken" is not something a kitchen can cook from.
 
 Note that Bangkok Bites run 50% off Monday–Thursday evenings, so these full list
 prices should overstate the actual bill.

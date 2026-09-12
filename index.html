@@ -111,13 +111,40 @@ input::placeholder,textarea::placeholder{color:var(--ink-3)}
 .hint{font-size:12.5px;color:var(--ink-2);margin-top:7px}
 
 /* ---------- menu ---------- */
-.course{margin-top:26px}
+.searchbar{position:relative;margin-top:16px}
+.searchbar input{padding-left:34px}
+.searchbar::before{content:"⌕";position:absolute;left:12px;top:50%;transform:translateY(-50%);
+  font-size:19px;color:var(--ink-3);pointer-events:none;line-height:1}
+.searchbar .clear{position:absolute;right:6px;top:50%;transform:translateY(-50%);border:0;
+  background:transparent;cursor:pointer;color:var(--ink-3);font-family:var(--mono);
+  font-size:15px;padding:6px 9px;line-height:1}
+.searchbar .clear:hover{color:var(--ink)}
+.menu-meta{display:flex;flex-wrap:wrap;gap:6px 14px;justify-content:space-between;
+  font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-3);margin-top:10px}
+.menu-meta button{border:0;background:transparent;cursor:pointer;font-family:var(--mono);
+  font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);padding:0}
+.menu-meta button:hover{text-decoration:underline}
+
+.course{margin-top:2px;border-bottom:1px solid var(--rule)}
 .course-h{display:flex;align-items:baseline;justify-content:space-between;gap:10px;
-  border-bottom:1px solid var(--ink);padding-bottom:5px;margin-bottom:2px}
-.course-h h3{font-family:var(--display);font-size:19px;font-weight:700;font-style:italic}
+  padding:11px 2px;cursor:pointer;list-style:none}
+.course-h::-webkit-details-marker{display:none}
+.course-h::before{content:"▸";font-family:var(--mono);font-size:11px;color:var(--accent);
+  margin-right:9px;display:inline-block;flex:0 0 auto}
+.course[open] > .course-h::before{content:"▾"}
+.course-h:hover h3{color:var(--accent)}
+.course-h h3{font-family:var(--display);font-size:19px;font-weight:700;font-style:italic;
+  flex:1;min-width:0}
+.course[open] > .course-h{border-bottom:1px solid var(--ink)}
+.c-meta{display:flex;align-items:baseline;gap:10px;flex:0 0 auto}
 .course-h .c-ct{font-family:var(--mono);font-size:11px;color:var(--ink-3)}
+.c-chosen{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.08em;
+  text-transform:uppercase;background:var(--accent);color:var(--accent-ink);padding:2px 7px;
+  border-radius:999px}
+.c-chosen[hidden]{display:none}
 .dish{display:grid;grid-template-columns:1fr auto auto;gap:10px 14px;align-items:center;
-  padding:9px 0;border-bottom:1px dotted var(--rule)}
+  padding:9px 0 9px 20px;border-bottom:1px dotted var(--rule)}
 .dish:last-child{border-bottom:0}
 .dish.on{background:linear-gradient(90deg,var(--accent-soft),transparent 65%)}
 .d-name{font-size:15.5px;font-weight:500;line-height:1.3}
@@ -258,6 +285,18 @@ footer .mono{font-size:12px}
     <div class="sec-head"><span class="num">III</span><h2>The menu</h2></div>
     <p class="sec-note" id="menuNote">Bangkok Bites run <strong>50% off</strong> Monday to Thursday evenings, so the
       prices below are the full list price &mdash; expect the bill to come in under it.</p>
+
+    <div class="searchbar">
+      <label class="l" for="fSearch" style="position:absolute;left:-9999px">Search the menu</label>
+      <input type="text" id="fSearch" placeholder="Search the menu &mdash; pad thai, duck, vegan&hellip;" autocomplete="off">
+      <button type="button" class="clear" id="fSearchClear" hidden aria-label="Clear the search">&times;</button>
+    </div>
+    <div class="menu-meta">
+      <span id="menuCount"></span>
+      <span><button type="button" id="mExpand">Open all</button> &nbsp;
+        <button type="button" id="mCollapse">Close all</button></span>
+    </div>
+
     <div id="menu"></div>
 
     <label class="f" for="fNotes" style="margin-top:24px;display:block">
@@ -346,28 +385,193 @@ footer .mono{font-size:12px}
 
   var CAP = 30;
   var DEFAULT_MENU = [
-    ["Starters","Vegetable Spring Rolls",null],
-    ["Starters","Prawn Tempura",null],
-    ["Starters","Chicken Satay Skewers",null],
-    ["Starters","Thai Fish Cakes",null],
-    ["Starters","Prawn Toast",null],
-    ["Starters","Chicken & Prawn Dim Sum (4 pcs)",null],
-    ["Starters","Salt & Pepper Chicken",8.50],
-    ["Starters","Papaya Salad",7.50],
-    ["Curries","Green Curry (medium)",9.50],
-    ["Curries","Massaman Curry (mild)",9.50],
-    ["Curries","Red Curry",null],
-    ["Noodles & Rice","Pad Thai",10.50],
-    ["Noodles & Rice","Vegan Pad Thai",10.99],
-    ["Noodles & Rice","Kao Pad Kra Praw (medium hot)",10.99],
-    ["Noodles & Rice","Chicken Chow Mein",null],
-    ["Noodles & Rice","Katsu Chicken",null],
-    ["Noodles & Rice","Egg Fried Rice",null],
-    ["Sushi","Vegetarian Sushi",null]
+    ["Appetizers","Prawn Cracker",2.99],
+    ["Appetizers","Mix Platter for Two",13.5],
+    ["Appetizers","Edamame",3.99],
+    ["Appetizers","Salt and Pepper Chips",6.99],
+    ["Appetizers","Prawn Toast (4 pieces)",7.5],
+    ["Appetizers","Prawn Tempura (5 pieces)",7.5],
+    ["Appetizers","Vegetable Spring Roll (5 pieces)",5.5],
+    ["Appetizers","Vegetable Dumplings (6 pieces)",6.99],
+    ["Appetizers","Chicken Dumplings (6 pieces)",7.5],
+    ["Appetizers","Prawn Dumplings (6 pieces)",7.99],
+    ["Appetizers","Sweet Pumpkin (6 pieces)",null],
+    ["Appetizers","Thai Dim Sum (4 pieces)",6.99],
+    ["Appetizers","Fish Cake (4 pieces)",5.99],
+    ["Appetizers","Spicy Thai Wings (6 pieces)",7.75],
+    ["Appetizers","Salt & Pepper Wings (6 pieces)",7.75],
+    ["Appetizers","Thai Fried Chicken Bites (6 pieces)",7.5],
+    ["Appetizers","Chicken Satay (4 pieces)",7.5],
+    ["Appetizers","Salt and Pepper Chicken",7.5],
+    ["Appetizers","Salt and Pepper Squid",7.5],
+    ["Appetizers","Calamari",6.99],
+    ["Appetizers","Crispy Aromatic Roasted Duck",null],
+    ["Noodles · Pad Thai","Mixed Vegetable & Tofu (vegan)",11.00],
+    ["Noodles · Pad Thai","Plant-Based Chicken",11.99],
+    ["Noodles · Pad Thai","Chicken",11.99],
+    ["Noodles · Pad Thai","Beef",12.5],
+    ["Noodles · Pad Thai","Tiger Prawn",12.99],
+    ["Noodles · Pad Thai","Mixed Seafood",12.99],
+    ["Noodles · Pad Kee Mao (medium hot)","Mixed Vegetable & Tofu (vegan)",11.00],
+    ["Noodles · Pad Kee Mao (medium hot)","Plant-Based Chicken",11.99],
+    ["Noodles · Pad Kee Mao (medium hot)","Chicken",11.99],
+    ["Noodles · Pad Kee Mao (medium hot)","Beef",12.5],
+    ["Noodles · Pad Kee Mao (medium hot)","Tiger Prawn",12.99],
+    ["Noodles · Pad Kee Mao (medium hot)","Mixed Seafood",12.99],
+    ["Noodles · Pad See Ew","Mixed Vegetable & Tofu (vegan)",11.00],
+    ["Noodles · Pad See Ew","Plant-Based Chicken",11.99],
+    ["Noodles · Pad See Ew","Chicken",11.99],
+    ["Noodles · Pad See Ew","Beef",12.5],
+    ["Noodles · Pad See Ew","Tiger Prawn",12.99],
+    ["Noodles · Pad See Ew","Mixed Seafood",12.99],
+    ["Noodles · Chow Mein","Mixed Vegetable & Tofu (vegan)",11.00],
+    ["Noodles · Chow Mein","Plant-Based Chicken",11.99],
+    ["Noodles · Chow Mein","Chicken",11.99],
+    ["Noodles · Chow Mein","Beef",12.5],
+    ["Noodles · Chow Mein","Tiger Prawn",12.99],
+    ["Noodles · Chow Mein","Mixed Seafood",12.99],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Mixed Vegetable & Tofu (vegan)",11.00],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Plant-Based Chicken",11.99],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Chicken",11.99],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Beef",12.5],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Tiger Prawn",12.99],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Mixed Seafood",12.99],
+    ["Fried Rice · Kao Pad","Mixed Vegetable & Tofu (vegan)",11.00],
+    ["Fried Rice · Kao Pad","Plant-Based Chicken",11.99],
+    ["Fried Rice · Kao Pad","Chicken",11.99],
+    ["Fried Rice · Kao Pad","Beef",12.5],
+    ["Fried Rice · Kao Pad","Tiger Prawn",12.99],
+    ["Fried Rice · Kao Pad","Mixed Seafood",12.99],
+    ["Fried Rice · Chinese Fried Rice","Mixed Vegetable & Tofu (vegan)",11.00],
+    ["Fried Rice · Chinese Fried Rice","Plant-Based Chicken",11.99],
+    ["Fried Rice · Chinese Fried Rice","Chicken",11.99],
+    ["Fried Rice · Chinese Fried Rice","Beef",12.5],
+    ["Fried Rice · Chinese Fried Rice","Tiger Prawn",12.99],
+    ["Fried Rice · Chinese Fried Rice","Mixed Seafood",12.99],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Mixed Vegetable & Tofu (vegan)",11.00],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Plant-Based Chicken",11.99],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Chicken",11.99],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Beef",12.5],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Tiger Prawn",12.99],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Mixed Seafood",12.99],
+    ["Japanese Hot Food","Chicken Katsu Curry",11.99],
+    ["Japanese Hot Food","Pumpkin Katsu Curry (vegan)",10.75],
+    ["Japanese Hot Food","Yakisoba — Mixed Vegetable & Tofu (vegan)",11.00],
+    ["Japanese Hot Food","Yakisoba — Plant-Based Chicken",11.99],
+    ["Japanese Hot Food","Yakisoba — Chicken",11.99],
+    ["Japanese Hot Food","Yakisoba — Beef",12.5],
+    ["Stir Fry · Pad Med Mamuang","Mixed Vegetable & Tofu (vegan)",10.75],
+    ["Stir Fry · Pad Med Mamuang","Plant-Based Chicken",11.99],
+    ["Stir Fry · Pad Med Mamuang","Chicken",11.5],
+    ["Stir Fry · Pad Med Mamuang","Beef",11.75],
+    ["Stir Fry · Pad Med Mamuang","Duck",11.75],
+    ["Stir Fry · Pad Med Mamuang","Tiger Prawn",12.3],
+    ["Stir Fry · Pad Med Mamuang","Mixed Seafood",12.5],
+    ["Stir Fry · Pad Kra Prow","Mixed Vegetable & Tofu (vegan)",10.75],
+    ["Stir Fry · Pad Kra Prow","Plant-Based Chicken",11.99],
+    ["Stir Fry · Pad Kra Prow","Chicken",11.5],
+    ["Stir Fry · Pad Kra Prow","Beef",11.75],
+    ["Stir Fry · Pad Kra Prow","Duck",11.75],
+    ["Stir Fry · Pad Kra Prow","Tiger Prawn",12.3],
+    ["Stir Fry · Pad Kra Prow","Mixed Seafood",12.5],
+    ["Stir Fry · Pad Khing","Mixed Vegetable & Tofu (vegan)",10.75],
+    ["Stir Fry · Pad Khing","Plant-Based Chicken",11.99],
+    ["Stir Fry · Pad Khing","Chicken",11.5],
+    ["Stir Fry · Pad Khing","Beef",11.75],
+    ["Stir Fry · Pad Khing","Duck",11.75],
+    ["Stir Fry · Pad Khing","Tiger Prawn",12.3],
+    ["Stir Fry · Pad Khing","Mixed Seafood",12.5],
+    ["Stir Fry · Pad Kratiem","Mixed Vegetable & Tofu (vegan)",10.75],
+    ["Stir Fry · Pad Kratiem","Plant-Based Chicken",11.99],
+    ["Stir Fry · Pad Kratiem","Chicken",11.5],
+    ["Stir Fry · Pad Kratiem","Beef",11.75],
+    ["Stir Fry · Pad Kratiem","Duck",11.75],
+    ["Stir Fry · Pad Kratiem","Tiger Prawn",12.3],
+    ["Stir Fry · Pad Kratiem","Mixed Seafood",12.5],
+    ["Stir Fry","Sweet and Sour Chicken",10.5],
+    ["Stir Fry","Crispy Chilli Chicken",10.5],
+    ["Stir Fry","Pad Broccoli",8.5],
+    ["Stir Fry","Pad Ma Khuer",8.5],
+    ["Thai Curries · Green Curry (medium)","Mixed Vegetable & Tofu (vegan)",10.75],
+    ["Thai Curries · Green Curry (medium)","Plant-Based Chicken",11.5],
+    ["Thai Curries · Green Curry (medium)","Chicken",11.5],
+    ["Thai Curries · Green Curry (medium)","Beef",11.75],
+    ["Thai Curries · Green Curry (medium)","Duck",11.75],
+    ["Thai Curries · Green Curry (medium)","Tiger Prawn",12.3],
+    ["Thai Curries · Green Curry (medium)","Mixed Seafood",12.5],
+    ["Thai Curries · Red Curry (medium)","Mixed Vegetable & Tofu (vegan)",10.75],
+    ["Thai Curries · Red Curry (medium)","Plant-Based Chicken",11.5],
+    ["Thai Curries · Red Curry (medium)","Chicken",11.5],
+    ["Thai Curries · Red Curry (medium)","Beef",11.75],
+    ["Thai Curries · Red Curry (medium)","Duck",11.75],
+    ["Thai Curries · Red Curry (medium)","Tiger Prawn",12.3],
+    ["Thai Curries · Red Curry (medium)","Mixed Seafood",12.5],
+    ["Thai Curries · Penang Curry (medium)","Mixed Vegetable & Tofu (vegan)",10.75],
+    ["Thai Curries · Penang Curry (medium)","Plant-Based Chicken",11.5],
+    ["Thai Curries · Penang Curry (medium)","Chicken",11.5],
+    ["Thai Curries · Penang Curry (medium)","Beef",11.75],
+    ["Thai Curries · Penang Curry (medium)","Duck",11.75],
+    ["Thai Curries · Penang Curry (medium)","Tiger Prawn",12.3],
+    ["Thai Curries · Penang Curry (medium)","Mixed Seafood",12.5],
+    ["Thai Curries · Massaman Curry (mild)","Mixed Vegetable & Tofu (vegan)",10.75],
+    ["Thai Curries · Massaman Curry (mild)","Plant-Based Chicken",11.5],
+    ["Thai Curries · Massaman Curry (mild)","Chicken",11.5],
+    ["Thai Curries · Massaman Curry (mild)","Beef",11.75],
+    ["Thai Curries · Massaman Curry (mild)","Duck",11.75],
+    ["Thai Curries · Massaman Curry (mild)","Tiger Prawn",12.3],
+    ["Thai Curries · Massaman Curry (mild)","Mixed Seafood",12.5],
+    ["Special Rolls (8 pieces)","Dragon Roll",11.00],
+    ["Special Rolls (8 pieces)","Rainbow Roll",11.99],
+    ["Special Rolls (8 pieces)","Fire Roll",11.75],
+    ["Special Rolls (8 pieces)","Rock N Roll",11.75],
+    ["Special Rolls (8 pieces)","Vegan Dragon Roll",12.75],
+    ["Futomaki","Spider Roll (10 pieces)",11.5],
+    ["Futomaki","Prawn Tempura Sweet Chilli Futomaki (6 pieces)",8.99],
+    ["Futomaki","Chicken Teriyaki Futomaki (6 pieces)",8.99],
+    ["Nigiri","Salmon Nigiri",3.99],
+    ["Nigiri","Tuna Nigiri",4.5],
+    ["Nigiri","Spicy Salmon Nigiri",3.99],
+    ["Nigiri","Spicy Tuna Nigiri",4.75],
+    ["Nigiri","Seared Salmon Nigiri",3.99],
+    ["Sashimi","Salmon Sashimi",7.5],
+    ["Sashimi","Seared Salmon Sashimi",7.99],
+    ["Sashimi","Tuna Sashimi (Maguro)",8.25],
+    ["Sashimi","Seared Tuna Sashimi",8.99],
+    ["Salads","Papaya Salad",7.5],
+    ["Salads","Wakame Salad",7.5],
+    ["Soups","Tom Yum — Mushroom",5.5],
+    ["Soups","Tom Yum — Chicken",7.5],
+    ["Soups","Tom Yum — King Prawn",8.00],
+    ["Soups","Tom Kha — Mushroom",5.5],
+    ["Soups","Tom Kha — Chicken",7.5],
+    ["Soups","Tom Kha — King Prawn",8.00],
+    ["Soups","Po-Tek Soup",8.95],
+    ["Rice Sides","Jasmine Rice",2.99],
+    ["Rice Sides","Sushi Rice",2.99],
+    ["Rice Sides","Steamed Sticky Rice",3.5],
+    ["Rice Sides","Coconut Rice",3.99],
+    ["Rice Sides","Egg Fried Rice",3.99],
+    ["Juices","Apple Juice",2.99],
+    ["Juices","Orange Juice",2.99],
+    ["Juices","Pineapple Juice",2.99],
+    ["Juices","Cranberry Juice",2.99],
+    ["Soft Drinks","Still Water",2.5],
+    ["Soft Drinks","Sparkling Water",2.5],
+    ["Soft Drinks","Coke",2.99],
+    ["Soft Drinks","Diet Coke",2.99],
+    ["Soft Drinks","Coke Zero",2.99],
+    ["Soft Drinks","Sprite",2.99],
+    ["Soft Drinks","Fanta Orange",2.99],
+    ["Mocktails","Classic Mojito",5.5],
+    ["Mocktails","Strawberry Mojito",5.5],
+    ["Mocktails","Blue Curaçao",5.75],
+    ["Mocktails","Strawberry Daiquiri",6.00],
+    ["Mocktails","Piña Colada",6.00]
   ];
   var DEFAULT_NIGHTS = [{id:"n1",label:"First sitting"},{id:"n2",label:"Second sitting"}];
 
   var store=null, cfg=null, orders=[], night="n1", meId=null;
+  var openCourses={};     // {courseSlug: bool} — which courses the reader opened
   var draft={};           // {nightId: {dishKey: qty}}
   var draftNotes={};      // {nightId: notes}
   var loadedFor=null;     // slug whose saved order is currently in the draft
@@ -381,6 +585,15 @@ footer .mono{font-size:12px}
   }
   function money(n){return "£"+Number(n||0).toFixed(2);}
   function dishKey(course,name){return slug(course)+"--"+slug(name);}
+
+  /* Courses written "Category · Dish" hold the protein choices for one dish, so
+     the row reads just "Chicken" under its heading. On the roll, the tally and
+     the email that row has to name the dish too — "2 × Green Curry (medium) —
+     Chicken", not a bare "2 × Chicken" nobody can cook from. */
+  function fullName(course,name){
+    var i=String(course).indexOf("\u00b7");
+    return i<0 ? name : String(course).slice(i+1).trim()+" \u2014 "+name;
+  }
 
   function menu(){ return (cfg&&Array.isArray(cfg.menu)&&cfg.menu.length)?cfg.menu:DEFAULT_MENU; }
   function nights(){ return (cfg&&Array.isArray(cfg.nights)&&cfg.nights.length===2)?cfg.nights:DEFAULT_NIGHTS; }
@@ -413,7 +626,7 @@ footer .mono{font-size:12px}
     var d=draft[nId]||{}, items=[];
     menu().forEach(function(r){
       var k=dishKey(r[0],r[1]), q=d[k];
-      if(q>0) items.push({key:k,course:r[0],name:r[1],price:r[2],qty:q});
+      if(q>0) items.push({key:k,course:r[0],name:fullName(r[0],r[1]),price:r[2],qty:q});
     });
     return items;
   }
@@ -441,14 +654,41 @@ footer .mono{font-size:12px}
     }).join("");
   }
 
+  function courseChosen(rows){
+    return rows.reduce(function(a,r){ return a+qtyOf(dishKey(r[0],r[1])); },0);
+  }
+
   function renderMenu(){
-    var by={}, order=[];
-    menu().forEach(function(r){ if(!by[r[0]]){by[r[0]]=[];order.push(r[0]);} by[r[0]].push(r); });
+    var term=($("fSearch").value||"").toLowerCase().trim();
+    $("fSearchClear").hidden=!term;
+    var by={}, order=[], shown=0;
+    menu().forEach(function(r){
+      if(term && (r[0]+" "+r[1]).toLowerCase().indexOf(term)<0) return;
+      if(!by[r[0]]){by[r[0]]=[];order.push(r[0]);}
+      by[r[0]].push(r); shown++;
+    });
+
+    var total=menu().length;
+    $("menuCount").textContent = term
+      ? shown+" of "+total+" dishes match"
+      : total+" dishes in "+order.length+" courses";
+
+    if(!order.length){
+      $("menu").innerHTML='<div class="empty-roll">Nothing on the menu matches &ldquo;'+esc(term)+'&rdquo;.</div>';
+      return;
+    }
+
     var shut=isShut();
-    $("menu").innerHTML = order.map(function(course){
+    $("menu").innerHTML = order.map(function(course,idx){
+      var cid=slug(course)||("c"+idx);
+
+      /* While searching every match is open. Otherwise courses start shut, so
+         the whole 29-course index fits on a screen instead of one 21-dish
+         course burying it, and remember whatever the reader opens after that. */
+      var open = term ? true : !!openCourses[cid];
       var rows=by[course].map(function(r){
         var k=dishKey(r[0],r[1]), q=qtyOf(k);
-        return '<div class="dish'+(q>0?" on":"")+'">'
+        return '<div class="dish'+(q>0?" on":"")+'" data-dk="'+k+'">'
           +'<div class="d-name">'+esc(r[1])+"</div>"
           +'<div class="d-price">'+(r[2]==null?'<span class="tbc">tbc</span>':money(r[2]))+"</div>"
           +'<div class="stepper'+(q>0?"":" z")+'">'
@@ -457,10 +697,36 @@ footer .mono{font-size:12px}
           +'<button type="button" data-k="'+k+'" data-d="1" aria-label="One more '+esc(r[1])+'"'+(shut?" disabled":"")+">+</button>"
           +"</div></div>";
       }).join("");
-      var n=by[course].length;
-      return '<div class="course"><div class="course-h"><h3>'+esc(course)+"</h3>"
-        +'<span class="c-ct">'+n+" "+(n===1?"dish":"dishes")+"</span></div>"+rows+"</div>";
+      var n=by[course].length, chosen=courseChosen(by[course]);
+      return '<details class="course" data-c="'+cid+'"'+(open?" open":"")+">"
+        +'<summary class="course-h"><h3>'+esc(course)+"</h3>"
+        +'<span class="c-meta">'
+        +'<span class="c-chosen"'+(chosen?"":" hidden")+">"+chosen+" chosen</span>"
+        +'<span class="c-ct">'+n+" "+(n===1?"dish":"dishes")+"</span></span></summary>"
+        +rows+"</details>";
     }).join("");
+  }
+
+  /* A tap on a stepper touches one row, not all 182 — a full re-render would
+     also snap every course shut and throw the reader back up the page. */
+  function updateDish(k){
+    var row=$("menu").querySelector('.dish[data-dk="'+k+'"]');
+    if(!row){ renderMenu(); return; }
+    var q=qtyOf(k), shut=isShut();
+    row.classList.toggle("on",q>0);
+    row.querySelector(".q").textContent=q;
+    row.querySelector(".stepper").classList.toggle("z",q<=0);
+    row.querySelector('button[data-d="-1"]').disabled=(q<=0||shut);
+    var det=row.closest("details.course");
+    if(det){
+      var sum=0;
+      det.querySelectorAll(".dish").forEach(function(d){
+        sum+=qtyOf(d.getAttribute("data-dk"));
+      });
+      var badge=det.querySelector(".c-chosen");
+      badge.textContent=sum+" chosen";
+      badge.hidden=!sum;
+    }
   }
 
   function renderBasket(){
@@ -689,7 +955,30 @@ footer .mono{font-size:12px}
     var b=e.target.closest("button[data-k]"); if(!b||b.disabled)return;
     var k=b.getAttribute("data-k"), d=parseInt(b.getAttribute("data-d"),10);
     setQty(k,qtyOf(k)+d);
-    renderMenu(); renderBasket();
+    updateDish(k); renderBasket();
+  });
+  /* toggle does not bubble, so listen for it on the way down */
+  $("menu").addEventListener("toggle",function(e){
+    var det=e.target.closest("details.course"); if(!det)return;
+    if(!$("fSearch").value.trim()) openCourses[det.getAttribute("data-c")]=det.open;
+  },true);
+  var searchTimer=null;
+  $("fSearch").addEventListener("input",function(){
+    clearTimeout(searchTimer);
+    searchTimer=setTimeout(renderMenu,120);
+  });
+  $("fSearchClear").addEventListener("click",function(){
+    $("fSearch").value=""; renderMenu(); $("fSearch").focus();
+  });
+  $("mExpand").addEventListener("click",function(){
+    $("menu").querySelectorAll("details.course").forEach(function(d){
+      d.open=true; openCourses[d.getAttribute("data-c")]=true;
+    });
+  });
+  $("mCollapse").addEventListener("click",function(){
+    $("menu").querySelectorAll("details.course").forEach(function(d){
+      d.open=false; openCourses[d.getAttribute("data-c")]=false;
+    });
   });
   $("fName").addEventListener("input",renderNameHint);
   $("fName").addEventListener("change",maybeLoadExisting);
