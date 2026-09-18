@@ -1,6 +1,6 @@
 # Newspeak House Order Paper
 
-A dinner ordering sheet for two sittings, taking orders from up to 30 people for
+A dinner ordering sheet taking orders for
 [Bangkok Bites](https://www.bangkokbites.uk/) at 147 Bethnal Green Road — four
 doors down from the house at 133.
 
@@ -90,25 +90,20 @@ Copy `.env.example` to `.env`, or export these before `npm start`:
 
 ## Using it
 
-**Ordering.** Pick a sitting, put your name down, tap dishes up and down, table
-the order. Typing a name that's already on the roll pulls that order back up to
-edit, so people can change their minds without creating duplicates. Each person
-can order for both sittings.
-
+**Ordering.** Put your name down, tap dishes up and down, table the order. Typing a name that's already on the roll pulls that order back up to
+edit, so people can change their minds without creating duplicates. 
 Name only — no email is asked for or stored, since nobody is being invoiced.
 
 **How many places.** Clerk's table → **Places**. Defaults to `0`, meaning no
 limit. Put a number in to cap it; that cap is enforced on the server, not just
 in the page.
 
-**No prices are shown to the people ordering.** Nobody is paying, so the menu,
-the basket, the roll and the tally all show dishes and quantities only. Prices
-are still held against every dish and still appear in the list emailed to the
-organisers, which is where the money actually matters.
+**No prices anywhere.** Nobody is paying, so the menu carries dishes only — no
+prices in the page and none in the emailed list either. The menu format is
+`Course | Dish`.
 
-**The two sittings** are named as well as dated — "Faculty Dinner" on Thursday
-17 September and "Welcome Dinner" on Friday 18 September by default. Both the
-name and the date are editable in the clerk's table.
+**One sitting.** The Welcome Dinner, Friday 18 September. Both the name and the
+date are editable in the clerk's table.
 
 **Emailing the list.** Open the clerk's table with your `?admin=` link and press
 **Email it to Ed & Hannah**. It sends both sittings — the tally and the
@@ -121,14 +116,15 @@ what everyone sees.
 **Editing the menu.** Clerk's table → the menu. One dish per line:
 
 ```
-Course | Dish | Price
-Starters | Vegetable Spring Rolls | 6.50
-Curries | Green Curry (medium) | 9.50
+Course | Dish
+Appetizers | Edamame
+Thai Curries · Green Curry (medium) | Chicken
 Sushi | Vegetarian Sushi
 ```
 
-Leave the price off and the dish shows as *tbc*. Saving replaces the menu for
-everyone.
+A course written `Category · Dish` groups the protein choices for one dish: the
+row reads "Chicken" in context, and "Green Curry (medium) — Chicken" on the roll,
+the tally and the email. Saving replaces the menu for everyone.
 
 ### The menu as shipped
 
@@ -143,6 +139,13 @@ Chicken", because "2 × Chicken" is not something a kitchen can cook from.
 
 Note that Bangkok Bites run 50% off Monday–Thursday evenings, so these full list
 prices should overstate the actual bill.
+
+## Styling
+
+Taken from [newspeak.house](https://newspeak.house): EB Garamond throughout, a
+charcoal masthead in cream with letterspaced serif caps, brick red `#C43C2D` on
+headings and controls, letterspaced uppercase for every metadata line, and thin
+rules with a left vertical rule marking entries.
 
 ## API
 

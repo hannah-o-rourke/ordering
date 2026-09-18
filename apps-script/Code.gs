@@ -24,7 +24,7 @@ var DEFAULT_CAP = 0; // 0 means no limit; set one in the clerk's table
 var EMAIL_TO = 'ed@newspeak.house,hannah@campaignlab.uk';
 var SHEET_NAME = 'Orders';
 var CONFIG_SHEET = 'Config';
-var HEADERS = ['id', 'name', 'updated', 'faculty dinner', 'welcome dinner', 'total', 'json'];
+var HEADERS = ['id', 'name', 'updated', 'order', 'notes', 'json'];
 
 /* ------------------------------------------------------------ setup ------ */
 
@@ -58,9 +58,9 @@ function openBook_() {
   if (sheet.getLastRow() === 0) {
     sheet.getRange(1, 1, 1, HEADERS.length).setValues([HEADERS]).setFontWeight('bold');
     sheet.setFrozenRows(1);
-    sheet.setColumnWidth(4, 280);
-    sheet.setColumnWidth(5, 280);
-    sheet.hideColumns(7); // the json column is machinery, not for reading
+    sheet.setColumnWidth(4, 420);
+    sheet.setColumnWidth(5, 240);
+    sheet.hideColumns(6); // the json column is machinery, not for reading
   }
   if (!ss.getSheetByName(CONFIG_SHEET)) ss.insertSheet(CONFIG_SHEET).hideSheet();
   var first = ss.getSheetByName('Sheet1');
@@ -101,13 +101,10 @@ function cleanOrder_(input) {
     var slot = input.nights[keys[i]] || {};
     var raw = Object.prototype.toString.call(slot.items) === '[object Array]' ? slot.items : [];
     var items = raw.slice(0, 60).map(function (it) {
-      var price = (it.price === null || it.price === undefined || isNaN(Number(it.price)))
-        ? null : Number(it.price);
       return {
         key: String(it.key || '').slice(0, 120),
         course: String(it.course || '').slice(0, 40),
         name: String(it.name || '').slice(0, 80),
-        price: price,
         qty: Math.max(1, Math.min(20, parseInt(it.qty, 10) || 1))
       };
     });
@@ -126,7 +123,7 @@ function readOrders_() {
   for (var i = 0; i < rows.length; i++) {
     if (!rows[i][0]) continue;
     try {
-      var o = JSON.parse(rows[i][6]);
+      var o = JSON.parse(rows[i][5]);
       o.id = String(rows[i][0]);
       out.push(o);
     } catch (e) { /* a row someone edited by hand — skip it rather than fall over */ }
@@ -146,17 +143,8 @@ function findRow_(id) {
 /** Human-readable summary of one sitting, for the spreadsheet columns. */
 function describe_(slot) {
   if (!slot || !slot.items || !slot.items.length) return '';
-  var line = slot.items.map(function (i) { return i.qty + ' × ' + i.name; }).join(', ');
-  return slot.notes ? line + '  (' + slot.notes + ')' : line;
+  return slot.items.map(function (i) { return i.qty + ' × ' + i.name; }).join(', ');
 }
-function total_(order) {
-  var t = 0;
-  for (var k in order.nights) {
-    (order.nights[k].items || []).forEach(function (i) { if (i.price != null) t += i.price * i.qty; });
-  }
-  return t;
-}
-
 function cap_() {
   var cfg = readConfig_();
   if (cfg && cfg.cap !== undefined && cfg.cap !== null && cfg.cap !== '') return Number(cfg.cap) || 0;
@@ -166,10 +154,10 @@ function cap_() {
 function writeOrder_(id, order) {
   var sh = sheet_(), row = findRow_(id), cap = cap_();
   if (!row && cap > 0 && readOrders_().length >= cap) throw new Error('Every place is taken');
+  var slot = order.nights.n1 || {};
   var values = [[
     id, order.name, order.updatedAt,
-    describe_(order.nights.n1), describe_(order.nights.n2),
-    total_(order), JSON.stringify(order)
+    describe_(slot), String(slot.notes || ''), JSON.stringify(order)
   ]];
   if (row) sh.getRange(row, 1, 1, HEADERS.length).setValues(values);
   else sh.appendRow(values[0]);
@@ -221,15 +209,14 @@ function handle_(action, data) {
     var c = data.config || {};
     writeConfig_({
       menu: Object.prototype.toString.call(c.menu) === '[object Array]'
-        ? c.menu.slice(0, 200).map(function (r) {
-            var p = (r[2] === null || r[2] === undefined || isNaN(Number(r[2]))) ? null : Number(r[2]);
-            return [String(r[0] || '').slice(0, 40), String(r[1] || '').slice(0, 80), p];
+        ? c.menu.slice(0, 250).map(function (r) {
+            return [String(r[0] || '').slice(0, 40), String(r[1] || '').slice(0, 80)];
           })
         : null,
       nights: Object.prototype.toString.call(c.nights) === '[object Array]'
-        ? c.nights.slice(0, 2).map(function (n, i) {
+        ? c.nights.slice(0, 1).map(function (n) {
             return {
-              id: i === 0 ? 'n1' : 'n2',
+              id: 'n1',
               label: String(n.label || '').slice(0, 60),
               date: String(n.date || '').slice(0, 60)
             };

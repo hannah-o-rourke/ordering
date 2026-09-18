@@ -102,13 +102,12 @@ function cleanOrder(input) {
   const name = String(input.name || "").trim().slice(0, 60);
   if (!name) throw new Error("An order needs a name");
   const nights = {};
-  for (const key of Object.keys(input.nights || {}).slice(0, 2)) {
+  for (const key of Object.keys(input.nights || {}).slice(0, 1)) {
     const slot = input.nights[key] || {};
     const items = (Array.isArray(slot.items) ? slot.items : []).slice(0, 60).map((i) => ({
       key: String(i.key || "").slice(0, 120),
       course: String(i.course || "").slice(0, 40),
       name: String(i.name || "").slice(0, 80),
-      price: i.price == null || !isFinite(Number(i.price)) ? null : Number(i.price),
       qty: Math.max(1, Math.min(20, parseInt(i.qty, 10) || 1)),
     }));
     nights[String(key).slice(0, 12)] = { items, notes: String(slot.notes || "").slice(0, 400) };
@@ -193,13 +192,12 @@ const server = http.createServer(async (req, res) => {
       const body = await readBody(req);
       const c = body.config || {};
       state.config = {
-        menu: Array.isArray(c.menu) ? c.menu.slice(0, 200).map((r) => [
+        menu: Array.isArray(c.menu) ? c.menu.slice(0, 250).map((r) => [
           String(r[0] || "").slice(0, 40),
           String(r[1] || "").slice(0, 80),
-          r[2] == null || !isFinite(Number(r[2])) ? null : Number(r[2]),
         ]) : null,
-        nights: Array.isArray(c.nights) ? c.nights.slice(0, 2).map((n, i) => ({
-          id: i === 0 ? "n1" : "n2",
+        nights: Array.isArray(c.nights) ? c.nights.slice(0, 1).map((n) => ({
+          id: "n1",
           label: String(n.label || "").slice(0, 60),
           date: String(n.date || "").slice(0, 60),
         })) : null,

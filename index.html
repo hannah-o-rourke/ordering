@@ -1,254 +1,248 @@
+<meta charset="utf-8">
 <title>Newspeak House Order Paper</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Bodoni+Moda:opsz,wght@6..96,400;6..96,700;6..96,900&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&display=swap">
 <style>
 :root{
-  --paper:#E6E5E0; --paper-2:#F1F0EC; --paper-3:#DBDAD3;
-  --ink:#17171A; --ink-2:#55555C; --ink-3:#7E7E85;
-  --rule:#C3C2BB; --rule-2:#AFAEA6;
-  --accent:#E0007A; --accent-ink:#FFFFFF; --accent-soft:#F8D9E9;
-  --good:#2E6B4F; --good-soft:#D9E8E0;
-  --warn:#8A5200; --warn-soft:#F2E3CC;
-  --shadow:0 1px 0 rgba(23,23,26,.06);
-  --display:"Bodoni Moda",Georgia,"Times New Roman",serif;
-  --body:"Archivo","Helvetica Neue",Helvetica,Arial,sans-serif;
-  --mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  --paper:#FFFFFF; --paper-2:#FAF9F6; --paper-3:#F1EFEA;
+  --ink:#1E1D1B; --ink-2:#6A6760; --ink-3:#97938B;
+  --rule:#DFDCD5; --rule-2:#C7C3BA;
+  --accent:#C43C2D; --accent-ink:#FFFFFF; --accent-soft:#F8EAE7;
+  --dark:#2E2D2A; --dark-ink:#EDE8DE; --dark-ink-2:#A8A296; --dark-rule:#57544E;
+  --good:#3F6B4A; --warn:#9A5B12;
+  --serif:"EB Garamond",Garamond,Georgia,"Times New Roman",serif;
 }
 @media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
-    --paper:#131316; --paper-2:#1C1C20; --paper-3:#0D0D10;
-    --ink:#EDECE6; --ink-2:#9A9A94; --ink-3:#76766F;
-    --rule:#34343A; --rule-2:#45454C;
-    --accent:#FF3D9A; --accent-ink:#16060E; --accent-soft:#37101F;
-    --good:#6FCF97; --good-soft:#16281E;
-    --warn:#E0A94F; --warn-soft:#2C2214;
-    --shadow:0 1px 0 rgba(0,0,0,.4);
+    --paper:#1B1A18; --paper-2:#232220; --paper-3:#2B2A27;
+    --ink:#EDE8DE; --ink-2:#A8A296; --ink-3:#7C786F;
+    --rule:#35332F; --rule-2:#474440;
+    --accent:#E36552; --accent-ink:#1B0C09; --accent-soft:#3A201B;
+    --dark:#121110; --dark-ink:#EDE8DE; --dark-ink-2:#A8A296; --dark-rule:#3A3733;
+    --good:#7FB68C; --warn:#D79B4A;
   }
 }
 :root[data-theme="dark"]{
-  --paper:#131316; --paper-2:#1C1C20; --paper-3:#0D0D10;
-  --ink:#EDECE6; --ink-2:#9A9A94; --ink-3:#76766F;
-  --rule:#34343A; --rule-2:#45454C;
-  --accent:#FF3D9A; --accent-ink:#16060E; --accent-soft:#37101F;
-  --good:#6FCF97; --good-soft:#16281E;
-  --warn:#E0A94F; --warn-soft:#2C2214;
-  --shadow:0 1px 0 rgba(0,0,0,.4);
+  --paper:#1B1A18; --paper-2:#232220; --paper-3:#2B2A27;
+  --ink:#EDE8DE; --ink-2:#A8A296; --ink-3:#7C786F;
+  --rule:#35332F; --rule-2:#474440;
+  --accent:#E36552; --accent-ink:#1B0C09; --accent-soft:#3A201B;
+  --dark:#121110; --dark-ink:#EDE8DE; --dark-ink-2:#A8A296; --dark-rule:#3A3733;
+  --good:#7FB68C; --warn:#D79B4A;
 }
 *{box-sizing:border-box}
-body{background:var(--paper);color:var(--ink);font-family:var(--body);
-  margin:0;padding-block:0 64px;padding-left:20px;padding-right:20px;
-  font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
-.wrap{max-width:940px;margin:0 auto}
-a{color:var(--accent)}
-h1,h2,h3{text-wrap:balance;margin:0}
+body{background:var(--paper);color:var(--ink);font-family:var(--serif);
+  margin:0;padding:0 0 72px;font-size:19px;line-height:1.55;
+  -webkit-font-smoothing:antialiased;font-variant-numeric:lining-nums}
+.wrap{max-width:820px;margin:0 auto;padding-inline:22px}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:2px}
+h1,h2,h3{text-wrap:balance;margin:0;font-weight:600}
 button{font-family:inherit;font-size:inherit;color:inherit}
-:focus-visible{outline:2.5px solid var(--accent);outline-offset:2px;border-radius:2px}
-.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
-.eyebrow{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.16em;
-  text-transform:uppercase;color:var(--ink-2)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
-/* ---------- masthead ---------- */
-.masthead{border-bottom:3px solid var(--ink);padding-block:26px 12px;margin-bottom:0}
-.masthead .top{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:baseline;
-  justify-content:space-between;border-bottom:1px solid var(--rule);padding-bottom:10px}
-.title{font-family:var(--display);font-weight:900;font-size:clamp(40px,10.5vw,84px);
-  line-height:.92;letter-spacing:-.015em;margin:16px 0 10px}
-.title em{font-style:italic;font-weight:400;color:var(--accent)}
-.standfirst{font-size:clamp(15px,2.4vw,18px);color:var(--ink-2);max-width:56ch;margin-bottom:16px}
-.standfirst strong{color:var(--ink);font-weight:600}
+/* letterspaced uppercase, the way their metadata lines are set */
+.caps{text-transform:uppercase;letter-spacing:.16em;font-size:.72em;font-weight:600;
+  color:var(--ink-2)}
 
-/* ---------- status strip ---------- */
-.strip{display:flex;flex-wrap:wrap;gap:0;border:1px solid var(--rule);
-  border-left:4px solid var(--accent);background:var(--paper-2);margin-block:18px 28px}
-.strip .cell{flex:1 1 150px;padding:11px 14px;border-right:1px solid var(--rule)}
-.strip .cell:last-child{border-right:0}
-.strip .k{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
-  text-transform:uppercase;color:var(--ink-3);display:block;margin-bottom:3px}
-.strip .v{font-family:var(--mono);font-size:19px;font-weight:600;letter-spacing:-.01em}
-.strip .v small{font-size:12px;color:var(--ink-3);font-weight:400}
-.pill{display:inline-block;font-family:var(--mono);font-size:11px;font-weight:600;
-  letter-spacing:.08em;text-transform:uppercase;padding:3px 9px;border-radius:999px}
-.pill.open{background:var(--good-soft);color:var(--good);border:1px solid var(--good)}
-.pill.shut{background:var(--warn-soft);color:var(--warn);border:1px solid var(--warn)}
+/* ---------- masthead: their charcoal panel ---------- */
+.masthead{background:var(--dark);color:var(--dark-ink);text-align:center;
+  padding:52px 22px 44px;margin-bottom:44px}
+.masthead .college{display:block;text-transform:uppercase;letter-spacing:.28em;
+  font-size:11.5px;font-weight:600;color:var(--dark-ink-2);margin-bottom:20px}
+.masthead .house{display:block;text-transform:uppercase;letter-spacing:.2em;
+  font-size:clamp(25px,6vw,42px);font-weight:600;line-height:1.1}
+.masthead .yearrule{display:flex;align-items:center;justify-content:center;gap:14px;
+  margin:14px auto 0;max-width:320px;color:var(--dark-ink-2)}
+.masthead .yearrule::before,.masthead .yearrule::after{content:"";height:1px;flex:1;
+  background:var(--dark-rule)}
+.masthead .yearrule span{text-transform:uppercase;letter-spacing:.2em;font-size:11.5px}
+.masthead .dinner{display:block;font-size:clamp(27px,6.4vw,40px);font-style:italic;
+  font-weight:400;margin-top:30px;line-height:1.15}
+.masthead .when{display:block;text-transform:uppercase;letter-spacing:.17em;font-size:12.5px;
+  font-weight:600;color:var(--dark-ink-2);margin-top:13px}
+.masthead .where{display:block;font-size:16.5px;color:var(--dark-ink-2);margin-top:20px;
+  max-width:46ch;margin-inline:auto;line-height:1.5}
+.masthead .where em{font-style:italic;color:var(--dark-ink)}
+
+/* ---------- status line ---------- */
+.strip{display:flex;flex-wrap:wrap;gap:10px 34px;border-left:2px solid var(--accent);
+  padding:4px 0 4px 18px;margin-bottom:34px}
+.strip .cell .k{display:block;text-transform:uppercase;letter-spacing:.16em;font-size:10.5px;
+  font-weight:600;color:var(--ink-3)}
+.strip .cell .v{display:block;font-size:23px;font-weight:600;line-height:1.25}
+.strip .cell .v small{font-size:14px;color:var(--ink-3);font-weight:400}
+.pill{display:inline-block;text-transform:uppercase;letter-spacing:.14em;font-size:11px;
+  font-weight:600;padding:3px 11px;border:1px solid currentColor}
+.pill.open{color:var(--good)} .pill.shut{color:var(--warn)}
 
 /* ---------- notices ---------- */
-.notice{border:1px solid var(--rule);border-left:4px solid var(--warn);
-  background:var(--warn-soft);color:var(--ink);padding:12px 14px;margin-bottom:20px;font-size:14px}
+.notice{border-left:2px solid var(--warn);background:var(--paper-2);padding:14px 18px;
+  margin-bottom:26px;font-size:16.5px;line-height:1.5}
 .notice b{font-weight:600}
 
-/* ---------- section headers ---------- */
-.sec{margin-top:40px}
-.sec-head{display:flex;align-items:baseline;gap:12px;border-bottom:2px solid var(--ink);padding-bottom:7px}
-.sec-head h2{font-family:var(--display);font-size:clamp(22px,4vw,30px);font-weight:700;letter-spacing:-.01em}
-.sec-head .num{font-family:var(--mono);font-size:11px;font-weight:600;color:var(--accent);
-  letter-spacing:.14em;text-transform:uppercase}
-.sec-note{font-size:13.5px;color:var(--ink-2);margin-top:9px}
+/* ---------- sections ---------- */
+.sec{margin-top:52px}
+.sec-head{display:flex;align-items:baseline;gap:13px;border-bottom:1px solid var(--ink);
+  padding-bottom:8px}
+.sec-head h2{font-size:clamp(23px,4.4vw,31px);font-weight:600}
+.sec-head .num{text-transform:uppercase;letter-spacing:.16em;font-size:11px;font-weight:600;
+  color:var(--accent)}
+.sec-note{font-size:17px;color:var(--ink-2);margin:12px 0 0;max-width:62ch}
+.sec-note strong{color:var(--ink);font-weight:600}
 
-/* ---------- sittings ---------- */
-.sittings{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;margin-top:16px}
-.sitting{position:relative;text-align:left;background:var(--paper-2);border:1px solid var(--rule-2);
-  padding:14px 15px;cursor:pointer;transition:border-color .12s,background .12s}
-.sitting:hover{border-color:var(--ink-2)}
-.sitting[aria-pressed="true"]{border-color:var(--accent);border-width:2px;padding:13px 14px;
-  background:var(--accent-soft)}
-.sitting .s-n{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
-  text-transform:uppercase;color:var(--ink-3);display:block}
-.sitting .s-d,.sitting .s-c,.sitting .s-when{display:block}
-.sitting .s-when{font-family:var(--body);font-size:14px;color:var(--ink-2);margin-top:2px}
-.sitting[aria-pressed="true"] .s-when{color:var(--ink)}
-.sitting[aria-pressed="true"] .s-n{color:var(--accent)}
-.sitting .s-d{font-family:var(--display);font-size:21px;font-weight:700;margin-top:3px;line-height:1.15}
-.sitting .s-c{font-family:var(--mono);font-size:12px;color:var(--ink-2);margin-top:5px}
-
-/* ---------- identity ---------- */
-.fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-top:16px}
+/* ---------- fields ---------- */
+.fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px;margin-top:20px}
 label.f{display:block}
-label.f .l{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
-  text-transform:uppercase;color:var(--ink-2);display:block;margin-bottom:5px}
-input[type=text],input[type=email],textarea,select{width:100%;font-family:var(--body);font-size:15px;
-  background:var(--paper-2);color:var(--ink);border:1px solid var(--rule-2);padding:9px 11px;border-radius:0}
-textarea{min-height:70px;resize:vertical;line-height:1.45}
-input::placeholder,textarea::placeholder{color:var(--ink-3)}
-.hint{font-size:12.5px;color:var(--ink-2);margin-top:7px}
+label.f .l{display:block;text-transform:uppercase;letter-spacing:.16em;font-size:10.5px;
+  font-weight:600;color:var(--ink-2);margin-bottom:6px}
+input[type=text],textarea{width:100%;font-family:var(--serif);font-size:18px;
+  background:var(--paper-2);color:var(--ink);border:1px solid var(--rule-2);
+  padding:10px 13px;border-radius:0}
+textarea{min-height:80px;resize:vertical;line-height:1.5}
+input::placeholder,textarea::placeholder{color:var(--ink-3);font-style:italic}
+.hint{font-size:16px;color:var(--ink-2);margin-top:9px}
+.hint strong{color:var(--ink)}
 
 /* ---------- menu ---------- */
-.searchbar{position:relative;margin-top:16px}
-.searchbar input{padding-left:34px}
-.searchbar::before{content:"⌕";position:absolute;left:12px;top:50%;transform:translateY(-50%);
-  font-size:19px;color:var(--ink-3);pointer-events:none;line-height:1}
-.searchbar .clear{position:absolute;right:6px;top:50%;transform:translateY(-50%);border:0;
-  background:transparent;cursor:pointer;color:var(--ink-3);font-family:var(--mono);
-  font-size:15px;padding:6px 9px;line-height:1}
+.searchbar{position:relative;margin-top:20px}
+.searchbar input{padding-left:38px}
+.searchbar::before{content:"⌕";position:absolute;left:13px;top:50%;transform:translateY(-50%);
+  font-size:22px;color:var(--ink-3);pointer-events:none;line-height:1}
+.searchbar .clear{position:absolute;right:7px;top:50%;transform:translateY(-50%);border:0;
+  background:transparent;cursor:pointer;color:var(--ink-3);font-size:20px;padding:5px 10px;line-height:1}
 .searchbar .clear:hover{color:var(--ink)}
-.menu-meta{display:flex;flex-wrap:wrap;gap:6px 14px;justify-content:space-between;
-  font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;
-  color:var(--ink-3);margin-top:10px}
-.menu-meta button{border:0;background:transparent;cursor:pointer;font-family:var(--mono);
-  font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);padding:0}
+.menu-meta{display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between;
+  text-transform:uppercase;letter-spacing:.14em;font-size:10.5px;font-weight:600;
+  color:var(--ink-3);margin-top:13px}
+.menu-meta button{border:0;background:transparent;cursor:pointer;text-transform:uppercase;
+  letter-spacing:.14em;font-size:10.5px;font-weight:600;color:var(--accent);padding:0}
 .menu-meta button:hover{text-decoration:underline}
 
-.course{margin-top:2px;border-bottom:1px solid var(--rule)}
-.course-h{display:flex;align-items:baseline;justify-content:space-between;gap:10px;
-  padding:11px 2px;cursor:pointer;list-style:none}
+.course{border-bottom:1px solid var(--rule)}
+.course-h{display:flex;align-items:baseline;justify-content:space-between;gap:12px;
+  padding:13px 2px;cursor:pointer;list-style:none}
 .course-h::-webkit-details-marker{display:none}
-.course-h::before{content:"▸";font-family:var(--mono);font-size:11px;color:var(--accent);
-  margin-right:9px;display:inline-block;flex:0 0 auto}
+.course-h::before{content:"▸";font-size:12px;color:var(--accent);margin-right:11px;
+  flex:0 0 auto;position:relative;top:-1px}
 .course[open] > .course-h::before{content:"▾"}
 .course-h:hover h3{color:var(--accent)}
-.course-h h3{font-family:var(--display);font-size:19px;font-weight:700;font-style:italic;
-  flex:1;min-width:0}
-.course[open] > .course-h{border-bottom:1px solid var(--ink)}
-.c-meta{display:flex;align-items:baseline;gap:10px;flex:0 0 auto}
-.course-h .c-ct{font-family:var(--mono);font-size:11px;color:var(--ink-3)}
-.c-chosen{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.08em;
-  text-transform:uppercase;background:var(--accent);color:var(--accent-ink);padding:2px 7px;
-  border-radius:999px}
+.course-h h3{font-size:21px;font-weight:600;flex:1;min-width:0}
+.course[open] > .course-h{border-bottom:1px solid var(--rule)}
+.c-meta{display:flex;align-items:baseline;gap:12px;flex:0 0 auto}
+.c-ct{text-transform:uppercase;letter-spacing:.13em;font-size:10px;font-weight:600;color:var(--ink-3)}
+.c-chosen{text-transform:uppercase;letter-spacing:.12em;font-size:10px;font-weight:600;
+  background:var(--accent);color:var(--accent-ink);padding:3px 9px}
 .c-chosen[hidden]{display:none}
-.dish{display:grid;grid-template-columns:1fr auto;gap:10px 14px;align-items:center;
-  padding:9px 0 9px 20px;border-bottom:1px dotted var(--rule)}
+.dish{display:grid;grid-template-columns:1fr auto;gap:12px 16px;align-items:center;
+  padding:10px 0 10px 24px;border-bottom:1px solid var(--rule)}
 .dish:last-child{border-bottom:0}
-.dish.on{background:linear-gradient(90deg,var(--accent-soft),transparent 65%)}
-.d-name{font-size:15.5px;font-weight:500;line-height:1.3}
-.stepper{display:flex;align-items:center;border:1px solid var(--rule-2);background:var(--paper-2)}
-.stepper button{width:32px;height:32px;border:0;background:transparent;cursor:pointer;
-  font-family:var(--mono);font-size:16px;font-weight:600;line-height:1;color:var(--ink-2);padding:0}
+.dish.on{background:var(--accent-soft)}
+.d-name{font-size:18px;line-height:1.35}
+.stepper{display:flex;align-items:center;border:1px solid var(--rule-2);background:var(--paper)}
+.stepper button{width:36px;height:36px;border:0;background:transparent;cursor:pointer;
+  font-size:19px;font-weight:600;line-height:1;color:var(--ink-2);padding:0}
 .stepper button:hover:not(:disabled){background:var(--accent);color:var(--accent-ink)}
-.stepper button:disabled{opacity:.3;cursor:default}
-.stepper .q{width:30px;text-align:center;font-family:var(--mono);font-size:15px;font-weight:600;
-  font-variant-numeric:tabular-nums}
+.stepper button:disabled{opacity:.28;cursor:default}
+.stepper .q{width:34px;text-align:center;font-size:18px;font-weight:600;
+  font-variant-numeric:lining-nums tabular-nums}
 .stepper.z .q{color:var(--ink-3)}
 
-/* ---------- basket / submit ---------- */
-.basket{border:1px solid var(--rule-2);background:var(--paper-2);margin-top:26px}
-.basket-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px;
-  padding:11px 15px;border-bottom:1px solid var(--rule);background:var(--paper-3)}
-.basket-h .bt{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
-  text-transform:uppercase;color:var(--ink-2)}
-.basket-h .tot{font-family:var(--mono);font-size:13px;font-weight:600;color:var(--ink-2)}
-.basket ul{list-style:none;margin:0;padding:9px 15px}
-.basket li{display:flex;justify-content:space-between;gap:12px;padding:4px 0;font-size:14.5px}
-.basket li .bq{font-family:var(--mono);color:var(--accent);font-weight:600;margin-right:8px}
-.basket .empty{padding:14px 15px;font-size:14px;color:var(--ink-3);font-style:italic}
-.actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:18px}
-.btn{border:0;padding:13px 26px;font-family:var(--mono);font-size:13px;font-weight:600;
-  letter-spacing:.1em;text-transform:uppercase;cursor:pointer;background:var(--accent);
-  color:var(--accent-ink);transition:opacity .12s}
-.btn:hover:not(:disabled){opacity:.86}
-.btn:disabled{opacity:.4;cursor:not-allowed}
-.btn.ghost{background:transparent;color:var(--ink-2);border:1px solid var(--rule-2)}
-.btn.ghost:hover:not(:disabled){border-color:var(--ink);color:var(--ink);opacity:1}
-.saved{font-family:var(--mono);font-size:12.5px;color:var(--good);font-weight:500}
-.errmsg{font-family:var(--mono);font-size:12.5px;color:var(--warn);font-weight:500}
+/* ---------- basket ---------- */
+.basket{border-left:2px solid var(--accent);background:var(--paper-2);margin-top:32px;
+  padding:0 0 4px}
+.basket-h{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
+  padding:13px 18px 10px;border-bottom:1px solid var(--rule)}
+.basket-h .bt{text-transform:uppercase;letter-spacing:.16em;font-size:10.5px;font-weight:600;
+  color:var(--ink-2)}
+.basket-h .tot{text-transform:uppercase;letter-spacing:.12em;font-size:11px;font-weight:600;
+  color:var(--ink-2)}
+.basket ul{list-style:none;margin:0;padding:11px 18px}
+.basket li{padding:4px 0;font-size:17.5px}
+.basket li .bq{color:var(--accent);font-weight:600;margin-right:9px}
+.basket .empty{padding:16px 18px;font-size:17px;color:var(--ink-3);font-style:italic}
+
+.actions{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin-top:22px}
+.btn{border:1px solid var(--accent);padding:12px 28px;text-transform:uppercase;
+  letter-spacing:.16em;font-size:11.5px;font-weight:600;cursor:pointer;
+  background:var(--accent);color:var(--accent-ink)}
+.btn:hover:not(:disabled){background:transparent;color:var(--accent)}
+.btn:disabled{opacity:.42;cursor:not-allowed}
+.btn.ghost{background:transparent;color:var(--ink-2);border-color:var(--rule-2)}
+.btn.ghost:hover:not(:disabled){border-color:var(--ink);color:var(--ink);background:transparent}
+.saved{font-size:16px;color:var(--good);font-style:italic}
+.errmsg{font-size:16px;color:var(--warn);font-style:italic}
 
 /* ---------- roll ---------- */
-.roll{margin-top:14px;border:1px solid var(--rule)}
-.roll-row{display:grid;grid-template-columns:minmax(120px,1fr) 3fr;gap:10px 14px;
-  padding:10px 14px;border-bottom:1px solid var(--rule);align-items:baseline}
-.roll-row:last-child{border-bottom:0}
-.roll-row.hd{background:var(--paper-3);border-bottom:1px solid var(--rule-2)}
-.roll-row.hd span{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
-  text-transform:uppercase;color:var(--ink-2)}
-.roll-row.me{background:var(--accent-soft)}
-.r-name{font-weight:600;font-size:15px;overflow-wrap:anywhere}
-.r-name .you{font-family:var(--mono);font-size:9.5px;font-weight:600;letter-spacing:.1em;
-  text-transform:uppercase;color:var(--accent);display:block}
-.r-items{font-size:14px;color:var(--ink-2);line-height:1.45}
-.r-items .none{font-style:italic;color:var(--ink-3)}
-.empty-roll{padding:22px 16px;text-align:center;color:var(--ink-3);font-size:14.5px;font-style:italic}
+.roll{margin-top:18px;border-top:1px solid var(--rule)}
+.roll-row{display:grid;grid-template-columns:minmax(130px,1fr) 2.6fr;gap:10px 20px;
+  padding:13px 0 13px 18px;border-bottom:1px solid var(--rule);align-items:baseline;
+  border-left:2px solid transparent}
+.roll-row.hd{border-bottom:1px solid var(--rule-2);padding-block:8px}
+.roll-row.hd span{text-transform:uppercase;letter-spacing:.16em;font-size:10.5px;
+  font-weight:600;color:var(--ink-3)}
+.roll-row.me{border-left-color:var(--accent);background:var(--paper-2)}
+.r-name{font-weight:600;font-size:18px;overflow-wrap:anywhere}
+.r-name .you{display:block;text-transform:uppercase;letter-spacing:.14em;font-size:9.5px;
+  font-weight:600;color:var(--accent)}
+.r-items{font-size:17px;color:var(--ink-2);line-height:1.5}
+.r-items em{color:var(--ink-3)}
+.empty-roll{padding:26px 18px;color:var(--ink-3);font-size:17px;font-style:italic}
 
 /* ---------- tally ---------- */
-.tally{margin-top:14px;border:1px solid var(--rule);background:var(--paper-2)}
-.tally-row{display:flex;justify-content:space-between;gap:14px;padding:9px 14px;
-  border-bottom:1px dotted var(--rule);font-size:15px}
-.tally-row:last-child{border-bottom:0}
-.tally-row .tq{font-family:var(--mono);font-weight:600;color:var(--accent);min-width:34px}
-.tally-row .tn{flex:1}
-.tally-foot{display:flex;justify-content:space-between;padding:11px 14px;
-  border-top:2px solid var(--ink);background:var(--paper-3);
-  font-family:var(--mono);font-weight:600;font-size:15px}
+.tally{margin-top:18px;border-top:1px solid var(--rule)}
+.tally-row{display:flex;gap:16px;padding:10px 0 10px 18px;border-bottom:1px solid var(--rule);
+  font-size:18px}
+.tally-row .tq{font-weight:600;color:var(--accent);min-width:38px;
+  font-variant-numeric:lining-nums tabular-nums}
+.tally-foot{display:flex;justify-content:space-between;padding:13px 0 13px 18px;
+  border-bottom:1px solid var(--ink);text-transform:uppercase;letter-spacing:.14em;
+  font-size:11px;font-weight:600;color:var(--ink-2)}
 
-/* ---------- admin ---------- */
-details.admin{margin-top:44px;border-top:1px solid var(--rule);padding-top:14px}
-details.admin summary{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.14em;
-  text-transform:uppercase;color:var(--ink-3);cursor:pointer;list-style:none}
+/* ---------- clerk's table ---------- */
+details.admin{margin-top:64px;border-top:1px solid var(--rule);padding-top:18px}
+details.admin summary{text-transform:uppercase;letter-spacing:.16em;font-size:10.5px;
+  font-weight:600;color:var(--ink-3);cursor:pointer;list-style:none}
 details.admin summary::-webkit-details-marker{display:none}
 details.admin summary::before{content:"▸ ";color:var(--accent)}
 details.admin[open] summary::before{content:"▾ "}
-.admin-body{margin-top:18px;display:grid;gap:18px}
-.admin-card{border:1px solid var(--rule);background:var(--paper-2);padding:15px}
-.admin-card h4{margin:0 0 4px;font-family:var(--mono);font-size:11px;font-weight:600;
-  letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2)}
-.admin-card p{margin:0 0 11px;font-size:13px;color:var(--ink-2)}
-.admin-card textarea{font-family:var(--mono);font-size:12.5px;min-height:170px}
-.copyout{font-family:var(--mono);font-size:12px;white-space:pre-wrap;background:var(--paper-3);
-  border:1px solid var(--rule);padding:11px;max-height:230px;overflow:auto;margin-top:10px}
+.admin-body{margin-top:22px;display:grid;gap:22px}
+.admin-card{border-left:1px solid var(--rule-2);padding:4px 0 4px 20px}
+.admin-card h4{margin:0 0 6px;text-transform:uppercase;letter-spacing:.16em;font-size:10.5px;
+  font-weight:600;color:var(--ink-2)}
+.admin-card p{margin:0 0 13px;font-size:16px;color:var(--ink-2);max-width:62ch}
+.admin-card textarea{font-size:15px;min-height:180px;line-height:1.45}
+.copyout{font-size:15px;white-space:pre-wrap;background:var(--paper-2);
+  border-left:1px solid var(--rule-2);padding:14px 16px;max-height:260px;overflow:auto;margin-top:13px;
+  line-height:1.5}
 
-footer{margin-top:52px;border-top:1px solid var(--rule);padding-top:15px;
-  font-size:13px;color:var(--ink-3);display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between}
-footer .mono{font-size:12px}
+footer{margin-top:64px;border-top:1px solid var(--rule);padding-top:20px;text-align:center}
+footer .f-house{text-transform:uppercase;letter-spacing:.2em;font-size:11px;font-weight:600;
+  color:var(--ink-2)}
+footer .f-addr{font-size:16px;color:var(--ink-3);margin-top:7px}
+
 @media (max-width:560px){
+  body{font-size:18px}
   .roll-row{grid-template-columns:1fr}
   .roll-row .r-items{grid-column:1/-1}
+  .strip{gap:14px 26px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 </style>
 
-<div class="wrap">
-  <header class="masthead">
-    <div class="top">
-      <span class="eyebrow">Newspeak House &middot; London College of Political Technology</span>
-      <span class="eyebrow" id="sessionDate">133 Bethnal Green Road E2</span>
-    </div>
-    <h1 class="title">Order <em>Paper</em></h1>
-    <p class="standfirst">Dinner from <strong>Bangkok Bites</strong>, 147 Bethnal Green Road &mdash; four doors down.
-      Two sittings. Put your name against what you want and it goes on the roll; the whole order is read down
-      the phone as one list.</p>
-  </header>
+<header class="masthead">
+  <span class="college">London College of Political Technology</span>
+  <span class="house">Newspeak House</span>
+  <span class="yearrule"><span>2015</span></span>
+  <span class="dinner" id="mDinner">Welcome Dinner</span>
+  <span class="when" id="mWhen">Friday 18 September</span>
+  <span class="where">Dinner from <em>Bangkok Bites</em>, 147 Bethnal Green Road &mdash; four doors down.
+    Put your name against what you want and it goes on the roll.</span>
+</header>
 
+<div class="wrap">
   <div class="strip">
-    <div class="cell"><span class="k">Sitting</span><span class="v" id="stSitting">&mdash;</span></div>
-    <div class="cell"><span class="k">Names down</span><span class="v" id="stSeats">0 <small>/ 30</small></span></div>
+    <div class="cell"><span class="k">Names down</span><span class="v" id="stSeats">0</span></div>
     <div class="cell"><span class="k">Dishes</span><span class="v" id="stDishes">0</span></div>
     <div class="cell"><span class="k">Status</span><span class="v"><span class="pill open" id="stStatus">Open</span></span></div>
   </div>
@@ -256,25 +250,20 @@ footer .mono{font-size:12px}
   <div id="notices"></div>
 
   <section class="sec">
-    <div class="sec-head"><span class="num">I</span><h2>Choose your sitting</h2></div>
-    <div class="sittings" id="sittings"></div>
-  </section>
-
-  <section class="sec">
-    <div class="sec-head"><span class="num">II</span><h2>Put your name down</h2></div>
-    <p class="sec-note">Type the name you used before to pull your order back up and change it. One entry per
-      person.</p>
+    <div class="sec-head"><span class="num">I</span><h2>Put your name down</h2></div>
+    <p class="sec-note">Type the name you used before to pull your order back up and change it.
+      One entry per person.</p>
     <div class="fields">
       <label class="f" for="fName"><span class="l">Name</span>
-        <input type="text" id="fName" placeholder="e.g. Hannah O'Rourke" autocomplete="name" maxlength="60"></label>
+        <input type="text" id="fName" placeholder="e.g. Hannah O&rsquo;Rourke" autocomplete="name" maxlength="60"></label>
     </div>
     <p class="hint" id="nameHint"></p>
   </section>
 
   <section class="sec">
-    <div class="sec-head"><span class="num">III</span><h2>The menu</h2></div>
-    <p class="sec-note" id="menuNote">Everything Bangkok Bites make, by course. Search it or open a course, then
-      tap <strong>+</strong> for each thing you want. Dinner is on the house &mdash; order what you'll eat.</p>
+    <div class="sec-head"><span class="num">II</span><h2>The menu</h2></div>
+    <p class="sec-note" id="menuNote">Everything Bangkok Bites make, by course. Search it or open a course,
+      then tap <strong>+</strong> for each thing you want. Dinner is on the house &mdash; order what you&rsquo;ll eat.</p>
 
     <div class="searchbar">
       <label class="l" for="fSearch" style="position:absolute;left:-9999px">Search the menu</label>
@@ -289,13 +278,12 @@ footer .mono{font-size:12px}
 
     <div id="menu"></div>
 
-    <label class="f" for="fNotes" style="margin-top:24px;display:block">
+    <label class="f" for="fNotes" style="margin-top:30px;display:block">
       <span class="l">Allergies, spice level, anything else</span>
       <textarea id="fNotes" placeholder="e.g. no peanuts; mild please; no fish sauce" maxlength="400"></textarea></label>
 
     <div class="basket">
-      <div class="basket-h"><span class="bt">Your order &mdash; <span id="bSitting">sitting</span></span>
-        <span class="tot" id="bTotal">&pound;0.00</span></div>
+      <div class="basket-h"><span class="bt">Your order</span><span class="tot" id="bTotal">0 dishes</span></div>
       <div id="basketBody"></div>
     </div>
 
@@ -307,37 +295,33 @@ footer .mono{font-size:12px}
   </section>
 
   <section class="sec">
-    <div class="sec-head"><span class="num">IV</span><h2>The roll</h2></div>
-    <p class="sec-note">Everyone down for <span id="rollSitting">this sitting</span>.</p>
+    <div class="sec-head"><span class="num">III</span><h2>The roll</h2></div>
+    <p class="sec-note">Everyone down for dinner.</p>
     <div class="roll" id="roll"></div>
   </section>
 
   <section class="sec">
-    <div class="sec-head"><span class="num">V</span><h2>Tally for the restaurant</h2></div>
-    <p class="sec-note">Every dish across the sitting, added up. This is the bit you read down the phone.</p>
+    <div class="sec-head"><span class="num">IV</span><h2>Tally for the restaurant</h2></div>
+    <p class="sec-note">Every dish added up. This is the bit you read down the phone.</p>
     <div class="tally" id="tally"></div>
   </section>
 
   <details class="admin">
-    <summary>Clerk's table &mdash; set the dates, edit the menu, close the list</summary>
+    <summary>Clerk&rsquo;s table &mdash; set the dinner, edit the menu, close the list</summary>
     <div class="admin-body">
       <div class="admin-card">
-        <h4>The two sittings</h4>
+        <h4>The dinner</h4>
         <p>Whatever you type here is what everybody sees.</p>
         <div class="fields">
-          <label class="f" for="aN1"><span class="l">First sitting &mdash; name</span>
-            <input type="text" id="aN1" maxlength="60" placeholder="Faculty Dinner"></label>
-          <label class="f" for="aD1"><span class="l">First sitting &mdash; when</span>
-            <input type="text" id="aD1" maxlength="60" placeholder="Thursday 17 September"></label>
-          <label class="f" for="aN2"><span class="l">Second sitting &mdash; name</span>
-            <input type="text" id="aN2" maxlength="60" placeholder="Welcome Dinner"></label>
-          <label class="f" for="aD2"><span class="l">Second sitting &mdash; when</span>
-            <input type="text" id="aD2" maxlength="60" placeholder="Friday 18 September"></label>
+          <label class="f" for="aN1"><span class="l">Name</span>
+            <input type="text" id="aN1" maxlength="60" placeholder="Welcome Dinner"></label>
+          <label class="f" for="aD1"><span class="l">When</span>
+            <input type="text" id="aD1" maxlength="60" placeholder="Friday 18 September"></label>
           <label class="f" for="aCap"><span class="l">Places &mdash; 0 for no limit</span>
             <input type="text" id="aCap" inputmode="numeric" maxlength="4" placeholder="0"></label>
         </div>
         <div class="actions">
-          <button class="btn ghost" id="aSaveNights">Save dates</button>
+          <button class="btn ghost" id="aSaveNights">Save</button>
           <button class="btn ghost" id="aToggle">Close the list</button>
           <span id="aMsg"></span>
         </div>
@@ -345,18 +329,18 @@ footer .mono{font-size:12px}
 
       <div class="admin-card">
         <h4>The menu</h4>
-        <p>One dish per line as <code>Course | Dish | Price</code>. Leave the price out and it shows as
-          <em>price TBC</em>. Paste the real menu in here and it replaces the lot for everyone.</p>
+        <p>One dish per line as <em>Course | Dish</em>. Paste a new menu in here and it replaces
+          the lot for everyone.</p>
         <textarea id="aMenu" spellcheck="false"></textarea>
         <div class="actions">
           <button class="btn ghost" id="aSaveMenu">Save menu</button>
-          <button class="btn ghost" id="aResetMenu">Back to the starting menu</button>
+          <button class="btn ghost" id="aResetMenu">Back to the Bangkok Bites menu</button>
         </div>
       </div>
 
       <div class="admin-card">
         <h4>Plain text of every order</h4>
-        <p>Both sittings, ready to paste into an email or read out.</p>
+        <p>Ready to paste into an email or read out.</p>
         <div class="actions"><button class="btn ghost" id="aBuild">Write it out</button>
           <button class="btn" id="aEmail" hidden>Email it to Ed &amp; Hannah</button>
           <span id="aEmailMsg"></span></div>
@@ -366,247 +350,248 @@ footer .mono{font-size:12px}
   </details>
 
   <footer>
-    <span>Newspeak House &mdash; 133 Bethnal Green Road, London E2 7DG</span>
-    <span class="mono">Bangkok Bites &mdash; 147 Bethnal Green Road, E2 7DG</span>
+    <div class="f-house">Newspeak House</div>
+    <div class="f-addr">133&ndash;135 Bethnal Green Road, London E2 7DG</div>
   </footer>
 </div>
-
 <script>
 (function(){
   "use strict";
-  /* Paste the Apps Script web-app URL here (the one ending /exec) to run this
-     page from GitHub Pages. Leave it empty and the page falls back to the
-     Node server in this repo, or to the artifact db when published as one. */
+
+  /* The Apps Script web-app URL (ending /exec). Empty falls back to the Node
+     server in this repo, or to the artifact db when published as an artifact. */
   var API_URL = "https://script.google.com/macros/s/AKfycbz5cdQ4yPM5Ba4orgeVsVbuXfpkA8I4EYdTGKMZnAPZX2CHBEmHyAELkmWSdQQC3SvS/exec";
 
-  var DEFAULT_CAP = 0;   // 0 = no limit; the clerk's table can set one
+  var DEFAULT_CAP = 0;      // 0 = no limit; the clerk's table can set one
+  var NIGHT = "n1";         // one sitting, but orders keep their night key
+  var DEFAULT_NIGHT = {id:NIGHT,label:"Welcome Dinner",date:"Friday 18 September"};
   var DEFAULT_MENU = [
-    ["Appetizers","Prawn Cracker",2.99],
-    ["Appetizers","Mix Platter for Two",13.5],
-    ["Appetizers","Edamame",3.99],
-    ["Appetizers","Salt and Pepper Chips",6.99],
-    ["Appetizers","Prawn Toast (4 pieces)",7.5],
-    ["Appetizers","Prawn Tempura (5 pieces)",7.5],
-    ["Appetizers","Vegetable Spring Roll (5 pieces)",5.5],
-    ["Appetizers","Vegetable Dumplings (6 pieces)",6.99],
-    ["Appetizers","Chicken Dumplings (6 pieces)",7.5],
-    ["Appetizers","Prawn Dumplings (6 pieces)",7.99],
-    ["Appetizers","Sweet Pumpkin (6 pieces)",null],
-    ["Appetizers","Thai Dim Sum (4 pieces)",6.99],
-    ["Appetizers","Fish Cake (4 pieces)",5.99],
-    ["Appetizers","Spicy Thai Wings (6 pieces)",7.75],
-    ["Appetizers","Salt & Pepper Wings (6 pieces)",7.75],
-    ["Appetizers","Thai Fried Chicken Bites (6 pieces)",7.5],
-    ["Appetizers","Chicken Satay (4 pieces)",7.5],
-    ["Appetizers","Salt and Pepper Chicken",7.5],
-    ["Appetizers","Salt and Pepper Squid",7.5],
-    ["Appetizers","Calamari",6.99],
-    ["Appetizers","Crispy Aromatic Roasted Duck",null],
-    ["Noodles · Pad Thai","Mixed Vegetable & Tofu (vegan)",11.00],
-    ["Noodles · Pad Thai","Plant-Based Chicken",11.99],
-    ["Noodles · Pad Thai","Chicken",11.99],
-    ["Noodles · Pad Thai","Beef",12.5],
-    ["Noodles · Pad Thai","Tiger Prawn",12.99],
-    ["Noodles · Pad Thai","Mixed Seafood",12.99],
-    ["Noodles · Pad Kee Mao (medium hot)","Mixed Vegetable & Tofu (vegan)",11.00],
-    ["Noodles · Pad Kee Mao (medium hot)","Plant-Based Chicken",11.99],
-    ["Noodles · Pad Kee Mao (medium hot)","Chicken",11.99],
-    ["Noodles · Pad Kee Mao (medium hot)","Beef",12.5],
-    ["Noodles · Pad Kee Mao (medium hot)","Tiger Prawn",12.99],
-    ["Noodles · Pad Kee Mao (medium hot)","Mixed Seafood",12.99],
-    ["Noodles · Pad See Ew","Mixed Vegetable & Tofu (vegan)",11.00],
-    ["Noodles · Pad See Ew","Plant-Based Chicken",11.99],
-    ["Noodles · Pad See Ew","Chicken",11.99],
-    ["Noodles · Pad See Ew","Beef",12.5],
-    ["Noodles · Pad See Ew","Tiger Prawn",12.99],
-    ["Noodles · Pad See Ew","Mixed Seafood",12.99],
-    ["Noodles · Chow Mein","Mixed Vegetable & Tofu (vegan)",11.00],
-    ["Noodles · Chow Mein","Plant-Based Chicken",11.99],
-    ["Noodles · Chow Mein","Chicken",11.99],
-    ["Noodles · Chow Mein","Beef",12.5],
-    ["Noodles · Chow Mein","Tiger Prawn",12.99],
-    ["Noodles · Chow Mein","Mixed Seafood",12.99],
-    ["Fried Rice · Basil Fried Rice (medium hot)","Mixed Vegetable & Tofu (vegan)",11.00],
-    ["Fried Rice · Basil Fried Rice (medium hot)","Plant-Based Chicken",11.99],
-    ["Fried Rice · Basil Fried Rice (medium hot)","Chicken",11.99],
-    ["Fried Rice · Basil Fried Rice (medium hot)","Beef",12.5],
-    ["Fried Rice · Basil Fried Rice (medium hot)","Tiger Prawn",12.99],
-    ["Fried Rice · Basil Fried Rice (medium hot)","Mixed Seafood",12.99],
-    ["Fried Rice · Kao Pad","Mixed Vegetable & Tofu (vegan)",11.00],
-    ["Fried Rice · Kao Pad","Plant-Based Chicken",11.99],
-    ["Fried Rice · Kao Pad","Chicken",11.99],
-    ["Fried Rice · Kao Pad","Beef",12.5],
-    ["Fried Rice · Kao Pad","Tiger Prawn",12.99],
-    ["Fried Rice · Kao Pad","Mixed Seafood",12.99],
-    ["Fried Rice · Chinese Fried Rice","Mixed Vegetable & Tofu (vegan)",11.00],
-    ["Fried Rice · Chinese Fried Rice","Plant-Based Chicken",11.99],
-    ["Fried Rice · Chinese Fried Rice","Chicken",11.99],
-    ["Fried Rice · Chinese Fried Rice","Beef",12.5],
-    ["Fried Rice · Chinese Fried Rice","Tiger Prawn",12.99],
-    ["Fried Rice · Chinese Fried Rice","Mixed Seafood",12.99],
-    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Mixed Vegetable & Tofu (vegan)",11.00],
-    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Plant-Based Chicken",11.99],
-    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Chicken",11.99],
-    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Beef",12.5],
-    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Tiger Prawn",12.99],
-    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Mixed Seafood",12.99],
-    ["Japanese Hot Food","Chicken Katsu Curry",11.99],
-    ["Japanese Hot Food","Pumpkin Katsu Curry (vegan)",10.75],
-    ["Japanese Hot Food","Yakisoba — Mixed Vegetable & Tofu (vegan)",11.00],
-    ["Japanese Hot Food","Yakisoba — Plant-Based Chicken",11.99],
-    ["Japanese Hot Food","Yakisoba — Chicken",11.99],
-    ["Japanese Hot Food","Yakisoba — Beef",12.5],
-    ["Stir Fry · Pad Med Mamuang","Mixed Vegetable & Tofu (vegan)",10.75],
-    ["Stir Fry · Pad Med Mamuang","Plant-Based Chicken",11.99],
-    ["Stir Fry · Pad Med Mamuang","Chicken",11.5],
-    ["Stir Fry · Pad Med Mamuang","Beef",11.75],
-    ["Stir Fry · Pad Med Mamuang","Duck",11.75],
-    ["Stir Fry · Pad Med Mamuang","Tiger Prawn",12.3],
-    ["Stir Fry · Pad Med Mamuang","Mixed Seafood",12.5],
-    ["Stir Fry · Pad Kra Prow","Mixed Vegetable & Tofu (vegan)",10.75],
-    ["Stir Fry · Pad Kra Prow","Plant-Based Chicken",11.99],
-    ["Stir Fry · Pad Kra Prow","Chicken",11.5],
-    ["Stir Fry · Pad Kra Prow","Beef",11.75],
-    ["Stir Fry · Pad Kra Prow","Duck",11.75],
-    ["Stir Fry · Pad Kra Prow","Tiger Prawn",12.3],
-    ["Stir Fry · Pad Kra Prow","Mixed Seafood",12.5],
-    ["Stir Fry · Pad Khing","Mixed Vegetable & Tofu (vegan)",10.75],
-    ["Stir Fry · Pad Khing","Plant-Based Chicken",11.99],
-    ["Stir Fry · Pad Khing","Chicken",11.5],
-    ["Stir Fry · Pad Khing","Beef",11.75],
-    ["Stir Fry · Pad Khing","Duck",11.75],
-    ["Stir Fry · Pad Khing","Tiger Prawn",12.3],
-    ["Stir Fry · Pad Khing","Mixed Seafood",12.5],
-    ["Stir Fry · Pad Kratiem","Mixed Vegetable & Tofu (vegan)",10.75],
-    ["Stir Fry · Pad Kratiem","Plant-Based Chicken",11.99],
-    ["Stir Fry · Pad Kratiem","Chicken",11.5],
-    ["Stir Fry · Pad Kratiem","Beef",11.75],
-    ["Stir Fry · Pad Kratiem","Duck",11.75],
-    ["Stir Fry · Pad Kratiem","Tiger Prawn",12.3],
-    ["Stir Fry · Pad Kratiem","Mixed Seafood",12.5],
-    ["Stir Fry","Sweet and Sour Chicken",10.5],
-    ["Stir Fry","Crispy Chilli Chicken",10.5],
-    ["Stir Fry","Pad Broccoli",8.5],
-    ["Stir Fry","Pad Ma Khuer",8.5],
-    ["Thai Curries · Green Curry (medium)","Mixed Vegetable & Tofu (vegan)",10.75],
-    ["Thai Curries · Green Curry (medium)","Plant-Based Chicken",11.5],
-    ["Thai Curries · Green Curry (medium)","Chicken",11.5],
-    ["Thai Curries · Green Curry (medium)","Beef",11.75],
-    ["Thai Curries · Green Curry (medium)","Duck",11.75],
-    ["Thai Curries · Green Curry (medium)","Tiger Prawn",12.3],
-    ["Thai Curries · Green Curry (medium)","Mixed Seafood",12.5],
-    ["Thai Curries · Red Curry (medium)","Mixed Vegetable & Tofu (vegan)",10.75],
-    ["Thai Curries · Red Curry (medium)","Plant-Based Chicken",11.5],
-    ["Thai Curries · Red Curry (medium)","Chicken",11.5],
-    ["Thai Curries · Red Curry (medium)","Beef",11.75],
-    ["Thai Curries · Red Curry (medium)","Duck",11.75],
-    ["Thai Curries · Red Curry (medium)","Tiger Prawn",12.3],
-    ["Thai Curries · Red Curry (medium)","Mixed Seafood",12.5],
-    ["Thai Curries · Penang Curry (medium)","Mixed Vegetable & Tofu (vegan)",10.75],
-    ["Thai Curries · Penang Curry (medium)","Plant-Based Chicken",11.5],
-    ["Thai Curries · Penang Curry (medium)","Chicken",11.5],
-    ["Thai Curries · Penang Curry (medium)","Beef",11.75],
-    ["Thai Curries · Penang Curry (medium)","Duck",11.75],
-    ["Thai Curries · Penang Curry (medium)","Tiger Prawn",12.3],
-    ["Thai Curries · Penang Curry (medium)","Mixed Seafood",12.5],
-    ["Thai Curries · Massaman Curry (mild)","Mixed Vegetable & Tofu (vegan)",10.75],
-    ["Thai Curries · Massaman Curry (mild)","Plant-Based Chicken",11.5],
-    ["Thai Curries · Massaman Curry (mild)","Chicken",11.5],
-    ["Thai Curries · Massaman Curry (mild)","Beef",11.75],
-    ["Thai Curries · Massaman Curry (mild)","Duck",11.75],
-    ["Thai Curries · Massaman Curry (mild)","Tiger Prawn",12.3],
-    ["Thai Curries · Massaman Curry (mild)","Mixed Seafood",12.5],
-    ["Special Rolls (8 pieces)","Dragon Roll",11.00],
-    ["Special Rolls (8 pieces)","Rainbow Roll",11.99],
-    ["Special Rolls (8 pieces)","Fire Roll",11.75],
-    ["Special Rolls (8 pieces)","Rock N Roll",11.75],
-    ["Special Rolls (8 pieces)","Vegan Dragon Roll",12.75],
-    ["Futomaki","Spider Roll (10 pieces)",11.5],
-    ["Futomaki","Prawn Tempura Sweet Chilli Futomaki (6 pieces)",8.99],
-    ["Futomaki","Chicken Teriyaki Futomaki (6 pieces)",8.99],
-    ["Nigiri","Salmon Nigiri",3.99],
-    ["Nigiri","Tuna Nigiri",4.5],
-    ["Nigiri","Spicy Salmon Nigiri",3.99],
-    ["Nigiri","Spicy Tuna Nigiri",4.75],
-    ["Nigiri","Seared Salmon Nigiri",3.99],
-    ["Sashimi","Salmon Sashimi",7.5],
-    ["Sashimi","Seared Salmon Sashimi",7.99],
-    ["Sashimi","Tuna Sashimi (Maguro)",8.25],
-    ["Sashimi","Seared Tuna Sashimi",8.99],
-    ["Salads","Papaya Salad",7.5],
-    ["Salads","Wakame Salad",7.5],
-    ["Soups","Tom Yum — Mushroom",5.5],
-    ["Soups","Tom Yum — Chicken",7.5],
-    ["Soups","Tom Yum — King Prawn",8.00],
-    ["Soups","Tom Kha — Mushroom",5.5],
-    ["Soups","Tom Kha — Chicken",7.5],
-    ["Soups","Tom Kha — King Prawn",8.00],
-    ["Soups","Po-Tek Soup",8.95],
-    ["Rice Sides","Jasmine Rice",2.99],
-    ["Rice Sides","Sushi Rice",2.99],
-    ["Rice Sides","Steamed Sticky Rice",3.5],
-    ["Rice Sides","Coconut Rice",3.99],
-    ["Rice Sides","Egg Fried Rice",3.99],
-    ["Juices","Apple Juice",2.99],
-    ["Juices","Orange Juice",2.99],
-    ["Juices","Pineapple Juice",2.99],
-    ["Juices","Cranberry Juice",2.99],
-    ["Soft Drinks","Still Water",2.5],
-    ["Soft Drinks","Sparkling Water",2.5],
-    ["Soft Drinks","Coke",2.99],
-    ["Soft Drinks","Diet Coke",2.99],
-    ["Soft Drinks","Coke Zero",2.99],
-    ["Soft Drinks","Sprite",2.99],
-    ["Soft Drinks","Fanta Orange",2.99],
-    ["Mocktails","Classic Mojito",5.5],
-    ["Mocktails","Strawberry Mojito",5.5],
-    ["Mocktails","Blue Curaçao",5.75],
-    ["Mocktails","Strawberry Daiquiri",6.00],
-    ["Mocktails","Piña Colada",6.00]
-  ];
-  var DEFAULT_NIGHTS = [
-    {id:"n1",label:"Faculty Dinner",date:"Thursday 17 September"},
-    {id:"n2",label:"Welcome Dinner",date:"Friday 18 September"}
+    ["Appetizers","Prawn Cracker"],
+    ["Appetizers","Mix Platter for Two"],
+    ["Appetizers","Edamame"],
+    ["Appetizers","Salt and Pepper Chips"],
+    ["Appetizers","Prawn Toast (4 pieces)"],
+    ["Appetizers","Prawn Tempura (5 pieces)"],
+    ["Appetizers","Vegetable Spring Roll (5 pieces)"],
+    ["Appetizers","Vegetable Dumplings (6 pieces)"],
+    ["Appetizers","Chicken Dumplings (6 pieces)"],
+    ["Appetizers","Prawn Dumplings (6 pieces)"],
+    ["Appetizers","Sweet Pumpkin (6 pieces)"],
+    ["Appetizers","Thai Dim Sum (4 pieces)"],
+    ["Appetizers","Fish Cake (4 pieces)"],
+    ["Appetizers","Spicy Thai Wings (6 pieces)"],
+    ["Appetizers","Salt & Pepper Wings (6 pieces)"],
+    ["Appetizers","Thai Fried Chicken Bites (6 pieces)"],
+    ["Appetizers","Chicken Satay (4 pieces)"],
+    ["Appetizers","Salt and Pepper Chicken"],
+    ["Appetizers","Salt and Pepper Squid"],
+    ["Appetizers","Calamari"],
+    ["Appetizers","Crispy Aromatic Roasted Duck"],
+    ["Noodles · Pad Thai","Mixed Vegetable & Tofu (vegan)"],
+    ["Noodles · Pad Thai","Plant-Based Chicken"],
+    ["Noodles · Pad Thai","Chicken"],
+    ["Noodles · Pad Thai","Beef"],
+    ["Noodles · Pad Thai","Tiger Prawn"],
+    ["Noodles · Pad Thai","Mixed Seafood"],
+    ["Noodles · Pad Kee Mao (medium hot)","Mixed Vegetable & Tofu (vegan)"],
+    ["Noodles · Pad Kee Mao (medium hot)","Plant-Based Chicken"],
+    ["Noodles · Pad Kee Mao (medium hot)","Chicken"],
+    ["Noodles · Pad Kee Mao (medium hot)","Beef"],
+    ["Noodles · Pad Kee Mao (medium hot)","Tiger Prawn"],
+    ["Noodles · Pad Kee Mao (medium hot)","Mixed Seafood"],
+    ["Noodles · Pad See Ew","Mixed Vegetable & Tofu (vegan)"],
+    ["Noodles · Pad See Ew","Plant-Based Chicken"],
+    ["Noodles · Pad See Ew","Chicken"],
+    ["Noodles · Pad See Ew","Beef"],
+    ["Noodles · Pad See Ew","Tiger Prawn"],
+    ["Noodles · Pad See Ew","Mixed Seafood"],
+    ["Noodles · Chow Mein","Mixed Vegetable & Tofu (vegan)"],
+    ["Noodles · Chow Mein","Plant-Based Chicken"],
+    ["Noodles · Chow Mein","Chicken"],
+    ["Noodles · Chow Mein","Beef"],
+    ["Noodles · Chow Mein","Tiger Prawn"],
+    ["Noodles · Chow Mein","Mixed Seafood"],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Mixed Vegetable & Tofu (vegan)"],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Plant-Based Chicken"],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Chicken"],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Beef"],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Tiger Prawn"],
+    ["Fried Rice · Basil Fried Rice (medium hot)","Mixed Seafood"],
+    ["Fried Rice · Kao Pad","Mixed Vegetable & Tofu (vegan)"],
+    ["Fried Rice · Kao Pad","Plant-Based Chicken"],
+    ["Fried Rice · Kao Pad","Chicken"],
+    ["Fried Rice · Kao Pad","Beef"],
+    ["Fried Rice · Kao Pad","Tiger Prawn"],
+    ["Fried Rice · Kao Pad","Mixed Seafood"],
+    ["Fried Rice · Chinese Fried Rice","Mixed Vegetable & Tofu (vegan)"],
+    ["Fried Rice · Chinese Fried Rice","Plant-Based Chicken"],
+    ["Fried Rice · Chinese Fried Rice","Chicken"],
+    ["Fried Rice · Chinese Fried Rice","Beef"],
+    ["Fried Rice · Chinese Fried Rice","Tiger Prawn"],
+    ["Fried Rice · Chinese Fried Rice","Mixed Seafood"],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Mixed Vegetable & Tofu (vegan)"],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Plant-Based Chicken"],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Chicken"],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Beef"],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Tiger Prawn"],
+    ["Fried Rice · Nasi Goreng / Malaysian Fried Rice","Mixed Seafood"],
+    ["Japanese Hot Food","Chicken Katsu Curry"],
+    ["Japanese Hot Food","Pumpkin Katsu Curry (vegan)"],
+    ["Japanese Hot Food","Yakisoba — Mixed Vegetable & Tofu (vegan)"],
+    ["Japanese Hot Food","Yakisoba — Plant-Based Chicken"],
+    ["Japanese Hot Food","Yakisoba — Chicken"],
+    ["Japanese Hot Food","Yakisoba — Beef"],
+    ["Stir Fry · Pad Med Mamuang","Mixed Vegetable & Tofu (vegan)"],
+    ["Stir Fry · Pad Med Mamuang","Plant-Based Chicken"],
+    ["Stir Fry · Pad Med Mamuang","Chicken"],
+    ["Stir Fry · Pad Med Mamuang","Beef"],
+    ["Stir Fry · Pad Med Mamuang","Duck"],
+    ["Stir Fry · Pad Med Mamuang","Tiger Prawn"],
+    ["Stir Fry · Pad Med Mamuang","Mixed Seafood"],
+    ["Stir Fry · Pad Kra Prow","Mixed Vegetable & Tofu (vegan)"],
+    ["Stir Fry · Pad Kra Prow","Plant-Based Chicken"],
+    ["Stir Fry · Pad Kra Prow","Chicken"],
+    ["Stir Fry · Pad Kra Prow","Beef"],
+    ["Stir Fry · Pad Kra Prow","Duck"],
+    ["Stir Fry · Pad Kra Prow","Tiger Prawn"],
+    ["Stir Fry · Pad Kra Prow","Mixed Seafood"],
+    ["Stir Fry · Pad Khing","Mixed Vegetable & Tofu (vegan)"],
+    ["Stir Fry · Pad Khing","Plant-Based Chicken"],
+    ["Stir Fry · Pad Khing","Chicken"],
+    ["Stir Fry · Pad Khing","Beef"],
+    ["Stir Fry · Pad Khing","Duck"],
+    ["Stir Fry · Pad Khing","Tiger Prawn"],
+    ["Stir Fry · Pad Khing","Mixed Seafood"],
+    ["Stir Fry · Pad Kratiem","Mixed Vegetable & Tofu (vegan)"],
+    ["Stir Fry · Pad Kratiem","Plant-Based Chicken"],
+    ["Stir Fry · Pad Kratiem","Chicken"],
+    ["Stir Fry · Pad Kratiem","Beef"],
+    ["Stir Fry · Pad Kratiem","Duck"],
+    ["Stir Fry · Pad Kratiem","Tiger Prawn"],
+    ["Stir Fry · Pad Kratiem","Mixed Seafood"],
+    ["Stir Fry","Sweet and Sour Chicken"],
+    ["Stir Fry","Crispy Chilli Chicken"],
+    ["Stir Fry","Pad Broccoli"],
+    ["Stir Fry","Pad Ma Khuer"],
+    ["Thai Curries · Green Curry (medium)","Mixed Vegetable & Tofu (vegan)"],
+    ["Thai Curries · Green Curry (medium)","Plant-Based Chicken"],
+    ["Thai Curries · Green Curry (medium)","Chicken"],
+    ["Thai Curries · Green Curry (medium)","Beef"],
+    ["Thai Curries · Green Curry (medium)","Duck"],
+    ["Thai Curries · Green Curry (medium)","Tiger Prawn"],
+    ["Thai Curries · Green Curry (medium)","Mixed Seafood"],
+    ["Thai Curries · Red Curry (medium)","Mixed Vegetable & Tofu (vegan)"],
+    ["Thai Curries · Red Curry (medium)","Plant-Based Chicken"],
+    ["Thai Curries · Red Curry (medium)","Chicken"],
+    ["Thai Curries · Red Curry (medium)","Beef"],
+    ["Thai Curries · Red Curry (medium)","Duck"],
+    ["Thai Curries · Red Curry (medium)","Tiger Prawn"],
+    ["Thai Curries · Red Curry (medium)","Mixed Seafood"],
+    ["Thai Curries · Penang Curry (medium)","Mixed Vegetable & Tofu (vegan)"],
+    ["Thai Curries · Penang Curry (medium)","Plant-Based Chicken"],
+    ["Thai Curries · Penang Curry (medium)","Chicken"],
+    ["Thai Curries · Penang Curry (medium)","Beef"],
+    ["Thai Curries · Penang Curry (medium)","Duck"],
+    ["Thai Curries · Penang Curry (medium)","Tiger Prawn"],
+    ["Thai Curries · Penang Curry (medium)","Mixed Seafood"],
+    ["Thai Curries · Massaman Curry (mild)","Mixed Vegetable & Tofu (vegan)"],
+    ["Thai Curries · Massaman Curry (mild)","Plant-Based Chicken"],
+    ["Thai Curries · Massaman Curry (mild)","Chicken"],
+    ["Thai Curries · Massaman Curry (mild)","Beef"],
+    ["Thai Curries · Massaman Curry (mild)","Duck"],
+    ["Thai Curries · Massaman Curry (mild)","Tiger Prawn"],
+    ["Thai Curries · Massaman Curry (mild)","Mixed Seafood"],
+    ["Special Rolls (8 pieces)","Dragon Roll"],
+    ["Special Rolls (8 pieces)","Rainbow Roll"],
+    ["Special Rolls (8 pieces)","Fire Roll"],
+    ["Special Rolls (8 pieces)","Rock N Roll"],
+    ["Special Rolls (8 pieces)","Vegan Dragon Roll"],
+    ["Futomaki","Spider Roll (10 pieces)"],
+    ["Futomaki","Prawn Tempura Sweet Chilli Futomaki (6 pieces)"],
+    ["Futomaki","Chicken Teriyaki Futomaki (6 pieces)"],
+    ["Nigiri","Salmon Nigiri"],
+    ["Nigiri","Tuna Nigiri"],
+    ["Nigiri","Spicy Salmon Nigiri"],
+    ["Nigiri","Spicy Tuna Nigiri"],
+    ["Nigiri","Seared Salmon Nigiri"],
+    ["Sashimi","Salmon Sashimi"],
+    ["Sashimi","Seared Salmon Sashimi"],
+    ["Sashimi","Tuna Sashimi (Maguro)"],
+    ["Sashimi","Seared Tuna Sashimi"],
+    ["Salads","Papaya Salad"],
+    ["Salads","Wakame Salad"],
+    ["Soups","Tom Yum — Mushroom"],
+    ["Soups","Tom Yum — Chicken"],
+    ["Soups","Tom Yum — King Prawn"],
+    ["Soups","Tom Kha — Mushroom"],
+    ["Soups","Tom Kha — Chicken"],
+    ["Soups","Tom Kha — King Prawn"],
+    ["Soups","Po-Tek Soup"],
+    ["Rice Sides","Jasmine Rice"],
+    ["Rice Sides","Sushi Rice"],
+    ["Rice Sides","Steamed Sticky Rice"],
+    ["Rice Sides","Coconut Rice"],
+    ["Rice Sides","Egg Fried Rice"],
+    ["Juices","Apple Juice"],
+    ["Juices","Orange Juice"],
+    ["Juices","Pineapple Juice"],
+    ["Juices","Cranberry Juice"],
+    ["Soft Drinks","Still Water"],
+    ["Soft Drinks","Sparkling Water"],
+    ["Soft Drinks","Coke"],
+    ["Soft Drinks","Diet Coke"],
+    ["Soft Drinks","Coke Zero"],
+    ["Soft Drinks","Sprite"],
+    ["Soft Drinks","Fanta Orange"],
+    ["Mocktails","Classic Mojito"],
+    ["Mocktails","Strawberry Mojito"],
+    ["Mocktails","Blue Curaçao"],
+    ["Mocktails","Strawberry Daiquiri"],
+    ["Mocktails","Piña Colada"]
   ];
 
-  var store=null, cfg=null, orders=[], night="n1", meId=null;
-  var storeError=null;    // set when the backend stops answering
-  var openCourses={};     // {courseSlug: bool} — which courses the reader opened
-  var draft={};           // {nightId: {dishKey: qty}}
-  var draftNotes={};      // {nightId: notes}
-  var loadedFor=null;     // slug whose saved order is currently in the draft
+  var store=null, cfg=null, orders=[], meId=null;
+  var storeError=null;
+  var openCourses={};
+  var draft={};             // {dishKey: qty}
+  var draftNotes="";
+  var loadedFor=null;       // whose saved order is sitting in the draft
   var $=function(id){return document.getElementById(id);};
 
   function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){
     return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
   function slug(s){
-    var v=String(s||"").toLowerCase().trim().replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"");
-    return v.slice(0,60);
+    return String(s||"").toLowerCase().trim().replace(/[^a-z0-9]+/g,"-")
+      .replace(/^-+|-+$/g,"").slice(0,60);
   }
-  function money(n){return "£"+Number(n||0).toFixed(2);}
   function dishKey(course,name){return slug(course)+"--"+slug(name);}
 
   /* Courses written "Category · Dish" hold the protein choices for one dish, so
      the row reads just "Chicken" under its heading. On the roll, the tally and
-     the email that row has to name the dish too — "2 × Green Curry (medium) —
-     Chicken", not a bare "2 × Chicken" nobody can cook from. */
+     the email that row has to name the dish too — "2 × Green Curry — Chicken",
+     not a bare "2 × Chicken" nobody can cook from. */
   function fullName(course,name){
-    var i=String(course).indexOf("\u00b7");
-    return i<0 ? name : String(course).slice(i+1).trim()+" \u2014 "+name;
+    var i=String(course).indexOf("·");
+    return i<0 ? name : String(course).slice(i+1).trim()+" — "+name;
   }
 
   function menu(){ return (cfg&&Array.isArray(cfg.menu)&&cfg.menu.length)?cfg.menu:DEFAULT_MENU; }
-  function nights(){ return (cfg&&Array.isArray(cfg.nights)&&cfg.nights.length===2)?cfg.nights:DEFAULT_NIGHTS; }
-  function nightOf(id){
-    var ns=nights();
-    for(var i=0;i<ns.length;i++) if(ns[i].id===id) return ns[i];
-    return {id:id,label:"",date:""};
+  /* Only trust a stored sitting that this single-sitting version wrote; an older
+     two-sitting config would otherwise put the wrong dinner on the masthead. */
+  function night(){
+    if(cfg&&Array.isArray(cfg.nights)&&cfg.nights.length===1&&cfg.nights[0]) return cfg.nights[0];
+    return DEFAULT_NIGHT;
   }
   function isShut(){ return !!(cfg&&cfg.closed); }
+  function capOf(){
+    if(cfg && cfg.cap !== undefined && cfg.cap !== null && cfg.cap !== "") return Number(cfg.cap)||0;
+    return DEFAULT_CAP;
+  }
+  function capped(){ return capOf()>0; }
+  function isFull(){ return capped() && orders.length>=capOf(); }
 
-  /* The clerk's table edits the menu as text, one dish per line. */
   function menuToText(m){
-    return m.map(function(r){return r[0]+" | "+r[1]+(r[2]==null?"":" | "+Number(r[2]).toFixed(2));}).join("\n");
+    return m.map(function(r){return r[0]+" | "+r[1];}).join("\n");
   }
   function textToMenu(t){
     var out=[];
@@ -614,61 +599,51 @@ footer .mono{font-size:12px}
       if(!line.trim())return;
       var p=line.split("|").map(function(x){return x.trim();});
       if(p.length<2||!p[0]||!p[1])return;
-      var price=null;
-      if(p[2]){ var n=parseFloat(String(p[2]).replace(/[^0-9.]/g,"")); if(isFinite(n))price=n; }
-      out.push([p[0].slice(0,40),p[1].slice(0,80),price]);
+      out.push([p[0].slice(0,40),p[1].slice(0,80)]);
     });
     return out;
   }
 
-  /* How many people are expected is a guess until they turn up, so the limit is
-     a setting rather than a constant, and 0 means "as many as want to come". */
-  function capOf(){
-    if(cfg && cfg.cap !== undefined && cfg.cap !== null && cfg.cap !== "") return Number(cfg.cap)||0;
-    return DEFAULT_CAP;
-  }
-  function capped(){ return capOf() > 0; }
-  function isFull(){ return capped() && orders.length >= capOf(); }
+  function qtyOf(k){ return draft[k]||0; }
+  function setQty(k,v){ if(v<=0)delete draft[k]; else draft[k]=Math.min(v,20); }
 
-  function qtyOf(k){ return (draft[night]&&draft[night][k])||0; }
-  function setQty(k,v){
-    if(!draft[night])draft[night]={};
-    if(v<=0)delete draft[night][k]; else draft[night][k]=Math.min(v,20);
-  }
-
-  /* ---- the current draft, as stored items ---- */
-  function draftItems(nId){
-    var d=draft[nId]||{}, items=[];
+  function draftItems(){
+    var items=[];
     menu().forEach(function(r){
-      var k=dishKey(r[0],r[1]), q=d[k];
-      if(q>0) items.push({key:k,course:r[0],name:fullName(r[0],r[1]),price:r[2],qty:q});
+      var k=dishKey(r[0],r[1]), q=draft[k];
+      if(q>0) items.push({key:k,course:r[0],name:fullName(r[0],r[1]),qty:q});
     });
     return items;
   }
-  function itemsTotal(items){
-    return items.reduce(function(a,i){return a+(i.price==null?0:i.price*i.qty);},0);
-  }
-  function anyTbc(items){ return items.some(function(i){return i.price==null;}); }
+  function slotOf(o){ return (o&&o.nights&&o.nights[NIGHT])||null; }
+  function hasOrder(o){ var s=slotOf(o); return !!(s&&s.items&&s.items.length); }
 
   /* ------------------------------------------------ render ------------------ */
   function renderNotices(){
     var n=[];
     if(!store) n.push("<b>Orders aren’t being saved in this view.</b> You can still build an order and read it out, but nothing you do here reaches the roll.");
     else if(storeError) n.push(storeError);
-    if(isShut()) n.push("<b>The list is closed.</b> No new orders or changes are going through.");
-    $("notices").innerHTML = n.map(function(t){return '<div class="notice">'+t+"</div>";}).join("");
+    $("notices").innerHTML=n.map(function(t){return '<div class="notice">'+t+"</div>";}).join("");
   }
 
-  function renderSittings(){
-    var ns=nights();
-    $("sittings").innerHTML = ns.map(function(x){
-      var c=orders.filter(function(o){return o.nights&&o.nights[x.id]&&o.nights[x.id].items&&o.nights[x.id].items.length;}).length;
-      return '<button class="sitting" type="button" data-n="'+esc(x.id)+'" aria-pressed="'+(x.id===night)+'">'
-        +'<span class="s-n">'+(x.id==="n1"?"Sitting I":"Sitting II")+'</span>'
-        +'<span class="s-d">'+esc(x.label)+"</span>"
-        +(x.date?'<span class="s-when">'+esc(x.date)+"</span>":"")
-        +'<span class="s-c">'+c+" "+(c===1?"name":"names")+" down</span></button>";
-    }).join("");
+  function renderHeader(){
+    var x=night();
+    $("mDinner").textContent=x.label||"Dinner";
+    $("mWhen").textContent=x.date||"";
+    $("mWhen").style.display=x.date?"":"none";
+  }
+
+  function renderStrip(){
+    var dishes=0;
+    orders.forEach(function(o){
+      var s=slotOf(o); if(!s||!s.items)return;
+      s.items.forEach(function(i){ dishes+=i.qty; });
+    });
+    $("stSeats").innerHTML=orders.length+(capped()?' <small>/ '+capOf()+"</small>":"");
+    $("stDishes").textContent=dishes;
+    var p=$("stStatus");
+    p.textContent=isShut()?"Closed":"Open";
+    p.className="pill "+(isShut()?"shut":"open");
   }
 
   function courseChosen(rows){
@@ -686,22 +661,16 @@ footer .mono{font-size:12px}
     });
 
     var total=menu().length;
-    $("menuCount").textContent = term
-      ? shown+" of "+total+" dishes match"
-      : total+" dishes in "+order.length+" courses";
-
+    $("menuCount").textContent = term ? shown+" of "+total+" dishes match"
+                                      : total+" dishes in "+order.length+" courses";
     if(!order.length){
-      $("menu").innerHTML='<div class="empty-roll">Nothing on the menu matches &ldquo;'+esc(term)+'&rdquo;.</div>';
+      $("menu").innerHTML='<div class="empty-roll">Nothing on the menu matches “'+esc(term)+'”.</div>';
       return;
     }
 
     var shut=isShut();
     $("menu").innerHTML = order.map(function(course,idx){
       var cid=slug(course)||("c"+idx);
-
-      /* While searching every match is open. Otherwise courses start shut, so
-         the whole 29-course index fits on a screen instead of one 21-dish
-         course burying it, and remember whatever the reader opens after that. */
       var open = term ? true : !!openCourses[cid];
       var rows=by[course].map(function(r){
         var k=dishKey(r[0],r[1]), q=qtyOf(k);
@@ -709,22 +678,21 @@ footer .mono{font-size:12px}
           +'<div class="d-name">'+esc(r[1])+"</div>"
           +'<div class="stepper'+(q>0?"":" z")+'">'
           +'<button type="button" data-k="'+k+'" data-d="-1" aria-label="One fewer '+esc(r[1])+'"'+((q<=0||shut)?" disabled":"")+">&minus;</button>"
-          +'<span class="q" aria-live="off">'+q+"</span>"
+          +'<span class="q">'+q+"</span>"
           +'<button type="button" data-k="'+k+'" data-d="1" aria-label="One more '+esc(r[1])+'"'+(shut?" disabled":"")+">+</button>"
           +"</div></div>";
       }).join("");
       var n=by[course].length, chosen=courseChosen(by[course]);
       return '<details class="course" data-c="'+cid+'"'+(open?" open":"")+">"
         +'<summary class="course-h"><h3>'+esc(course)+"</h3>"
-        +'<span class="c-meta">'
-        +'<span class="c-chosen"'+(chosen?"":" hidden")+">"+chosen+" chosen</span>"
+        +'<span class="c-meta"><span class="c-chosen"'+(chosen?"":" hidden")+">"+chosen+" chosen</span>"
         +'<span class="c-ct">'+n+" "+(n===1?"dish":"dishes")+"</span></span></summary>"
         +rows+"</details>";
     }).join("");
   }
 
-  /* A tap on a stepper touches one row, not all 182 — a full re-render would
-     also snap every course shut and throw the reader back up the page. */
+  /* A tap touches one row, not all 182 — a full re-render would also snap every
+     course shut and throw the reader back up the page. */
   function updateDish(k){
     var row=$("menu").querySelector('.dish[data-dk="'+k+'"]');
     if(!row){ renderMenu(); return; }
@@ -736,108 +704,82 @@ footer .mono{font-size:12px}
     var det=row.closest("details.course");
     if(det){
       var sum=0;
-      det.querySelectorAll(".dish").forEach(function(d){
-        sum+=qtyOf(d.getAttribute("data-dk"));
-      });
+      det.querySelectorAll(".dish").forEach(function(d){ sum+=qtyOf(d.getAttribute("data-dk")); });
       var badge=det.querySelector(".c-chosen");
-      badge.textContent=sum+" chosen";
-      badge.hidden=!sum;
+      badge.textContent=sum+" chosen"; badge.hidden=!sum;
     }
   }
 
   function renderBasket(){
-    var items=draftItems(night);
-    $("bSitting").textContent=nightOf(night).label;
+    var items=draftItems();
     var n=items.reduce(function(a,i){return a+i.qty;},0);
     $("bTotal").textContent=n+(n===1?" dish":" dishes");
-    if(!items.length){
-      $("basketBody").innerHTML='<div class="empty">Nothing chosen yet.</div>';
-    } else {
-      $("basketBody").innerHTML="<ul>"+items.map(function(i){
-        return "<li><span><span class='bq'>"+i.qty+"×</span>"+esc(i.name)+"</span></li>";
-      }).join("")+"</ul>";
-    }
-  }
-
-  function renderStrip(){
-    $("stSitting").textContent=nightOf(night).label||"—";
-    var forNight=orders.filter(function(o){return o.nights&&o.nights[night]&&o.nights[night].items&&o.nights[night].items.length;});
-    var dishes=0;
-    forNight.forEach(function(o){
-      o.nights[night].items.forEach(function(i){ dishes+=i.qty; });
-    });
-    $("stSeats").innerHTML=orders.length+(capped()?' <small>/ '+capOf()+"</small>":"");
-    $("stDishes").textContent=dishes;
-    var p=$("stStatus");
-    p.textContent=isShut()?"Closed":"Open";
-    p.className="pill "+(isShut()?"shut":"open");
+    $("basketBody").innerHTML = items.length
+      ? "<ul>"+items.map(function(i){
+          return "<li><span class='bq'>"+i.qty+"×</span>"+esc(i.name)+"</li>";
+        }).join("")+"</ul>"
+      : '<div class="empty">Nothing chosen yet.</div>';
   }
 
   function renderRoll(){
-    $("rollSitting").textContent=nightOf(night).label;
-    var rows=orders.filter(function(o){return o.nights&&o.nights[night]&&o.nights[night].items&&o.nights[night].items.length;})
-      .sort(function(a,b){return String(a.name||"").localeCompare(String(b.name||""));});
+    var rows=orders.filter(hasOrder).sort(function(a,b){
+      return String(a.name||"").localeCompare(String(b.name||""));
+    });
     if(!rows.length){
-      $("roll").innerHTML='<div class="empty-roll">Nobody down for this sitting yet. Be the first.</div>';
+      $("roll").innerHTML='<div class="empty-roll">Nobody down yet. Be the first.</div>';
       return;
     }
-    var head='<div class="roll-row hd"><span>Name</span><span>Order</span></div>';
-    $("roll").innerHTML=head+rows.map(function(o){
-      var items=o.nights[night].items;
-      var line=items.map(function(i){return i.qty+"× "+esc(i.name);}).join(", ");
-      var note=o.nights[night].notes?'<br><em style="color:var(--ink-3)">'+esc(o.nights[night].notes)+"</em>":"";
-      return '<div class="roll-row'+(o.id===meId?" me":"")+'">'
-        +'<div class="r-name">'+esc(o.name)+(o.id===meId?'<span class="you">you</span>':"")+"</div>"
-        +'<div class="r-items">'+line+note+"</div></div>";
-    }).join("");
+    $("roll").innerHTML='<div class="roll-row hd"><span>Name</span><span>Order</span></div>'
+      +rows.map(function(o){
+        var s=slotOf(o);
+        var line=s.items.map(function(i){return i.qty+"× "+esc(i.name);}).join(", ");
+        var note=s.notes?"<br><em>"+esc(s.notes)+"</em>":"";
+        return '<div class="roll-row'+(o.id===meId?" me":"")+'">'
+          +'<div class="r-name">'+esc(o.name)+(o.id===meId?'<span class="you">you</span>':"")+"</div>"
+          +'<div class="r-items">'+line+note+"</div></div>";
+      }).join("");
   }
 
-  function tallyFor(nId){
+  function tally(){
     var agg={},order=[];
     orders.forEach(function(o){
-      var slot=o.nights&&o.nights[nId];
-      if(!slot||!slot.items)return;
-      slot.items.forEach(function(i){
-        if(!agg[i.key]){agg[i.key]={name:i.name,price:i.price,qty:0};order.push(i.key);}
+      var s=slotOf(o); if(!s||!s.items)return;
+      s.items.forEach(function(i){
+        if(!agg[i.key]){agg[i.key]={name:i.name,qty:0};order.push(i.key);}
         agg[i.key].qty+=i.qty;
-        if(agg[i.key].price==null&&i.price!=null)agg[i.key].price=i.price;
       });
     });
-    return order.map(function(k){return agg[k];}).sort(function(a,b){return b.qty-a.qty||a.name.localeCompare(b.name);});
+    return order.map(function(k){return agg[k];}).sort(function(a,b){
+      return b.qty-a.qty || a.name.localeCompare(b.name);
+    });
   }
 
   function renderTally(){
-    var list=tallyFor(night);
+    var list=tally();
     if(!list.length){ $("tally").innerHTML='<div class="empty-roll">Nothing to tally yet.</div>'; return; }
     var dishes=list.reduce(function(a,r){return a+r.qty;},0);
     $("tally").innerHTML=list.map(function(r){
-      return '<div class="tally-row"><span class="tq">'+r.qty+"×</span>"
-        +'<span class="tn">'+esc(r.name)+"</span></div>";
+      return '<div class="tally-row"><span class="tq">'+r.qty+"×</span><span>"+esc(r.name)+"</span></div>";
     }).join("")
     +'<div class="tally-foot"><span>'+list.length+(list.length===1?" dish":" different dishes")
-    +'</span><span>'+dishes+" in all</span></div>";
-  }
-
-  function renderAll(){
-    renderNotices(); renderSittings(); renderStrip(); renderMenu();
-    renderBasket(); renderRoll(); renderTally(); renderNameHint();
+    +"</span><span>"+dishes+" in all</span></div>";
   }
 
   function renderNameHint(){
-    var s=slug($("fName").value);
-    var h="";
-    if(!s){ h = capped()
-      ? capOf()+" places in all &mdash; "+orders.length+" taken so far."
-      : orders.length+(orders.length===1?" name":" names")+" down so far."; }
-    else if(orders.some(function(o){return o.id===s;})){ h="Found your entry &mdash; change what you like and table it again."; }
+    var s=slug($("fName").value), h="";
+    if(!s){ h = capped() ? capOf()+" places — "+orders.length+" taken so far."
+                         : orders.length+(orders.length===1?" name":" names")+" down so far."; }
+    else if(orders.some(function(o){return o.id===s;})){ h="Found your entry — change what you like and table it again."; }
     else if(isFull()){ h="<strong>Every place is taken.</strong> Ask whoever is organising to add more."; }
-    else { h = capped()
-      ? "New name &mdash; you’d be number "+(orders.length+1)+" of "+capOf()+"."
-      : "New name &mdash; you’d be number "+(orders.length+1)+"."; }
+    else { h="New name — you’d be number "+(orders.length+1)+"."; }
     $("nameHint").innerHTML=h;
   }
 
-  /* -------- pull a saved order into the draft when the name matches -------- */
+  function renderAll(){
+    renderHeader(); renderNotices(); renderStrip(); renderMenu();
+    renderBasket(); renderRoll(); renderTally(); renderNameHint();
+  }
+
   function maybeLoadExisting(){
     var s=slug($("fName").value);
     if(!s||s===loadedFor)return;
@@ -848,34 +790,28 @@ footer .mono{font-size:12px}
          rather than filing it under this person. Work this visitor typed in
          themselves (nothing was ever loaded) is left alone. */
       if(loadedFor){
-        loadedFor=null; meId=null; draft={}; draftNotes={};
-        $("fNotes").value="";
+        loadedFor=null; meId=null; draft={}; draftNotes=""; $("fNotes").value="";
         renderAll();
       }
       return;
     }
-    loadedFor=s; meId=s;
-    draft={}; draftNotes={};
-    Object.keys(found.nights||{}).forEach(function(nId){
-      var slot=found.nights[nId]||{};
-      draft[nId]={};
-      (slot.items||[]).forEach(function(i){ draft[nId][i.key]=i.qty; });
-      draftNotes[nId]=slot.notes||"";
-    });
-    $("fNotes").value=draftNotes[night]||"";
+    loadedFor=s; meId=s; draft={};
+    var slot=slotOf(found)||{};
+    (slot.items||[]).forEach(function(i){ draft[i.key]=i.qty; });
+    draftNotes=slot.notes||"";
+    $("fNotes").value=draftNotes;
     renderAll();
   }
 
-  /* ---------------------------------------------- persistence -------------- */
+  /* ------------------------------------------------ actions ---------------- */
   function flash(el,msg,bad){
     el.className=bad?"errmsg":"saved";
     el.textContent=msg;
-    setTimeout(function(){ if(el.textContent===msg)el.textContent=""; },4000);
+    setTimeout(function(){ if(el.textContent===msg)el.textContent=""; },4500);
   }
 
   function save(){
-    var msg=$("saveMsg");
-    var name=$("fName").value.trim();
+    var msg=$("saveMsg"), name=$("fName").value.trim();
     if(!name){ flash(msg,"Put your name in first.",true); $("fName").focus(); return; }
     var id=slug(name);
     if(!id){ flash(msg,"That name needs at least one letter or number.",true); return; }
@@ -883,15 +819,12 @@ footer .mono{font-size:12px}
     var exists=orders.some(function(o){return o.id===id;});
     if(!exists&&isFull()){ flash(msg,"Every place is taken.",true); return; }
 
-    draftNotes[night]=$("fNotes").value.trim();
-    var payloadNights={};
-    nights().forEach(function(x){
-      var items=draftItems(x.id);
-      if(items.length||draftNotes[x.id]) payloadNights[x.id]={items:items,notes:draftNotes[x.id]||""};
-    });
-    if(!Object.keys(payloadNights).length){ flash(msg,"Choose at least one dish.",true); return; }
+    draftNotes=$("fNotes").value.trim();
+    var items=draftItems();
+    if(!items.length&&!draftNotes){ flash(msg,"Choose at least one dish.",true); return; }
 
-    var body={name:name.slice(0,60),nights:payloadNights,updatedAt:new Date().toISOString()};
+    var body={name:name.slice(0,60),nights:{},updatedAt:new Date().toISOString()};
+    body.nights[NIGHT]={items:items,notes:draftNotes};
 
     meId=id; loadedFor=id;
     if(!store){ flash(msg,"Built — but not saved, this view can’t reach the roll.",true); renderAll(); return; }
@@ -899,73 +832,57 @@ footer .mono{font-size:12px}
     store.saveOrder(id,body).then(function(){
       flash(msg,"Tabled. You’re on the roll.");
     })["catch"](function(e){
-      var why = (e&&e.code==="quota_exceeded") ? "The list is full."
-              : (e&&e.message) ? e.message
-              : "Couldn’t save — try once more.";
-      flash(msg,why,true);
+      flash(msg,(e&&e.message)||"Couldn’t save — try once more.",true);
     })["finally"](function(){ $("btnSave").disabled=false; });
   }
 
   function withdraw(){
-    var msg=$("saveMsg");
-    var id=slug($("fName").value);
+    var msg=$("saveMsg"), id=slug($("fName").value);
     if(!id){ flash(msg,"Put the name you used in first.",true); return; }
     if(isShut()){ flash(msg,"The list is closed.",true); return; }
-    draft={}; draftNotes={}; $("fNotes").value="";
+    draft={}; draftNotes=""; $("fNotes").value="";
     if(!store){ renderAll(); return; }
     store.deleteOrder(id).then(function(){
-      meId=null; loadedFor=null;
-      flash(msg,"Withdrawn.");
+      meId=null; loadedFor=null; flash(msg,"Withdrawn.");
     })["catch"](function(){ flash(msg,"Couldn’t withdraw — try once more.",true); });
   }
 
   function saveConfig(patch){
     var m=$("aMsg");
     if(!store){ flash(m,"Can’t save from this view.",true); return; }
-    var next={menu:menu(),nights:nights(),closed:isShut(),cap:capOf()};
+    var next={menu:menu(),nights:[night()],closed:isShut(),cap:capOf()};
     Object.keys(patch).forEach(function(k){ next[k]=patch[k]; });
     store.saveConfig(next).then(function(){ flash(m,"Saved."); })
     ["catch"](function(){ flash(m,"Couldn’t save — you may not have edit access.",true); });
   }
 
   function plainText(){
-    var ns=nights(), out=[];
-    out.push("NEWSPEAK HOUSE — BANGKOK BITES ORDER");
-    out.push("147 Bethnal Green Road, London E2 7DG");
-    out.push("Names down: "+orders.length+(capped()?" of "+capOf():""));
-    ns.forEach(function(x){
-      var rows=orders.filter(function(o){return o.nights&&o.nights[x.id]&&o.nights[x.id].items&&o.nights[x.id].items.length;})
-        .sort(function(a,b){return String(a.name).localeCompare(String(b.name));});
-      out.push("");
-      out.push("=== "+String(x.label).toUpperCase()+(x.date?" — "+x.date:"")
-        +" — "+rows.length+(rows.length===1?" person ===":" people ==="));
-      if(!rows.length){ out.push("(nobody down)"); return; }
-      out.push(""); out.push("-- Tally to read to the restaurant --");
-      var t=tallyFor(x.id),tot=0,tbc=false;
-      t.forEach(function(r){
-        out.push("  "+r.qty+" x "+r.name+(r.price==null?"  (price tbc)":"  "+money(r.price*r.qty)));
-        if(r.price==null)tbc=true; else tot+=r.price*r.qty;
-      });
-      out.push("  TOTAL: "+money(tot)+(tbc?" plus items priced tbc":""));
-      out.push(""); out.push("-- Who ordered what --");
-      rows.forEach(function(o){
-        var items=o.nights[x.id].items;
-        out.push("  "+o.name+" — "+money(itemsTotal(items))+(anyTbc(items)?"+":""));
-        items.forEach(function(i){ out.push("      "+i.qty+" x "+i.name); });
-        if(o.nights[x.id].notes) out.push("      note: "+o.nights[x.id].notes);
-      });
+    var x=night(), out=[];
+    var rows=orders.filter(hasOrder).sort(function(a,b){
+      return String(a.name).localeCompare(String(b.name));
+    });
+    out.push("NEWSPEAK HOUSE — " + String(x.label||"DINNER").toUpperCase()
+      + (x.date?" — "+x.date:""));
+    out.push("Bangkok Bites, 147 Bethnal Green Road, London E2 7DG");
+    out.push("Names down: "+rows.length+(capped()?" of "+capOf():""));
+    if(!rows.length){ out.push(""); out.push("(nobody down yet)"); return out.join("\n"); }
+
+    out.push(""); out.push("-- Tally to read to the restaurant --");
+    var t=tally();
+    t.forEach(function(r){ out.push("  "+r.qty+" x "+r.name); });
+    out.push("  "+t.reduce(function(a,r){return a+r.qty;},0)+" dishes in all");
+
+    out.push(""); out.push("-- Who ordered what --");
+    rows.forEach(function(o){
+      var s=slotOf(o);
+      out.push("  "+o.name);
+      s.items.forEach(function(i){ out.push("      "+i.qty+" x "+i.name); });
+      if(s.notes) out.push("      note: "+s.notes);
     });
     return out.join("\n");
   }
 
-  /* ---------------------------------------------- events ------------------- */
-  $("sittings").addEventListener("click",function(e){
-    var b=e.target.closest("button[data-n]"); if(!b)return;
-    draftNotes[night]=$("fNotes").value.trim();
-    night=b.getAttribute("data-n");
-    $("fNotes").value=draftNotes[night]||"";
-    renderAll();
-  });
+  /* ------------------------------------------------ events ----------------- */
   $("menu").addEventListener("click",function(e){
     var b=e.target.closest("button[data-k]"); if(!b||b.disabled)return;
     var k=b.getAttribute("data-k"), d=parseInt(b.getAttribute("data-d"),10);
@@ -979,21 +896,18 @@ footer .mono{font-size:12px}
   },true);
   var searchTimer=null;
   $("fSearch").addEventListener("input",function(){
-    clearTimeout(searchTimer);
-    searchTimer=setTimeout(renderMenu,120);
+    clearTimeout(searchTimer); searchTimer=setTimeout(renderMenu,120);
   });
   $("fSearchClear").addEventListener("click",function(){
     $("fSearch").value=""; renderMenu(); $("fSearch").focus();
   });
   $("mExpand").addEventListener("click",function(){
     $("menu").querySelectorAll("details.course").forEach(function(d){
-      d.open=true; openCourses[d.getAttribute("data-c")]=true;
-    });
+      d.open=true; openCourses[d.getAttribute("data-c")]=true; });
   });
   $("mCollapse").addEventListener("click",function(){
     $("menu").querySelectorAll("details.course").forEach(function(d){
-      d.open=false; openCourses[d.getAttribute("data-c")]=false;
-    });
+      d.open=false; openCourses[d.getAttribute("data-c")]=false; });
   });
   $("fName").addEventListener("input",renderNameHint);
   $("fName").addEventListener("change",maybeLoadExisting);
@@ -1001,57 +915,49 @@ footer .mono{font-size:12px}
   $("btnSave").addEventListener("click",save);
   $("btnClear").addEventListener("click",withdraw);
   $("aSaveNights").addEventListener("click",function(){
-    var ns=nights(), raw=$("aCap").value.trim();
+    var x=night(), raw=$("aCap").value.trim();
     saveConfig({
-      nights:[{id:"n1",label:($("aN1").value.trim()||ns[0].label).slice(0,60),
-                       date:($("aD1").value.trim()||ns[0].date||"").slice(0,60)},
-              {id:"n2",label:($("aN2").value.trim()||ns[1].label).slice(0,60),
-                       date:($("aD2").value.trim()||ns[1].date||"").slice(0,60)}],
+      nights:[{id:NIGHT,label:($("aN1").value.trim()||x.label).slice(0,60),
+               date:($("aD1").value.trim()||x.date||"").slice(0,60)}],
       cap: raw==="" ? capOf() : Math.max(0,parseInt(raw,10)||0)
     });
   });
   $("aToggle").addEventListener("click",function(){ saveConfig({closed:!isShut()}); });
   $("aSaveMenu").addEventListener("click",function(){
     var m=textToMenu($("aMenu").value);
-    if(!m.length){ flash($("aMsg"),"That didn’t parse — one dish per line, Course | Dish | Price.",true); return; }
+    if(!m.length){ flash($("aMsg"),"That didn’t parse — one dish per line, Course | Dish.",true); return; }
     saveConfig({menu:m});
   });
   $("aResetMenu").addEventListener("click",function(){
     $("aMenu").value=menuToText(DEFAULT_MENU); saveConfig({menu:DEFAULT_MENU});
   });
-  $("aEmail").addEventListener("click",function(){
-    var m=$("aEmailMsg"), b=$("aEmail");
-    if(!store||!store.emailOrders)return;
-    b.disabled=true; m.className="saved"; m.textContent="Sending\u2026";
-    store.emailOrders(plainText()).then(function(r){
-      flash(m,"Sent to "+(r&&r.to?r.to:"both addresses")+".");
-    })["catch"](function(e){
-      flash(m,(e&&e.message)||"Couldn\u2019t send \u2014 check the mail settings on the server.",true);
-    })["finally"](function(){ b.disabled=false; });
-  });
   $("aBuild").addEventListener("click",function(){
     var o=$("aOut"); o.hidden=false; o.textContent=plainText();
   });
+  $("aEmail").addEventListener("click",function(){
+    var m=$("aEmailMsg"), b=$("aEmail");
+    if(!store||!store.emailOrders)return;
+    b.disabled=true; m.className="saved"; m.textContent="Sending…";
+    store.emailOrders(plainText()).then(function(r){
+      flash(m,"Sent to "+(r&&r.to?r.to:"both addresses")+".");
+    })["catch"](function(e){
+      flash(m,(e&&e.message)||"Couldn’t send — check the mail settings.",true);
+    })["finally"](function(){ b.disabled=false; });
+  });
 
-  /* ---------------------------------------------- boot --------------------- */
-  $("aMenu").value=menuToText(DEFAULT_MENU);
-  renderAll();
-
+  /* ------------------------------------------------ backends --------------- */
   function adoptConfig(next){
     cfg=next;
-    if(cfg&&cfg.nights&&cfg.nights.length===2){
-      if(!$("aN1").value)$("aN1").value=cfg.nights[0].label;
-      if(!$("aN2").value)$("aN2").value=cfg.nights[1].label;
-    }
-    if(cfg&&Array.isArray(cfg.menu)&&cfg.menu.length&&document.activeElement!==$("aMenu")){
+    var x=night();
+    if(!$("aN1").value)$("aN1").value=x.label||"";
+    if(!$("aD1").value)$("aD1").value=x.date||"";
+    if(cfg&&cfg.cap!==undefined&&cfg.cap!==null&&document.activeElement!==$("aCap")&&!$("aCap").value)
+      $("aCap").value=String(cfg.cap);
+    if(cfg&&Array.isArray(cfg.menu)&&cfg.menu.length&&document.activeElement!==$("aMenu"))
       $("aMenu").value=menuToText(cfg.menu);
-    }
   }
-  function adoptOrders(list){
-    orders=list; maybeLoadExisting();
-  }
+  function adoptOrders(list){ orders=list; maybeLoadExisting(); }
 
-  /* Self-hosted: talk to the server this page came from. */
   function readAdminKey(){
     var k="";
     try{
@@ -1061,6 +967,7 @@ footer .mono{font-size:12px}
     return k;
   }
 
+  /* Self-hosted: the server that served this page. */
   function httpStore(){
     var adminKey=readAdminKey();
     function req(path,body){
@@ -1075,9 +982,9 @@ footer .mono{font-size:12px}
         });
       });
     }
-    var timer=null;
     function pull(){
       req("/api/state").then(function(st){
+        storeError=null;
         adoptConfig(st.config||null); adoptOrders(st.orders||[]);
         $("aEmail").hidden=!st.admin;
         renderAll();
@@ -1085,7 +992,7 @@ footer .mono{font-size:12px}
     }
     return {
       mode:"http",
-      start:function(){ pull(); timer=setInterval(pull,5000);
+      start:function(){ pull(); setInterval(pull,5000);
         document.addEventListener("visibilitychange",function(){ if(!document.hidden)pull(); }); },
       saveOrder:function(id,body){ return req("/api/order",{id:id,order:body}).then(pull); },
       deleteOrder:function(id){ return req("/api/order/delete",{id:id}).then(pull); },
@@ -1094,11 +1001,11 @@ footer .mono{font-size:12px}
     };
   }
 
-  /* GitHub Pages: talk to the Apps Script web app.
-     Posts are sent as text/plain so they stay "simple" under CORS — a JSON
-     content type would trigger a preflight that Apps Script cannot answer. */
+  /* GitHub Pages: the Apps Script web app. Posts go as text/plain so they stay
+     "simple" under CORS — a JSON content type would trigger a preflight Apps
+     Script cannot answer. */
   function appsScriptStore(endpoint){
-    var adminKey=readAdminKey();
+    var adminKey=readAdminKey(), everReached=false;
     function unwrap(r){
       return r.json().then(function(j){ if(j&&j.error)throw new Error(j.error); return j; });
     }
@@ -1109,16 +1016,11 @@ footer .mono{font-size:12px}
         body:JSON.stringify(body)})
         .then(unwrap)
         ["catch"](function(e){
-          /* A TypeError here is the browser refusing the response, not the
-             script saying no — usually a deployment that redirects to a Google
-             sign-in. The same call as a GET survives some of those, so try it
-             before giving up. */
           if(!(e instanceof TypeError)) throw e;
           return fetch(endpoint+"?payload="+encodeURIComponent(JSON.stringify(body)),
             {method:"GET",redirect:"follow"}).then(unwrap);
         });
     }
-    var timer=null, everReached=false;
     function pull(){
       call("state").then(function(st){
         everReached=true; storeError=null;
@@ -1126,18 +1028,16 @@ footer .mono{font-size:12px}
         $("aEmail").hidden=!st.admin;
         renderAll();
       })["catch"](function(e){
-        /* Nothing can be saved while this is true, so say so plainly and name
-           the setting that is nearly always the cause. */
         storeError = everReached
           ? "<b>Lost touch with the order book.</b> Your last change may not have saved. This page keeps retrying — if it stays like this, reload."
-          : "<b>Can’t reach the order book, so nothing will save yet.</b> In Apps Script, open <b>Deploy ▸ Manage deployments</b> and check that <b>Who has access</b> is <b>Anyone</b> and <b>Execute as</b> is <b>Me</b>. After any edit to the script you must deploy again — editing alone does not update the live URL."
-            + "<br><span class='mono' style='font-size:12px;color:var(--ink-2)'>" + esc((e&&e.message)||String(e)) + "</span>";
+          : "<b>Can’t reach the order book, so nothing will save yet.</b> In Apps Script, open <b>Deploy ▸ Manage deployments</b> and check <b>Who has access</b> is <b>Anyone</b> and <b>Execute as</b> is <b>Me</b>. After any edit you must deploy again — editing alone does not update the live URL."
+            + "<br><span style='font-size:14px;color:var(--ink-3)'>" + esc((e&&e.message)||String(e)) + "</span>";
         renderNotices();
       });
     }
     return {
       mode:"apps-script",
-      start:function(){ pull(); timer=setInterval(pull,5000);
+      start:function(){ pull(); setInterval(pull,5000);
         document.addEventListener("visibilitychange",function(){ if(!document.hidden)pull(); }); },
       saveOrder:function(id,body){ return call("order",{id:id,order:body}).then(pull); },
       deleteOrder:function(id){ return call("delete",{id:id}).then(pull); },
@@ -1172,13 +1072,13 @@ footer .mono{font-size:12px}
     store.start(); renderNotices();
   }
 
+  /* ------------------------------------------------ boot ------------------- */
+  $("aMenu").value=menuToText(DEFAULT_MENU);
+  renderAll();
+
   var apiOverride="";
   try{ apiOverride=new URLSearchParams(location.search).get("api")||""; }catch(e){}
 
-  /* Three backends, picked by what actually answers rather than by a build
-     flag: the artifact db when running as an artifact; otherwise the server
-     that served this page, if it offers the API; otherwise the Apps Script
-     web app, which is the case on GitHub Pages, where /api is a 404. */
   function chooseHttpBackend(){
     if(location.protocol!=="http:"&&location.protocol!=="https:"){
       if(API_URL) install(appsScriptStore(API_URL)); else renderNotices();
@@ -1187,9 +1087,8 @@ footer .mono{font-size:12px}
     fetch("/api/state",{method:"GET"}).then(function(r){
       if(!r.ok)throw new Error("no local api");
       return r.json();
-    }).then(function(){
-      install(httpStore());
-    })["catch"](function(){
+    }).then(function(){ install(httpStore()); })
+    ["catch"](function(){
       if(API_URL) install(appsScriptStore(API_URL)); else renderNotices();
     });
   }
