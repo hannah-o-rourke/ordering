@@ -66,8 +66,8 @@ the **Questions to discuss** section, for organisers to explore with people.
   - `!engagement optout` deletes it and stops recording you, including your
     name on others' replies to you
   - `!engagement optin` reverses that
-  - `!engagement themes off` / `on` stops or allows theme summaries for the
-    group (anyone can do this)
+  - ❌ on the AI notice, or `!engagement ai optout` / `ai optin`, keeps your
+    messages out of AI theme summaries or includes them again
   - `!engagement forget`, confirmed with a 🗑️ reaction by an admin, deletes
     everything for the group
 - **Deleted messages are deleted here too** (the tool listens for redactions).
@@ -77,19 +77,30 @@ the **Questions to discuss** section, for organisers to explore with people.
 
 ## Main themes
 
-An admin can ask for a month's main themes from the dashboard. This is the only
-feature that reads what people wrote, so it works differently from the rest:
+Admins can get a month's main themes summarised by AI. This is the only
+feature that reads what people wrote, so it's opt-out and switched off by
+default:
 
-1. It only runs when an admin presses the button, and never if the group has
-   sent `!engagement themes off`.
-2. The tool fetches that month's text messages from the hub. It leaves out
-   opted-out people, the bot and commands, and strips quoted replies, Matrix
-   ids, phone numbers, emails and members' names. Speakers become "Person 1",
-   "Person 2" and so on.
-3. That transcript goes to Claude (Haiku 5.5), which is told to describe topics,
-   never people.
-4. Only the 3–6 themes that come back are stored. The messages aren't kept, and
-   the group gets a message saying it happened.
+1. **An admin switches it on** with the *AI theme summaries* switch on the
+   dashboard. Nothing is ever sent to Claude while it's off.
+2. **Switching on posts a notice in the group** explaining what will happen.
+   Anyone who reacts ❌ to it has their messages left out of every summary, and
+   the tool confirms by DM. Anyone who doesn't react is treated as happy to be
+   included. Removing the ❌ opts that person back in, and
+   `!engagement ai optout` / `ai optin` do the same for anyone who missed the
+   notice, such as people who join later. If the notice can't be posted, the
+   switch stays off.
+3. **There's a notice period.** No summary can run until `AI_NOTICE_HOURS`
+   (default 48) after switching on, so people have time to react. Switching off
+   and on again starts it afresh. Earlier opt-outs carry over.
+4. **An admin presses *Find themes*** for a month. The tool fetches that month's
+   text messages from the hub. It leaves out anyone who opted out of AI
+   summaries or of the tool, plus the bot and commands. It strips quoted
+   replies, Matrix ids, phone numbers, emails and members' names, and labels
+   speakers "Person 1", "Person 2" and so on.
+5. That transcript goes to Claude (Haiku 5.5), which is told to describe topics,
+   never people. Only the 3–6 themes that come back are stored, and the group
+   gets a message saying it happened.
 
 Names inside messages are only stripped when they match a member's display
 name, so nicknames can get through. Claude is told not to name anyone either
@@ -142,6 +153,7 @@ Port 5061 would be the obvious next port after the other tools, but it's on
 | `engagement_secret` | the `secret` in the registration, needed for the hub's `/api/send`, `/api/room/power-levels` and history |
 | `ANTHROPIC_API_KEY` | optional; turns on theme summaries |
 | `THEMES_PER_GROUP_PER_MONTH` | theme summaries per group per calendar month (default `1`) |
+| `AI_NOTICE_HOURS` | hours between switching AI summaries on and the first summary (default `48`) |
 | `THEMES_MONTHLY_LIMIT` | theme summaries across all groups per calendar month (default `500`) |
 | `ADMIN_POWER_LEVEL` | Matrix power level that counts as a group admin (default `50`) |
 | `bot_user_id` | optional; the hub's Matrix user, so imported history skips its messages. It's learnt from live events otherwise. |

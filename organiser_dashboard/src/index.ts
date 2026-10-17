@@ -7,11 +7,11 @@ import { MatrixEvent } from "../types";
 import { forgetCachedPowerLevels, organiserFor } from "./access";
 import { classify, isCommand } from "./classify";
 import { firstContactNotice, handleCommand, handleConfirmation, Reply } from "./commands";
-import { deleteActivityEvent, getActivity, getOptOutCount, getRoom, getThemes, insertActivity, insertRoom, isOptedOut, savePowerLevels, startDuckDB, themesAllowed } from "./duckdb";
+import { deleteActivityEvent, getActivity, getOptOutCount, getRoom, getThemes, insertActivity, insertRoom, isOptedOut, savePowerLevels, startDuckDB, getAiSettings, getAiOptOutCount, aiOptInByReaction } from "./duckdb";
 import { canImportHistory, TOOL_ID } from "./hub";
 import { importHistory } from "./history";
 import { computeDashboard } from "./metrics";
-import { canFindThemes, findThemes } from "./themes";
+import { canFindThemes, findThemes, noticeEndsAt, switchAi } from "./themes";
 
 const { engagement_secret, tool_url } = process.env;
 
@@ -26,7 +26,7 @@ const moduleRegistration = {
   uuid: uuidv4(),
   url: tool_url || `http://localhost:${port}`,
   emoji: "📊",
-  introduction: "This records when people post, react, reply and join, but never what they write, so organisers can see how participation changes over time. Organisers can also ask for a month's main themes, summarised by Claude without names. Send !engagement to see exactly what's tracked, get your own data, or opt out.",
+  introduction: "This records when people post, react, reply and join, but never what they write, so the group's admins can see how participation changes over time. AI theme summaries stay off unless an admin switches them on, and you'll be able to opt out here first. Send !engagement to see exactly what's tracked, get your own data, or opt out.",
   title: "Engagement",
   description: "Shows organisers how participation changes over time, with questions to discuss with the group",
   secret: engagement_secret,
@@ -49,7 +49,13 @@ async function handleEvent(event: MatrixEvent): Promise<Reply | Reply[] | undefi
 
   if (event.type === "m.room.redaction") {
     const redacts = event.redacts ?? event.content?.redacts;
-    if (redacts) await deleteActivityEvent(event.room_id, redacts);
+    if (!redacts) return;
+    await deleteActivityEvent(event.room_id, redacts);
+
+    // a removed ❌ on the AI notice opts that person back in
+    const optedBackIn = await aiOptInByReaction(event.room_id, redacts);
+    if (optedBackIn)
+      return { recipient: optedBackIn, message: "You removed your ❌, so your messages may be included in AI theme summaries in that group again." };
     return;
   }
 
@@ -135,11 +141,25 @@ async function start() {
   app.get("/api/themes", async (req, res) => {
     const { roomId } = req.query;
 
+    const settings = await getAiSettings(roomId as string);
+
     res.send({
       months: await getThemes(roomId as string),
       canFindThemes: canFindThemes(),
-      allowed: await themesAllowed(roomId as string),
+      enabled: settings.enabled,
+      availableFrom: settings.enabled ? noticeEndsAt(settings.enabledAt) : null,
+      aiOptOuts: await getAiOptOutCount(roomId as string),
     });
+  })
+
+  // the admin's switch; turning it on posts the opt-out notice in the group
+  app.post("/api/themes/switch", async (req, res) => {
+    const { roomId } = req.query;
+
+    if (!canFindThemes())
+      return res.send({ success: false, message: "AI theme summaries aren't set up on this server" });
+
+    res.send(await switchAi(roomId as string, Boolean(req.body.enabled)));
   })
 
   app.post("/api/themes", async (req, res) => {

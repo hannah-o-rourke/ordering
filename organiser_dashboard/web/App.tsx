@@ -3,7 +3,7 @@ import { useSearchParams } from "react-router";
 import { useEffect, useMemo, useState } from "react";
 import type { Dashboard, ParticipantSummary, Pattern, WeekSummary } from "../src/metrics";
 import type { Theme } from "../src/themes";
-import { findThemes, getDashboard, getThemes, importHistory, NotAllowed } from "./requests";
+import { findThemes, getDashboard, getThemes, importHistory, NotAllowed, switchAi } from "./requests";
 
 type DashboardResult = Dashboard & { canImportHistory: boolean };
 
@@ -12,7 +12,9 @@ type Tip = { x: number; y: number; text: string } | null;
 type ThemesResult = {
   months: { month: string; generatedAt: number; messageCount: number; themes: Theme[] }[];
   canFindThemes: boolean;
-  allowed: boolean;
+  enabled: boolean;
+  availableFrom: number | null;
+  aiOptOuts: number;
 };
 
 function monthKey(offset: number) {
@@ -38,7 +40,7 @@ function Themes({ roomId }: { roomId: string }) {
   }, []);
 
   async function run() {
-    if (!confirm(`Find the main themes for ${monthName(month)}? That month's messages will be sent, without names, to Anthropic's Claude. Only the summary is kept, and the tool will post a message in the group to say so. Each group can do this once a month.`)) return;
+    if (!confirm(`Find the main themes for ${monthName(month)}? That month's messages will be sent, without names, to Anthropic's Claude, leaving out anyone who opted out. Only the summary is kept, and the tool will post a message in the group to say so. Each group can do this once a month.`)) return;
 
     setStatus("Reading the month's messages…");
     const response = await findThemes(roomId, month).catch(err => ({ success: false, message: err.message }));
@@ -48,16 +50,43 @@ function Themes({ roomId }: { roomId: string }) {
     load();
   }
 
+  async function toggle() {
+    if (!result) return;
+    const turningOn = !result.enabled;
+    if (turningOn && !confirm("Switch on AI theme summaries? The tool will post a message in the group explaining them. Anyone who reacts ❌ to it has their messages left out, and anyone who doesn't is treated as happy to be included. No summary can run until people have had time to reply.")) return;
+    if (!turningOn && !confirm("Switch off AI theme summaries? The tool will tell the group. Summaries you've already made stay here.")) return;
+
+    const response = await switchAi(roomId, turningOn).catch(err => ({ success: false, message: err.message }));
+    setStatus(response.success ? (turningOn ? "Switched on. The opt-out message has been posted in the group." : "Switched off. The group has been told.") : response.message);
+    load();
+  }
+
   if (!result) return <p className="note">Loading…</p>;
+
+  const ready = result.enabled && result.availableFrom !== null && result.availableFrom <= Date.now();
 
   return (
     <>
       <p className="note">
         Topics, not people: the summary never says who raised what. Messages are sent to Claude without names only when an admin asks, and only the summary is kept.
       </p>
-      {!result.allowed && <p className="note">This group has turned theme summaries off. Send <code>!engagement themes on</code> to allow them.</p>}
-      {result.allowed && !result.canFindThemes && <p className="note">Theme summaries aren't set up on this server.</p>}
-      {result.allowed && result.canFindThemes && (
+      {!result.canFindThemes && <p className="note">AI theme summaries aren't set up on this server.</p>}
+      {result.canFindThemes && (
+        <div className="switch-row">
+          <label className="switch">
+            <input type="checkbox" role="switch" checked={result.enabled} onChange={toggle} />
+            <span>AI theme summaries are <strong>{result.enabled ? "on" : "off"}</strong></span>
+          </label>
+          {result.enabled && <span className="note">{result.aiOptOuts} {result.aiOptOuts === 1 ? "person has" : "people have"} opted out</span>}
+        </div>
+      )}
+      {result.canFindThemes && !result.enabled && (
+        <p className="note">Switching on posts a message in the group. Anyone can react ❌ to it to keep their messages out of summaries.</p>
+      )}
+      {result.enabled && !ready && result.availableFrom && (
+        <p className="note">To give people time to opt out, the first summary can run from {new Date(result.availableFrom).toLocaleString(undefined, { weekday: "short", day: "numeric", month: "short", hour: "numeric", minute: "2-digit" })}.</p>
+      )}
+      {ready && (
         <div className="import">
           <select value={month} onChange={e => setMonth(e.target.value)}>
             {[0, -1, -2].map(offset => <option key={offset} value={monthKey(offset)}>{monthName(monthKey(offset))}</option>)}

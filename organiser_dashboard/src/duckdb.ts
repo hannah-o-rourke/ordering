@@ -59,8 +59,20 @@ export async function startDuckDB(fileName = "engagement_duckdb.db") {
         input_tokens INTEGER,
         output_tokens INTEGER
     );`);
-    await connection.run(`CREATE TABLE IF NOT EXISTS ThemesOff (
-        room_id VARCHAR PRIMARY KEY
+    // AI theme summaries are off until an admin switches them on, which posts
+    // an opt-out notice; enabled_at starts the notice period
+    await connection.run(`CREATE TABLE IF NOT EXISTS AiSettings (
+        room_id VARCHAR PRIMARY KEY,
+        enabled BOOLEAN,
+        enabled_at DOUBLE
+    );`);
+    // people who keep their messages out of AI summaries; via_event_id is the
+    // ❌ reaction that opted them out, so removing the reaction opts them back in
+    await connection.run(`CREATE TABLE IF NOT EXISTS AiOptOuts (
+        room_id VARCHAR,
+        sender VARCHAR,
+        via_event_id VARCHAR,
+        PRIMARY KEY (room_id, sender)
     );`);
     // only a hash of each admin's dashboard key is stored
     await connection.run(`CREATE TABLE IF NOT EXISTS OrganiserKeys (
@@ -159,17 +171,43 @@ export async function getThemes(roomId: string) {
     }));
 }
 
-// the group's choice survives !engagement forget, like individual opt-outs
-export async function themesAllowed(roomId: string) {
-    const found = await rows(`SELECT 1 FROM ThemesOff WHERE room_id = $1;`, [roomId]);
-    return found.length === 0;
+// both survive !engagement forget, like individual opt-outs
+export async function getAiSettings(roomId: string) {
+    const [found] = await rows(`SELECT enabled, enabled_at FROM AiSettings WHERE room_id = $1;`, [roomId]);
+    return { enabled: Boolean(found?.enabled), enabledAt: (found?.enabled_at as number | null) ?? null };
 }
 
-export async function setThemesAllowed(roomId: string, allowed: boolean) {
-    if (allowed)
-        await connection.run(`DELETE FROM ThemesOff WHERE room_id = $1;`, [roomId]);
-    else
-        await connection.run(`INSERT OR IGNORE INTO ThemesOff VALUES ($1);`, [roomId]);
+export async function setAiEnabled(roomId: string, enabled: boolean) {
+    await connection.run(
+        `INSERT OR REPLACE INTO AiSettings VALUES ($1, $2, $3::DOUBLE);`,
+        [roomId, enabled, enabled ? String(Date.now()) : null]
+    );
+}
+
+export async function aiOptOut(roomId: string, sender: string, viaEventId: string | null) {
+    await connection.run(`INSERT OR REPLACE INTO AiOptOuts VALUES ($1, $2, $3);`, [roomId, sender, viaEventId]);
+}
+
+export async function aiOptIn(roomId: string, sender: string) {
+    await connection.run(`DELETE FROM AiOptOuts WHERE room_id = $1 AND sender = $2;`, [roomId, sender]);
+}
+
+// a removed ❌ reaction arrives as a redaction of the reaction event
+export async function aiOptInByReaction(roomId: string, reactionEventId: string) {
+    const [found] = await rows(`SELECT sender FROM AiOptOuts WHERE room_id = $1 AND via_event_id = $2;`, [roomId, reactionEventId]);
+    if (!found) return null;
+    await aiOptIn(roomId, found.sender as string);
+    return found.sender as string;
+}
+
+export async function isAiOptedOut(roomId: string, sender: string) {
+    const found = await rows(`SELECT 1 FROM AiOptOuts WHERE room_id = $1 AND sender = $2;`, [roomId, sender]);
+    return found.length > 0;
+}
+
+export async function getAiOptOutCount(roomId: string) {
+    const [{ count }] = await rows(`SELECT COUNT(*)::INTEGER AS count FROM AiOptOuts WHERE room_id = $1;`, [roomId]);
+    return count as number;
 }
 
 export async function logThemeRun(roomId: string, inputTokens: number, outputTokens: number) {

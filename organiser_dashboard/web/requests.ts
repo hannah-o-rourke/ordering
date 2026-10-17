@@ -53,3 +53,7 @@ export async function getThemes(roomId: string) {
 export async function findThemes(roomId: string, month: string) {
     return await call("/api/themes", roomId, { month });
 }
+
+export async function switchAi(roomId: string, enabled: boolean) {
+    return await call("/api/themes/switch", roomId, { enabled });
+}
