@@ -1,18 +1,55 @@
 const { origin, pathname } = window.location;
 const BASE_URL = `${origin}${pathname}`.replace(/\/$/, "");
 
+// The personal key arrives in the link an admin was sent. It's moved out of the
+// address bar so it doesn't end up in screenshots or screen shares.
+function readKey() {
+    const params = new URLSearchParams(window.location.search);
+    const fromLink = params.get("key");
+    let key = fromLink;
+
+    try {
+        if (fromLink) sessionStorage.setItem("engagement.key", fromLink);
+        else key = sessionStorage.getItem("engagement.key");
+    } catch { }
+
+    if (fromLink) {
+        params.delete("key");
+        window.history.replaceState(null, "", `${pathname}?${params}`);
+    }
+    return key ?? "";
+}
+
+const key = readKey();
+
+export class NotAllowed extends Error { }
+
+async function call(path: string, roomId: string, body?: object) {
+    const response = await fetch(`${BASE_URL}${path}?roomId=${encodeURIComponent(roomId)}`, {
+        method: body ? "POST" : "GET",
+        body: body ? JSON.stringify(body) : undefined,
+        headers: {
+            "Content-type": "application/json",
+            "x-engagement-key": key,
+        }
+    });
+    const result = await response.json();
+    if (response.status === 401) throw new NotAllowed(result.message);
+    return result;
+}
+
 export async function getDashboard(roomId: string) {
-    const dashboardResponse = await fetch(`${BASE_URL}/api/dashboard?roomId=${encodeURIComponent(roomId)}`);
-    return await dashboardResponse.json();
+    return await call("/api/dashboard", roomId);
 }
 
 export async function importHistory(roomId: string, days: number) {
-    const importResponse = await fetch(`${BASE_URL}/api/import?roomId=${encodeURIComponent(roomId)}`, {
-        method: "POST",
-        body: JSON.stringify({ days }),
-        headers: {
-            "Content-type": "application/json"
-        }
-    });
-    return await importResponse.json();
+    return await call("/api/import", roomId, { days });
+}
+
+export async function getThemes(roomId: string) {
+    return await call("/api/themes", roomId);
+}
+
+export async function findThemes(roomId: string, month: string) {
+    return await call("/api/themes", roomId, { month });
 }

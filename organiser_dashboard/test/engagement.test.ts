@@ -2,6 +2,7 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { classify } from "../src/classify";
 import { computeDashboard, weekStart } from "../src/metrics";
+import { anonymise, transcript } from "../src/themes";
 import { Activity, MatrixEvent } from "../types";
 
 const BOT = "@chathackers:matrix.campaignlab.uk";
@@ -134,4 +135,27 @@ test("weeks start on Monday and cover the whole period", () => {
     const dashboard = computeDashboard(rows, undefined, 0, NOW);
     assert.equal(dashboard.weeks.length, 4);
     assert.equal(dashboard.weeks.reduce((s, w) => s + w.messages, 0), 1);
+});
+
+test("anonymise strips quotes, ids, contact details and known names", () => {
+    const text = anonymise("> <@ana:x> earlier message\nThanks Ana! Ring me on +44 7842 151776 or mail ben@example.org, cc @whatsapp_447:matrix.campaignlab.uk", ["Ana", "Ben"]);
+    assert.equal(text, "Thanks [name]! Ring me on [number] or mail [email], cc [someone]");
+});
+
+test("transcript labels speakers without names and leaves out what it should", () => {
+    const start = NOW - 10 * DAY;
+    const events = [
+        message("$1", "@ana:x", NOW - 2 * DAY, "Leaflets on Saturday?"),
+        message("$2", "@ben:x", NOW - DAY, "yes, see you there"),
+        message("$3", "@fay:x", NOW - DAY, "opted out, never sent"),
+        message("$4", BOT, NOW - DAY, "bot message"),
+        message("$5", "@ana:x", NOW - DAY, "!engagement me"),
+        message("$6", "@ana:x", NOW - 20 * DAY, "last month"),
+        { ...message("$7", "@ben:x", NOW - DAY, ""), content: { msgtype: "m.image", body: "photo.jpg" } },
+    ];
+    const lines = transcript(events, [], BOT, new Set(["@fay:x"]), start, NOW);
+    assert.equal(lines.length, 2);
+    assert.match(lines[0], /Person 1: Leaflets on Saturday\?$/);
+    assert.match(lines[1], /Person 2: yes, see you there$/);
+    assert.ok(!lines.join().includes("@"));
 });

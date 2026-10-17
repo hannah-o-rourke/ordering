@@ -364,6 +364,43 @@ td.patterns {
   color: var(--text-secondary);
 }
 
+.themes-month h3 small {
+  color: var(--text-secondary);
+  font-weight: 400;
+  font-size: 0.85rem;
+}
+
+.themes {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.themes p {
+  margin: 2px 0 0;
+  color: var(--text-secondary);
+}
+
+.prominence {
+  display: inline-block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0 7px;
+  margin-right: 8px;
+  color: var(--text-secondary);
+}
+
+.prominence.major {
+  color: var(--text-primary);
+  border-color: var(--text-secondary);
+}
+
 .tooltip {
   position: fixed;
   pointer-events: none;

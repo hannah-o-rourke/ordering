@@ -2,11 +2,87 @@ import "./App.css";
 import { useSearchParams } from "react-router";
 import { useEffect, useMemo, useState } from "react";
 import type { Dashboard, ParticipantSummary, Pattern, WeekSummary } from "../src/metrics";
-import { getDashboard, importHistory } from "./requests";
+import type { Theme } from "../src/themes";
+import { findThemes, getDashboard, getThemes, importHistory, NotAllowed } from "./requests";
 
 type DashboardResult = Dashboard & { canImportHistory: boolean };
 
 type Tip = { x: number; y: number; text: string } | null;
+
+type ThemesResult = {
+  months: { month: string; generatedAt: number; messageCount: number; themes: Theme[] }[];
+  canFindThemes: boolean;
+  allowed: boolean;
+};
+
+function monthKey(offset: number) {
+  const now = new Date();
+  return new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth() + offset, 1)).toISOString().slice(0, 7);
+}
+
+function monthName(month: string) {
+  return new Date(`${month}-01T00:00:00Z`).toLocaleDateString(undefined, { month: "long", year: "numeric", timeZone: "UTC" });
+}
+
+function Themes({ roomId }: { roomId: string }) {
+  const [result, setResult] = useState<ThemesResult | null>(null);
+  const [month, setMonth] = useState(monthKey(0));
+  const [status, setStatus] = useState("");
+
+  async function load() {
+    setResult(await getThemes(roomId).catch(() => null));
+  }
+
+  useEffect(() => {
+    load();
+  }, []);
+
+  async function run() {
+    if (!confirm(`Find the main themes for ${monthName(month)}? That month's messages will be sent, without names, to Anthropic's Claude. Only the summary is kept, and the tool will post a message in the group to say so. Each group can do this once a month.`)) return;
+
+    setStatus("Reading the month's messages…");
+    const response = await findThemes(roomId, month).catch(err => ({ success: false, message: err.message }));
+    setStatus(response.success
+      ? `Summarised ${response.messageCount} messages.${response.announced ? " The group has been told." : ` Couldn't post the announcement (${response.announcementError}), so please let the group know yourself.`}`
+      : response.message);
+    load();
+  }
+
+  if (!result) return <p className="note">Loading…</p>;
+
+  return (
+    <>
+      <p className="note">
+        Topics, not people: the summary never says who raised what. Messages are sent to Claude without names only when an admin asks, and only the summary is kept.
+      </p>
+      {!result.allowed && <p className="note">This group has turned theme summaries off. Send <code>!engagement themes on</code> to allow them.</p>}
+      {result.allowed && !result.canFindThemes && <p className="note">Theme summaries aren't set up on this server.</p>}
+      {result.allowed && result.canFindThemes && (
+        <div className="import">
+          <select value={month} onChange={e => setMonth(e.target.value)}>
+            {[0, -1, -2].map(offset => <option key={offset} value={monthKey(offset)}>{monthName(monthKey(offset))}</option>)}
+          </select>
+          <button onClick={run}>Find themes</button>
+        </div>
+      )}
+      {status && <p className="note">{status}</p>}
+      {result.months.map(entry => (
+        <div key={entry.month} className="themes-month">
+          <h3>{monthName(entry.month)} <small>from {entry.messageCount} messages, summarised {day(entry.generatedAt)}</small></h3>
+          <ul className="themes">
+            {entry.themes.map(theme => (
+              <li key={theme.title}>
+                <span className={`prominence ${theme.prominence}`}>{theme.prominence}</span>
+                <strong>{theme.title}</strong>
+                <p>{theme.summary}</p>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </>
+  );
+}
 
 const patternInfo: { [pattern in Pattern]: { label: string; detail: string } } = {
   "new": { label: "Joined recently", detail: "Joined the group in the last two weeks." },
@@ -177,8 +253,8 @@ export default function App() {
   async function loadDashboard(roomId: string) {
     try {
       setDashboard(await getDashboard(roomId));
-    } catch {
-      setError("Couldn't load the dashboard. Is the Engagement tool running?");
+    } catch (err) {
+      setError(err instanceof NotAllowed ? err.message : "Couldn't load the dashboard. Is the Engagement tool running?");
     }
   }
 
@@ -200,7 +276,7 @@ export default function App() {
     if (!confirm(`Import the last ${importDays} days of this group's activity? The tool will post a message in the group to say so.`)) return;
 
     setImportStatus("Importing…");
-    const result = await importHistory(roomId, importDays);
+    const result = await importHistory(roomId, importDays).catch(err => ({ success: false, message: err.message }));
     setImportStatus(result.success
       ? `Imported ${result.imported} events.${result.announced ? " The group has been told." : ` Couldn't post the announcement (${result.announcementError}), so please let the group know yourself.`}`
       : `Import failed: ${result.message}`);
@@ -208,7 +284,7 @@ export default function App() {
   }
 
   if (!roomId)
-    return <main><h1>Engagement</h1><p>Open this page from the link the tool posts in your group (send <code>!engagement</code>).</p></main>;
+    return <main><h1>Engagement</h1><p>Group admins can get a link to this page by sending <code>!engagement dashboard</code> in the group.</p></main>;
 
   if (error)
     return <main><h1>Engagement</h1><p>{error}</p></main>;
@@ -226,7 +302,8 @@ export default function App() {
         <h1>📊 Engagement</h1>
         <p className="lede">
           How participation in this group has changed over time. It's a starting point for conversations with the group, not a judgement of anyone.
-          Everyone in the group can see this page, and anyone can opt out with <code>!engagement optout</code>.
+          Only the group's admins can see this page. Everyone can see what's held about themselves with <code>!engagement me</code>, and opt out with <code>!engagement optout</code>.
+          Your link is personal, so please don't share it.
         </p>
         <label className="toggle">
           <input type="checkbox" checked={hideNames} onChange={toggleNames} /> Hide names (for screen sharing)
@@ -320,6 +397,11 @@ export default function App() {
             ))}
           </div>
         ) : <p>No messages recorded yet.</p>}
+      </section>
+
+      <section>
+        <h2>Main themes</h2>
+        <Themes roomId={roomId} />
       </section>
 
       <section>

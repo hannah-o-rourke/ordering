@@ -4,8 +4,19 @@ const { hub_url, engagement_secret } = process.env;
 
 export const TOOL_ID = "engagement";
 
-export function dashboardLink(roomId: string) {
-    return hub_url ? `${hub_url}/${TOOL_ID}/?roomId=${encodeURIComponent(roomId)}` : null;
+export function dashboardLink(roomId: string, key: string) {
+    return hub_url ? `${hub_url}/${TOOL_ID}/?roomId=${encodeURIComponent(roomId)}&key=${key}` : null;
+}
+
+// Needs the tool hub's /api/room/power-levels endpoint (tool-hub-power-levels.patch).
+export async function fetchPowerLevels(roomId: string) {
+    if (!hub_url) return null;
+    const params = new URLSearchParams({ roomId, toolId: TOOL_ID, secret: engagement_secret ?? "" });
+    const response = await fetch(`${hub_url}/api/room/power-levels?${params}`);
+    if (!response.ok)
+        throw new Error(`tool hub returned ${response.status} for power levels`);
+
+    return await response.json() as { users?: { [userId: string]: number }; users_default?: number };
 }
 
 export function canImportHistory() {

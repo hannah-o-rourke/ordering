@@ -1,6 +1,7 @@
 import { DuckDBConnection, DuckDBInstance, DuckDBValue } from "@duckdb/node-api";
 import path from "node:path";
 import { Activity, RoomSettings } from "../types";
+import type { Theme } from "./themes";
 
 let connection: DuckDBConnection;
 let instance: DuckDBInstance;
@@ -40,6 +41,38 @@ export async function startDuckDB(fileName = "engagement_duckdb.db") {
         room_id VARCHAR PRIMARY KEY,
         tracking_since DOUBLE,
         imported_from DOUBLE
+    );`);
+    // only the summary Claude returns is kept, never the messages it was made from
+    await connection.run(`CREATE TABLE IF NOT EXISTS Themes (
+        room_id VARCHAR,
+        month VARCHAR,
+        generated_at DOUBLE,
+        message_count INTEGER,
+        themes VARCHAR,
+        PRIMARY KEY (room_id, month)
+    );`);
+    // one row per request to Claude, for the usage limits and the hosting bill;
+    // kept through !engagement forget so forgetting can't reset a group's limit
+    await connection.run(`CREATE TABLE IF NOT EXISTS ThemeRuns (
+        room_id VARCHAR,
+        run_at DOUBLE,
+        input_tokens INTEGER,
+        output_tokens INTEGER
+    );`);
+    await connection.run(`CREATE TABLE IF NOT EXISTS ThemesOff (
+        room_id VARCHAR PRIMARY KEY
+    );`);
+    // only a hash of each admin's dashboard key is stored
+    await connection.run(`CREATE TABLE IF NOT EXISTS OrganiserKeys (
+        room_id VARCHAR,
+        user_id VARCHAR,
+        key_hash VARCHAR,
+        created_at DOUBLE,
+        PRIMARY KEY (room_id, user_id)
+    );`);
+    await connection.run(`CREATE TABLE IF NOT EXISTS PowerLevels (
+        room_id VARCHAR PRIMARY KEY,
+        content VARCHAR
     );`);
     await connection.run(`CREATE TABLE IF NOT EXISTS OptOuts (
         room_id VARCHAR,
@@ -104,5 +137,72 @@ export async function optIn(roomId: string, sender: string) {
 
 export async function forgetRoom(roomId: string) {
     await connection.run(`DELETE FROM Activity WHERE room_id = $1;`, [roomId]);
+    await connection.run(`DELETE FROM Themes WHERE room_id = $1;`, [roomId]);
+    await connection.run(`DELETE FROM OrganiserKeys WHERE room_id = $1;`, [roomId]);
     await connection.run(`DELETE FROM Rooms WHERE room_id = $1;`, [roomId]);
+}
+
+export async function saveThemes(roomId: string, month: string, messageCount: number, themes: Theme[]) {
+    await connection.run(
+        `INSERT OR REPLACE INTO Themes VALUES ($1, $2, $3::DOUBLE, $4::INTEGER, $5);`,
+        [roomId, month, String(Date.now()), String(messageCount), JSON.stringify(themes)]
+    );
+}
+
+export async function getThemes(roomId: string) {
+    const found = await rows(`SELECT * FROM Themes WHERE room_id = $1 ORDER BY month DESC;`, [roomId]);
+    return found.map(row => ({
+        month: row.month as string,
+        generatedAt: row.generated_at as number,
+        messageCount: row.message_count as number,
+        themes: JSON.parse(row.themes as string) as Theme[],
+    }));
+}
+
+// the group's choice survives !engagement forget, like individual opt-outs
+export async function themesAllowed(roomId: string) {
+    const found = await rows(`SELECT 1 FROM ThemesOff WHERE room_id = $1;`, [roomId]);
+    return found.length === 0;
+}
+
+export async function setThemesAllowed(roomId: string, allowed: boolean) {
+    if (allowed)
+        await connection.run(`DELETE FROM ThemesOff WHERE room_id = $1;`, [roomId]);
+    else
+        await connection.run(`INSERT OR IGNORE INTO ThemesOff VALUES ($1);`, [roomId]);
+}
+
+export async function logThemeRun(roomId: string, inputTokens: number, outputTokens: number) {
+    await connection.run(
+        `INSERT INTO ThemeRuns VALUES ($1, $2::DOUBLE, $3::INTEGER, $4::INTEGER);`,
+        [roomId, String(Date.now()), String(inputTokens), String(outputTokens)]
+    );
+}
+
+export async function countThemeRuns(since: number, roomId?: string) {
+    const [{ count }] = roomId
+        ? await rows(`SELECT COUNT(*)::INTEGER AS count FROM ThemeRuns WHERE run_at >= $1::DOUBLE AND room_id = $2;`, [String(since), roomId])
+        : await rows(`SELECT COUNT(*)::INTEGER AS count FROM ThemeRuns WHERE run_at >= $1::DOUBLE;`, [String(since)]);
+    return count as number;
+}
+
+export async function saveOrganiserKey(roomId: string, userId: string, keyHash: string) {
+    await connection.run(
+        `INSERT OR REPLACE INTO OrganiserKeys VALUES ($1, $2, $3, $4::DOUBLE);`,
+        [roomId, userId, keyHash, String(Date.now())]
+    );
+}
+
+export async function getOrganiserForKey(roomId: string, keyHash: string) {
+    const [found] = await rows(`SELECT user_id FROM OrganiserKeys WHERE room_id = $1 AND key_hash = $2;`, [roomId, keyHash]);
+    return found?.user_id as string | undefined;
+}
+
+export async function savePowerLevels(roomId: string, content: object) {
+    await connection.run(`INSERT OR REPLACE INTO PowerLevels VALUES ($1, $2);`, [roomId, JSON.stringify(content)]);
+}
+
+export async function getLatestPowerLevels(roomId: string) {
+    const [found] = await rows(`SELECT content FROM PowerLevels WHERE room_id = $1;`, [roomId]);
+    return found ? JSON.parse(found.content as string) : null;
 }
