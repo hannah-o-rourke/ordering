@@ -1,0 +1,57 @@
+# URLs identified for 2026 UK focus-group research that COULD NOT be fetched in this session
+# Reason: session network policy (proxy CONNECT 403 / host not in allow-list); two update_environment requests were rejected.
+# Suggested filename for each download is given after the URL. Re-run with hosts allow-listed.
+
+## More in Common (www.moreincommon.org.uk) – all blocked
+https://www.moreincommon.org.uk/wp-content/uploads/2026/07/Makerfield-Report-typeset.pdf  -> MiC_Makerfield_byelection_report_Jul2026.pdf
+https://www.moreincommon.org.uk/wp-content/uploads/2026/04/what-s-changed_pdf.pdf  -> MiC_Whats_Changed_public_opinion_Apr2026.pdf (title says July 2025 – check)
+https://www.moreincommon.org.uk/wp-content/uploads/2026/05/no-overall-control_-british-politics-in-an-era-of-fragmentation-1.pdf  -> MiC_No_Overall_Control_fragmentation_May2026.pdf
+https://www.moreincommon.org.uk/wp-content/uploads/2026/06/Local-and-Devolved-Elections-Climate-Report-%E2%80%93-v2_compressed.pdf  -> MiC_Local_Devolved_Elections_Climate_Report_Jun2026.pdf
+https://www.moreincommon.org.uk/research/where-next-for-reform/  (Clacton focus groups, July 2026)
+https://www.moreincommon.org.uk/  (homepage: focus-group index page with recruitment criteria; post-Budget debrief with UCL Policy Lab; Bracing for Winter)
+https://www.moreincommon.org.uk/research/guide-to-the-elections/
+https://www.moreincommon.org.uk/latest-insights/more-in-common-s-final-projections-ahead-of-the-2026-elections/
+https://www.moreincommon.org.uk/research/behind-the-voting-intention/
+https://www.moreincommon.org.uk/research/more-in-commons-september-2026-mrp/
+https://www.moreincommon.org.uk/polling-tables/
+
+## Lord Ashcroft (lordashcroftpolls.com / www.lordashcroft.com) – all blocked
+https://www.lordashcroft.com/2026/01/he-changes-his-mind-left-right-and-centre-he-never-sticks-to-one-thing-my-latest-focus-groups/
+https://www.lordashcroft.com/2026/02/labour-need-to-go-back-to-the-fundamentals-and-re-establish-what-theyre-about-my-focus-groups-in-gorton-denton/
+https://www.lordashcroft.com/2026/03/this-is-the-only-time-ive-agreed-with-keir-starmer-in-a-while-my-latest-focus-groups/
+https://lordashcroftpolls.com/2026/04/labour-were-always-for-the-working-people-now-its-the-non-working-people-my-latest-focus-groups/
+https://conservativehome.com/2026/04/21/lord-ashcroft-labour-were-always-for-the-working-people-now-its-the-non-working-people-my-latest-focus-groups/
+https://lordashcroftpolls.com/2026/05/it-would-be-very-funny-if-he-didnt-get-in-my-latest-focus-groups/
+https://lordashcroftpolls.com/2026/09/show-us-what-your-plan-is-at-least-then-we-can-see-if-you-achieve-any-of-it-my-latest-focus-groups/
+https://lordashcroftpolls.com/2026/09/youre-changing-the-captain-of-the-titanic-after-its-hit-the-iceberg-my-latest-focus-groups/
+https://lordashcroftpolls.com/
+
+## JL Partners – blocked
+https://jlpartners.com/keyvoters2026
+https://www.jlpartners.co.uk/polling-results  ("Divided Britain", 9 Apr 2026, focus group toplines link)
+
+## Luke Tryl X posts (x.com) – blocked; dates decoded from IDs
+https://x.com/LukeTryl/status/2048800043839148364  (27 Apr 2026, Scotland groups "meh")
+https://x.com/LukeTryl/status/2052062220830277865  (6 May 2026, "the trip")
+https://x.com/LukeTryl/status/2061409043919364464  (1 Jun 2026, Makerfield groups)
+https://x.com/LukeTryl/status/2069382844636361042  (23 Jun 2026, Brexit 10th anniversary thread)
+https://x.com/LukeTryl/status/2083473280426541493  (1 Aug 2026, Badenoch/GM)
+https://x.com/LukeTryl/status/2089795591760949292  (18 Aug 2026, Reform welfare thread)
+
+## Context pages – blocked
+https://en.wikipedia.org/wiki/2026_in_United_Kingdom_politics_and_government
+https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections
+https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+https://www.itv.com/news/2026-05-08/2026-election-results
+https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green
+https://www.publicfinance.co.uk/interview/2026/06/poll-positions-interview-luke-tryl-more-common
+https://www.pollcheck.co.uk/locals-2026
+https://britpolls.co.uk/news/uk-local-elections-2026-results/
+
+## Hosts that worked in this session
+https://members-api.parliament.uk/api/Posts/GovernmentPosts
+https://members-api.parliament.uk/api/Members/Search?House=1&MembershipStartedSince=2026-01-01
+https://www.theyworkforyou.com/lords/?id=2026-06-25b.791.0
+https://www.theyworkforyou.com/lords/?id=2026-11-04b.1627.2
+https://www.theyworkforyou.com/whall/?id=2026-07-14b.273.0
+(www.youtube.com search-result metadata only; caption/transcript retrieval was refused)
