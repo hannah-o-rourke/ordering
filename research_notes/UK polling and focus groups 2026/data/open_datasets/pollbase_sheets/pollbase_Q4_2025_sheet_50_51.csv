@@ -1,0 +1,35 @@
+Year,Month,Fieldwork,Fieldwork_chg,Published,Polling,Publisher,Con,Con_chg,Lab,Lab_chg,LD,LD_chg,Con lead,Con lead_chg,col15,Leader:,Con good,Con bad,Con net,Lab good,Lab bad,Lab net,LD good,LD bad,LD net,Question,Question_chg,Govt good,Govt bad,Govt net,Question__1,sheet
+1950.0,Mar,,,,Gallup,News Chron,43.5,,45.5,,8.5,,-2,,,,,,,,,,,,,,,,,,,50-51
+1950.0,Apr,,,,Gallup,News Chron,45.5,2.0,47,1.5,7,-1.5,-1.5,0.5,,,,,,,,,,,,,,,,,,50-51
+1950.0,May,,,,Gallup,News Chron,43.5,-2.0,46.5,-0.5,9.5,2.5,-3,-1.5,,,,,,50,39,11,,,,"On the whole, do you approve or disapprove of X as Y?",,41,49,-8,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",50-51
+1950.0,Jun,,,,Gallup,News Chron,43.5,0.0,46,-0.5,9,-0.5,-2.5,0.5,,,,,,,,,,,,,,,,,,50-51
+1950.0,Jul,,,,Gallup,News Chron,42,-1.5,43.5,-2.5,11,2.0,-1.5,1.0,,,,,,,,,,,,,,,,,,50-51
+1950.0,Aug,,,,Gallup,News Chron,44.5,2.5,46,2.5,8.5,-2.5,-1.5,0.0,,,,,,49,43,6,,,,"On the whole, do you approve or disapprove of X as Y?",,44,46,-2,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",50-51
+1950.0,Sep,,,,Gallup,News Chron,43,-1.5,45.5,-0.5,10,1.5,-2.5,-1.0,,,,,,,,,,,,,,,,,,50-51
+1950.0,Oct,,,,Gallup,News Chron,42.5,-0.5,45,-0.5,10,0.0,-2.5,0.0,,,,,,47,40,7,,,,"On the whole, do you approve or disapprove of X as Y?",,45,45,0,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",50-51
+1950.0,Oct,,,,,DE,45.5,,45.5,,8,,0,,,,,,,,,,,,,,,,,,,50-51
+1950.0,Nov,,,,Gallup,News Chron,,,,,,,,,Poll conducted but results lost by Gallup,,,,,,,,,,,,,,,,,50-51
+1950.0,Nov,,,,,DE,47,1.5,45,-0.5,7.5,-0.5,2,2.0,,,,,,,,,,,,,,,,,,50-51
+1950.0,Dec,,,,Gallup,News Chron,43,,44,,11.5,,-1,,,,,,,49,38,11,,,,"On the whole, do you approve or disapprove of X as Y?",,38,51,-13,Are you satisfied or dissatisfied with the Government's record to date?,50-51
+1950.0,Dec,,,,,DE,47.5,0.5,44.5,-0.5,7.5,0.0,3,1.0,,,,,,,,,,,,,,,,,,50-51
+1951.0,Jan,,,,Gallup,News Chron,51,8.0,38,-6.0,10,-1.5,13,14.0,,,,,,,,,,,,,,,,,,50-51
+1951.0,Jan,,,,,DE,48,0.5,44,-0.5,7,-0.5,4,1.0,,,,,,,,,,,,,,,,,,50-51
+1951.0,Feb,,,,,DE,50.5,2.5,40.5,-3.5,8,1.0,10,6.0,,,,,,,,,,,,,,,,,,50-51
+1951.0,Feb,,,,Gallup,News Chron,51.5,1.0,37.5,-3.0,9.5,1.5,14,4.0,,,,,,44,47,-3,,,,Do you approve or disapprove of X as Y?,,31,60,-29,Are you satisfied with the Government's record to date?,50-51
+1951.0,Feb,17-25,1951-02-17,,,DE,52,0.5,39.5,2.0,7.5,-2.0,12.5,-1.5,,,,,,,,,,,,,,,,,,50-51
+1951.0,Mar,,,,Gallup,News Chron,51,-0.5,36.5,-1.0,10.5,1.0,14.5,0.5,,,,,,,,,,,,,,,,,,50-51
+1951.0,Mar,3-10,1951-03-03,,,DE,52,0.0,39,-0.5,8,0.5,13,0.5,,,,,,,,,,,,,,,,,,50-51
+1951.0,Apr,,,,Gallup,News Chron,50.5,-0.5,38.5,2.0,9,-1.5,12,-2.5,,,,,,49,40,9,,,,Do you approve or disapprove of X as Y?,,32,59,-27,Are you satisfied or dissatisfied with the Government's record to date?,50-51
+1951.0,May,,,,Gallup,News Chron,49,-1.5,40,1.5,9.5,0.5,9,-3.0,,,,,,57,35,22,,,,Do you approve or disapprove of X as Y?,,35,56,-21,Are you satisfied or dissatisfied with the Government's record to date?,50-51
+1951.0,Jun,,,,Gallup,News Chron,48,-1.0,41,1.0,10,0.5,7,-2.0,,,,,,,,,,,,,,,,,,50-51
+1951.0,Jul,,,,Gallup,News Chron,49,1.0,39,-2.0,10.5,0.5,10,3.0,,,,,,43,43,0,,,,Do you approve or disapprove of X as Y?,,31,56,-25,Are you satisfied or dissatisfied with the Government's record to date?,50-51
+1951.0,Aug,,,,Gallup,News Chron,50.5,1.5,38,-1.0,10.5,0.0,12.5,2.5,,,,,,,,,,,,,,,,,,50-51
+1951.0,Sep,26,1951-09-26,,Gallup,News Chron,52,1.5,41,3.0,6.5,-4.0,11,-1.5,,,,,,44,41,3,,,,Do you approve or disapprove of X as Y?,,35,54,-19,Are you satisfied or dissatisfied with the Government's record to date?,50-51
+1951.0,Oct,3,1951-10-03,,Gallup,News Chron,50.5,-1.5,43.5,2.5,5.5,-1.0,7,-4.0,,,,,,,,,,,,,,,,,,50-51
+1951.0,Oct,10,1951-10-10,,Gallup,News Chron,50.5,0.0,44,0.5,4.5,-1.0,6.5,-4.5,,,,,,,,,,,,,,,,,,50-51
+1951.0,Oct,17,1951-10-17,,Gallup,News Chron,50,-0.5,45.5,1.5,4.5,0.0,4.5,-2.5,,,,,,,,,,,,,,,,,,50-51
+1951.0,Oct,19,1951-10-19,,Gallup,,50,0.0,46.5,1.0,3,-1.5,3.5,-1.0,,,,,,,,,,,,,,,,,,50-51
+1951.0,Oct,19,1951-10-19,,Research Serv Ltd,DG,50,,43,,6.7,,7,,,,,,,,,,,,,,,,,,,50-51
+1951.0,Oct,19-23,1951-10-19,,,DE,50,,46,,3.5,,4,,,,,,,,,,,,,,,,,,,50-51
+1951.0,Oct,22,1951-10-22,,Gallup,News Chron,49.5,,47,,3,,2.5,,,,,,,,,,,,,,,,,,,50-51
+1951.0,,,,25,Result,,47.8,,49.4,,2.6,,-1.6000000000000014,,,,,,,,,,,,,,,,,,,50-51

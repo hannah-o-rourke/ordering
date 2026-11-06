@@ -1,0 +1,13 @@
+constituency,election_date,election_title,result,electorate,turnout_votes,turnout_pct,majority,winning_party,source
+Aberdeen South,2024-07-04,2024 General Election,SNP Hold,77328,46345,59.9,3758,Scottish National Party,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 422)
+Aberdeen South,2026-06-18,2026-06-18 Aberdeen South By-election,Con Gain,76033,28897,38.0,6050,Conservative,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 557)
+Arbroath and Broughty Ferry,2024-07-04,2024 General Election,SNP Hold,76149,44117,57.9,859,Scottish National Party,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 422)
+Arbroath and Broughty Ferry,2026-06-18,2026-06-18 Arbroath and Broughty Ferry By-election,SNP Hold,75985,23770,31.3,5278,Scottish National Party,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 556)
+Clacton,2024-07-04,2024 General Election,RUK Gain,78245,45958,58.7,8405,Reform UK,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 422)
+Clacton,2026-08-13,2026-08-13 Clacton By-election,RUK Hold,79785,35111,44.0,12784,Reform UK,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 559)
+Gorton and Denton,2024-07-04,2024 General Election,Lab Hold,76524,36560,47.8,13413,Labour,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 422)
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,Green Gain,77501,36814,47.5,4402,Green Party,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 554)
+Holborn and St Pancras,2024-07-04,2024 General Election,Lab Hold,71300,38602,54.1,11572,Labour,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 422)
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,Lab Hold,70449,27211,38.6,3364,Labour,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 560)
+Makerfield,2024-07-04,2024 General Election,Lab Hold,76641,40263,52.5,5399,Labour,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 422)
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,Lab Hold,77462,45476,58.7,9231,Labour,https://members-api.parliament.uk/api/Location/Constituency/ElectionResult (electionId 558)

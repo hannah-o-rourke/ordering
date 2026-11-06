@@ -1,0 +1,135 @@
+constituency,election_date,election_title,election_id,is_general,candidate,party,party_abbr,votes,vote_share_pct,rank,result_change
+Aberdeen South,2024-07-04,2024 General Election,422,True,Stephen Flynn,Scottish National Party,SNP,15213,0.3282554752400475,1,-12.4%
+Aberdeen South,2024-07-04,2024 General Election,422,True,Mohammad Malik,Labour,Lab,11455,0.2471679792857913,2,15.9%
+Aberdeen South,2024-07-04,2024 General Election,422,True,John Wheeler,Conservative,Con,11300,0.2438234976804402,3,-10.0%
+Aberdeen South,2024-07-04,2024 General Election,422,True,Michael Pearce,Reform UK,RUK,3199,0.06902578487431223,4,6.5%
+Aberdeen South,2024-07-04,2024 General Election,422,True,Jeff Goodhall,Liberal Democrat,LD,2921,0.0630272952853598,5,-4.4%
+Aberdeen South,2024-07-04,2024 General Election,422,True,Guy Ingerson,Scottish Green Party,Green,1609,0.03471787679361312,6,2.9%
+Aberdeen South,2024-07-04,2024 General Election,422,True,Graeme Craib,Scottish Family Party,SFP,423,0.009127198187506742,7,
+Aberdeen South,2024-07-04,2024 General Election,422,True,Sophie Molly,Independent,Ind,225,0.004854892652929118,8,
+Aberdeen South,2026-06-18,2026-06-18 Aberdeen South By-election,557,False,Douglas Lumsden,Conservative,Con,14308,0.4951379035886078,1,25.1
+Aberdeen South,2026-06-18,2026-06-18 Aberdeen South By-election,557,False,Richard Gordon Thomson,Scottish National Party,SNP,8258,0.2857736097172717,2,-4.2
+Aberdeen South,2026-06-18,2026-06-18 Aberdeen South By-election,557,False,Jo Hart,Reform UK,RUK,2478,0.0857528463162266,3,1.7
+Aberdeen South,2026-06-18,2026-06-18 Aberdeen South By-election,557,False,Nurul Hoque Ali,Labour,Lab,1550,0.05363878603315223,4,-19.2
+Aberdeen South,2026-06-18,2026-06-18 Aberdeen South By-election,557,False,Mel Sullivan,Liberal Democrat,LD,1270,0.04394919887877635,5,-1.9
+Aberdeen South,2026-06-18,2026-06-18 Aberdeen South By-election,557,False,Jorg Shelton-Eckstein,Scottish Green Party,Green,974,0.03370592102986469,6,-0.1
+Aberdeen South,2026-06-18,2026-06-18 Aberdeen South By-election,557,False,David Ballantine,Alliance for Democracy and Freedom,ADF,59,0.002041734436100633,7,0.2
+Arbroath and Broughty Ferry,2024-07-04,2024 General Election,422,True,Stephen Gethins,Scottish National Party,SNP,15581,0.353174513226194,1,-15.6%
+Arbroath and Broughty Ferry,2024-07-04,2024 General Election,422,True,Cheryl-Ann Cruickshank,Labour,Lab,14722,0.3337035609855611,2,23.2%
+Arbroath and Broughty Ferry,2024-07-04,2024 General Election,422,True,Richard Brooks,Conservative,Con,6841,0.1550649409524673,3,-14.8%
+Arbroath and Broughty Ferry,2024-07-04,2024 General Election,422,True,Gwen Wood,Reform UK,RUK,3800,0.08613459664075072,4,
+Arbroath and Broughty Ferry,2024-07-04,2024 General Election,422,True,David Evans,Liberal Democrat,LD,2249,0.05097808101185484,5,-2.9%
+Arbroath and Broughty Ferry,2024-07-04,2024 General Election,422,True,Ghazi Khan,Alba Party,Alba,693,0.01570823038737901,6,
+Arbroath and Broughty Ferry,2024-07-04,2024 General Election,422,True,Moira Brown,Sovereignty,Svr,231,0.005236076795793005,7,
+Arbroath and Broughty Ferry,2026-06-18,2026-06-18 Arbroath and Broughty Ferry By-election,556,False,Lara Bird,Scottish National Party,SNP,9802,0.4123685317627261,1,6.0
+Arbroath and Broughty Ferry,2026-06-18,2026-06-18 Arbroath and Broughty Ferry By-election,556,False,Jack Cruickshanks,Conservative,Con,4524,0.1903239377366428,2,3.5
+Arbroath and Broughty Ferry,2026-06-18,2026-06-18 Arbroath and Broughty Ferry By-election,556,False,Bill Reid,Reform UK,RUK,4341,0.1826251577618847,3,9.7
+Arbroath and Broughty Ferry,2026-06-18,2026-06-18 Arbroath and Broughty Ferry By-election,556,False,Heather Doran,Labour,Lab,3651,0.1535969709718132,4,-18.0
+Arbroath and Broughty Ferry,2026-06-18,2026-06-18 Arbroath and Broughty Ferry By-election,556,False,Tanvir Ahmad,Liberal Democrat,LD,1452,0.06108540176693311,5,1.0
+Clacton,2024-07-04,2024 General Election,422,True,Nigel Farage,Reform UK,RUK,21225,0.4618347186561643,1,
+Clacton,2024-07-04,2024 General Election,422,True,Giles Watling,Conservative,Con,12820,0.2789503459680578,2,-44.0%
+Clacton,2024-07-04,2024 General Election,422,True,Jovan Owusu-Nepaul,Labour,Lab,7448,0.1620610122285565,3,0.6%
+Clacton,2024-07-04,2024 General Election,422,True,Matthew Bensilum,Liberal Democrat,LD,2016,0.04386613864833108,4,-1.8%
+Clacton,2024-07-04,2024 General Election,422,True,Natasha Osben,Green Party,Green,1935,0.04210365986335349,5,1.3%
+Clacton,2024-07-04,2024 General Election,422,True,Tony Mack,Independent,Ind,317,0.006897602158492537,6,
+Clacton,2024-07-04,2024 General Election,422,True,Andrew Pemberton,UK Independence Party,UKIP,116,0.00252404369206667,7,
+Clacton,2024-07-04,2024 General Election,422,True,Craig Jamieson,Climate Party,Cli,48,0.001044431872579312,8,
+Clacton,2024-07-04,2024 General Election,422,True,Tasos Papanastasiou,Heritage Party,HPUK,33,0.0007180469123982767,9,
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Nigel Farage,Reform UK,RUK,22239,0.6333912449090029,1,17.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Count Binface,Count Binface Party,CBP,9455,0.2692888268633761,2,26.9
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,John Stevens,Rejoin EU,REU,492,0.01401270257184358,3,1.4
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Tony Francis,Independent,Ind,432,0.01230383640454559,4,1.2
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Pamela Walford,Independent,Ind,371,0.01056648913445929,5,1.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Laurence Fox,The Reclaim Party,Reclaim,347,0.009882942667540088,6,1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,William Stuart James Clouston,Social Democratic Party,SDP,256,0.007291162313804791,7,0.7
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Nick Pelas,Independent,Ind,202,0.005753182763236593,8,0.6
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,James Ransley,Consensus,Cnsn,192,0.005468371735353593,9,0.5
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Stephen Richard Ingram,Independent,Ind,159,0.004528495343339694,10,0.5
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Kai Stephens,British Democratic Party,BDP,132,0.003759505568055595,11,0.4
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Attieh Fard,Independent,Ind,126,0.003588618951325796,12,0.4
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Derrick Norbert Morris,Independent,Ind,100,0.002848110278829997,13,0.3
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Martyn Obrien,Independent,Ind,65,0.001851271681239498,14,0.2
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Martin Davies,Freedom Alliance,FA,60,0.001708866167297998,15,0.2
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Robin Green,Independent,Ind,59,0.001680385064509698,16,0.2
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Rees Cowne,Independent,Ind,50,0.001424055139414998,17,0.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Adam Alkhatip,Forward Party,FP,49,0.001395574036626698,18,0.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Amy Morris,Independent,Ind,46,0.001310130728261798,19,0.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Andy Erlam,Independent,Ind,44,0.001253168522685198,20,0.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Joseph 77,Independent,Ind,42,0.001196206317108599,21,0.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Nick The Incredible Flying Brick,Official Monster Raving Loony Party,MRLP,28,0.000797470878072399,22,0.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Ketankumar Pipaliya,UK Voice,UKV,21,0.0005981031585542992,23,0.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Michael Noel O'Keeffe,Independent,Ind,19,0.0005411409529776993,24,0.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Howling Laud Hope,Official Monster Raving Loony Party,MRLP,18,0.0005126598501893993,25,0.1
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Tony Cane,Independent,Ind,17,0.0004841787474010994,26,0.0
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Daniel Pocock,Independent,Ind,16,0.0004556976446127994,27,0.0
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Baron Von Thunderclap,Official Monster Raving Loony Party,MRLP,15,0.0004272165418244995,28,0.0
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Abi Hookway,Independent,Ind,14,0.0003987354390361995,29,0.0
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Marc Wilkinson,Independent,Ind,11,0.0003132921306712996,30,0.0
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Marcus White,Everyone is God Party,EIG,10,0.0002848110278829996,31,0.0
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Gerry Smith,Independent,Ind,9,0.0002563299250946997,32,0.0
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Woke Trump Carzee,Independent,Ind,8,0.0002278488223063997,33,0.0
+Clacton,2026-08-13,2026-08-13 Clacton By-election,559,False,Glenn Charles Cummings,Independent,Ind,7,0.0001993677195180997,34,0.0
+Gorton and Denton,2024-07-04,2024 General Election,422,True,Andrew Gwynne,Labour,Lab,18555,0.5075218818380745,1,-16.5%
+Gorton and Denton,2024-07-04,2024 General Election,422,True,Lee Moffitt,Reform UK,RUK,5142,0.1406455142231947,2,9.2%
+Gorton and Denton,2024-07-04,2024 General Election,422,True,Amanda Gardner,Green Party,Green,4810,0.1315645514223195,3,10.6%
+Gorton and Denton,2024-07-04,2024 General Election,422,True,Amir Burney,Workers Party of Britain,WPB,3766,0.1030087527352298,4,
+Gorton and Denton,2024-07-04,2024 General Election,422,True,Ruth Welsh,Conservative,Con,2888,0.07899343544857768,5,-11.0%
+Gorton and Denton,2024-07-04,2024 General Election,422,True,John Reid,Liberal Democrat,LD,1399,0.03826586433260394,6,-2.0%
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Hannah Spencer,Green Party,Green,14980,0.4069104145162167,1,27.4
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Matt Goodwin,Reform UK,RUK,10578,0.2873363394360841,2,14.6
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Angeliki Stogia,Labour,Lab,9364,0.2543597544412452,3,-25.4
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Charlotte Anne Cadden,Conservative,Con,706,0.01917748682566415,4,-6.0
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Jackie Pearcey,Liberal Democrat,LD,653,0.01773781713478568,5,-2.0
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Sir Oink A-Lot,Official Monster Raving Loony Party,MRLP,159,0.00431900907263541,6,0.4
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Nick Buckley,Advance UK,AUK,154,0.004183191177269517,7,0.4
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Joseph O'Meachair,Rejoin EU,REU,98,0.002662030749171511,8,0.3
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Dan Clarke,Libertarian Party,LPUK,47,0.001276688216439398,9,0.1
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Sebastian Moore,Social Democratic Party,SDP,46,0.001249524637366219,10,0.1
+Gorton and Denton,2026-02-26,2026-02-26 Gorton and Denton By-election,554,False,Hugo Wils,Communist League Election Campaign,Comm L,29,0.0007877437931221818,11,0.1
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,Keir Starmer,Labour,Lab,18884,0.4891974509092793,1,-17.3%
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,Andrew Feinstein,Independent,Ind,7312,0.1894202372934045,2,
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,David Stansell,Green Party,Green,4030,0.1043987358167971,3,6.4%
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,Mehreen Malik,Conservative,Con,2776,0.0719133723641262,4,-8.0%
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,David Roberts,Reform UK,RUK,2371,0.06142168799544065,5,4.3%
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,Charlie Clinton,Liberal Democrat,LD,2236,0.05792445987254546,6,-6.5%
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,Wais Islam,Independent,Ind,636,0.01647583026786177,7,
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,Nick the Incredible Flying Brick,Official Monster Raving Loony Party,MRLP,162,0.004196673747474224,8,
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,John Poynton,UK Independence Party,UKIP,75,0.001942904512719548,9,-0.1%
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,Tom Scripps,Socialist Equality Party,SEP,61,0.001580229003678566,10,0.1%
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,Senthil Kumar,Independent,Ind,40,0.001036215740117092,11,
+Holborn and St Pancras,2024-07-04,2024 General Election,422,True,Bobby Smith,Independent,Ind,19,0.0004922024765556189,12,
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Abdi-Wali, Sagal",Labour,Lab,12292,0.4517290801514093,1,-3.7
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Polanski, Zack",Green Party,Green,8928,0.3281026055639263,2,22.4
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Cameron, Ewan",Conservative,Con,1922,0.07063319980890082,3,-0.1
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Newman, Peter",Reform UK,RUK,1612,0.05924074822682004,4,-0.2
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Stillman, Patrick Thomas",Liberal Democrat,LD,924,0.03395685568336335,5,-2.4
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Johnson, Tyler Kurtis",Restore Britain,RB,692,0.02543089191870935,6,2.5
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Galloway, George",Workers Party of Britain,WPB,314,0.01153945095733343,7,1.2
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Kapoor, Briony Anne Lonbay",Rejoin EU,REU,236,0.008672963139906656,8,0.9
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Brunch, Barmy",Official Monster Raving Loony Party,MRLP,87,0.00319723641174525,9,-0.1
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Spiby-Vann, Helen",Christian Peoples Alliance,CPA,63,0.002315240160229319,10,0.2
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Walker, Ben",UK Independence Party,UKIP,51,0.001874242034471353,11,0
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Fischer, Clare",Climate Party,Cli,51,0.001874242034471353,12,0.2
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Pipaliya, Ketankumar",UK Voice,UKV,23,0.0008452464077027673,13,0.1
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Silberman, Jonathan",Communist League Election Campaign,Comm L,9,0.0003307485943184742,14,0
+Holborn and St Pancras,2026-10-08,2026-10-08 Holborn and St Pancras By-election,560,False,"Darwood, Tom",Independent,Ind,7,0.0002572489066921466,15,0
+Makerfield,2024-07-04,2024 General Election,422,True,Josh Simons,Labour,Lab,18202,0.4520775898467576,1,-0.1%
+Makerfield,2024-07-04,2024 General Election,422,True,Robert Kenyon,Reform UK,RUK,12803,0.3179842535330204,2,18.7%
+Makerfield,2024-07-04,2024 General Election,422,True,Simon Finkelstein,Conservative,Con,4379,0.108759903633609,3,-23.4%
+Makerfield,2024-07-04,2024 General Election,422,True,John Skipworth,Liberal Democrat,LD,2735,0.06792837096093188,4,2.0%
+Makerfield,2024-07-04,2024 General Election,422,True,Maria Deery,Green Party,Green,1776,0.04410997690187021,5,1.8%
+Makerfield,2024-07-04,2024 General Election,422,True,Thomas Bryer,English Democrats,ED,368,0.009139905123810943,6,
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Andy Burnham,Labour,Lab,24927,0.5481352801477702,1,9.6
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Rob Kenyon,Reform UK,RUK,15696,0.3451490896296948,2,2.7
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Rebecca Lee Shepherd,Restore Britain,RB,3111,0.06840971061658897,3,6.8
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Michael William Winstanley,Conservative,Con,997,0.0219236520362389,4,-8.7
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Sarah Elizabeth Wakefield,Green Party,Green,308,0.006772803236872196,5,-3.7
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Jake Austin,Liberal Democrat,LD,163,0.003584308206526519,6,-6.4
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Count Binface,Count Binface Party,CBP,95,0.002089013985398892,7,0.2
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Howling Laud Hope,Official Monster Raving Loony Party,MRLP,45,0.0009895329404521066,8,0.1
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,John Alfred Dyer,Independent,Ind,37,0.000813615973260621,9,0.1
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Peter Mark Ward,Rejoin EU,REU,35,0.0007696367314627496,10,0.1
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Ed Gemmell,Climate Party,Cli,18,0.0003958131761808427,11,0.0
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Robert Neil Pownall,Independent,Ind,18,0.0003958131761808427,12,0.0
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Dan Clarke,Libertarian Party,LPUK,18,0.0003958131761808427,13,0.0
+Makerfield,2026-06-18,2026-06-18 Makerfield By-election,558,False,Paul Richard Gould,Independent,Ind,8,0.0001759169671914856,14,0.0

@@ -1,0 +1,56 @@
+Year,Month,Fieldwork,Fieldwork_chg,Published,Polling,Publisher,Con,Con_chg,Lab,Lab_chg,LD,LD_chg,Con lead,Con lead_chg,col15,Leader:,Con good,Con bad,Con net,Lab good,Lab bad,Lab net,LD good,LD bad,LD net,Question,Con Best PM,Lab Best PM,LD Best PM,Question__1,Govt good,Govt bad,Govt net,Question__2,sheet
+1945.0,Aug,,,,Gallup,,,,,,,,,,,,,,,66,19,47,,,,,,,,Are you satisfied or dissatisfied with X as Y?,,,,,45-50
+1945.0,Nov,,,,Gallup,,,,,,,,,,,,,,,,,,,,,,,,,,57,16,41,At the present time is the government doing its job well or badly?,45-50
+1946.0,Jan,,,,Gallup,News Chron,32,,52.5,,11,,-20.5,,,,,,,,,,,,,,,,,,,,,,45-50
+1946.0,May,,,,Gallup,News Chron,40,8.0,43.5,-9.0,13,2.0,-3.5,17.0,,,,,,,,,,,,,,,,,,,,,45-50
+1946.0,Jun,,,,Gallup,,,,,,,,,,,,,,,,,,,,,,,,,,42,45,-3,"In general, do you approve or disapprove of the government's record to date?",45-50
+1946.0,Aug,,,,Gallup,,,,,,,,,,,,,,,,,,,,,,,,,,46,41,5,Are you satisfied or dissatisfied with the Government's record to date?,45-50
+1946.0,Oct,,,,Gallup,,,,,,,,,,,,,,,53,35,18,,,,,,,,Are you satisfied or dissatisfied with X as Y?,,,,,45-50
+1946.0,Dec,,,,Gallup,,,,,,,,,,,,,,,52,30,22,,,,,,,,Are you satisfied or dissatisfied with X as Y?,,,,,45-50
+1947.0,Jan,,,,Gallup,News Chron,41,1.0,44.5,1.0,12,-1.0,-3.5,0.0,,,,,,,,,,,,,,,,,,,,,45-50
+1947.0,Mar,,,,Gallup,News Chron,43.5,2.5,43.5,-1.0,10.5,-1.5,0,3.5,,,,,,46,45,1,,,,,,,,Are you satisfied or dissatisfied with X as Y?,39,54,-15,Are you satisfied or dissatisfied with the Government's record to date?,45-50
+1947.0,May,,,,Gallup,,,,,,,,,,,,,,,51,36,15,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",42,48,-6,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1947.0,Jun,,,,Gallup,News Chron,42.5,-1.0,42.5,-1.0,12.5,2.0,0,0.0,,,,,,,,,,,,,,,,,,,,,45-50
+1947.0,Jul,,,,Gallup,News Chron,42.5,0.0,42.5,0.0,12.5,0.0,0,0.0,,,,,,51,37,14,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",38,52,-14,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1947.0,Aug,,,,Gallup,News Chron,44.5,2.0,41,-1.5,11,-1.5,3.5,3.5,,,,,,,,,,,,,,,,,,,,,45-50
+1947.0,Sep,,,,Gallup,News Chron,44.5,0.0,39.5,-1.5,11.5,0.5,5,1.5,,,,,,,,,,,,,,,,,,,,,45-50
+1947.0,Oct,,,,Gallup,,,,,,,,,,,,,,,41,46,-5,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",,,,,45-50
+1947.0,Nov,,,,Gallup,News Chron,50.5,6.0,38,-1.5,9,-2.5,12.5,7.5,,,,,,,,,,,,,,,,,,,,,45-50
+1947.0,Dec,,,,Gallup,,,,,,,,,,,,,,,44,46,-2,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",41,49,-8,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1948.0,Jan,,,,Gallup,News Chron,44.5,-6.0,43.5,5.5,10.5,1.5,1,-11.5,,,,,,45,43,2,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",44,47,-3,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1948.0,Feb,,,,Gallup,News Chron,46,1.5,42,-1.5,8.5,-2.0,4,3.0,,,,,,,,,,,,,,,,,,,,,45-50
+1948.0,Mar,,,,Gallup,News Chron,46,0.0,43,1.0,8.5,0.0,3,-1.0,,,,,,39,48,-9,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",35,53,-18,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1948.0,Apr,,,,Gallup,News Chron,42.5,-3.5,41,-2.0,10.5,2.0,1.5,-1.5,,,,,,,,,,,,,,,,,,,,,45-50
+1948.0,May,,,,Gallup,News Chron,45,2.5,41.5,0.5,11,0.5,3.5,2.0,,,,,,,,,,,,,,,,,,,,,45-50
+1948.0,Jul,,,,Gallup,News Chron,48,3.0,39.5,-2.0,9,-2.0,8.5,5.0,,,,,,40,49,-9,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",36,54,-18,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1948.0,Aug,,,,Gallup,News Chron,48,0.0,41,1.5,8.5,-0.5,7,-1.5,,,,,,,,,,,,,,,,,,,,,45-50
+1948.0,Sep,,,,Gallup,News Chron,47.5,-0.5,41.5,0.5,10,1.5,6,-1.0,,,,,,37,46,-9,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",37,51,-14,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1948.0,Oct,,,,Gallup,News Chron,46.5,-1.0,41.5,0.0,9.5,-0.5,5,-1.0,,,,,,,,,,,,,,,,,,,,,45-50
+1948.0,Nov,,,,Gallup,News Chron,46,-0.5,43,1.5,8.5,-1.0,3,-2.0,,,,,,45,40,5,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",43,46,-3,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1949.0,Jan,,,,Gallup,News Chron,44,-2.0,40.5,-2.5,13,4.5,3.5,0.5,,,,,,45,44,1,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",44,47,-3,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1949.0,Feb,,,,Gallup,News Chron,44.5,0.5,43.5,3.0,9.5,-3.5,1,-2.5,,,,,,,,,,,,,,,,,,,,,45-50
+1949.0,Mar,,,,Gallup,News Chron,41.5,-3.0,43,-0.5,13,3.5,-1.5,-2.5,,,,,,47,38,9,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",46,43,3,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1949.0,Apr,,,,Gallup,News Chron,42,0.5,43.5,0.5,13,0.0,-1.5,0.0,,,,,,,,,,,,,,,,,,,,,45-50
+1949.0,May,,,,Gallup,News Chron,46,4.0,40,-3.5,11,-2.0,6,7.5,,,,,,44,42,2,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",37,53,-16,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1949.0,Jun,,,,Gallup,News Chron,46,0.0,41.5,1.5,10,-1.0,4.5,-1.5,,,,,,,,,,,,,,,,,,,,,45-50
+1949.0,Jul,,,,Gallup,News Chron,44.5,-1.5,40.5,-1.0,12.5,2.5,4,-0.5,,,,,,46,42,4,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",39,48,-9,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1949.0,Aug,,,,Gallup,News Chron,46.5,2.0,40.5,0.0,11.5,-1.0,6,2.0,,,,,,,,,,,,,,,,,,,,,45-50
+1949.0,Sep,,,,Gallup,News Chron,46,-0.5,40,-0.5,12,0.5,6,0.0,,,,,,45,43,2,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",36,53,-17,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1949.0,Oct,,,,Gallup,News Chron,45.5,-0.5,39.5,-0.5,12.5,0.5,6,0.0,,,,,,,,,,,,,,,,,,,,,45-50
+1949.0,Oct,,,,,,50,,39,,8,,,,From 1950 GE book,,,,,,,,,,,,,,,,,,,,45-50
+1949.0,Nov,,,,Gallup,News Chron,43.5,-2.0,40,0.5,14,1.5,3.5,-2.5,,,,,,,,,,,,,,,,,,,,,45-50
+1949.0,Nov,,,,Gallup,News Chron,48,,38,,11,,,,From 1950 GE book,,,,,,,,,,,,,,,,,,,,45-50
+1949.0,Dec,,,,Gallup,News Chron,45,1.5,41,1.0,12.5,-1.5,4,0.5,,,,,,43,45,-2,,,,,,,,"On the whole, do you approve or disapprove of X as Y?",39,51,-12,"On the whole, are you satisfied or dissatisfied with the Government's record to date?",45-50
+1950.0,Jan,,,20,Gallup,News Chron,44,-1.0,41.5,0.5,12.5,0.0,2.5,-1.5,,,,,,44,,,,,,,,,,,,,,,45-50
+1950.0,Jan,,,23,,DE,48,,42,,9,,6,,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,Jan,,,30,Gallup,News Chron,44,0.0,45.5,4.0,10,-2.0,-1.5,-4.0,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,Jan,,,30,,DE,47.5,-0.5,42.5,0.5,8.5,-0.5,5,-1.0,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,Feb,,,6,,DE,45,-2.5,44,1.5,10,1.5,1,-4.0,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,Feb,,,10,Gallup,News Chron,43,-1.0,44.5,-1.0,12,2.0,-1.5,-4.0,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,Feb,,,13,,DE,45,0.0,45,1.0,9.5,-0.5,0,-1.0,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,Feb,,,17,Gallup,News Chron,42.5,-0.5,45,0.5,12,0.0,-2.5,-1.0,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,Feb,,,20,,DE,46,1.0,44.5,-0.5,9,-0.5,1.5,1.5,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,Feb,5-11,1950-02-05,15,Daily Mail,,45.5,,42.5,,12,,3,,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,Feb,17-20,1950-02-17,22,Gallup,News Chron,43.5,1.0,45,0.0,10.5,-1.5,-1.5,1.0,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,Feb,17-21,1950-02-17,23,,DE,44.5,-1.5,44,-0.5,11,3.0,0.5,-1.0,,,,,,,,,,,,,,,,,,,,,45-50
+1950.0,,,,23,Result,,43,,46.8,,9.3,,-3.799999999999997,,,,,,,,,,,,,,,,,,,,,,45-50

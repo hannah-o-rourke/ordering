@@ -27,3 +27,17 @@ URLs that should be downloaded once network access is allowed:
 | more_in_common_no_overall_control_2026.pdf | https://www.moreincommon.org.uk/wp-content/uploads/2026/05/no-overall-control_-british-politics-in-an-era-of-fragmentation-1.pdf | More in Common post-local-elections report May 2026 |
 | ons_opn_may2026.pdf | https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/may2026/pdf | ONS Public opinions and social trends, May 2026 |
 | ipsos_what_worries_the_world_aug2026.pdf | https://resources.ipsos.com/rs/297-CXJ-795/images/What-Worries-the-World-August-26-WEB.pdf?version=0 | Ipsos What Worries the World Aug 2026 (UK right-direction) |
+
+## Added by the devolved/local/by-election researcher (6 Nov 2026)
+
+Network note: in this researcher's session the egress proxy returned 403 for en.wikipedia.org, www.parliament.scot, www.lucidtalk.co.uk, britpolls.co.uk, electionscentre.uk and andrewspreviews.substack.com (environment allowlist), and a request to add those hosts was rejected; the shared WebSearch budget was then exhausted. The Wikipedia polling tables for "Opinion polling for the 2026 Scottish Parliament election", "Opinion polling for the 2026 Senedd election" and "2026 United Kingdom local elections" could therefore NOT be scraped. Official Electoral Commission / Scottish Parliament / Senedd / Open Council Data CSVs could not be downloaded either.
+
+Files that WERE saved (all from hosts on the allowlist: members-api.parliament.uk and www.theyworkforyou.com):
+- parliament_members_api_byelections_2026_summary.csv — 12 rows (6 by-elections of 2026 + the 2024 GE baseline for each); cols: constituency, election_date, election_title, result, electorate, turnout_votes, turnout_pct, majority, winning_party, source. Source: https://members-api.parliament.uk/api/Location/Constituency/{id}/ElectionResult/{electionId} (ids 4066/554, 4165/558, 4450/557, 4455/556, 3989/559, 4105/560; GE = 422).
+- parliament_members_api_byelections_2026_candidates.csv — 134 candidate rows; cols: constituency, election_date, election_title, election_id, is_general, candidate, party, party_abbr, votes, vote_share_pct (fraction 0-1), rank, result_change (pp change vs 2024 GE for by-elections; string with % for GE rows). Same source.
+- parliament_members_api_raw/ — 25 raw JSON responses (res_*.json candidate-level results, er_*.json election lists, rep_*.json representation history, new_mps_2026.json = Members/Search?House=1&MembershipStartedSince=2026-01-01).
+- holyrood_first_minister_selection_2026-05-19_official_report.csv — 15 rows (3 rounds); Scottish Parliament Official Report via https://www.theyworkforyou.com/sp/?id=2026-05-19.8.0
+- holyrood_presiding_officer_election_2026-05-14_official_report.csv — 9 rows; https://www.theyworkforyou.com/sp/?id=2026-05-14.4.0
+- senedd_first_minister_nomination_2026-05-12_official_record.csv — 4 rows; Senedd Record via https://www.theyworkforyou.com/wales/?id=2026-05-12.3.762202.h
+- theyworkforyou_official_report_raw/ — plain-text dumps of the four debates above (sp_fm_20260519, senedd_fm_20260512, sp_ministers_20260521 [Scottish Cabinet appointments], sp_po_20260514).
+- compiled_headline_results_from_websearch_2026.csv — 23 rows of headline seat/share figures compiled from WebSearch result summaries (Wikipedia, IfG, Swansea Bay News, Britpolls, Andrew's Previews, Yahoo/Westminster). NOT scraped from the pages; each row carries its source URL and caveat. Treat as secondary until checked against the pages.

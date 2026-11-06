@@ -1,0 +1,11 @@
+Various organisations continually conduct opinion polls to gauge voter intention in anticipation of the next United Kingdom general election . The next general election must be held no later than 15 August 2029 under the Dissolution and Calling of Parliament Act 2022 , which mandates that any Parliament automatically dissolves five years after it first met – unless it is dissolved earlier at the request of the prime minister – and polling day occurs no more than 25 working days later.
+
+Most of the polling companies listed are members of the British Polling Council (BPC) and abide by its disclosure rules. [ 1 ] The dates of the polls range from the 2024 United Kingdom general election , held on 4 July, to the present.
+
+The chart below shows opinion polls conducted since the 2024 general election. The trend lines are locally estimated scatterplot smoothing (LOESS) for all polls included in the table below. [ a ] The bar on the left represents the previous election, and the bar on the right represents the latest possible date of the next election.
+
+Most opinion polls do not cover Northern Ireland , whose major political parties differ from the rest of the United Kingdom. In the 'area' column of the tables below, "UK" ( United Kingdom ) and "GB" ( Great Britain ) denote polls that do and do not include Northern Ireland, respectively. Plaid Cymru only stands candidates in Wales , the Scottish National Party only stands candidates in Scotland , and the Conservative Party is the only party with its own column below that stands candidates in Northern Ireland.
+
+Due to rounding, total figures may not add up to 100%. The lead is calculated by subtracting the polling percentage of the first-placed party by that of the second-placed party. The first-placed party is shaded with its party colour, and in boldface; the second-placed party is shaded in grey. The table can be sorted by all features; to sort by party vote share, click on the coloured ribbons. Where polls specify parties within 'other', this may be expandable by pressing the [ show ] button in the 'other' cell.
+
+In November 2024, Survation conducted a survey of the 100 "most rural" constituencies in England. [ 629 ]

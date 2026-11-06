@@ -1,0 +1,60 @@
+Year,Month,Fieldwork,Fieldwork_chg,Published,Polling,Publisher,Con,Con_chg,Lab,Lab_chg,LD,LD_chg,Con lead,Con lead_chg,col15,Leader:,Con good,Con bad,Con net,Lab good,Lab bad,Lab net,LD good,LD bad,LD net,Question,sheet
+1938.0,Oct,,,,Gallup,,,,,,,,,,,,51.3,38.7,12.599999999999994,,,,,,,Are you satistified with X as Y?,38-45
+1938.0,Nov,,,,Gallup,,,,,,,,,,,,48.95,40.050000000000004,8.899999999999999,,,,,,,Are you satistified with X as Y?,38-45
+1938.0,Dec,,,,Gallup,,,,,,,,,,,,50.96000000000001,40.04,10.920000000000009,,,,,,,Are you satistified with X as Y?,38-45
+1939.0,Jan,,,,Gallup,,,,,,,,,,,,53.58,40.42,13.159999999999997,,,,,,,Are you satistified with X as Y?,38-45
+1939.0,Feb,,,,Gallup,,53.2,,46.8,,,,6.400000000000006,,,,48.449999999999996,36.55,11.899999999999999,,,,,,,Are you satistified with X as Y?,38-45
+1939.0,Mar,,,,Gallup,,,,,,,,,,,,52.2,37.800000000000004,14.399999999999999,,,,,,,Are you satistified with X as Y?,38-45
+1939.0,Apr,,,,Gallup,,,,,,,,,,,,54.87,38.129999999999995,16.740000000000002,,,,,,,Are you satistified with X as Y?,38-45
+1939.0,May,,,,Gallup,,,,,,,,,,,,52.800000000000004,43.2,9.600000000000001,,,,,,,Are you satistified with X as Y?,38-45
+1939.0,Jun,,,,Gallup,,,,,,,,,,,,52.25000000000001,42.75,9.500000000000007,,,,,,,Are you satistified with X as Y?,38-45
+1939.0,Jul,,,,Gallup,,,,,,,,,,,,54.87,38.129999999999995,16.740000000000002,,,,,,,Are you satistified with X as Y?,38-45
+1939.0,Oct,,,,Gallup,,,,,,,,,,,,65,29,36,,,,,,,Are you satistified with X as Y?,38-45
+1939.0,Nov,,,,Gallup,,,,,,,,,,,,68,27,41,,,,,,,Are you satistified with X as Y?,38-45
+1939.0,Dec,,,,Gallup,,64.3,,35.7,,,,28.599999999999994,,,,64,30,34,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1940.0,Jan,,,,Gallup,,,,,,,,,,,,56,32,24,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1940.0,Feb,,,,Gallup,,65.4,,34.6,,,,30.800000000000004,,,,59,30,29,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1940.0,Mar,,,,Gallup,,,,,,,,,,,,57,36,21,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1940.0,May,,,,Gallup,,,,,,,,,,,,33,60,-27,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1940.0,Jul,,,,Gallup,,,,,,,,,,,,88,7,81,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1940.0,Oct,,,,Gallup,,,,,,,,,,,,89,6,83,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1940.0,Nov,,,,Gallup,,,,,,,,,,,,88,7,81,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1941.0,Jan,,,,Gallup,,,,,,,,,,,,85,7,78,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1941.0,Mar,,,,Gallup,,,,,,,,,,,,88,7,81,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1941.0,Jun,,,,Gallup,,,,,,,,,,,,87,9,78,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1941.0,Oct,,,,Gallup,,,,,,,,,,,,84,11,73,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1941.0,Dec,,,,Gallup,,,,,,,,,,,,88,8,80,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Jan,,,,Gallup,,,,,,,,,,,,89,7,82,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Feb,,,,Gallup,,,,,,,,,,,,82,11,71,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Mar,,,,Gallup,,,,,,,,,,,,81,13,68,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Apr,,,,Gallup,,,,,,,,,,,,82,13,69,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,May,,,,Gallup,,,,,,,,,,,,87,8,79,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Jun,,,,Gallup,,,,,,,,,,,,86,9,77,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Jul,,,,Gallup,,,,,,,,,,,,78,15,63,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Aug,,,,Gallup,,,,,,,,,,,,82,11,71,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Sep,,,,Gallup,,,,,,,,,,,,82,10,72,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Oct,,,,Gallup,,,,,,,,,,,,83,11,72,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Nov,,,,Gallup,,,,,,,,,,,,91,7,84,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1942.0,Dec,,,,Gallup,,,,,,,,,,,,93,5,88,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1943.0,Jan,,,,Gallup,,,,,,,,,,,,91,7,84,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1943.0,Apr,,,,Gallup,,,,,,,,,,,,90,7,83,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1943.0,Jun,,,,Gallup,News Chron,36,,44,,10.5,,-8,,,,93,4,89,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1943.0,Jul,,,,Gallup,News Chron,33,-3.0,47.5,3.5,11,0.5,-14.5,-6.5,,,,,,,,,,,,,38-45
+1943.0,Aug,,,,Gallup,,,,,,,,,,,,93,5,88,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1943.0,Nov,,,,Gallup,,,,,,,,,,,,91,6,85,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1943.0,Dec,,,,Gallup,News Chron,31.5,-1.5,46.5,-1.0,11.5,0.5,-15,-0.5,,,,,,,,,,,,,38-45
+1944.0,Jan,,,,Gallup,News Chron,28,-3.5,45,-1.5,12,0.5,-17,-2.0,,,89,7,82,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1944.0,Mar,,,,Gallup,,,,,,,,,,,,86,10,76,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1944.0,Apr,,,,Gallup,,,,,,,,,,,,88,9,79,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1944.0,Jun,,,,Gallup,,,,,,,,,,,,91,7,84,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1944.0,Aug,,,,Gallup,,,,,,,,,,,,89,8,81,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1944.0,Oct,,,,Gallup,,,,,,,,,,,,91,7,84,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1945.0,Jan,,,,Gallup,,,,,,,,,,,,81,16,65,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1945.0,Feb,,,,Gallup,News Chron,27.5,-0.5,47.5,2.5,12.5,0.5,-20,-3.0,,,85,11,74,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1945.0,Mar,,,,Gallup,,,,,,,,,,,,87,10,77,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1945.0,Apr,,,,Gallup,News Chron,28,0.5,47,-0.5,14,1.5,-19,1.0,,,91,7,84,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1945.0,May,,,,Gallup,News Chron,33,5.0,45,-2.0,15,1.0,-12,7.0,,,83,14,69,,,,,,,"In general, do you approve or disapprove of X as Y?",38-45
+1945.0,Jun,,,,Gallup,News Chron,37,4.0,45,0.0,15,0.0,-8,4.0,,,,,,,,,,,,,38-45
+1945.0,Jun,,,5,Centre of Public Opinion,DE,45,,45,,12,,0,,,,,,,,,,,,,,38-45
+1945.0,Jun ,24-27,1945-06-24,4,Gallup,News Chron,41,4.0,47,2.0,10.5,-5.0,-6,2.0,,,,,,,,,,,,,38-45
+1945.0,,,,5,Result,,39.3,,48.8,,9.2,,-9.5,,,,,,,,,,,,,,38-45

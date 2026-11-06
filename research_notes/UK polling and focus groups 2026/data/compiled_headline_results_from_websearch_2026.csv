@@ -1,0 +1,24 @@
+contest,date,party,seats,seat_change_vs_2021_or_2022,vote_share_pct,measure,source_url,caveat
+Scottish Parliament,2026-05-07,SNP,58,-6,,total seats,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election,figures from WebSearch summary of Wikipedia/SPICe SB 26-26; page could not be fetched directly
+Scottish Parliament,2026-05-07,Reform UK,17,+17,,total seats,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election,one Reform MSP later left to sit as independent (Reform 16) per Wikipedia 'Reform UK Scotland' citing Guardian
+Scottish Parliament,2026-05-07,Scottish Labour,17,-5,,total seats,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election,lowest since devolution
+Scottish Parliament,2026-05-07,Scottish Greens,15,+7,,total seats,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election,
+Scottish Parliament,2026-05-07,Scottish Conservatives,12,-19,,total seats,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election,lowest Holyrood total
+Scottish Parliament,2026-05-07,Scottish Liberal Democrats,10,+6,,total seats,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election,
+Senedd,2026-05-07,Plaid Cymru,43,,35.4,national list vote share; 96 seats; majority 49,https://www.instituteforgovernment.org.uk/explainer/senedd-cymru-welsh-parliament,seat changes not comparable (new 96-seat closed-list system)
+Senedd,2026-05-07,Reform UK,34,,29.3,national list vote share,https://en.wikipedia.org/wiki/2026_Senedd_election,first Senedd seats
+Senedd,2026-05-07,Welsh Labour,9,,,seats,https://swanseabaynews.com/senedd-election-2026-plaid-cymru-largest-party-reform-uk-historic-breakthrough-welsh-labour-reduced-to-nine-seats-the-new-political-map-of-wales/,vote share not captured
+Senedd,2026-05-07,Welsh Conservatives,7,,,seats,https://en.wikipedia.org/wiki/2026_Senedd_election,
+Senedd,2026-05-07,Wales Green Party,2,,,seats,https://en.wikipedia.org/wiki/2026_Senedd_election,
+Senedd,2026-05-07,Welsh Liberal Democrats,1,,,seats,https://en.wikipedia.org/wiki/2026_Senedd_election,
+English local elections,2026-05-07,Reform UK,,,26,BBC Projected National Share (down 4 vs 2025's 30),https://andrewspreviews.substack.com/p/reviewing-the-7th-may-2026-local,via search summary; also Wikipedia infobox 26% (-4)
+English local elections,2026-05-07,Green Party,,,18,BBC Projected National Share,https://andrewspreviews.substack.com/p/reviewing-the-7th-may-2026-local,via search summary
+English local elections,2026-05-07,Conservative,,,17,BBC Projected National Share,https://andrewspreviews.substack.com/p/reviewing-the-7th-may-2026-local,via search summary
+English local elections,2026-05-07,Labour,,,17,BBC Projected National Share,https://andrewspreviews.substack.com/p/reviewing-the-7th-may-2026-local,via search summary
+English local elections,2026-05-07,Liberal Democrats,,,16,BBC Projected National Share,https://andrewspreviews.substack.com/p/reviewing-the-7th-may-2026-local,via search summary
+English local elections,2026-05-07,Reform UK,1050,,28,councillors (approx. 1050+) and 12 councils (Britpolls); 28 = Britpolls national-equivalent share (not BBC PNS),https://britpolls.co.uk/news/uk-local-elections-2026-results/,Wikipedia infobox shows Reform +14 councils - sources conflict
+English local elections,2026-05-07,Conservative,,,21,Britpolls national-equivalent share,https://britpolls.co.uk/news/uk-local-elections-2026-results/,not BBC PNS
+English local elections,2026-05-07,Labour,,,18,Britpolls national-equivalent share (Labour third for first time),https://britpolls.co.uk/news/uk-local-elections-2026-results/,not BBC PNS
+English local elections,2026-05-07,Liberal Democrats,,,14,Britpolls national-equivalent share,https://britpolls.co.uk/news/uk-local-elections-2026-results/,not BBC PNS
+English local elections,2026-05-07,Green Party,,,13,Britpolls national-equivalent share,https://britpolls.co.uk/news/uk-local-elections-2026-results/,not BBC PNS
+Westminster City Council,2026-05-07,Conservative,32,,,seats (Con gain from Labour; Labour 22),https://uk.news.yahoo.com/westminster-local-election-results-2026-074411680.html,
