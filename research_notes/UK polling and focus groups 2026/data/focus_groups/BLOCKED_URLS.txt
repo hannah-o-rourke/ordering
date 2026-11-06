@@ -1,21 +1,41 @@
-# URLs identified for 2026 UK focus-group research that COULD NOT be fetched in this session
-# Reason: session network policy (proxy CONNECT 403 / host not in allow-list); two update_environment requests were rejected.
-# Suggested filename for each download is given after the URL. Re-run with hosts allow-listed.
+# Source manifest for 2026 UK focus-group research (session of 6 Nov 2026)
+# Part A = files saved in this folder with their source URL. Part B = URLs identified but NOT fetchable
+# (proxy CONNECT 403 / host not in allow-list; two update_environment requests rejected). Retry with hosts allow-listed.
 
-## More in Common (www.moreincommon.org.uk) – all blocked
-https://www.moreincommon.org.uk/wp-content/uploads/2026/07/Makerfield-Report-typeset.pdf  -> MiC_Makerfield_byelection_report_Jul2026.pdf
-https://www.moreincommon.org.uk/wp-content/uploads/2026/04/what-s-changed_pdf.pdf  -> MiC_Whats_Changed_public_opinion_Apr2026.pdf (title says July 2025 – check)
-https://www.moreincommon.org.uk/wp-content/uploads/2026/05/no-overall-control_-british-politics-in-an-era-of-fragmentation-1.pdf  -> MiC_No_Overall_Control_fragmentation_May2026.pdf
-https://www.moreincommon.org.uk/wp-content/uploads/2026/06/Local-and-Devolved-Elections-Climate-Report-%E2%80%93-v2_compressed.pdf  -> MiC_Local_Devolved_Elections_Climate_Report_Jun2026.pdf
-https://www.moreincommon.org.uk/research/where-next-for-reform/  (Clacton focus groups, July 2026)
-https://www.moreincommon.org.uk/  (homepage: focus-group index page with recruitment criteria; post-Budget debrief with UCL Policy Lab; Bracing for Winter)
-https://www.moreincommon.org.uk/research/guide-to-the-elections/
-https://www.moreincommon.org.uk/latest-insights/more-in-common-s-final-projections-ahead-of-the-2026-elections/
-https://www.moreincommon.org.uk/research/behind-the-voting-intention/
-https://www.moreincommon.org.uk/research/more-in-commons-september-2026-mrp/
-https://www.moreincommon.org.uk/polling-tables/
+## A. SAVED (all More in Common UK; moreincommon.org.uk became reachable mid-session)
+MiC_Makerfield_byelection_report_Jul2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/07/Makerfield-Report-typeset.pdf  (11 focus groups, June-July 2026; 37pp, dozens of verbatims)
+MiC_Gorton_Denton_byelection_dispatch_Mar2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/04/gorton-and-denton-by-election-dispatch.pdf  (3 groups, 27 Feb 2026)
+MiC_UCL_Britons_and_Burnham_No_time_for_honeymoon_Jul2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/07/July-2026-Burnham-Report.pdf
+MiC_UCL_Post_Budget_Debrief_deck_2Nov2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/11/Post-Budget-Webinar.pdf  (focus groups Rawmarsh & Conisbrough, Portsmouth)
+MiC_Pre_Budget_Briefing_deck_26Oct2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/10/MIC-Budget-Briefing-Deck-2026-1.pdf
+MiC_Bracing_for_Winter_energy_Oct2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/10/Energy-tracker-3-report.pptx-2-1.pdf  (groups in Healey's and Fahnbulleh's seats)
+MiC_Where_next_for_Reform_conference_deck_Sep2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/09/Reform-Deck-Full.pdf
+MiC_Can_Badenoch_turn_Conservatives_around_deck_Oct2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/10/Conservative-Deck-2026-2-1.pdf
+MiC_Will_Burnham_rebuild_Labour_coalition_deck_Sep2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/09/Labour-Coalition-Deck-2026-3.pdf
+MiC_Who_are_the_Liberal_Democrats_for_deck_Sep2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/09/Liberal-Democrat-Deck-2026-3.pdf
+MiC_Where_next_for_the_Greens_deck_Oct2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/10/green-deck-2026.pdf
+MiC_Can_SNP_hold_coalition_deck_Oct2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/10/snp-2026-1.pdf
+MiC_Plaid_Cymru_Governing_Fragmented_Wales_deck_Oct2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/10/PC-Coalition-Deck-2.pdf
+MiC_Plaid_Cymru_Spring_Conference_briefing_Feb2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/06/more-in-common-plaid-cymru-briefing-2.pdf
+MiC_Green_Shoots_Greens_briefing_Feb2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/06/greens-briefing-website-1.pdf
+MiC_Dissenting_Disruptors_Apr2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/05/dissenting-disruptors-more-in-common.pdf
+MiC_A_Respect_Crisis_May2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/05/respect-final.pdf  (4 segment groups, 9-10 Feb 2026)
+MiC_Energy_Bills_Tracker_focus_group_Stoke_PerryBarr_Apr2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/06/eb-energy-bills-sentiment-tracker-march_april-2026.pdf
+MiC_Birth_of_Distrust_maternity_women_trust_Apr2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/05/the-birth-of-distrust-april-2026.pdf
+MiC_Brexit_10_Years_On_webinar_deck_Jun2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/06/Brexit-10th-anniversary-webinar-1.pdf
+MiC_Caught_Between_Sides_Sep2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/09/Caught-Between-Sides-UPDATED-SEP26.pdf
+MiC_ABP_Turning_the_Tide_coastal_communities_deck_Jun2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/06/ABP-Deck.pdf
+MiC_After_the_Riots_Northern_Ireland_Jul2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/07/After-the-Riots_-What-Northern-Ireland-thinks-.pdf
+MiC_JoCoxFoundation_Time_Well_Shared_Jun2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/06/JCF_MIC-Community-Connection-Report-1.pdf
+MiC_Scotland_in_the_World_Apr2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/05/scal-scotland-in-the-world-v2-3.pdf
+MiC_No_Overall_Control_fragmentation_May2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/05/no-overall-control_-british-politics-in-an-era-of-fragmentation-1.pdf  (40+ pre-election groups)
+MiC_Local_Devolved_Elections_Climate_Report_Jun2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/06/Local-and-Devolved-Elections-Climate-Report-%E2%80%93-v2_compressed.pdf  ("Lack of power")
+MiC_Whats_Changed_public_opinion_Apr2026.pdf  <- https://www.moreincommon.org.uk/wp-content/uploads/2026/04/what-s-changed_pdf.pdf  (NB: content is the July 2025 "What's Changed?" report - 2025 context only)
 
-## Lord Ashcroft (lordashcroftpolls.com / www.lordashcroft.com) – all blocked
+Web pages read (no PDF): https://www.moreincommon.org.uk/research/the-clacton-by-election-in-their-own-words/ ; .../public-reactions-to-the-clacton-by-election/ ; .../causes-over-cuts/ ; .../disagreeing-well/ ; .../the-politics-of-deprivation/ ; .../focus-groups/ ; .../where-next-for-reform/ ; full 2026 list via https://www.moreincommon.org.uk/wp-json/wp/v2/research?after=2026-01-01T00:00:00&per_page=100
+
+## B. STILL BLOCKED (not fetched)
+# Lord Ashcroft
 https://www.lordashcroft.com/2026/01/he-changes-his-mind-left-right-and-centre-he-never-sticks-to-one-thing-my-latest-focus-groups/
 https://www.lordashcroft.com/2026/02/labour-need-to-go-back-to-the-fundamentals-and-re-establish-what-theyre-about-my-focus-groups-in-gorton-denton/
 https://www.lordashcroft.com/2026/03/this-is-the-only-time-ive-agreed-with-keir-starmer-in-a-while-my-latest-focus-groups/
@@ -25,33 +45,23 @@ https://lordashcroftpolls.com/2026/05/it-would-be-very-funny-if-he-didnt-get-in-
 https://lordashcroftpolls.com/2026/09/show-us-what-your-plan-is-at-least-then-we-can-see-if-you-achieve-any-of-it-my-latest-focus-groups/
 https://lordashcroftpolls.com/2026/09/youre-changing-the-captain-of-the-titanic-after-its-hit-the-iceberg-my-latest-focus-groups/
 https://lordashcroftpolls.com/
-
-## JL Partners – blocked
+# JL Partners
 https://jlpartners.com/keyvoters2026
-https://www.jlpartners.co.uk/polling-results  ("Divided Britain", 9 Apr 2026, focus group toplines link)
-
-## Luke Tryl X posts (x.com) – blocked; dates decoded from IDs
-https://x.com/LukeTryl/status/2048800043839148364  (27 Apr 2026, Scotland groups "meh")
-https://x.com/LukeTryl/status/2052062220830277865  (6 May 2026, "the trip")
-https://x.com/LukeTryl/status/2061409043919364464  (1 Jun 2026, Makerfield groups)
-https://x.com/LukeTryl/status/2069382844636361042  (23 Jun 2026, Brexit 10th anniversary thread)
-https://x.com/LukeTryl/status/2083473280426541493  (1 Aug 2026, Badenoch/GM)
-https://x.com/LukeTryl/status/2089795591760949292  (18 Aug 2026, Reform welfare thread)
-
-## Context pages – blocked
-https://en.wikipedia.org/wiki/2026_in_United_Kingdom_politics_and_government
-https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections
-https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+https://www.jlpartners.co.uk/polling-results   ("Divided Britain", 9 Apr 2026, focus group toplines)
+# Luke Tryl X posts (dates decoded from IDs)
+https://x.com/LukeTryl/status/2048800043839148364  (27 Apr 2026)
+https://x.com/LukeTryl/status/2052062220830277865  (6 May 2026)
+https://x.com/LukeTryl/status/2061409043919364464  (1 Jun 2026)
+https://x.com/LukeTryl/status/2069382844636361042  (23 Jun 2026)
+https://x.com/LukeTryl/status/2083473280426541493  (1 Aug 2026)
+https://x.com/LukeTryl/status/2089795591760949292  (18 Aug 2026)
+# Context / other
 https://www.itv.com/news/2026-05-08/2026-election-results
 https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green
 https://www.publicfinance.co.uk/interview/2026/06/poll-positions-interview-luke-tryl-more-common
 https://www.pollcheck.co.uk/locals-2026
 https://britpolls.co.uk/news/uk-local-elections-2026-results/
+# Not searched (budget exhausted): publicfirst.co.uk, thinksinsight.com, stackdatastrategy.com, stonehavenglobal.com, labourtogether.uk, persuasionuk.org, hopenothate.org.uk, britishfuture.org, ukandeu.ac.uk, ukonward.com, ippr.org, fabians.org.uk, newspaper sites.
 
-## Hosts that worked in this session
-https://members-api.parliament.uk/api/Posts/GovernmentPosts
-https://members-api.parliament.uk/api/Members/Search?House=1&MembershipStartedSince=2026-01-01
-https://www.theyworkforyou.com/lords/?id=2026-06-25b.791.0
-https://www.theyworkforyou.com/lords/?id=2026-11-04b.1627.2
-https://www.theyworkforyou.com/whall/?id=2026-07-14b.273.0
-(www.youtube.com search-result metadata only; caption/transcript retrieval was refused)
+## Hosts that worked
+members-api.parliament.uk ; www.theyworkforyou.com ; www.moreincommon.org.uk (from ~18:30) ; en.wikipedia.org (raw wikitext via curl) ; www.youtube.com (search metadata only; caption retrieval refused)
