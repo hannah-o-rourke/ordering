@@ -1,4 +1,51 @@
 date,pollster,demographic_variable,category,Reform,Lab,Con,LD,Green,Other,source_url
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),All UK adults,Total,31,20,18,12,13,6,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Headline Voting Intention,Con,0,0,100,0,0,0,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Headline Voting Intention,Lab,0,100,0,0,0,0,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Headline Voting Intention,Lib Dem,0,0,0,100,0,0,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Headline Voting Intention,Reform,100,0,0,0,0,0,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Headline Voting Intention,Green,0,0,0,0,100,0,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),2024 vote,Con,26,3,66,3,1,1,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),2024 vote,Lab,15,56,3,9,12,4,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),2024 vote,Lib Dems,6,1,5,77,8,2,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),2024 vote,Reform UK ,93,2,3,0,1,1,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),2024 vote,Green ,4,4,0,1,89,2,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),EU Ref vote,Remain,11,28,16,18,17,10,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),EU Ref vote,Leave,52,10,23,6,5,4,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Gender,Male,34,20,16,13,11,5,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Gender,Female,27,20,20,11,15,7,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Age,18-34,27,28,12,11,19,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Age,35-49,28,20,16,13,15,8,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Age,50-64,31,19,16,15,10,10,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Age,65+,37,13,28,10,6,5,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Region,North,33,22,16,10,16,4,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Region,Mids,32,20,21,9,15,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Region,London,22,33,19,13,8,5,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Region,South,32,16,20,17,12,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Region,Wales,34,12,18,8,9,19,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Region,Scotland,31,16,10,6,10,28,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-01-07,Opinium/Observer (tables published 2026-01-07; headline VI),Region,Northern Ireland,0,0,0,0,0,0,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-01-07-data-tables-1209.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),All UK adults,Total,31,23,16,10,13,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),2024 vote,Conservative,30,3,63,2,1,0,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),2024 vote,Labour ,16,57,3,6,13,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),2024 vote,Lib Dems,14,8,3,67,6,1,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),2024 vote,Reform UK ,89,3,4,0,1,2,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),2024 vote,Green ,13,6,2,3,73,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),EU Ref vote,Remain,13,33,18,15,13,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),EU Ref vote,Leave,53,11,18,7,7,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Gender,Male,34,24,14,11,10,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Gender,Female,28,21,18,10,15,4,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Age,18-34,25,34,10,7,19,4,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Age,35-49,26,25,16,9,17,4,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Age,50-64,34,20,16,12,10,4,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Age,65+,40,13,23,14,5,2,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Region,North,33,26,14,8,16,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Region,Mids,36,23,17,8,15,2,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Region,London,15,40,16,11,11,8,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Region,South,36,16,20,15,11,3,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Region,Wales,25,19,15,8,11,2,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Region,Scotland,32,14,9,3,10,2,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
+2026-02-04,Opinium/Observer (tables published 2026-02-04; headline VI),Region,Northern Ireland,0,0,0,0,0,0,https://www.opinium.com/wp-content/uploads/Observer-VI-2026-02-04-Web-Data-Tables-1152.xlsx
 Opinium-Observer-Tables-Web-tables-3840.xlsx,Opinium/Observer (tables published Opinium-Observer-Tables-Web-tables-3840.xlsx; headline VI),All UK adults,Total,24,28,17,10,10,10,https://www.opinium.com/wp-content/uploads/Opinium-Observer-Tables-Web-tables-3840.xlsx
 Opinium-Observer-Tables-Web-tables-3840.xlsx,Opinium/Observer (tables published Opinium-Observer-Tables-Web-tables-3840.xlsx; headline VI),2024 vote,Conservative,26,4,64,1,0,5,https://www.opinium.com/wp-content/uploads/Opinium-Observer-Tables-Web-tables-3840.xlsx
 Opinium-Observer-Tables-Web-tables-3840.xlsx,Opinium/Observer (tables published Opinium-Observer-Tables-Web-tables-3840.xlsx; headline VI),2024 vote,Labour,9,70,4,5,7,6,https://www.opinium.com/wp-content/uploads/Opinium-Observer-Tables-Web-tables-3840.xlsx
@@ -44,6 +91,152 @@ Opinium-Observer-Tables-Web-tables-3840.xlsx,Opinium/Observer (tables published 
 2025-09-24,Opinium/Observer (tables published 2025-09-24; headline VI),Region,Wales,36,23,12,4,10,14,https://www.opinium.com/wp-content/uploads/VI-2025-09-24-Observer-Data-Tables-0944.xlsx
 2025-09-24,Opinium/Observer (tables published 2025-09-24; headline VI),Region,Scotland,24,20,12,6,4,35,https://www.opinium.com/wp-content/uploads/VI-2025-09-24-Observer-Data-Tables-0944.xlsx
 2025-09-24,Opinium/Observer (tables published 2025-09-24; headline VI),Region,Northern Ireland,0,0,0,0,0,0,https://www.opinium.com/wp-content/uploads/VI-2025-09-24-Observer-Data-Tables-0944.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),All UK adults,Total,31,22,17,13,11,7,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),2024 vote,Conservative,32,2,64,2,0,1,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),2024 vote,Labour ,12,58,4,10,12,4,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),2024 vote,Lib Dems,9,5,4,77,2,3,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),2024 vote,Reform UK ,90,1,3,1,1,4,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),2024 vote,Green ,9,3,1,2,82,2,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),EU Ref vote,Remain,12,31,15,20,13,8,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),EU Ref vote,Leave,50,10,22,7,5,7,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Gender,Male,35,22,15,13,9,5,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Gender,Female,27,21,20,12,12,8,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Age,18-34,26,31,12,8,20,4,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Age,35-49,27,26,14,12,13,8,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Age,50-64,31,21,16,16,8,9,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Age,65+,38,10,27,15,3,6,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Region,North,30,27,18,11,10,4,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Region,Mids,35,20,16,9,15,4,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Region,London,24,31,20,11,9,4,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Region,South,33,15,20,19,10,2,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Region,Wales,24,24,7,8,15,22,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-01-21,Opinium/Observer (tables published 2026-01-21; headline VI),Region,Scotland,25,20,8,6,7,34,https://www.opinium.com/wp-content/uploads/VI-2026-01-21-Opinium-Observer-Data-Tables-1415.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),All UK adults,Total,30,18,18,12,13,10,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),2024 vote,Conservative,29,2,63,2,1,3,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),2024 vote,Labour ,16,52,4,7,18,3,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),2024 vote,Lib Dems,6,3,2,79,5,4,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),2024 vote,Reform UK ,88,1,1,1,1,8,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),2024 vote,Green ,8,0,3,6,75,9,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),EU Ref vote,Remain,10,27,14,19,20,10,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),EU Ref vote,Leave,50,8,23,8,4,7,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Gender,Male,34,19,16,12,10,8,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Gender,Female,26,16,20,12,16,10,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Age,18-34,25,19,13,8,20,14,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Age,35-49,28,24,16,13,14,5,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Age,50-64,33,17,14,14,12,10,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Age,65+,34,12,28,14,6,8,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Region,North,35,19,14,11,15,7,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Region,Mids,35,16,18,9,14,8,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Region,London,20,31,24,11,7,6,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Region,South,31,15,19,16,14,6,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Region,Wales,32,18,17,6,11,16,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Region,Scotland,21,9,14,10,13,33,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-02-25,Opinium/Observer (tables published 2026-02-25; headline VI),Region,Northern Ireland,0,0,0,0,0,0,https://www.opinium.com/wp-content/uploads/VI-2026-02-25-Opinium-Observer-Web-Tables-1155-Updated.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),All UK adults,Total,29,21,16,10,14,9,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),2024 vote,Conservative,32,3,60,2,1,2,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),2024 vote,Labour ,13,59,4,5,15,4,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),2024 vote,Lib Dems,7,3,2,72,11,4,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),2024 vote,Reform UK ,86,1,4,1,2,7,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),2024 vote,Green ,15,1,0,5,75,4,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),EU Ref vote,Remain,12,28,15,17,17,12,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),EU Ref vote,Leave,51,11,19,5,6,9,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Gender,Male,32,22,15,11,12,9,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Gender,Female,27,20,17,10,17,9,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Age,18-34,24,28,9,7,24,8,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Age,35-49,26,23,13,11,17,9,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Age,50-64,30,20,15,11,12,12,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Age,65+,37,12,26,12,5,7,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Region,North,29,27,16,8,15,5,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Region,Mids,40,20,13,6,15,5,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Region,London,20,31,15,13,16,5,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Region,South,33,15,19,14,14,5,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Region,Wales,22,14,10,7,17,30,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Region,Scotland,18,16,11,8,11,36,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-04,Opinium/Observer (tables published 2026-03-04; headline VI),Region,Northern Ireland,0,0,0,0,0,0,https://www.opinium.com/wp-content/uploads/VI-2026-03-04-Opinium-Observer-Web-Tables-1411.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),All UK adults,Total,27,21,17,12,15,9,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),2024 vote,Conservative,26,1,63,3,4,3,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),2024 vote,Labour ,12,56,4,9,14,5,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),2024 vote,Lib Dems,7,4,2,77,8,2,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),2024 vote,Reform UK ,88,1,1,2,1,7,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),2024 vote,Green ,8,6,4,2,79,1,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),EU Ref vote,Remain,10,29,17,20,17,7,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),EU Ref vote,Leave,45,13,20,7,7,8,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Gender,Male,31,21,16,12,12,8,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Gender,Female,22,20,19,12,17,9,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Age,18-34,19,28,12,7,25,8,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Age,35-49,23,24,13,15,15,8,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Age,50-64,28,19,19,14,12,8,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Age,65+,36,12,25,14,6,8,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Region,North,28,23,15,9,20,5,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Region,Mids,34,25,15,8,12,7,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Region,London,19,25,22,11,18,6,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Region,South,28,16,20,18,13,4,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Region,Wales,26,16,17,9,9,24,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Region,Scotland,18,18,11,12,10,30,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-03-18,Opinium/Observer (tables published 2026-03-18; headline VI),Region,Northern Ireland,0,0,0,0,0,0,https://www.opinium.com/wp-content/uploads/VI-2026-03-18-Opinimu-Observer-Web-Tables-1210.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),All UK adults,Total,26,22,17,11,15,9,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),2024 vote,Conservative,29,4,63,2,1,2,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),2024 vote,Labour,12,53,5,8,17,5,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),2024 vote,Lib Dems,5,10,2,77,6,2,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),2024 vote,Reform UK,82,1,5,1,2,9,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),2024 vote,Green,11,3,2,1,79,2,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),EU Ref vote,Remain,9,31,14,20,17,11,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),EU Ref vote,Leave,47,10,23,5,6,9,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Gender,Male,28,21,17,11,13,9,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Gender,Female,23,22,18,12,17,9,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Age,18-34,19,29,11,8,27,7,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Age,35-49,28,26,13,11,14,8,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Age,50-64,24,20,18,14,13,11,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Age,65+,33,11,27,13,6,11,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Region,North,30,23,14,7,19,7,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Region,Mids,33,22,17,6,17,5,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Region,London,14,32,19,13,16,5,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Region,South,27,18,21,18,12,5,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Region,Wales,21,11,14,10,14,30,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Region,Scotland,18,19,12,8,11,32,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-15,Opinium/Observer (tables published 2026-04-15; headline VI),Region,Northern Ireland,0,0,0,0,0,0,https://www.opinium.com/wp-content/uploads/VI-2026-04-15-Opinium-Observer-Web-Tables-1552.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),All UK adults,Total,28,19,17,12,15,8,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),2024 vote,Conservative,30,3,62,1,1,3,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),2024 vote,Labour,11,54,4,10,15,7,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),2024 vote,Lib Dems,8,4,2,73,11,2,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),2024 vote,Reform UK,88,1,1,0,2,8,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),2024 vote,Green,8,6,2,4,80,0,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),EU Ref vote,Remain,9,25,15,22,19,10,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),EU Ref vote,Leave,50,10,22,5,6,8,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Gender,Male,33,19,17,10,12,9,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Gender,Female,24,18,18,14,18,8,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Age,18-34,22,27,12,7,26,5,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Age,35-49,27,20,13,13,16,10,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Age,50-64,28,18,18,14,11,12,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Age,65+,36,11,26,14,6,8,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Region,North,27,25,13,12,18,6,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Region,Mids,34,19,19,9,14,4,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Region,London,24,25,19,8,19,4,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Region,South,31,13,22,17,12,5,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Region,Wales,25,14,13,8,11,30,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Region,Scotland,20,18,9,4,15,34,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-22,Opinium/Observer (tables published 2026-04-22; headline VI),Region,Northern Ireland,0,0,0,0,0,0,https://www.opinium.com/wp-content/uploads/VI-2026-04-22-Opinium-Observer-Web-Tables-1557.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),All UK adults,Total,27,19,18,12,15,8,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),2024 vote,Conservative,27,2,67,1,1,2,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),2024 vote,Labour,12,53,5,7,18,6,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),2024 vote,Lib Dems,5,4,2,80,7,2,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),2024 vote,Reform UK,82,3,4,0,1,9,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),2024 vote,Green,10,2,0,5,82,1,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),EU Ref vote,Remain,10,26,18,19,17,9,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),EU Ref vote,Leave,45,11,22,7,7,9,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Gender,Male,29,21,17,12,12,8,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Gender,Female,25,17,20,12,18,7,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Age,18-34,25,26,12,8,22,6,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Age,35-49,27,22,14,9,19,10,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Age,50-64,27,16,19,15,13,10,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Age,65+,31,12,29,15,6,9,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Region,North,26,24,17,9,18,7,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Region,Mids,38,18,17,8,16,4,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Region,London,22,29,17,13,15,4,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Region,South,27,14,22,19,14,4,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Region,Wales,25,10,17,6,13,29,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Region,Scotland,22,19,14,2,10,33,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
+2026-04-29,Opinium/Observer (tables published 2026-04-29; headline VI),Region,Northern Ireland,0,0,0,0,0,0,https://www.opinium.com/wp-content/uploads/VI-2026-04-29-Observer-Tables.xlsx
 2026-05-06,Opinium/Observer (tables published 2026-05-06; headline VI),All UK adults,Total,28,19,18,11,16,8,https://www.opinium.com/wp-content/uploads/VI-2026-05-06-Observer-Data-Tables-Web-Tables-1454.xlsx
 2026-05-06,Opinium/Observer (tables published 2026-05-06; headline VI),2024 vote,Conservative,29,1,64,2,1,3,https://www.opinium.com/wp-content/uploads/VI-2026-05-06-Observer-Data-Tables-Web-Tables-1454.xlsx
 2026-05-06,Opinium/Observer (tables published 2026-05-06; headline VI),2024 vote,Labour,11,50,5,7,19,8,https://www.opinium.com/wp-content/uploads/VI-2026-05-06-Observer-Data-Tables-Web-Tables-1454.xlsx

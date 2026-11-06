@@ -89,3 +89,30 @@
 000	0	54093-political-favourability-ratings-february-2026.html	cannot open `/home/user/ordering/researc	https://yougov.co.uk/politics/articles/54093-political-favourability-ratings-february-2026
 200	597923	54177-how-popular-are-national-leaders-in-europe-february-2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/54177-how-popular-are-national-leaders-in-europe-february-2026
 200	673113	54380-political-favourability-ratings-march-2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/54380-political-favourability-ratings-march-2026
+403	0	techne_tracker.html	empty	https://www.techneuk.com/tracker/
+403	0	techne_archive.html	empty	https://www.techneuk.com/archive/
+200	161560	pollcheck_favourability_ratings.html	HTML document, Unicode text, UTF-8 text,	https://www.pollcheck.co.uk/favourability-ratings
+500	52221	deltapoll_polls.html	HTML document, ASCII text, with very lon	https://deltapoll.co.uk/polls/
+404	33558	deltapoll_category_polls.html	HTML document, ASCII text, with very lon	https://deltapoll.co.uk/category/polls/
+200	637501	yougov_fav_feb2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/54093-political-favourability-ratings-february-2026
+200	604099	yougov_burnham_comeback_jan2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/53951-how-do-britons-feel-about-an-andy-burnham-comeback
+200	644509	yougov_tactical_feb2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/54117-what-is-the-tactical-voting-landscape-in-february-2026
+200	643049	yougov_tactical_sep2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/55613-what-is-the-tactical-voting-landscape-in-september-2026
+200	643575	yougov_bigvoterstudy_reform.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/55153-big-yougov-voter-study-2026-how-solid-is-reform-uks-rise
+200	648541	yougov_bigvoterstudy_labour.html	HTML document, Unicode text, UTF-8 text,	https://yougov.com/en-gb/articles/55150-big-yougov-voter-study-2026-which-voters-abandoned-labour-over-keir-starmers-premiership-and-why
+200	631369	yougov_bigvoterstudy_greens.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/55154-big-yougov-voter-study-2026-what-do-green-voters-think-of-the-party
+200	641634	yougov_start_of_2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/53923-how-would-britain-vote-at-the-start-of-2026
+200	650083	yougov_two_years_since_2024.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/55084-how-would-britain-vote-two-years-since-the-2024-election
+200	640100	yougov_mrp_sep2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/55618-yougov-mrp-shows-labour-would-be-the-largest-party-in-a-hung-parliament-were-an-election-held-tomorrow
+200	59540	ipsos_issues_index_archive.html	HTML document, Unicode text, UTF-8 text,	https://www.ipsos.com/en-uk/issues-index-archive
+200	50984	ipsos_issues_index_topic_page.html	HTML document, Unicode text, UTF-8 text,	https://www.ipsos.com/en-uk/topic/issues-index
+200	53828	ipsos_issues_index_immigration_inflation_defence_release.html	HTML document, Unicode text, UTF-8 text,	https://www.ipsos.com/en-uk/immigration-still-seen-biggest-issue-facing-britain-concern-about-inflation-and-defence-rises
+200	630244	yougov_fav_sep2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/55550-political-favourability-ratings-september-2026
+200	996126	ipsos_issues_index_sep2026.pdf	PDF document, version 1.7, 34 page(s)	https://www.ipsos.com/sites/default/files/ct/news/documents/2026-09/Ipsos%20Issues%20Index_Sept%2026_V1_IUO.pdf
+200	958409	ipsos_issues_index_sep2026_tables.pdf	PDF document, version 1.7, 10 page(s)	https://www.ipsos.com/sites/default/files/ct/news/documents/2026-09/tablesplxwo_1.pdf
+200	50671	ipsos_issues_index_topic_page1.html	HTML document, Unicode text, UTF-8 text,	https://www.ipsos.com/en-uk/topic/issues-index?page=1
+200	635850	yougov_fav_jul2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/55228-political-favourability-ratings-july-2026
+200	628622	yougov_fav_aug2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/55382-political-favourability-ratings-august-2026
+200	609640	yougov_party_fav_jul2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/55307-party-favourability-ratings-july-2026
+200	623585	yougov_best_pm_aug2026.html	HTML document, ASCII text, with very lon	https://yougov.com/en-gb/articles/55496-who-would-make-the-best-prime-minister-august-2026
+200	630485	yougov_labour_conference_sep2026.html	HTML document, Unicode text, UTF-8 text,	https://yougov.com/en-gb/articles/55627-how-do-britons-see-labour-and-andy-burnham-ahead-of-the-partys-2026-conference

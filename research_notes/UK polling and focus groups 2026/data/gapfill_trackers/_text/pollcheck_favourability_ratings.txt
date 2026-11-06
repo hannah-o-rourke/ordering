@@ -1,0 +1,109 @@
+
+Leader Approval Ratings Today: Burnham, Farage, Badenoch
+UK leader approval ratings: Burnham, Farage, Badenoch
+Approval ratings and popularity of UK political leaders, from all major pollsters
+Last updated 5 November 2026
+7-poll moving average of net favourability (favourable minus unfavourable). Change over the last 30 days.
+Approval trends
+6M
+1Y
+2Y
+All
+Net
+Fav
+Unfav
+7MA
+Smooth
+Polls
+Top 3
+Former leaders
+Events
+Pollsters
+⬇
+CSV
+Include pollsters
+All
+None
+Comparison
+Hide
+Event
+Hide
+Lines show a 7-poll moving average of net favourability for current leaders. Switch the metric between Net, Favourable and Unfavourable, use Smooth / Polls to change how the trend is drawn, or Former leaders to add Keir Starmer's line.
+View the same data as a table
+Highlight Leaders
+Keir Starmer
+Kemi Badenoch
+Nigel Farage
+Ed Davey
+Zack Polanski
+Andy Burnham
+Rupert Lowe
+Filters ▾
+7MA
+Smooth
+Polls
+Top 3
+⬇
+Time range
+6M
+1Y
+2Y
+All
+Metric
+Net
+Fav
+Unfav
+Former leaders
+Show former leaders
+Events
+Pin leaders
+Starmer
+Badenoch
+Farage
+Davey
+Polanski
+Burnham
+Lowe
+Popularity ranking
+Current party leaders ranked by their 7-poll moving average of net favourability, the same figure as the tiles above. 
+Approval rating by leader
+Andy Burnham approval rating
+Andy Burnham (Prime Minister and Labour leader) has a net approval rating of +7 on PollCheck's 7-poll average. Latest poll: More in Common, 4 November 2026, +10.
+Nigel Farage approval rating
+Nigel Farage (Reform UK leader) has a net approval rating of -28 on PollCheck's 7-poll average. Latest poll: More in Common, 4 November 2026, -26.
+Kemi Badenoch approval rating
+Kemi Badenoch (Conservative leader) has a net approval rating of +1 on PollCheck's 7-poll average. Latest poll: More in Common, 4 November 2026, +8.
+Other party leaders, 7-poll average: Ed Davey -10, Rupert Lowe -16, Zack Polanski -33.
+Records
+Where each leader's current 7-poll average sits between the best and worst their 7-poll average has been. Kemi Badenoch counts from 2 November 2024, when she became Conservative leader.
+Full poll archive
+Every leadership-approval poll we track, newest first - favourable % / unfavourable % / net for each leader.
+By pollster
+Average net favourability each pollster has given every leader (number of polls in brackets). The top row is the all-pollster average - compare each row to spot house effects.
+Methodology
+This page tracks the net approval ratings of major political party leaders in the UK. The process involves:
+Net approval:
+ the percentage of people who view a leader favourably minus the percentage who view them unfavourably
+Data sources:
+ compiled from various polling companies including YouGov, Ipsos and others
+Data processing:
+ when multiple polls are released on the same day, the Polls view plots each one as a dot, and they are averaged together so that date counts once in the trend
+Smoothing:
+ the trend line, headline figures and ranking use a trailing average of each leader's last 7 polling dates; a leader with fewer than 5 polls is shown unsmoothed
+Note:
+ with Events switched on, a vertical line marks the Conservative leadership change from Rishi Sunak to Kemi Badenoch on 2 November 2024. Data for Kemi Badenoch only includes polls conducted after this date.
+Frequently asked questions
+What are leadership favourability ratings?
+Leadership favourability ratings measure how the public feels about a party leader. Pollsters ask whether voters have a favourable or unfavourable opinion of each leader, and the net favourability score is the share with a favourable view minus the share with an unfavourable view. A positive figure means more people view the leader favourably than unfavourably; a negative figure means the reverse.
+Which party leaders does PollCheck track?
+This page tracks the leaders of the main UK parties: Andy Burnham (Labour, Prime Minister since July 2026), Kemi Badenoch (Conservative), Nigel Farage (Reform UK), Ed Davey (Liberal Democrats), Zack Polanski (Green) and Rupert Lowe (Restore Britain). It keeps the record for former Prime Minister Keir Starmer. Data for Kemi Badenoch begins after she became Conservative leader on 2 November 2024.
+How is the favourability trend calculated?
+The trend line for each leader is a trailing moving average over their last seven polling dates. Polls released on the same date are averaged together first, so each date counts once, and each plotted value is the mean of that date and the six dates before it. Where a leader has fewer than seven dates so far, the average uses the dates available, and where a leader has fewer than five polls in total the raw values are shown. The headline figures and the ranking use the same average.
+Which pollsters measure leader favourability?
+Figures are compiled from the polling companies that publish leader favourability, including YouGov and Ipsos among others. When more than one poll is released on the same day, each poll is plotted as its own dot in the Polls view, and the polls are averaged together before they enter the trend line and headline figures.
+How often are favourability ratings updated?
+The page is updated weekly as new polls are published. The most recent update date is shown near the top of the page.
+What is the difference between net approval and favourability?
+On this page the two terms are used interchangeably. Net approval (or net favourability) is the favourable percentage minus the unfavourable percentage. Some pollsters phrase the question in terms of approval of a leader's performance and others in terms of a favourable or unfavourable opinion, but both produce a net score on the same scale.
+Data sourced from YouGov, Ipsos, and other pollsters. Net approval ratings calculated as positive minus negative.
+ 

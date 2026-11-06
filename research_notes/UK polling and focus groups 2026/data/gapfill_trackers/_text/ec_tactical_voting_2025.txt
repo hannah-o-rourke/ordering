@@ -1,0 +1,668 @@
+
+Tactical Voting 2025
+Tactical Voting 2025
+This page first posted 24 September 2025
+Summary headlines:
+Major poll of over 10,000 asks voters about their tactical voting intentions
+Strong anti-Reform tactical voting could cost Reform over 60 Seats
+Over a third of Labour voters say they would vote Conservative to keep Reform out
+This poll has featured in 
+The Times
+ and the
+Daily Express
+.
+1. Introduction
+Since the 2024 general election, Reform UK have consistently enjoyed a strong lead in the national polls, doubling their support from 15pc to 30pc in about a year.
+This dramatic rise comes as the party capitalises on the political vacuum left open by an unpopular Labour government and a Conservative party that is struggling to rebuild its footing.
+But even with 30pc support, that means that seven out of ten voters
+prefer another party. And some of these may be quite opposed to Reform.
+This raises the question of whether Reform may be vulnerable to the same tactical voting push by voters that gave the Conservatives their worst-ever election defeat last year. 
+Electoral Calculus
+ does not support or endorse any particular
+tactical voting campaign, but we try to measure and predict whether
+there will be any tactical voting, and assess what its likely effects will be.
+In that spirit of analysis, we have worked with Find Out Now to ask the 
+public about tactical voting, whether they would consider doing it, and in which situations. Find Out Now interviewed 10,990 adults from 1-8 September 2025.
+The questions asked were:
+Likelihood to vote, to focus on those voters likely to vote
+Current voting intention (benchmark)
+Hypothetical voting intention to discover true 'first preference' party
+Various hypothetical A/B scenarios about how people would vote if there were only two (specified)
+parties who are competitive in their seat.	
+The aim is to find out, for example, how many Labour supporters might vote in a seat which is a contest between
+the Conservatives and Reform. Would any Labour supporters vote Tory to keep Reform out?
+2. Summary voting intention
+The table below shows the basic results from the two voting intention questions.
+The first just asked people how they would vote if there were a general election tomorrow.
+The second asked instead how they would vote if all the parties were equally likely to win the seat. We 
+call this the "first preference" party, which can differ from current voting intention for those
+voters who are already thinking tactically.
+Respondents who are unlikely to vote, are designated as non-voters.
+Party
+ VI 
+First Pref
+Reform
+34%
+33%
+LAB
+20%
+16%
+CON
+16%
+16%
+LIB
+12%
+12%
+Green
+7%
+9%
+YP
+6%
+8%
+SNP/Plaid
+3%
+3%
+OTH
+3%
+3%
+Turnout
+60%
+60%
+The results are consistent with current national polling by Find Out Now, showing a clear Reform lead over Labour.
+They also show only small differences between current VI and first preferences. Except that Labour has
+less 'first preference' support (16pc) than its voting intention (20pc). This suggests that Labour already
+has some benefit from tactical voting, possibly as a rollover of anti-Conservative voting in 2024.
+Other parties have less difference, although the smaller left-wing parties have more first preference support 
+compared with VI. This suggests that some Green Party and Your Party supporters would vote Labour where their parties
+are unlikely to win.
+But we can explore these behaviours in more detail with the A/B scenario questions.
+3. A/B Scenario Questions
+England
+Let's look at England first. We started by asking people how they would vote if their seat were
+a contest between 
+Conservative and Reform
+. Here's what people said:
+Over a third (38pc) of Labour supporters would vote Conservative to keep Reform out. Over half (53pc) would stick with Labour,
+	with only 6pc choosing Reform.
+Lib Dem and Green supporters behave similarly, but Your Party (YP) supporters dislike both
+	Conservatives and Reform too much to vote tactically.
+For 
+Labour-Reform
+ battles, people said:
+Most Conservative supporters favour Reform (52pc), with only 11pc choosing Labour, and 37pc staying with the Tories.
+Lib Dem, Green and Your Party supports mostly choose Labour, as would be expected.
+For 
+Lib Dem-Reform
+ contests:
+Conservatives prefer Reform (43pc) over the Lib Dems (25pc), with 31pc unchanged.
+Labour, Green and YP supporters clearly prefer the Lib Dems and are likely to vote tactically.
+And for 
+Conservative-Lib Dem
+ fights:
+Most Reform supporters (56pc) will stick with their party, and only a third (34pc) will vote Conservative. Just one in ten
+	would vote Lib Dem.
+Most Labour, Green and YP supporters would vote tactically for the Liberal Democrats.
+In summary, most tactical voting follows the expected left-right division. The main exception is that 
+a third of centre-left voters will vote Conservative to defeat Reform, and that Reform supporters are less keen
+to support Conservatives than vice versa.
+Scotland
+For 
+Conservative-SNP
+ contests, Lib Dem supporters prefer the Conservatives, Labour supporters prefer the SNP,
+and both Reform and YP supporters are less inclined to vote tactically.
+For 
+Labour-SNP
+ contests, most non-SNP supporters prefer Labour. Except Reform supporters who remain unmoved.
+For 
+Lib Dem-SNP
+ contests, Conservative and Labour supporters mostly vote Lib Dem tactically. But
+Reform and YP supporters are less likely to switch.
+For 
+Reform-SNP
+ contests, most Labour and YP supporters would vote SNP, most Conservatives would vote Reform,
+and Liberal Democrats are uncertain.
+Scottish tactical voting is a mixture of partisan left-right tactical voting, with some pro-Union tactical voting 
+when the SNP is up against a centre-left party.
+Wales
+For 
+Labour-Reform
+ contests, Conservatives mostly vote tactically for Reform, and Plaid supporters
+are often attracted to vote Labour.
+For 
+Reform-Plaid
+ contests, Conservatives mostly vote tactically for Reform, and Labour supporters
+mostly vote tactically for Plaid Cymru.
+Overall Welsh tactical decisions are mostly driven by left-right partisan attitudes.
+4. Tactical voting in three-way races
+As part of our model, we also made assumptions about how voters would behave in three-way (or four-way)
+marginals. In these cases the seat is not a straight two-horse race and simple tactical voting
+models may be misleading. Our model assumptions are:
+If the gap between the second and third placed parties is at least 10pc, then tactical voting 
+	will operate in full. In this case the seat is a clear contest between two parties.
+If the gap between the second and third placed parties is less than 5pc, then there will be
+	no tactical voting. The seat is a contest between at least three parties, and tactical voting 
+	will be less applicable.
+If the gap is between 5pc and 10pc, then tactical voting will partially apply, since the
+	seat is in between the two clear cases.
+5. Impact on a General Election
+The key question is how much impact these tactical voting preferences might have on a general election.
+To find out, we ran the Electoral Calculus tactical voting model, using the tactical preferences from our poll, to see
+if it would change the election result and, if so, by how much.
+The table below shows the predicted election results (using national polling data up to the end of August 2025)
+both with and without tactical voting.
+Party
+Predicted
+Vote Share
+Predicted
+Seats (No TV)
+Predicted
+Seats (with TV)
+Reform
+30.3%
+368
+301
+LAB
+21.2%
+119
+161
+CON
+17.9%
+36
+65
+LIB
+13.6%
+64
+67
+Green
+8.8%
+4
+4
+SNP
+2.8%
+32
+25
+Plaid
+0.7%
+5
+5
+Other
+4.7%
+4
+4
+The table shows that the two big parties benefit most from tactical voting,
+with Labour gaining 42 seats and the Conservatives gaining 29 seats. This mostly comes
+at the expense of Reform UK, who win 67 seats fewer than expected due to anti-Reform tactical voting.
+With current public opinion, this could be the deciding factor between an outright Reform majority and a hung parliament.
+Based on these numbers, Reform would be 25 seats shy of an overall majority, but a coalition with the Conservatives would give them a comfortable 82-seats in Parliament.
+6. Conclusions
+Reform UK generates strong feelings, both positive and negative, in the British public.
+Their positive support has taken them to a strong and consistent lead in the opinion polls. But 
+many of their opponents are prepared to vote tactically against them. A third of Labour voters
+say they would vote Conservative to keep Reform out, if their seat was a Conservative-Reform contest.
+If these tactical voting preferences were applied to a general election now it would deprive
+Reform of an outright majority, forcing them to form a coalition or arrangement with another
+party to govern.
+7. Quotes
+Martin Baxter, CEO of Electoral Calculus, said "Our figures show a significant number of voters
+ready to vote tactically to keep Reform out. This could deprive Reform of an outright majority if there
+were an election, and force Nigel Farage into a coalition with the Conservatives.
+Many Labour, Lib Dem and Green supporters would vote Conservative in Conservative-Reform seats
+to stymie Reform UK."
+"Expect to see slogans like 'Only Labour can stop Reform' widely used at the next general election,
+as Labour tries to consolidate the centre-left vote behind their own candidates. But the overall fragmentation
+of the left, compounded by the new 'Your Party', is still a big handicap for Labour."
+"Tactical voting makes things harder for Reform, as so many voters are strongly opposed to them. But
+Farage's party are still leading in the polls, and still on course to be the largest party. Though 
+it's unclear if they can keep up that momentum all the way to the next election."
+Appendix 1: Technical Details
+Find Out Now polled 10,990 GB adults online between 1-8 September 2025. The sample was weighted to be representative by gender, age, social grade, other demographics and past voting patterns. Regression techniques were used to infer projected seat results.
+Find Out Now and Electoral Calculus are both members of the British Polling Council and abide by its rules.
+Data tables
+ are available here.
+Appendix 2: Full text of questions
+Q1.
+ We know that many people in your area didn't vote in the last general election.
+How likely do you think you are to vote in the next general election on a scale from 0 to 10? (10 - certain to vote, 0 - certain not to vote)
+Q2.
+ If a general election was called tomorrow, how would you vote?
+Q3.
+ Suppose all the of following political parties were equally likely to win your seat at a general election. Which party would you most like to win?
+Q4.
+ [A/B Template] Suppose your seat is a close contest between [A] and [B] and no other party is likely to win. How would you vote in this case?
+Question four was asked up to four times for each respondent, with different values for the two parties [A] and [B].
+The choice of parties used depended on whether the respondent lives in England, Scotland or Wales.
+The table below shows which combinations were asked in which area:
+Area
+Party combinations
+England
+Con-Lib
+Con-Reform
+Lab-Reform
+Lib-Reform
+Scotland
+CON-SNP
+Lab-SNP
+Lib-SNP
+Reform-SNP
+Wales
+Lab-Reform
+Reform-Plaid
+Respondents were not asked for combinations which included the first preference party they gave earlier in
+question three.
+Other possible combinations (eg Con-Lab) were not asked, since they make up only a small proportion of seats.
+Appendix 3: A/B question matrices
+The following matrices give more details of the respondents' views in all the various cases.
+Each matrix represents one A/B test. For example, table one refers to contests between the 
+Conservatives and Liberal Democrats in England. Each row of the matrix refers to the first preference
+party of respondents. Each column describes what they would do in this A/B scenario.
+For example, the first row of table one shows what Labour supporters would do in seats which 
+are Con-Lib contests. Of those whose first preference party is Labour, 7pc would tactically vote Conservative,
+72pc would tactically vote Lib Dem, 20pc would non-tactically vote Labour, and 1pc would vote for other parties.
+There is one for each relevant party. Note that, in table one, there are no rows for Conservative or Lib Dem supporters
+as they are all assumed to vote for their first preference party.
+England
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+YP
+OTH
+LAB
+7%
+20%
+72%
+-
+-
+-
+1%
+Reform
+34%
+-
+10%
+56%
+-
+-
+0%
+Green
+5%
+-
+62%
+-
+33%
+-
+0%
+YP
+1%
+-
+51%
+-
+-
+47%
+-
+OTH
+18%
+-
+19%
+-
+-
+-
+63%
+Table 1
+ Tactical preferences for Conservative-Lib Dem contests in England
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+YP
+OTH
+LAB
+38%
+53
+%
+-
+6%
+-
+-
+3%
+LIB
+41%
+-
+46%
+11%
+-
+-
+2%
+Green
+34%
+-
+-
+4%
+62%
+-
+0%
+YP
+13%
+-
+-
+2%
+-
+85%
+-
+OTH
+18%
+-
+-
+51%
+-
+-
+31%
+Table 2
+ Tactical preferences for Conservative-Reform contests in England
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+YP
+OTH
+CON
+37%
+11%
+-
+52%
+-
+-
+1%
+LIB
+-
+65%
+26%
+9%
+-
+-
+0%
+Green
+-
+66%
+-
+3%
+30%
+-
+0%
+YP
+-
+59%
+-
+2%
+-
+39%
+-
+OTH
+-
+14%
+-
+56%
+-
+-
+30%
+Table 3
+ Tactical preferences for Labour-Reform contests in England
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+YP
+OTH
+CON
+31%
+-
+25%
+43%
+-
+-
+0%
+LAB
+-
+19%
+75%
+5%
+-
+-
+1%
+Green
+-
+-
+68%
+4%
+28%
+-
+0%
+YP
+-
+-
+52%
+2%
+-
+46%
+-
+OTH
+-
+-
+19%
+57%
+-
+-
+25%
+Table 4
+ Tactical preferences for Lib Dem-Reform contests in England
+Scotland
+First Pref
+CON
+LAB
+LIB
+Reform
+YP
+SNP
+OTH
+LAB
+22%
+23%
+-
+-
+-
+51%
+3%
+LIB
+39%
+-
+34%
+-
+-
+27%
+1%
+Reform
+36%
+-
+-
+47%
+-
+17%
+-
+YP
+19%
+-
+-
+-
+43%
+38%
+-
+Table 5
+ Tactical preferences for Conservative-SNP contests in Scotland
+First Pref
+CON
+LAB
+LIB
+Reform
+YP
+SNP
+OTH
+CON
+48%
+47%
+-
+-
+-
+4%
+2%
+LIB
+-
+44%
+36%
+-
+-
+19%
+1%
+Reform
+-
+21%
+-
+62%
+-
+17%
+-
+YP
+-
+55%
+-
+-
+27%
+18%
+-
+Table 6
+ Tactical preferences for Labour-SNP contests in Scotland
+First Pref
+CON
+LAB
+LIB
+Reform
+YP
+SNP
+OTH
+CON
+36%
+-
+60%
+-
+-
+2%
+2%
+LAB
+-
+17%
+50%
+-
+-
+32%
+1%
+Reform
+-
+-
+25%
+62%
+-
+13%
+-
+YP
+-
+-
+13%
+-
+47%
+40%
+-
+Table 7
+ Tactical preferences for Lib Dem-SNP contests in Scotland
+First Pref
+CON
+LAB
+LIB
+Reform
+YP
+SNP
+OTH
+CON
+33%
+-
+-
+53%
+-
+12%
+2%
+LAB
+-
+28%
+-
+10%
+-
+59%
+3%
+LIB
+-
+-
+50%
+11%
+-
+37%
+2%
+YP
+-
+-
+-
+-
+31%
+69%
+-
+Table 8
+ Tactical preferences for Reform-SNP contests in Scotland
+Wales
+First Pref
+CON
+LAB
+Reform
+Plaid
+CON
+38%
+8%
+54%
+-
+Plaid
+-
+48%
+15%
+37%
+Table 9
+ Tactical preferences for Labour-Reform contests in Wales
+First Pref
+CON
+LAB
+Reform
+Plaid
+CON
+39%
+-
+46%
+14%
+LAB
+-
+17%
+18%
+65%
+Table 10
+ Tactical preferences for Reform-Plaid contests in Wales

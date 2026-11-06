@@ -1,0 +1,378 @@
+
+How would Britain vote at the start of 2026?
+Skip to main content
+United Kingdom
+UK
+United Kingdom
+United States
+Deutschland
+France
+España
+Italia
+International
+Select a country
+United Kingdom
+United States
+Deutschland
+France
+España
+Italia
+International
+Panelist support
+Contact sales
+Public data
+Spotlight
+If there were a general election held tomorrow, which party would you vote for?
+By category
+Consumer & retail
+Economy & business
+Entertainment, arts, & media
+Health & pharma
+Politics & current affairs
+Society & lifestyle
+Sports & esports
+Technology & digital
+Travel & transport
+By type
+Articles
+Daily questions
+Events
+Ratings
+Reports
+Survey results
+Trackers
+All content
+Solutions
+ Solutions 
+ Products 
+ Sectors 
+Audience intelligence
+Audience activation
+Data integrations
+Market & category intelligence
+Media, comms & channel strategy
+Persona creation
+Understanding an audience
+Brand tracking & measurement
+Brand health tracking
+Campaign measurement & attribution
+Competitor tracking
+PR & crisis management
+Sponsorship valuation
+Run surveys and research
+Creative & ad testing
+Emerging trends
+Product development
+Qualitative research
+Quantitative research
+Shopper insights
+Category management
+Customer satisfaction
+Path to purchase
+Price & promotion strategy
+Shopper insights
+Audience intelligence
+Profiles
+Discover our flagship audience tool: deep audience understanding
+Profiles API & MCP
+Ingest YouGov Profiles data directly into your systems, AI models, agentic workflows,
+CategoryView
+Brand, industry, and audience tracking.
+Brand tracking
+BrandIndex
+Discover our flagship tool: daily brand and competitor tracking across 16 metrics.
+BrandIndex API & MCP
+Infuse BrandIndex data directly into your in-house systems, AI models, and solutions.
+Custom Tracking
+Dynamic, integrated performance monitoring for your brand.
+Quantitative research
+New: YouGov Parallax
+AI twins answer all your questions instantly. Live panelists validate in 30 minutes.
+Surveys
+Run research to nat rep or targeted audiences with research-supported options.
+Custom quantitative
+Bespoke market research with end-to-end expert support.
+Qualitative research
+YouGov Voices AI Interviewer
+AI-powered interviewing tool that enables brands to hear directly from real people.
+Video Voices
+Add qualitative video answers to your next YouGov survey.
+Custom qualitative
+Bespoke market research with end-to-end expert support.
+YouGov Surveys: Self-Serve market research, built for speed
+Launch a targeted survey to real consumers or niche audiences from YouGov's 30M+ member panel — build in minutes, get results in 24 hours. No researcher required.
+Launch a survey
+Academia & non-profits
+Agencies
+Financial services
+Government & politics
+Health & pharma
+Media & entertainment
+Retail & FMCG
+Sport & esports
+Technology
+Travel, transport, & auto
+Company
+Why YouGov
+Data accuracy
+Panel quality
+Technology & innovation
+YouGov Thinking
+About YouGov
+About YouGov
+Investor relations
+Our methodology
+Our panel
+Work with us
+Resources
+Client case studies
+Industry events
+How-to guides
+Industry reports
+Support
+Contact
+Panel member support
+ Log in 
+Panel Members
+Take surveys and earn points as a member of the YouGov panel.
+Log in
+Business
+Access YouGov products and services as a business.
+Log in
+ Sign up 
+Panel Members
+Take surveys and earn points as a member of the YouGov panel.
+Register
+Business
+Access YouGov products and services as a business.
+Register
+Skip to main content
+United Kingdom
+UK
+United Kingdom
+United States
+Deutschland
+France
+España
+Italia
+International
+Select a country
+United Kingdom
+United States
+Deutschland
+France
+España
+Italia
+International
+Menu
+Public data
+Solutions
+Company
+Panelist support
+Contact sales
+Search
+Log in
+Sign up
+How would Britain vote at the start of 2026?
+YouGov 
+Dylan Difford
+-
+21 January 2026
+We take a detailed look at voting intention across multiple factors, including a new socio-economic classification
+Key takeaways
+Reform UK support is highest among Leave voters, those with lower levels of education, and those from routine and manual occupations, while peaking among those in their 60s
+Greens now lead among the under 30s, including holding a 37% vote share among 18-24 year olds
+Just 38% of 2024 Labour voters still support the party, with 15% switching to the Greens, 9% to the Lib Dems and 8% to Reform UK, while 17% are unsure who they would back
+Support for the Conservatives remains highest among oldest Britons
+Liberal Democrat support is highest among Remainers, those with degrees and those in higher-earning households
+With 
+voting intention polls
+ continuing to show shifting voting patterns, we have used a sample of over 17,000 Britons to examine how Britons would vote at the start of 2026, broken down by all the key demographic and political divides.
+How would Britain vote at the start of 2026, by socio-economic classification (NS-SEC)?
+In our 
+analysis of performance at the 2024 election
+, we recommended switching from using the MRS Social Grade (e.g. ABC1s, C2DEs) as our socio-economic measure to the official National Statistics socio-economic classification (NS-SEC), due to the latter’s more robust statistical underpinning and the increasingly outdated household-nature of the former. Although testing has shown that it does not make any significant differences to our overall results, it does provide for more robust targets for quotas and weights.
+We have now begun transitioning from using Social Grade to NS-SEC in our political polling, which will soon appear in our tables and trackers. To show it in action, we have broken down current voting intention by both the three category version of NS-SEC, which will be what is typically used when reporting, and a fuller eight category version.
+The greatest difference across classes is with Reform UK. Nigel Farage’s party are currently leading on 39% of the vote among those in or who were in routine and manual occupations, while also leading at a lower rate of 29% among those in the intermediate occupation category. However, they take a comparatively low 19% among those who are or were in higher managerial and professional occupations, among whom there is a near five-way tie.
+By contrast, support is higher among higher managerial and professional occupations than routine and manual occupations for Labour (21% vs 14%), the Liberal Democrats (17% vs 11%) and the Greens (16% vs 12%).
+Conservative support is highest among those who are or were in intermediate professions (23%) and lowest among those from routine and manual occupations. Looking more granularly, though, does show they still poll well among those in the highest managerial occupations, at 24% of the vote.
+Comparing to current voting intention by social grade, the broadest trends are still apparent: Labour, the Greens and Liberal Democrats do better at the ‘upper’ end of the scale, while Reform UK does much better at the ‘lower’ end.
+However, traditional social grade does not fully illustrate some of the particular variation seen within the social-economic classifications, such as Reform UK’s particular strengths among lower supervisory and routine occupations.
+How would Britain vote at the start of 2026, by gender?
+Though not one of the most significant divides in voting behaviour, there is a noticeable gender gap in how Britons intend to vote. This is greatest with Reform UK, as Nigel Farage’s party does eight points better with men (30%) than women (22%). The Conservatives do make up most of this gap on the right, with a vote share five points higher among women (21% vs 16%).
+The Greens also do better with female voters, with 18% backing the party, relative to 13% of men. Labour and the Liberal Democrats currently hold roughly similar levels of support on both sides of the gender divide.
+How would Britain vote at the start of 2026, by age?
+Age has emerged as one of the most significant dividing lines in recent British elections, and this shows no signs of disappearing.
+Support for both Reform UK and the Conservatives largely increases with age, though support for Farage’s party peaks among those in their 60s, on 36% of the vote, while the Conservatives’ vote share is highest among the over 70s, on 32%. Both parties are only polling on 9-12% of the vote among under 30 age groups.
+By contrast, support for the Greens declines with age, with the left-wing party now leading among the under 30s, including currently holding 37% of the vote among 18-24 year olds. The party remains on single digits (5-7%) among the over 60 age groups.
+Labour’s vote share is also higher among younger voters than older voters, though the party’s support currently peaks at around a quarter (24-26%) among those in their mid-to-late 20s and their 30s, relative to just 11% of over 70s, Labour’s weakest age group.
+The Liberal Democrats are on 12-18% among every age group.
+Combining the age and gender data reveals substantial differences within age groups. The Greens, for instance, consistently do roughly 50% better among women than men, meaning when it comes to 18-24 year olds, this extends the gender divide to 14 points, with 44% of young women going Green, relative to 30% of men in their age group.
+Reform UK doing better among men and the Conservatives among women is most apparent among the over 65s, where Farage’s party has a 17 point lead over Badenoch’s party with men, but trails by six points among women. Additionally, the Tory trend is bucked among 18-24 year olds, where support for the party is not higher among women.
+Additionally bringing in socio-economic classifications to the equation reveals further trends within the data.
+Take, for instance, Reform UK. Within each age group, Nigel Farage’s party does better among those who are or were in routine and manual occupations than those in the higher and professional category. But within each socio-economic category, the party does worst among those in the youngest age group.
+So, for instance, Reform UK performs better among the oldest professionals (27%), than it does the youngest routine workers (19%).
+One notable exception to wider trends is that Green support within 18-34 year olds is higher among those in the routine and manual group (36%) than those in the higher or intermediate categories (29%), though this is likely a reflection that more 18-24 year olds fall into this category than 25-34 year olds.
+How would Britain vote at the start of 2026, by education level?
+Someone’s level of education has become one of the strongest indicators of how people in Britain vote.
+While Reform UK currently hold a 42% vote share and 21 point lead among those whose highest level of education attained is a GCSE or lower, they are fifth placed among those who hold a university degree, on just 13% of the vote.
+Graduates are more likely than those with a GCSE or lower to back either Labour (25% vs 12%), the Greens (21% vs 9%) or the Liberal Democrats (18% vs 10%), with the collective vote share for these three parties standing at nearly two thirds of degree holders (64%), roughly double their support among those with a lower level of qualification (31%).
+Support for the Conservatives varies less by education level, but is lower among those with a degree (16%) than those with medium or lower levels of educational attainment (20-21%).
+How would Britain vote at the start of 2026, by housing tenure?
+Social renters, i.e. those who rent from a council or housing association, were long one of Labour’s key voter groups. Today, though, the party’s vote share among this group is just 18%, with roughly twice as many social renters instead opting for Reform UK (37%).
+For the Conservatives, it’s those who own their home outright who have traditionally been a bedrock. While it is still one of the party’s strongest demographics, with 26% backing Kemi Badenoch’s party, a larger 32% of voters who own outright are currently supporting Reform UK instead.
+Mortgage holders are split, with around a fifth (19-22%) backing each of Labour, Reform UK and the Conservatives, while the Liberal Democrats and Greens are on 15-16% with them.
+Those who rent from private landlords are also somewhat divided: the Greens currently have a 25% vote share among this group, with Labour on 21% and Reform UK on 20%. The Greens also do particularly well among those who live with family and friends, among whom they are on 28% of the vote.
+How would Britain vote at the start of 2026, by household income?
+Historically, it was the case that the more someone earned, the more likely they were to support the Conservatives and less likely they were to support Labour. Today, though, that’s not the case.
+Labour’s vote now 
+increases
+ with household income, with 23% of those living in households with an income of over £70,000 a year intending to vote for the party, compared to just 15% of those in homes earning less than £20,000.
+Instead, it is Reform UK who poll best among the lowest earners, with 34% of those in the poorest households backing the populist party, compared to 16% of those in the highest income households.
+Support for both the Conservatives and the Greens shows little to no relationship with income, while the Liberal Democrats perform best among higher earners, with 19% of those in households earning £70,000 or more intending to vote for Ed Davey’s party.
+How would Britain vote at the start of 2026, by political attention level?
+Reform UK are polling better amongst those who self-reportedly pay the least attention to politics, with 35% of those paying a low level of attention to the subject currently supporting the party, compared to 23% of those who devote a high amount of time to following politics.
+The reverse is true for Labour, who are supported by 22% of high attention voters versus 15% of their low attention counterparts.
+How would Britain vote at the start of 2026, by EU referendum vote?
+It might be nearly a decade since the EU referendum, but the divide caused by the Brexit vote is still very clear in today’s voting patterns, with only one party – the Conservatives – polling in double-digits among both Leave (26%) and Remain voters (15%).
+They are not the top choice, though, among either group. Among Leavers, that title falls to Reform UK, who have a 50% vote share among those who voted for Brexit. Among Remainers, Labour still lead, on 28% of the vote, ahead of the Liberal Democrats and Greens, who are on around a fifth of the vote each (19-21%).
+How have voters changed their minds between the 2024 election and the start of 2026?
+Just 38% of those who voted for Labour in the 2024 general election have stuck by their choice, with their vote splintering in multiple directions. One in six (17%) are unsure who they would vote for in a future election, while 15% now back the Greens, 9% support the Liberal Democrats and 8% intend to vote for Reform UK.
+The Conservatives have retained a small majority of their 2024 coalition (53%), with a quarter (26%) having switched to Reform UK over the last 18 months. One in nine (11%) are unsure who they would vote for if there was an election, with just 4% switching to the Liberal Democrats.
+Ed Davey’s party themselves have retained just 55% of their 2024 voters, with the Greens the largest source of partisan defection (12%), alongside 5% going to each of the Conservatives, Labour and Reform UK. One in eight 2024 Liberal Democrats (13%) don’t currently know who they would vote for.
+Reform UK have kept hold of the highest proportion of their previous voters, with 80% still backing the party, and the lowest proportion of ‘don’t knows’ (8%). The Greens have retained 68% of their prior voters, with 12% unsure.
+Where have parties gained and lost most in the year since the 2024 election?
+Reform UK’s gains during this parliament have been largely ‘proportional’ to 
+their 2024 result
+, meaning they have gained most where they were already stronger. This includes larger gains among Leave voters (up 22 points), those with a lower level of education (up 19), those in over 60 age groups (up 18) and those in the lowest income households (up 17).
+The recent Green surge has followed a similar pattern, with support roughly doubling among each group. This means their largest increases in support have been the under 30 age groups (up 19-21 points), those in their 30s (up 13), those with a degree (up 12), those who voted Remain (up 11), those in the highest income households (up 11), and among women (up 10).
+By contrast, the collapse in Labour’s support has been more ‘uniform’, being down by around 16 to 20 points in most key social groups. The fall, though, is highest among those in their 30s and 40s, among whom Labour are down by 22 points, and lower among Leavers (down 11) and the over 60 age groups (down 9-12), where it had less space to fall.
+There is less of a pattern in the change in the Conservative vote. Their support has fallen sharply among older Britons, including falls of 14 points among the over 70s and 11 points among those in their 60s, while seeing no decline in the under 50 age groups.
+Support for Kemi Badenoch’s party has fallen by 10-11 points among those with lower levels of education and Leave voters, while being near unchanged among degree holders and Remain voters. It has also fallen more among those in households earning less than £50,000 (down 6-7 points) than among those earning more than that amount.
+See the full results here
+Interested in taking YouGov surveys?
+ Who would you vote for if a general election was held tomorrow? What do you think about British politics in general, and everything else? Have your say, join the YouGov panel, and get paid to share your thoughts. 
+Sign up here.
+Interested in commissioning YouGov research?
+ We connect in real-time with real people around the world to gather their thoughts, behaviours, and opinions, to ensure that our research data is powered by reality. 
+Explore our survey services here.
+Photo: Getty
+Subscribe to the YouGov newsletter
+YouGov members shaped this research
+Data in this article comes from real people completing surveys. Joining means opinions like yours are counted and not missed.
+Join YouGov today
+It’s free to join, takes about two minutes, and we’ll give you points for registering.
+Explore more data
+Voting Intention
+British Politics
+Elections
+Related content
+Ahead of COP31, where do Europeans stand on climate change?
+Article
+How popular are national leaders in Europe? October 2026
+Article
+YouGov News Tracker: 1 - 2 November 2026
+Article
+Britons support ban on porn depicting strangulation, incest or people who appear or are pretending to be under 16
+Article
+How popular is Donald Trump in Europe? October 2026
+Article
+What do Britons make of remembrance poppies?
+Article
+Britons support slavery apology, but oppose reparations
+Article
+What do Britons make of the US midterm elections?
+Article
+Voting intention, 1-2 November 2026: Lab 26%, Con 24%, Ref 21%, LD 11%, Grn 10%
+Article
+Overlapping majorities: is there a perfect median voter who speaks for a silent majority?
+Article
+What the Spanish public are thinking ahead of the 2026 general election
+Article
+How have Britons reacted to the 2026 Budget?
+Article
+What do Britons think about UK military involvement in conflicts overseas – in their own words
+Article
+What do Britons think about stockpiling emergency supplies – in their own words
+Article
+Royal family favourability trackers, October 2026
+Article
+YouGov News Tracker: 25 - 26 October 2026
+Article
+Tracker: European attitudes towards other countries
+Article
+Income tax, VAT and National Insurance: which would Britons raise if they had to pick one?
+Article
+What do Britons think about the minimum wage – in their own words
+Article
+How far do Britons support nationalising water companies?
+Article
+Voting intention, 25-26 October 2026: Lab 27%, Con 22%, Ref 20%, LD 11%, Grn 10%
+Article
+How would Britons feel about potential coalition governments, October 2026?
+Article
+YouGov News Tracker: 18 - 19 October 2026
+Article
+Ahead of the 2026 Budget, the public are divided on tax and spend
+Article
+Political favourability ratings, October 2026
+Article
+Voting intention, 18-19 October 2026: Lab 27%, Con 23%, Ref 22%, LD 11%, Grn 10%
+Article
+Wales political snapshot, October 2026
+Article
+YouGov News Tracker: 11 - 12 October 2026
+Article
+Scotland political snapshot, October 2026
+Article
+Ahead of the 2026 Budget, Labour’s economic reputation has improved since last year
+Article
+Britons increasingly believe Greens are prejudiced against Jewish people
+Article
+Voting intention, 11-12 October 2026: Lab 24%, Con 23%, Ref 21%, LD 12%, Grn 11%
+Article
+If the government decides to rejoin EU, Britons say there should be a referendum
+Article
+YouGov News Tracker: 4 - 5 October 2026
+Article
+Do Britons support a tourist tax?
+Article
+Voting intention, 4-5 October 2026: Lab 27%, Ref 22%, Con 20%, LD 11%, Grn 11%
+Article
+ Load more 
+About YouGov
+ At the heart of our company is a global online community, where millions of people and thousands of political, cultural and commercial organisations engage in a continuous conversation about their beliefs, behaviours and brands. 
+Company
+ About us 
+ Methodology 
+ Our Panel 
+ Our team 
+ Contact 
+ All products 
+Members and clients
+ Join the Panel 
+ Panelist support 
+ Careers 
+ Investor relations 
+ Website terms 
+ Privacy notice 
+ Public data licence 
+ Modern slavery act 
+At the heart of our company is a global online community, where millions of people and thousands of political, cultural and commercial organisations engage in a continuous conversation about their beliefs, behaviours and brands.
+Company
+ About us 
+ Methodology 
+ Our Panel 
+ Our team 
+ Contact 
+ All products 
+Members and clients
+ Join the Panel 
+ Panelist support 
+ Careers 
+ Investor relations 
+ Website terms 
+ Privacy notice 
+ Public data licence 
+ Modern slavery act 
+Copyright © 2026 YouGov PLC. All Rights Reserved.

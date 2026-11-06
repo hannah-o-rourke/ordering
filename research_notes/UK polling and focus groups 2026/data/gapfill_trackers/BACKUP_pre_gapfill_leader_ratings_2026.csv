@@ -1,0 +1,85 @@
+date,pollster,leader,approve,disapprove,net,source_url
+2026-01-22,Ipsos,Keir Starmer,19,73,-62,https://www.ipsos.com/en-uk/record-highs-resignation
+2026-01-10,YouGov,Keir Starmer,18,75,-57,https://yougov.com/en-gb/articles/53907-political-favourability-ratings-january-2026
+2026-01-10,YouGov,Kemi Badenoch,25,51,-26,https://yougov.com/en-gb/articles/53907-political-favourability-ratings-january-2026
+2026-01-10,YouGov,Nigel Farage,,,-37,https://yougov.com/en-gb/articles/53907-political-favourability-ratings-january-2026
+2026-01-10,YouGov,Ed Davey,,,-9,https://yougov.com/en-gb/articles/53907-political-favourability-ratings-january-2026
+2026-01-10,YouGov,Shabana Mahmood,,,-24,https://yougov.com/en-gb/articles/53907-political-favourability-ratings-january-2026
+2026-01-15,YouGov (Wales),Rhun ap Iorwerth,36,,,https://x.com/YouGov/status/2016468454564393014
+2026-02-10,Ipsos,Keir Starmer,19,72,-53,https://www.ipsos.com/en-uk/reform-uk-holds-7-point-lead-over-labour-greens-5-points
+2026-03-08,Ipsos,Keir Starmer,19,72,-53,https://www.ipsos.com/en-uk/reform-uk-holds-7-point-lead-over-labour-greens-5-points
+2026-03-15,YouGov,Keir Starmer,22,70,-48,https://yougov.com/en-gb/articles/54380-political-favourability-ratings-march-2026
+2026-03-15,YouGov,Kemi Badenoch,,,-25,https://yougov.com/en-gb/articles/54380-political-favourability-ratings-march-2026
+2026-03-15,YouGov,Nigel Farage,,,-39,https://yougov.com/en-gb/articles/54380-political-favourability-ratings-march-2026
+2026-03-15,YouGov,Ed Davey,,,-14,https://yougov.com/en-gb/articles/54380-political-favourability-ratings-march-2026
+2026-03-15,YouGov,Zack Polanski,,,-14,https://yougov.com/en-gb/articles/54380-political-favourability-ratings-march-2026
+2026-04-12,Ipsos,Keir Starmer,18,74,-56,https://www.ipsos.com/en-uk/reform-hold-6-point-lead-over-labour-and-conservatives
+2026-04-12,YouGov (Wales),Rhun ap Iorwerth,,,9,https://x.com/YouGov/status/2049426139257397479
+2026-04-12,YouGov (Wales),Keir Starmer,,,-42,https://x.com/YouGov/status/2049426139257397479
+2026-04-12,YouGov (Wales),Nigel Farage,,,-23,https://x.com/YouGov/status/2049426139257397479
+2026-04-12,YouGov (Wales),Kemi Badenoch,,,-25,https://x.com/YouGov/status/2049426139257397479
+2026-04-12,YouGov (Wales),Eluned Morgan,,,-32,https://x.com/YouGov/status/2049426139257397479
+2026-04-15,YouGov,Keir Starmer,,,-45,https://yougov.com/en-gb/articles/54604-political-favourability-ratings-april-2026
+2026-05-17,Ipsos,Keir Starmer,16,76,-60,https://www.ipsos.com/en-uk/reform-hold-7-point-lead-over-labour-ipsos-poll
+2026-05-15,YouGov,Keir Starmer,23,69,-46,https://yougov.com/en-gb/articles/54772-political-favourability-ratings-may-2026
+2026-06-14,YouGov,Keir Starmer,,,-45,https://yougov.com/en-gb/articles/55037-political-favourability-ratings-june-2026
+2026-06-14,YouGov,Kemi Badenoch,,,-15,https://yougov.com/en-gb/articles/55037-political-favourability-ratings-june-2026
+2026-06-14,YouGov,Ed Davey,27,36,-9,https://yougov.com/en-gb/articles/55037-political-favourability-ratings-june-2026
+2026-06-14,YouGov/Times,Andy Burnham,32,43,-11,https://yougov.com/en-gb/articles/55457-why-is-government-approval-so-low-when-andy-burnhams-personal-ratings-are-so-high
+2026-06-27,More in Common,Andy Burnham,,,0,https://www.lynnnews.co.uk/national/three-in-five-voters-think-burnham-not-ready-for-no10-poll-finds-168693/
+2026-06-28,Ipsos,Keir Starmer,17,76,-59,https://www.ipsos.com/en-uk/record-highs-resignation
+2026-07-13,YouGov,Andy Burnham,34,43,-9,https://x.com/YouGov/status/2080232755086950478
+2026-07-25,YouGov,Andy Burnham,38,35,3,https://yougov.com/en-gb/articles/55228-political-favourability-ratings-july-2026
+2026-07-25,YouGov,Nigel Farage,,,-46,https://yougov.com/en-gb/articles/55228-political-favourability-ratings-july-2026
+2026-07-25,YouGov,Kemi Badenoch,,,-11,https://yougov.com/en-gb/articles/55228-political-favourability-ratings-july-2026
+2026-07-25,YouGov,Zack Polanski,,,-26,https://yougov.com/en-gb/articles/55228-political-favourability-ratings-july-2026
+2026-07-29,Opinium,Andy Burnham,,,16,https://www.opinium.com/resource-center/voting-intention-29th-july-2026/
+2026-07-29,Opinium,Ed Davey,,,1,https://x.com/OpiniumResearch/status/2083632607091151268
+2026-07-29,Opinium,Kemi Badenoch,,,1,https://x.com/OpiniumResearch/status/2083632607091151268
+2026-07-29,Opinium,Zack Polanski,,,-20,https://x.com/OpiniumResearch/status/2083632607091151268
+2026-07-29,Opinium,Nigel Farage,,,-24,https://x.com/OpiniumResearch/status/2083632607091151268
+2026-08-02,Ipsos,Andy Burnham,29,30,-1,https://www.lbc.co.uk/article/burnham-bounce-labour-ahead-reform-exclusive-lbc-polling-ipsos-5HjdfnT_2/
+2026-08-12,Opinium,Andy Burnham,,,11,https://www.opinium.com/resource-center/voting-intention-12-august-2026/
+2026-08-14,YouGov,Andy Burnham,46,33,13,https://yougov.com/en-gb/articles/55382-political-favourability-ratings-august-2026
+2026-08-14,YouGov,Ed Davey,,,-8,https://x.com/YouGov/status/2089627694904262786
+2026-08-14,YouGov,Kemi Badenoch,,,-16,https://x.com/YouGov/status/2089627694904262786
+2026-08-14,YouGov,Zack Polanski,,,-29,https://x.com/YouGov/status/2089627694904262786
+2026-08-14,YouGov,Nigel Farage,,,-44,https://x.com/YouGov/status/2089627694904262786
+2026-08-24,Ipsos (favourability),Andy Burnham,40,27,13,https://www.ipsos.com/en-uk/burnham-bounce-continues-public-more-favourable-towards-pm-other-leading-uk-politicians
+2026-08-24,Ipsos (favourability),Nigel Farage,26,54,-28,https://www.ipsos.com/en-uk/burnham-bounce-continues-public-more-favourable-towards-pm-other-leading-uk-politicians
+2026-08-24,Ipsos (favourability),Kemi Badenoch,27,,,https://www.ipsos.com/en-uk/burnham-bounce-continues-public-more-favourable-towards-pm-other-leading-uk-politicians
+2026-08-24,Ipsos (favourability),Ed Davey,23,,,https://www.ipsos.com/en-uk/burnham-bounce-continues-public-more-favourable-towards-pm-other-leading-uk-politicians
+2026-08-24,Ipsos (favourability),Zack Polanski,19,,,https://www.ipsos.com/en-uk/burnham-bounce-continues-public-more-favourable-towards-pm-other-leading-uk-politicians
+2026-08-28,YouGov,Andy Burnham,,,7,https://yougov.com/en-gb/articles/55457-why-is-government-approval-so-low-when-andy-burnhams-personal-ratings-are-so-high
+2026-09-10,YouGov,Andy Burnham,46,39,7,https://yougov.com/en-gb/articles/55550-political-favourability-ratings-september-2026
+2026-09-10,YouGov,Kemi Badenoch,32,47,-15,https://yougov.com/en-gb/articles/55550-political-favourability-ratings-september-2026
+2026-09-10,YouGov,Nigel Farage,24,69,-45,https://yougov.com/en-gb/articles/55550-political-favourability-ratings-september-2026
+2026-09-10,YouGov,Zack Polanski,,,-29,https://yougov.com/en-gb/articles/55550-political-favourability-ratings-september-2026
+2026-09-10,YouGov,Ed Davey,,,-8,https://yougov.com/en-gb/articles/55550-political-favourability-ratings-september-2026
+2026-09-20,Ipsos,Andy Burnham,31,44,-13,https://www.ipsos.com/en-uk/ipsos-polling-shows-labour-4-points-ahead-approaching-party-conference
+2026-09-20,Survation,Andy Burnham,,,16,https://www.survation.com/two-months-of-burnham-labour-hold-their-lead/
+2026-10-02,YouGov (Scotland),John Swinney,34,,-19,https://yougov.com/en-gb/articles/55758-scotland-political-snapshot-october-2026
+2026-10-02,YouGov (Scotland),Andy Burnham,,,9,https://yougov.com/en-gb/articles/55758-scotland-political-snapshot-october-2026
+2026-10-02,YouGov (Scotland),Nigel Farage,,,-56,https://yougov.com/en-gb/articles/55758-scotland-political-snapshot-october-2026
+2026-10-02,YouGov (Wales),Rhun ap Iorwerth,33,32,1,https://yougov.com/en-gb/articles/55761-wales-political-snapshot-october-2026
+2026-10-02,YouGov (Wales),Andy Burnham,,,14,https://yougov.com/en-gb/articles/55761-wales-political-snapshot-october-2026
+2026-10-08,Opinium,Andy Burnham,,,8,https://www.opinium.com/resource-center/voting-intention-7th-october-2026/
+2026-10-11,Ipsos (favourability),Andy Burnham,39,31,8,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-11,Ipsos (favourability),Kemi Badenoch,28,,-12,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-11,Ipsos (favourability),Nigel Farage,25,,-31,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-11,Ipsos (favourability),Ed Davey,19,,-15,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-11,Ipsos (favourability),Zack Polanski,16,52,-36,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-16,YouGov,Andy Burnham,46,42,4,https://yougov.com/en-gb/articles/55782-political-favourability-ratings-october-2026
+2026-10-16,YouGov,Kemi Badenoch,,,-15,https://yougov.com/en-gb/articles/55782-political-favourability-ratings-october-2026
+2026-10-16,YouGov,Nigel Farage,25,67,-42,https://yougov.com/en-gb/articles/55782-political-favourability-ratings-october-2026
+2026-10-16,YouGov,Zack Polanski,19,56,-37,https://yougov.com/en-gb/articles/55782-political-favourability-ratings-october-2026
+2026-10-16,YouGov,Ed Davey,,,-16,https://yougov.com/en-gb/articles/55782-political-favourability-ratings-october-2026
+2026-10-18,More in Common,Andy Burnham,40,30,9,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-18,More in Common,Kemi Badenoch,,,5,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-18,More in Common,Nigel Farage,,,-27,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-19,Ipsos,Andy Burnham,35,45,-10,https://www.ipsos.com/en-uk/labour-now-lead-8-points-conservatives-second-place-latest-voting-intention-polling
+2026-10-21,Opinium,Andy Burnham,,,6,https://www.opinium.com/resource-center/voting-intention-21-october-2026/
+2026-10-25,More in Common,Andy Burnham,,,8,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-25,More in Common,Kemi Badenoch,,,2,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-25,More in Common,Nigel Farage,,,-28,https://en.wikipedia.org/wiki/Leadership_approval_opinion_polling_for_the_next_United_Kingdom_general_election
+2026-10-28,Opinium,Andy Burnham,,,7,https://www.opinium.com/resource-center/voting-intention-28th-october-2026/

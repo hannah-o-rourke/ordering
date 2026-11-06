@@ -1,0 +1,3 @@
+The Times	https://www.thetimes.com/uk/politics/article/reform-uk-tactical-voting-nigel-farage-wl9f9h65x
+Daily Express	https://www.express.co.uk/news/politics/2112479/nigel-farage-reform-general-election?int_source=nba
+Data tables	DataTables_TVSep2025.xlsx

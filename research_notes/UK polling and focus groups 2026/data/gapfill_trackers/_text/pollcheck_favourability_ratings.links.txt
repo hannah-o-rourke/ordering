@@ -1,0 +1,1 @@
+View the same data as a table	#pollArchive
