@@ -1,0 +1,350 @@
+# Tom Montgomery AS — Senedd contributions
+
+39 contributions, 8,755 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-05-12 — 3. Nomination of the First Minister under Standing Order 8
+
+*Speech* · [https://record.senedd.wales/Plenary/16033#C762168](https://record.senedd.wales/Plenary/16033#C762168)
+
+Dan Thomas.
+
+## 2026-06-09 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762930](https://record.senedd.wales/Plenary/16072#C762930)
+
+I would like to request a joint statement from the Ministers with responsibilities over energy and rural affairs on what urgent steps the Welsh Government is taking to protect rural Wales from large solar farms. My constituents in Clwyd have raised with me their concerns regarding a planning application to turn 186 hectares of farmland into a solar farm. My residents have made it clear to me that this land should be retained for farming and that solar should be placed on top of factories, car parks and buildings, not fields. I understand that you cannot comment on individual sites but my residents in Clwyd, and people across Wales, will be interested to know what steps the Welsh Government will take to prevent the loss of hundreds of acres of farmland to solar farms.
+
+## 2026-06-17 — 3. Questions to the Cabinet Minister for Local Government, Housing and Planning / Local Government Funding Formula
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C764107](https://record.senedd.wales/Plenary/16075#C764107)
+
+Yes, but it's not paying more.
+
+## 2026-06-17 — 3. Questions to the Cabinet Minister for Local Government, Housing and Planning / Local Government Funding Formula
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C764110](https://record.senedd.wales/Plenary/16075#C764110)
+
+Minister, it is the view of the people on these benches that the people of Wales are overtaxed. No area shows this more clearly than in council tax. The average council tax for a band D property in all three local authorities in Clwyd is several hundred pounds higher than the average for a band D in London—one of the most expensive cities in the world—and this financial burden is hitting working families hardest.
+
+During the election campaign, you committed to carrying out a review of local government funding. Can you assure me, Minister, that the Government will get on with this review urgently so that we can see a better funding settlement for local government by the next financial year?
+
+## 2026-06-17 — 4. Topical Questions / Ysbyty Glan Clwyd
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C764154](https://record.senedd.wales/Plenary/16075#C764154)
+
+Can I start by thanking Darren for bringing this forward? It's a very important issue. Minister, I've been contacted by several constituents regarding the ongoing failings of the health board and this hospital. We've had years of special measures, years of reports raising the alarm, and years of media stories revealing horrifying tales from patients. Minister, the situation cannot go on. In Reform, we promised action and we promised accountability. We said that we would review the National Health Service (Wales) Act 2006 to enhance ministerial powers to intervene in failing health boards. Will you do the same?
+
+## 2026-06-23 — 1. Questions to the First Minister / Housing Associations and Registered Social Landlords
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764375](https://record.senedd.wales/Plenary/16076#C764375)
+
+3. What will the Welsh Government do to improve the oversight of housing associations and registered social landlords? OQ64198
+
+## 2026-06-23 — 1. Questions to the First Minister / Housing Associations and Registered Social Landlords
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764378](https://record.senedd.wales/Plenary/16076#C764378)
+
+Thank you, First Minister. Many registered social landlords have been partly or entirely born out of the transfer of housing stock from local authorities. However, RSLs are more than just landlords, with housing waiting lists, waste management and anti-social behaviour, to name just some of the areas in which RSLs are key stakeholders. Despite the important role that they play in our towns and villages and the huge sums of public money that RSLs receive, these bodies do not directly report to the councils or the areas that they serve. First Minister, will you commit to reviewing this, with the aim of making RSLs more directly accountable to the local authorities they operate within?
+
+## 2026-06-24 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Grass-roots Sports
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764717](https://record.senedd.wales/Plenary/16077#C764717)
+
+3. What action is the Welsh Government taking to support grass-roots sports in north Wales? OQ64196
+
+## 2026-06-24 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Grass-roots Sports
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764722](https://record.senedd.wales/Plenary/16077#C764722)
+
+Thank you, Minister. It has long been recognised how engaging people, particularly young people, in grass-roots sport can benefit the individual and our society as a whole. Grass-roots clubs often provide a safe and secure place for young people to socialise, learn and grow. It supports efforts to tackle anti-social behaviour and helps to instil a sense of pride and purpose in the individual. Furthermore, engaging young people in sport is key to encouraging them to live a more active and healthy lifestyle, which is critical to the preventive agenda in relation to health and reducing pressure on the NHS. Despite this, I have often found that grass-roots sporting clubs tell me the difficulty they have in securing grant support, working with local authorities or accessing Welsh Government grants. Given this, Minister, can you explain how the Welsh Government will work with partners to ensure a holistic support framework for grass-roots sport in north Wales?
+
+## 2026-06-30 — 2. Questions to the Counsel General / Sewel Convention
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765427](https://record.senedd.wales/Plenary/16078#C765427)
+
+For the convention to be put on the statute books, you need consent from the Westminster Government as well. What advice would the Counsel General give to the Welsh Government if the Westminster Government decides it is not in favour of turning the convention into statutory legislation?
+
+## 2026-07-07 — 1. Questions to the First Minister / Local Government Funding
+
+*Speech* · [https://record.senedd.wales/Plenary/16083#C766337](https://record.senedd.wales/Plenary/16083#C766337)
+
+2. What steps is the Welsh Government taking to ensure that local councils are adequately funded? OQ64330
+
+## 2026-07-07 — 1. Questions to the First Minister / Local Government Funding
+
+*Speech* · [https://record.senedd.wales/Plenary/16083#C766345](https://record.senedd.wales/Plenary/16083#C766345)
+
+Thank you, First Minister. During my time as a councillor, I was increasingly alarmed by the rate of borrowing and associated costs with borrowing that local councils were taking on across Wales. In recent years, borrowing by local councils has increased by more than £400 million and, right now, local councils in Wales are carrying more than £6.4 billion in debts. This growth is made all the more alarming when you consider the costs associated with financing that debt. Conwy council, for example, this year alone will be spending £17 million just financing its debt. This is compounded when you realise that, often, councils refinance their debts time and time and time again. A loan taken 10 years ago with record low interest rates refinanced today in today's market will cost councils thousands of pounds more in unplanned costs. These ballooning debts and financing requirements are putting huge burdens on taxpayers and are ticking time bombs on councils' balance sheets. So, what is the Welsh Government going to do to curtail the growing levels of local government debt?
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767100](https://record.senedd.wales/Plenary/16084#C767100)
+
+It is critical that this place recognises the importance of this industry to Wales and hears the concerns that are coming directly from the industry. So, can I thank Paul Marr and Paul Davies? The both of you have explained clearly today the impact of the policies that we're talking about here and the impact of those policies on the tourism industry in your constituencies. We must never forget, Members, that, when this place passes down legislation, introduces new taxes or burdens industry with more red tape, there are real people at the other end.
+
+Can I thank Louise Emery? Her knowledge, experience and years of promoting this industry, not just with words but with direct action, has been remarkable. We both share the view that the tourism sector is a key pillar to the economy in Wales, but Louise has gone further and she has shone a light on how this place, this Government, can work proactively with the industry. As we've heard, this industry can be key to us tackling issues such as youth unemployment. Particularly with all of the talk of those not in education, employment or training, you would be hard pressed to find an industry more experienced in providing youth employment opportunities than the tourism sector.
+
+Louise has shown also how on these benches in Reform we recognise the importance of sustainable tourism. We recognise that this, like any other industry, can have an impact on the area that they operate in. However, to address this we need targeted local action, working with local stakeholders. We don't need nationwide regulations or more taxation—an approach that amounts to taking a sledgehammer to the issue.
+
+I'd also like to thank my colleague John Clark for highlighting what the industry itself is telling us. They have still not seen a return to pre-pandemic visitor numbers and the challenge that this industry has in attracting visitors here against our international competitors in Europe is stark. With all that in mind, we must accept that surely our best way forward is to work with the industry to break down cost barriers, so businesses can better compete with international markets. A visitor levy won't do that. As already highlighted, most overnight stays are already subject to VAT, and, in comparison to our European rivals, we are already taxing overnight visitors at a much higher rate. Applying a visitor levy on top of VAT will simply be implementing a tax on top of a tax. Additionally, this approach will hit working and low-income families hardest. It'll have little impact on the high-end tourism across Wales, but will dramatically hammer more affordable holiday options and smaller businesses. Governments of the past have had the approach of trying to tax or regulate this industry into growth. That will never work.
+
+I'd also thank Steven Rodaway as well. You're absolutely right. The industry has spoken. The 182-day rule is too restrictive and it is damaging the industry and the people that work within this sector.
+
+And I want to turn to the amendment that the Government has put before us. In the amendment, it says that they will keep the 182-day rule under review. Members, we've heard today about the pressures the industry is under and we understand the importance of this industry to every corner of Wales. Saying that you're going to keep it 'under review' is not good enough. The industry is struggling. It needs our support, not a Government holding response. Also, what I will mention is it has been brought up today that the 182-day rule would help address the housing crisis in Wales. It hasn't. We still have a housing crisis. We have a housing crisis because we've had decades of a Welsh Government failing to build enough homes. Please don't try and scapegoat that to the tourism industry. If you want to address the housing crisis in Wales, get on and build more homes.
+
+Then the amendment says that the visitor levy is about giving local councils a choice in introducing the levy to help fund improvements to the tourism sector locally. This is a false narrative, Members. As someone who has spent the last four years in local government, I know first-hand the pressures that councils are facing. Any moneys from this levy will not go to tourism investment. If you put this power in local councils' hands to levy additional taxation on local businesses, they will use it to ease their financial pressures, mostly in education and social care, not pressures caused by the tourism industry. Additionally, as the Government should well know, there are already provisions in the local government funding formula to support councils to deal with tourism-related pressures. Councils with high numbers of tourists already receive an uplift in funding. So, if you're concerned about councils managing tourism-related pressures, you want councils to invest in the tourism sector locally, or want to protect council services, then fund councils properly. Do not scapegoat this again to the tourism sector for Cardiff Bay funding failures.
+
+Members, we have heard that the sector is a vital component of our economy in Wales, and we've heard how this slate of legislation is burdening it. We have the opportunity to tell the industry that we stand with them. Members, reject the amendment and support our motion.
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767120](https://record.senedd.wales/Plenary/16084#C767120)
+
+Thank you very much, Llywydd, and thank you to all Members who have contributed so far. Minister, can I also welcome your announcement mere minutes ago of extra millions of pounds for the tourism industry? You've made me rewrite the start of my speech quickly, but I have to welcome that announcement. I am so glad that it was Reform's debate today that has enabled you to bring that money forward for the tourism industry.
+
+Tourism is an essential part of the lifeblood that sustains towns and villages across our great country. I think of towns like Tywyn, Rhyl, Prestatyn, Llangollen, Llandudno, Barmouth, and so many others where this industry is not just important, it is essential. This is why this debate is so important. This industry and its supply chains and the businesses that are attached to it run through every single part of Wales. So, can I thank all Members who have contributed to this debate so far?
+
+## 2026-07-14 — 1. Questions to the First Minister / Additional Learning Needs
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767525](https://record.senedd.wales/Plenary/16085#C767525)
+
+I'd like to start by declaring an interest. My wife and my mother both work in an education setting, which includes supporting children with ALN.
+
+As I'm sure the First Minister is aware, conditions like autism exist on a spectrum. Different children require different levels of support and intervention. Some, with the right support, can continue in mainstream education; some can't. And then there are the countless individuals who fall somewhere in between. However, those who work within the system, those who I speak to, often tell me of a system that fails to reflect the reality, with many children in need of placement at specialist schools but stuck in a system that is often too slow to respond or sat on waiting lists for months or even years, whilst others are placed in mainstream education without the correct support packages in place, failing both the students and the schools.
+
+First Minister, we need wholesale change and better co-ordination between health boards, mental health services and education authorities to speed up intervention. How are you going to get on and do that?
+
+## 2026-07-14 — 2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution / Reforming the Funding Formula
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767661](https://record.senedd.wales/Plenary/16085#C767661)
+
+As I've already spoken on in this Chamber, councils are in real financial distress. We are seeing massive increases in council tax, growing debt bubbles and serious service cuts. This is why the Government's plan to review the funding formula is so important. However, as with everything, Minister, detail is key. Strong words and bold promises aren't enough. So, with local government on tenterhooks waiting for this review, can you tell us how you intend to review the formula? What components are you looking to change and, most importantly, how will the Welsh Government define success when it's reviewing the formula? What does a successful review look like to the Welsh Government? Minister, this place and, most importantly, local government need answers.
+
+## 2026-07-15 — 6. Member Debate under Standing Order 11.21(iv): Young people and employment
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768286](https://record.senedd.wales/Plenary/16086#C768286)
+
+Thank you to the Member for bringing forward this debate, and to all those who have contributed so far. Creating pathways into employment for young people is critically important, as detailed in the motion. Given this, I truly welcome the spirit of this motion. It is incumbent upon all of us to find solutions to this issue. However, I do feel that there is more room for us to cover. We need more focus on vocational apprenticeships, particularly in relation to the building and construction industry. At this point, I must declare an interest, as my younger brother is currently completing one such vocational apprenticeship.
+
+Trades and construction are a significant employer across our country. However, from the experience of my brother, I can tell this Chamber that the cuts to apprenticeship funding dealt a huge blow to the success of these vocational apprenticeships. I recall months of worry and concern as my brother's apprenticeship hung in the balance. He struggled to find a qualified trade to take him on as an apprentice. We must recognise that the vast majority of trades are sole traders or small in size, people that lack the financial reserves to employ an apprentice and all the costs that can come with that.
+
+Previously, funding was available to help meet these costs. Apprentices could find stable work placements, essential to them completing their courses, and employers were supported. We had a pathway for young people to learn a trade, gain valuable work experience and move into full-time work. However, when cuts to funding came, this pathway was restricted. If you are serious about creating avenues into employment for every young person, then I believe this motion should be calling for those pathways to be re-established.
+
+This leads me on to my next point. In my previous role, I worked in a charity, which, along with a number of other services, ran a successful back-to-work programme. I helped lead a project that took 16 individuals over a cohort of three months, mostly young people who were long-term unemployed, and we would pay them to work with us. Over three months, we gave them real work experience. We also set aside one day where we upskilled the participants in cv writing, interview skills, job search support, manual handling training, first aid, mental health and well-being support, to name just some of the skills we helped our participants receive. Over the two years that this project ran, we helped more than 40 young people back into full-time work.
+
+I took away two key points from my time with this project. Firstly, like I already believed, Government cannot do it alone. We can create all the Government agencies, projects and schemes we want, but unless the Welsh Government is willing to financially support the private sector, and, importantly, the third sector, to provide job opportunities for long-term unemployed people, we will fail to create those pathways into employment.
+
+Secondly, one of the largest barriers to getting people into work is experience. Without real work experience, many young people struggle to have the confidence to apply for jobs. They fail to make it through interview processes or simply don't know where to start when it comes to job hunting. I cannot tell you enough about the number of young people I worked with directly on this project who were able and willing to work, they just didn't know where to start. To see the transition that they went through in that short three-month window with us was remarkable.
+
+So, this brings me on to my final point. We must recognise the importance of a young person's first part-time job, working as a pot wash or waiting tables. Whilst this is not a lifelong career for some, the workplace experience and skills that they gain are invaluable when it comes to moving to other work. This is exactly the point that I was trying to make last week in this place. The tourism and hospitality industry is a vital piece of the puzzle on this issue. I, like many others across Wales, worked in the hospitality sector. I held down a little part-time job from the age of 15, working around school, on weekends and in the evenings. And I recognised that my experience in this sector, working in pubs, restaurants, cafes in a variety of roles, gave me skills that no classroom could teach. It taught me the value of hard work. It helped me develop my interpersonal skills and gave me references for my cv. These are all vital components if we're serious about tackling youth unemployment. So, if we're serious about this issue, I truly believe we must engage with the tourism and hospitality sector, because I tell you they have been supporting young people into work and upskilling them for decades.
+
+So, in conclusion, I do truly welcome the spirit of this motion, but I do believe that we have some more components that we need to consider if we're going to be successful in tackling youth unemployment in the future.
+
+## 2026-09-16 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / A Professional Rugby Team for North Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769478](https://record.senedd.wales/Plenary/16261#C769478)
+
+Thank you to the Minister for her answers so far and to Janet for bringing this question forward. Minister, when I look across my constituency, I see a wealth of great rugby clubs, whether that's Colwyn Bay, Denbigh, Mold, Ruthin, Rhyl, to name just some. Their squads, staff and supporters show every week the important role that rugby plays across Clwyd and across Wales. However, when speaking to these teams and others, I'm told that young talent is often scouted and drawn across into English rugby pathways. The former Wales captain Jon Davies is right, we need to provide a pathway for Welsh rugby into Welsh rugby regions and the national side.
+
+You promised in the manifesto to prioritise equality of access to sport. In response, you've called for evidence for a report that'll come in the spring, but what can you do in the meantime to take action with national and regional stakeholders to help create pathways for local talent to have access to national and regional rugby clubs here in Wales?
+
+## 2026-09-16 — 5. Reform UK Debate: Grooming gangs
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769651](https://record.senedd.wales/Plenary/16261#C769651)
+
+Can I start by thanking all of the Members who have shared their powerful stories so far in this debate, especially Paul? Thank you for your deeply moving contribution. The horrors perpetrated by grooming gangs have been seen first-hand in Clwyd, as mentioned by Darren and Paul already. Three teenage girls in Rhyl and the surrounding area were exploited and abused for nearly two years. The court has heard evidence of drug supply, attempts to obstruct justice, rape, sexual assault, child exploitation and modern-day slavery. Individuals aged between 14 and 16 were subjected to these horrific crimes in cars, residential addresses and at a business.
+
+I must commend North Wales Police for catching these vile people. I'm sure the whole Chamber will join with me in condemning them, namely Sarah, Mustafa, Mohamed, Ziaullah and Jaswinder, for the evil that they have undertaken. Not only did they subject the victims to lifelong trauma by taking advantage of their vulnerabilities and seeking to manipulate and control them for their own gain, but by denying the charges, they forced them to relive their ordeal through a lengthy trial.
+
+As the senior investigating officer at North Wales Police explained, and I quote:
+
+'Rather than accepting responsibility for the appalling harm they caused, they forced these young women to endure the additional trauma of a lengthy trial, requiring them to relive their experiences in a courtroom.
+
+'I hope today’s outcome sends a clear message that those who seek to groom and exploit vulnerable children will be relentlessly pursued.'
+
+That is what is required and that is what is not happening here in Wales. Evidence of that is clear from the case that I've just mentioned. One of the individuals who was convicted of conspiracy to traffic and supply drugs was housed by the council in temporary housing, exposing him to other vulnerable people housed at that location and in nearby locations. The local authority's own risk assessment didn't flag any allegations. It didn't flag the police investigation or the arrest. That is alarming, Members. How many other people under investigation have been placed in inappropriate housing? There appears to have been a significant flaw in information sharing between the police and local authority in this case, likely meaning that the local authority inadvertently placed other people and children at risk.
+
+As I made clear over the summer, the UK statutory independent inquiry into grooming gangs in its current form is not the best solution for children and victims in Wales. Whilst the inquiry is undertaking local investigations in Bradford and Keighley, Oldham and London, it doesn't have a single location here in Wales. That fact is incredible when you consider that addressing this evil in our society cannot just be done by the police alone. Instead, it requires a joined-up approach with so many other public services, including housing, local authorities, social services, the health service and our schools, all of which are devolved in Wales. As such, the experience of how these public sector bodies play their part in tackling grooming gangs could be fundamentally different in England than in Wales. Welsh victims and children deserve better. We need Wales's voice to be heard. Welsh victims need to be heard directly.
+
+Members, I urge you to support this motion. It is only through such action that we will pursue grooming gangs relentlessly in Wales.
+
+## 2026-09-29 — 1. Nominations for a Committee Chair
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772804](https://record.senedd.wales/Plenary/16264#C772804)
+
+Can I second, Llywydd?
+
+## 2026-09-29 — 2. Questions to the First Minister / Housing in North Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772905](https://record.senedd.wales/Plenary/16264#C772905)
+
+11. What assessment has the First Minister undertaken regarding the impact of the nation of sanctuary policy on housing availability in north Wales? OQ64566
+
+## 2026-09-29 — 2. Questions to the First Minister / Housing in North Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772911](https://record.senedd.wales/Plenary/16264#C772911)
+
+Thank you, First Minister. The Home Office has written to me confirming that around 70 homes are currently being used for asylum seekers in north-east Wales. That's up 25 per cent on 2025-26. Now, 283 people are housed in this area—that's 43 more than the same time last year. And now the Home Office is looking to move more in. Opposition in villages and towns across north-east Wales is strong, and there is no surprise in that when you consider that 650 local people are still being housed in hotels and bed and breakfasts. I was shocked when a county council in Clwyd explained to me that, often, asylum seekers are moved in without prior notification to the local authority—they're finding out after the fact. First Minister, do you agree with me that local authorities should be consulted before asylum seekers are moved in, and that locals should always be prioritised for housing?
+
+## 2026-09-29 — 5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C773019](https://record.senedd.wales/Plenary/16264#C773019)
+
+Can I thank the Minister for bringing this statement forward? But, Members, this revision will include at least seven different reports, 10 different assessments, and is not expected to be completed until the winter of 2029, a matter of months before the next Senedd election and, possibly, a change of Government, who may then choose to start this process all over again. This timeline is symbolic of the planning system in Wales—broken, costly and painfully slow. For example, planning rules require councils to decide on applications within 91 days, but the average wait for a council in my constituency is 223 days. Minister, I often hear from businesses across Wales who point to costly and long waits linked to the planning process as a significant barrier to investment in Wales. Would it not be better to get a grip on the planning crisis at Welsh planning authorities before starting years of work on changing the national framework? We need action now, not a three-year wait. Thank you.
+
+## 2026-10-07 — 6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776782](https://record.senedd.wales/Plenary/16314#C776782)
+
+These figures are alarming, but they are not just numbers; they're human beings whose lives can be seriously impacted by their experience. Young people with care experience told the previous Senedd that, for example, some school teachers made it really obvious that they were in care, meaning that they never had a break from their experience of the care system. They told the previous Senedd that they had very little support to help them move on from foster placements and that they lacked the basic skills needed to live independently.
+
+We know that care leavers are underrepresented at universities and are on what Crisis describes as a 'predictable route' into homelessness. According to the National Society for the Prevention of Cruelty to Children, they are approximately four times more likely to have a mental health need compared to children living with their birth families. Overwhelmingly, professionals and academics have made it clear that corporate parenting has not been achieving for care-experienced children and young people.
+
+Parents are being failed too. Research shows that parents who go through care proceedings once are more likely to find themselves in proceedings again with subsequent children. Forty-seven per cent of newborn babies subject to care proceedings in England were born to mothers who had previously had children subject to care proceedings. The Nuffield Family Justice Observatory found that mothers and fathers who are frequently involved in care proceedings are dealing with complex and unresolved trauma, which is compounded by the court experience. The adversarial proceedings, formal language and impersonal process compound anxieties and triggers self-protective behaviours, which negatively impact the relationship between the professional and the family unit. Parents feel that they are not being listened to. As the independent review of children's social care in 2022 found, court proceedings are, by their nature, adversarial and have a high human and economic cost.
+
+Members, it doesn't have to be like this. There is another way: family drug and alcohol courts. How are these different? I want to answer by quoting the words of a parent who had previously had children removed, comparing the FDAC process to the standard process. Of the standard process, she said, 'We felt like we had no voice and that we were powerless, and that we were just being accused of things and that there was no opportunity to defend ourselves.' Speaking of the family drug and alcohol court process, the same parent said, 'It feels like we have the power to actually have our say, get things done, have our side heard, and then they try to work with us to improve things and meet in the middle.'
+
+Unlike standard proceedings, FDAC uses a trauma-informed approach, which includes listening to parents without judgment, focusing on parents' strengths and the resources that they currently have available to them, and allowing flexibility. Parents are given a key worker from the FDAC team and a judge who provides them with support and a problem-solving approach. There is weekly substance misuse testing, which involves the parents, and fortnightly non-lawyer reviews with consistent legal monitoring that creates a forum for judges and professionals to problem solve with the parents, set clear goals and delegate tasks for the following two weeks. Parents have a multidisciplinary team to support them, who help them to gain access to services and agencies. They provide transparent information and set up multiple sessions per week to address the intervention plan.
+
+Clearly, it’s a very different model to the standard process, but how do we get families there? One challenge that arose from the Welsh trial was that the number of referrals was hampered by confusion over the threshold. Professionals were thought to be pre-screening referrals themselves and only referring if parents' substance misuse was particularly severe. Some legal representatives were under the impression that the local authority was responsible for determining which cases met the threshold, while the judge suggested that there was a general lack of awareness and exposure to the model.
+
+That lack of awareness can be overcome when we follow the model used in London, which is that the usual threshold for proceedings applies, meaning that if a family is not selected for the model, they will enter the usual family proceedings court instead, and a family will qualify if they have a history of parental drug or alcohol misuse. So, now that we know what these courts are, I want to show you why the FDACs are a more effective model.
+
+The evaluation of the family drug and alcohol court in Wales found that the number of parents misusing substances decreased from 83 per cent at the start of the process to 54 per cent. The number of parents misusing alcohol, thanks to the proceedings, reduced from 91 per cent to 60 per cent. Not perfect, but a marked improvement. The number of parents recorded as misusing drugs fell from 94 per cent to 51 per cent. Those supported by the experience of family drug and alcohol courts in England and, more recently, the national FDAC impact evaluation, found that a higher proportion of parents stopped misusing drugs or alcohol by the end of the proceedings. The pilot in Wales showed that the number of children in the care of one or both of their parents more than doubled from the start of the proceedings to the end. That is supported, again, by a study in England, which found that 52 per cent of children were returned to their parents, compared to only 13 per cent in the standard process. The family teams almost halved the number of children being placed in local authority care. That's more family units kept as one.
+
+There are other proven benefits too. Unsurprisingly, feedback from parents is overwhelmingly positive. The Bedfordshire team evaluation saw parents describe the process as non-judgmental and inclusive, whilst parents in London described the system as transformative. And here in Wales, a parent who was reunited with their child at the end of the proceedings described the service as a lifesaver and said, 'My life's back on track because of the FDAC team. I can't recommend them enough.' 'I can't recommend them enough'—what a contrast to how parents feel about the standard process.
+
+It is a serious failure that whilst England has 13 of these specialist teams, we don't have a single one in Wales. The current situation goes against recommendation 35 of the 'Justice in Wales for the People of Wales' report. It goes against the recommendation in the evaluation of the Welsh pilot. It goes against the best interests of children, young people and their parents. There is no reason why this injustice cannot be stopped. This is confirmed when also considering the economic case.
+
+The Centre for Justice Innovation and Mutual Ventures' economic analysis shows that, for every £1 spent on FDAC operations, £3 is generated in savings to the taxpayer. A reduction in the cost of children's services needs to be taken extremely seriously, especially when we consider that overspends in Welsh local authorities arising from children's social care last year alone came to nearly £30 million. Bearing in mind the benefit to the taxpayer, the benefit to some of our most vulnerable children and the benefit to some of our most vulnerable parents, I urge the Senedd to back my motion today. Let us together create a care system that builds, not breaks families. Thank you.
+
+## 2026-10-07 — 6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776830](https://record.senedd.wales/Plenary/16314#C776830)
+
+Thank you, Llywydd. Before having the honour of being elected, I worked with some of the most vulnerable people in north Wales. As a Member of the Senedd, I have continued to champion their cause. Members, we should be deeply concerned that our country has a much higher rate of children in care than in England. In 2025, there were 114 children per 10,000 in the care of Welsh local authorities, compared to 67 children per 10,000 in the care of the local authorities in England. There are currently around 7,000 children in placement. In Wrexham, there are over 300 young people living in such a situation; Swansea has 475 and, in Cardiff, it's nearly 1,000.
+
+## 2026-10-07 — 6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776877](https://record.senedd.wales/Plenary/16314#C776877)
+
+Diolch. I'm grateful to everyone who has spoken today, to those Members across parties who have given their time to understand what is quite a complex policy area and have shown willingness to work with me to bring this motion forward today to try and create positive change for Welsh children, parents and families in crisis.
+
+As I referred to in my opening remarks, the Centre for Justice Innovation undertook a financial analysis of the FDACs in 2024. That analysis demonstrates that FDACs generate significant savings in comparison to standard care proceedings, as well as being a better way to help children be cared for safely by their parents.
+
+The work shows that FDACs is an invest-to-save option, offering local authorities the possibility of significant revenue savings. The potential fiscal benefit is incredible: for every £1 we spend on family, drug and alcohol courts, £3.20 of net savings can be returned. Is it worth investing now to save in the near future? I think so. This is especially true when we consider the better impact of FDACs have on people and children's lives: keeping families together as one unit, drug misuse down, alcohol misuse down, mental health improved and case reoccurrence down. I've heard from several Members and I'll do my best to mention you all.
+
+We heard from Sarah Cooper-Lesadd. Thank you for sharing your personal experience, as you have done time and time again in this Chamber. The lived experience that you bring is really beneficial to the debate, and thank you for highlighting the impact that the Welsh model had on families and cases. While I accept the point that you're trying to make about the powers of this place, what I will say is we don't need more powers. We can do this, because we've already done this. We've already created the trial and spent the money. So, I'm concerned that the point that you're making risks dragging us into a constitutional debate with Westminster instead of getting on and actually bringing forward this change for families and young people.
+
+Natasha, thank you so much for your powerful contribution and highlighting the impact that these courts have, not just on the family but on bringing down substance misuse and for the potential savings that we can see for local authorities—up to £10,000 per case.
+
+Louise Emery, thank you for highlighting that the courts are waiting for us. They're ready to go; we've got the model set. We just need to be brave enough to make the decision here today.
+
+Jane Dodds reminded us of the human impact that we can all have by supporting this motion. And Art, thank you for reminding us of who is at the heart of this debate: it is the children that we're all tasked to care for.
+
+I want to be clear with the Senedd, there were several weaknesses in the Cardiff and Vale trial court. The economic analysis was outside of its scope. The FDAC team was undermined at the start by a lack of space to operate from. A vacancy for a qualified social worker wasn't filled, the referral pathway into the court was not clear. A low number of team members resulted in fewer cases being taken on and the ambiguity around the future of the pilot caused serious uncertainty as to whether additional cases could be accepted. All of those problems can be overcome by developing and implementing a better trial in Wales.
+
+Minister, thank you for once again speaking so passionately about the people that you are charged with protecting. But as I said to Sarah, we have the power to do this. We can do this. We have the money to do this. Getting dragged into a wider debate about the constitutional future of Wales may be laudable to some, but it risks delaying a plan that has cross-party support now, that has a model that works now and that we have the evidence to prove can make a real difference now. The evidence we've heard in this Chamber today, and that is to be found in the family drug and alcohol courts across in England, should make us all realise that creating them in Wales is worthwhile. The proposal will enable us to build a system that builds, not breaks, families, and I hope I can count on Members' support today. Diolch.
+
+## 2026-10-07 — 8. Reform UK Debate: Access to HMOs and social housing for foreign nationals
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776970](https://record.senedd.wales/Plenary/16314#C776970)
+
+We have heard important contributions from colleagues. Joe Martin offered a prospect that I'm sure many on other sides of the Chamber would be pleased to see: him moving to China. [Laughter.] However, should he move there, he would have to find his own house. He would not be housed at the cost of the Chinese state. Our moral responsibility is to put the Welsh and British people first. John Clark rightly highlighted that it is unfair that a person who has paid taxes to our country for decades can be waiting longer for a house than those who have just arrived. And Francesca O'Brien shared some serious—[Interruption.] I think we've had quite enough interventions today, thank you. She shared some serious figures highlighting the scale of this issue and a lack of transparency from some local authorities.
+
+I'd like to take a moment to respond to some of the other comments that have been made, starting off with the leader of Welsh Labour. For clarity, Suella Braverman was born in London and is a British citizen, so would be entitled to social housing under this policy. Peter—[Interruption.] Peter, as I've just clarified, EU citizens are not impacted by this policy when they have settled status, although I must say it is hard to take lessons from the Tories about seriousness on immigration. Kiera, the right to buy—[Interruption.] The right to buy gives people the chance to own their own home, one of the greatest equalisers of wealth this country has ever seen. Now, can it be done differently? Of course it can be done differently. But selling one social house can give you the equity to build three more. To simply say that we will not allow—[Interruption.] To simply say that we will not allow working families the opportunity to get on the housing ladder and own their own home is nonsensical. Jayne, it is not divisive to say that the Welsh Government should put the Welsh people first. And to the leader of the Welsh Greens, there is nothing more ugly and hateful than your party declaring that believing that the state of Israel can exist is racist.
+
+Of course, reforming allocations alone is not the whole answer. We need to build more homes, but here, too, Wales is being failed. Minister, you spoke about the importance of house building. However, we have exchanged very recently frustrations with the planning system. Planning decisions take months and sometimes years, holding up investment and house building. Rather than acting now to relieve the pressure on planning departments, the Welsh Government has embarked on a three-year review of the national planning framework. Wales cannot afford another three years adrift. The backlog is already severe. The Bevan Foundation estimates that Wales is short of some 9,600 homes. That is the equivalent of building another Llandudno, another Bangor, nearly building a whole other Rhyl. These homes were needed yesterday, before we even start to begin to meet today's targets.
+
+That is why Reform wants practical planning reforms, making it easier to create desperately needed homes above high-street shops, seriously restricting the conversion of hotels into HMOs and relieving the burden on overwhelmed planning and housing teams. But while we build for the future, we must also be honest about the homes that we have now and who should have first call on them. This motion proposes a sensible and proportionate measure. It will help ensure that the scarce resource of social homes are available first to the people with the strongest claim on them. This is a principle that this Senedd should be able to support, and I urge Members to do so. Diolch.
+
+## 2026-10-07 — 8. Reform UK Debate: Access to HMOs and social housing for foreign nationals
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C777016](https://record.senedd.wales/Plenary/16314#C777016)
+
+Diolch, Lywydd. May I begin by thanking all Members across the Chamber who have contributed to a lively debate? Let me focus immediately on the people at the heart of this debate: those whose interests Reform believe are in urgent need of our support, the Welsh people.
+
+At the end of the summer, 1,954 homeless people, including 102 children, were living in temporary hostel accommodation. A further 2,539 people, including 268 children, were in hotels and bed and breakfasts. That is nearly 4,500 people in Wales without a proper home of their own, nearly 400 children without the security that a proper home provides, and in too many cases without a bedroom of their own.
+
+Those are not abstract figures, they are the families whose lives are put on hold because our social housing system is failing to meet their need. Housing is a finite resource—there are only so many homes available at any one time. In the midst of a housing crisis, it is the duty of this Senedd, of the Welsh Government, to decide fairly who should get priority. The position of Reform is plain: Welsh homes should go to Welsh people first, and social housing should serve people with the longest established link to Wales and the United Kingdom. But let me also be clear about what this means: EU nationals who have been granted settled status here have a lawful right to reside here. Reform respects that, and they would not be the target of this policy. Our concern is with a system that can put recent overseas arrivals ahead of the British and Welsh families who have lived, worked, paid taxes and raised their children here, only to find themselves in temporary accommodation or unable to secure a home in their own town. We must not allow subsidised social housing to become a further incentive for people to come here illegally from abroad. At a time when Welsh families are living in hostels, hotels and B&Bs, the first duty of Government must be to the people it is elected to serve.
+
+## 2026-10-13 — 4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778569](https://record.senedd.wales/Plenary/16315#C778569)
+
+Minister, as you know, local authorities have a duty to publish reports of investigations into significant flooding incidents—section 19 reports. Wrexham council has warned that they usually take between nine months and a year to complete their reports. That's similar in Conwy and Flintshire. And in another local authority in our constituency of Clwyd, it can take up to 18 months to complete a section 19 report. Bearing in mind that these reports identify the cause, likelihood of reoccurrence, and any appropriate alleviation measures that can be taken, their importance is key. But the delays around completing these reports don't appear to be addressed in your statement. So, Cabinet Minister, what support will the Welsh Government provide to local authorities to speed up work on section 19 reports? Diolch.
+
+## 2026-10-14 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Library Services
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C778823](https://record.senedd.wales/Plenary/16316#C778823)
+
+1. What steps is the Welsh Government taking to support the expansion of library services in Clwyd? OQ64690
+
+## 2026-10-14 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Library Services
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C778827](https://record.senedd.wales/Plenary/16316#C778827)
+
+Thank you, Minister. A local authority in Clwyd in 2023 resolved to reduce library one-stop shop opening hours by 40 per cent. This was despite over 4,500 residents responding to the consultation—the most that the local authority had seen in years. Ninety per cent of those responses warned that the closure or reduction in hours would limit their ability to visit their local library, and 96 per cent of these submissions submitted negative comments about the proposal. The local authority went ahead because its hands, to a certain extent, were tied financially by the funding formula. The significant change has seen around £360,000 saved but severely limits residents' access to this important service. So, what steps are you taking to support local library services, and what discussions have you had with the Minister for local government on seeing a funding formula that specifically protects library services? Diolch.
+
+## 2026-10-14 — 6. Reform UK Debate: Local referendums on council tax rises
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C779090](https://record.senedd.wales/Plenary/16316#C779090)
+
+Before I start—. Mike, I've got to take the bait. You talk of ignorance; we are standing up for taxpayers. Ignorance is your party sitting on its hands for 27 years and doing nothing but cripple our local government. So, let's start—[Interruption.] Yes, of course.
+
+## 2026-10-14 — 6. Reform UK Debate: Local referendums on council tax rises
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C779093](https://record.senedd.wales/Plenary/16316#C779093)
+
+Twenty-seven years of failure. We're putting taxpayers first, Mike, that's what we're doing. And this is an incredibly effective tool. We've already seen it work in England. [Interruption.] Not a single local authority dares go to the electorate this year in England because they recognise that people are under enough financial pressure. Unsurprisingly, these rules have already made careful financial management in local authorities the preferred option, compared to simply asking residents to pay evermore taxes. Inflation-busting tax rises are no longer the default option in England. Currently, these protections offered to English taxpayers are not afforded to Welsh taxpayers.
+
+Our residents in Wales are paying more than average. Over the last decade, residents in Denbighshire have seen their council tax rise by 61.9 per cent; in Flintshire, 75 per cent; Wrexham, 76 per cent; and in Conwy, 84 per cent, in a decade. The inflation rate over the same period was 34 per cent. Despite those excessive increases, this financial year, all of those local authorities increased council tax by above inflation again. And this pattern is set to continue because our local authorities are fighting with their hands tied behind their backs.
+
+As my colleague Cai Parry-Jones has highlighted, we need council mergers. Welsh Labour was wrong to reject the offer made by Conwy and Denbighshire to merge; stopping a proposal that could have seen savings of over £1 million on middle and front-line services, over £2 million on back-office functions and the creation of a single management team that could have saved thousands.
+
+Then we come to the funding formula. We are told that data is fundamental in driving budget allocations through the revenue support grant. But, again, local authorities are being failed in Wales. The formula uses data, Members, that is older than me. It comes from the 1991 census. Unsurprisingly, the WLGA have explained that calls from local authorities have grown for a thorough independent external review to be undertaken. I agree, and we need to see the Government get on and do this, and bring forward the proposals for the formula change urgently.
+
+But why make this change now? There needs to be a wake-up call in this Chamber, Members, about the level of debt that local authorities are carrying. Conwy council has around £230 million of debt; Flintshire, £360 million; and Wrexham over £0.5 billion in debt. This situation is only going to get worse. From my time as a county councillor, I know that when these loans are taken, they are assumed—[Interruption.] I'll take a second intervention.
+
+## 2026-10-14 — 6. Reform UK Debate: Local referendums on council tax rises
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C779094](https://record.senedd.wales/Plenary/16316#C779094)
+
+Thank you, Alun. If you let me get through, I'll explain why we need the cap now, before the burden of debt cripples taxpayers.
+
+## 2026-10-14 — 6. Reform UK Debate: Local referendums on council tax rises
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C779098](https://record.senedd.wales/Plenary/16316#C779098)
+
+The situation is getting worse. Councils borrow the debt on repayment terms expected to be 10, 15 or 20 years or more, but the repayment periods are only, often, five years. So, this means that when the loans mature, new deals need to be made and, with current interest rates, they're often much higher than originally forecast, meaning financing often falls to local authorities to find the extra money to continue to finance these debts. These debts are a ticking financial time bomb.
+
+The solution is not more excessive council tax rises, which is the option that many local authorities will turn to, not more reliance on borrowing, not the decline in offers for mergers. It is not continuing a funding formula system based on data that is older than me. The solution is fundamental reform of local government in Wales. That must start with greater protection for our taxpayers. Council tax referenda will do just that. They will raise awareness of the serious state of our local government finance, they will challenge the cabinet and officers to work in a more effective way, and give voters the final say on the financial direction of their local area. Members, I urge you to support this motion.
+
+## 2026-10-20 — 7. Statement by the Cabinet Minister for Finance: An Update on Council Tax
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C780081](https://record.senedd.wales/Plenary/16317#C780081)
+
+Minister, in your statement, you say you want to explore new ideas around council funding. We heard several clear ones last week from these benches. One was local government mergers. Here in Wales, we have local authorities serving much fewer residents than our English counterparts. The average number of residents served by a council in Wales is 144,000, with 14 local authorities falling below that average. Compare that to local authorities in England: the average number of residents served by a unitary authority in England is around 250,000 to 300,000 people. Cornwall serves almost 600,000, whilst North Yorkshire serves almost 650,000. This provides us with clear evidence that Welsh council tax payers are funding an enlarged local government sector that is too big and too expensive. So, Minister, would you agree with me that we now must seriously consider mergers as part of the fundamental reforms of local government in Wales? And will you here, now, promise to create a package of financial support for local authority mergers to help make our local government more effective and sustainable for taxpayers?
+
+## 2026-10-21 — 2. Questions to the Cabinet Minister for Education and the Welsh Language / Educational Outcomes
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780521](https://record.senedd.wales/Plenary/16318#C780521)
+
+Can I start by declaring an interest? My wife works in an additional learning needs provision within a school in Conwy.
+
+I thank the leader of the Welsh Conservatives for bringing this question forward. Minister, I was speaking to a teacher in Rhyl, and it was explained to me that the school in which that teacher worked can't afford pens or pencils, and staff are currently using their own money to buy learning resources. It's no surprise, then, that the Institute for Fiscal Studies has claimed that students in that local authority area are up to 23 months behind the national average. As we are seeing a shift towards greater school-level flexibility on learning approaches and a more interlinked learning approach, researchers from Cardiff University have warned that schools need significant investment in materials and learning resources to avoid the widening of educational outcome gaps between different parts of Wales. How can we expect teachers in my constituency to achieve the best outcomes for students when their schools can't even afford pens and pencils? Diolch.
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Spreading Slurry and Other High Readily Available Nitrogen Organic Manures
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782917](https://record.senedd.wales/Plenary/16421#C782917)
+
+7. What steps is the Cabinet Minister taking to remove the closed periods for spreading slurry and other high readily available nitrogen organic manures? OQ64799
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Spreading Slurry and Other High Readily Available Nitrogen Organic Manures
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782922](https://record.senedd.wales/Plenary/16421#C782922)
+
+Thank you, Minister. In March five years ago, a Member of this Chamber brought forward a motion calling for this Parliament to annul the Wales-wide nitrate vulnerable zones. As you said in this very Chamber, ‘the regulations are disproportionate’. I agree. They cover all of Wales when NRW's own advice was only for a small proportion of Wales to be covered. And again, Minister, in your words, you called the approach ‘absurd’ because it uses the calendar rather than weather conditions for when slurry can be spread.
+
+Whilst I welcome the extension of the spreading season to 15 November, that doesn't address the underlying issue. The approach is wrong. We need an approach that is targeted and not Wales-wide. We need an approach that recognises that we farm by weather. Minister, you were content then to annul the regulations. Will you now work cross-party to scrap them now so farmers can farm by weather and not by calendar this winter? Diolch.
+

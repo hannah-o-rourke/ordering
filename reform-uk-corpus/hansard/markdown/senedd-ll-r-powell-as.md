@@ -1,0 +1,434 @@
+# Llŷr Powell AS — Senedd contributions
+
+50 contributions, 9,544 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-06-09 — 1. Questions to the First Minister / Accident and Emergency Performance
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762880](https://record.senedd.wales/Plenary/16072#C762880)
+
+11. What assessment has the First Minister made of accident and emergency performance in south-east Wales? OQ64082
+
+## 2026-06-09 — 1. Questions to the First Minister / Accident and Emergency Performance
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762889](https://record.senedd.wales/Plenary/16072#C762889)
+
+Thank you for that answer. First Minister, your Deputy Minister for social care is recorded as saying that she's long campaigned for Ysbyty Ystrad Fawr to be made a general hospital. One of your backbenchers is on record as having stated it must be a doctor-led A&E in Caerphilly. Given the support your party's giving for an upgrade in the services, when can my constituents expect that upgrade, and will he now commit to it fully today?
+
+## 2026-06-09 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762901](https://record.senedd.wales/Plenary/16072#C762901)
+
+Given that suicide rates in Wales remain high, and that men account for more suicide deaths, will the Welsh Government provide the Senedd with an update of its suicide prevention strategy and what further action is it taking to reduce male suicide rates, because this is something I believe we could work on across the Chamber to achieve?
+
+## 2026-06-10 — 5. Reform UK Debate: Childcare offer
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763376](https://record.senedd.wales/Plenary/16073#C763376)
+
+Diolch, Lywydd. Can I thank all Members for taking part in today's first debate of this seventh Senedd? A lot of us are participating for the first time, including myself, in a debate.
+
+When we raised this issue, the question was: why were we doing it? That question goes back to the Senedd's very own website, because, Llywydd, if you Google and go on to the Senedd's website, you will find a page that says about us:
+
+'Effective scrutiny of government is at the heart of the democratic process. It is our role to oversee the work and spending of the Welsh Government.'
+
+Today's motion is simply that, to observe and question the Government's spending. Now, I, like you in the Government, took part in the election. I sat on those debates, I saw your literature come through my door, and there was a clear commitment that you had a costed plan. The First Minister himself looked down the tv camera and said to the people of Wales that he had a costed manifesto. Actually, Llywydd, he went further. He said it was independently costed. Now, I want to know why the Government feels that one person can see the Government's costings, but this Parliament, Members of this Parliament, this Senedd, can't see those costings. Why is it the people of Wales can't see those costings? So, be open—bring them here. That's all we're simply asking today. And I'm a bit confused as to why the Government wants to try to make some animosity in here about this when the request is simple. [Interruption.] Your actual motion to change and to bring in Reform's policy would suggest differently, Deputy Minister.
+
+But on today's debate, I want to thank Sam Rowlands for his contribution, Lynne Neagle for bringing her expertise as a former Minister and Chair of the committee, highlighting real questions around this. Now, we will have a debate about childcare policy within this Senedd, but to bring it back to costings and why it is so important, as some others members of my party have highlighted today, we need to make sure that what we're giving the Government isn't a blank cheque. Risking £400 million out of the budget could put the health budget at risk, education, infrastructure. All we have heard from the Government so far are statements, no costings at all.
+
+Now, I feel for the Deputy First Minister. I know she's done a hard service these past two days in here. It seems to have fallen on her quite some bit. But when we're asking for these figures, you say you will bring a certain form of costings to here. Will you actually provide us what you told the Welsh people you have, your full costings that your manifesto said were done? Is that something you will provide to this Senedd? Or do you believe that we, as Senedd Members, aren't worthy of seeing those costings that you claim to have? It's a simple question.
+
+And I want to give the Government full weight. I recognise some of the contributions that have been given here. Yes, childcare is a real burden on families across Wales. My inbox is the same as yours, as are my colleagues'. We need to find a better way. That does not mean the Government getting a blank cheque. That is not the role of this institution to do. It is our job to scrutinise. When the First Minister stood in this Chamber and gave his first address, he said he welcomed scrutiny. He wanted to be transparent—those were his words. Then, now it's time for the Government to be transparent and provide the Senedd with the numbers so we can do our job in scrutinising. Surely, that's something you'd welcome.
+
+I'm quite confused by some of the contributions that were given by Plaid, in the sense that other members of the opposition shouldn't be voting for this motion. You ended your contribution by saying we need to work collaboratively. We are. That's what we're here to do. You seem to say you can work with opposition parties, but they can't work with Reform in scrutinising this Government, which is quite strange because I thought we were trying to work in collaboration in a number of areas. So, it's a change of tone I see there from the Deputy First Minister. So, if you do want to work with us, we're happy to do so in providing—. [Interruption.] Oh, sorry, did you want to say something there? If you want to provide us with the figures, Deputy First Minister, we'll be happy to listen to those. We are happy to listen.
+
+But the problem is, just as the agriculture Minister told the farmers, the Deputy First Minister is telling parents in Wales to be patient. The problem is they can't be patient. Their bills are rising now. What they need are actual answers and when delivery will come. So, in this motion, I ask backbenchers as well: participate in your role as legislators. Hold the Government to account. We weren't the ones that promised £400 million spending. [Interruption.] We didn't promise anything. I think you would find we promise things, but promising undeliverable things isn't something we were trying to offer.
+
+This motion here is simply about providing the Government an opportunity to give their numbers to the Senedd. It's not here to debate the childcare policy today. I'm sure we will have time on that. So, I wish all Members would join with us in voting for this motion, and simply ask that you provide the numbers, as you say you want to do, and we can have that working relationship, and hopefully we can provide parents with that assurance in Wales as to how this childcare policy will be delivered. Because right now, I'm afraid—. As the press have tried finding out, no answer. As parents have asked you where the money's coming from, there's been no answer. My only fear is this Senedd is now going to ask you and we're going to get no answer. Thank you, Llywydd.
+
+## 2026-06-16 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763665](https://record.senedd.wales/Plenary/16074#C763665)
+
+Will the Government update the Senedd with an oral or written statement on how it's working with HMRC, Trading Standards Wales, local authorities and the Welsh police forces regarding the reported tax evasion, money laundering, labour exploitation or any other criminal activity associated with car washes, barber shops and vape retailers operating in Wales?
+
+## 2026-06-17 — 1. Nominations for committee chairs
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C763842](https://record.senedd.wales/Plenary/16075#C763842)
+
+Can I nominate James Evans?
+
+## 2026-06-17 — 7. Reform UK Debate: Statutory register for lobbyists
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C764261](https://record.senedd.wales/Plenary/16075#C764261)
+
+Diolch, Ddirprwy Lywydd. I'm at the unusual position in which, in closing the debate, we're at what seems to be a bit of a consensus here, but I want to thank all Members for contributing.
+
+My journey for a lobbyist register isn't a short one. I started campaigning soon after the 2025 Bill came into law in Westminster. The first action I took was trying to campaign for it here in Wales. In 2017, along with Matthew MacKinnon, I led a petition to the then Senedd's Petition Committee, calling for a statutory lobbyist register in Wales. Sadly, I was told at that very time that the Senedd will consider it via the standards committee and they hope to progress soon. Shortly after, I helped brief Members of this Senedd and sat in that very gallery and watched the Senedd debate then, a similar debate to this, but pushback was a lot more. In the Chamber, they said, 'Whilst we support it, we look forward to the committee's work and look forward to seeing it.'
+
+I appreciate the work the former committee has done. I think Peredur Owen Griffiths pointed out some very good facts on the committee's work—I commend it—but we can't allow time to move as slowly as it has been. Wales is now over 10 years behind Westminster and exactly 10 years behind where Scotland is. So, where we say this can't be rushed, I think we also can't drag our feet, because, as Members on this side have said, and across the Chamber, this is about public trust in this Senedd and us as individuals.
+
+Turnout is low for Senedd elections, and whilst we did see an increase in the last one, we need to see it grow even more, so we need to find ways that strengthen public trust in this institution and in us as Members and Government going forward. That's why I'm grateful for the Government outlining it's not just supporting this motion, but working cross-party to produce a statutory lobby.
+
+I do want to echo what Members have said here today. Bringing in a lobbyist register isn't about demonising those who work in trying to influence us as Members or us in the Senedd. This isn't about demonising lobbyists or presuming guilt. We accept that lobbying is a crucial part of a healthy democracy, but it must be regulated now. This is a simple ask.
+
+I'm not going to drag this out any longer, because this work will continue with—we will find out—one of the successful Members who has become the new Chair of the Senedd's standards committee. I wish them all the very best, and I hope they do work as quickly as possible. Let's bring this in in this Senedd. That's why we brought this vote forward so early in this Senedd. I hope all Members, as I've heard, do vote for this motion. Thank you very much.
+
+## 2026-06-23 — 1. Questions to the First Minister / Funding for School Transport
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764384](https://record.senedd.wales/Plenary/16076#C764384)
+
+4. What assessment has the First Minister made of the adequacy of funding for school transport? OQ64228
+
+## 2026-06-23 — 1. Questions to the First Minister / Funding for School Transport
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764387](https://record.senedd.wales/Plenary/16076#C764387)
+
+Thank you for that answer. First Minister, hundreds of pupils are facing cuts to essential school transport in the Caerphilly County Borough Council area. I joined with protesters a few weeks ago, and I've walked the potential new route myself. Though it falls within the statutory distance, the incline for those pupils makes it quite an extensive walk to school. Given the budget is coming forward today, will he now commit to the £300,000 that Caerphilly County Borough Council is trying to save and give those parents the assurance their children won't be having a difficult walk to school in all sorts of weather?
+
+## 2026-06-23 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764486](https://record.senedd.wales/Plenary/16076#C764486)
+
+Trefnydd, last week, I received a written question response from the Cabinet Minister for health. I was a bit concerned that the Welsh Government doesn't currently hold data of the number of patients dumped from waiting lists in Wales. Now, I'd be grateful if the Trefnydd could ask the Cabinet Minister to come forward to update the Chamber on how this could happen. Patients being removed from waiting lists isn't actually treating them; it's just eliminating them to fiddle the figures. I'd be grateful if the new Government could right this wrong and bring something forward so we can really see what's going on with the health numbers. Thank you.
+
+## 2026-06-23 — 3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: Priorities for Government Effectiveness and Constitution
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764505](https://record.senedd.wales/Plenary/16076#C764505)
+
+Minister, I think I've heard the Labour spokesperson and the Conservative spokesperson ask you clearly for a costing, and I don't believe in all of your answers I’ve heard a single costing on how much this new commission is going to cost. On a day when you're laying a budget forward that's going to be taking money potentially away from what was allocated for additional learning needs, I think the people of Wales deserve an answer on how much this commission is going to cost the people of Wales.
+
+Secondly, I looked in this statement and I'm quite surprised I haven't yet heard you mention one of the remits in your job, that is the COVID review. I was wondering if you could update the Chamber on when you're going to come forward, when that review will start, and how much it will cost.
+
+And thirdly, in your discussions with the UK Government, have you had any discussions regarding the police and crime commissioners? Because in England they seem to be moving those powers into elected mayors, and I was interested if that's come across your desk at all. Thank you.
+
+## 2026-06-24 — 6. Welsh Conservatives Debate: Hospital services and hospital closures
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764970](https://record.senedd.wales/Plenary/16077#C764970)
+
+I echo a lot of what has been said in the Chamber today. It is concerning, the backlog in the maintenance. That's why we added the amendment today, and I'm proud to be supporting it. That money is urgent. Hospitals need it now. We've all seen the scary reports; I don't want to repeat them. We've all had constituents write to us. It's not good for constituents' confidence in going to hospitals when they're reading reports like that. It's not good for recruiting staff, retaining staff. It's not good for patients going forward. I hope that the Government does consider bringing forward more information on how they're going to cover the maintenance backlog.
+
+Lots of Members today have spoken about the closure of a hospital. In my constituency of Caerphilly, we saw it in 2011, in the closure of Caerphilly District Miners' Hospital. That hospital, we were told, was going to be replaced with a new hospital, and that services would be transferred to Ysbyty Ystrad Fawr. But the problem was, Llywydd, it wasn't that. It was downgraded. The signs that were put for the new hospital actually said at one point 'local emergency centre'. Now, a sticker replaces that sign that now just says 'minor injuries unit'. That is a real concern to constituents. I have constant correspondence. Members will remember that I stood in a by-election in October, in which I heard lots about that very thing—that constituents couldn't get to hospitals when they needed to. There was concern about loved ones travelling. Again, in the last election, we heard about it, and I know that Members across this Chamber will feel the same.
+
+I'm glad that the Minister is here today, and the finance Minister. I'm sure she's very happy to hear that we're asking for more money for things again—[Interruption.] But this really is something that I hope all Members across the Chamber—. And I am grateful to the Conservatives for raising it, and for contributions from the Government as well. I do agree with you that not all services can be protected, but in the cases that we've heard today from west Wales, rural Wales—. I will be messaging the finance Minister, because I'm looking for an upgrade of Ysbyty Ystrad Fawr as well. But right now, we need to take this seriously. I'm glad the Minister is here, and I hope he is listening, because constituents now need answers. We've all heard his words over the past Senedds. I know he's been very strong on it then. I hope, in answering some of his advisers in Cathays Park, he's as strong on it today.
+
+## 2026-06-30 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765513](https://record.senedd.wales/Plenary/16078#C765513)
+
+Wales is in the middle of what is a housing crisis. I'm aware that the Government brought forward its house building targets, but I was wondering if the Trefnydd could convince the Cabinet Minister for Local Government, Housing and Planning to come forward to explain what the Government's proposal will be on empty homes. In my own constituency of Blaenau Gwent Caerffili Rhymni, there are over 2,000 empty homes that people have to pass now, and, as well, there are around 1,200 long-term empty homes that have been empty for about 12 months. I'd be grateful if the Government could come forward and explain to the Chamber what its plans are on bringing these houses back to life and seeing if we can get constituents into them as soon as possible.
+
+## 2026-07-07 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16083#C766444](https://record.senedd.wales/Plenary/16083#C766444)
+
+Trefnydd, we've heard now several times from the Government, including the finance Minister herself when she did the media rounds about the upcoming budget, that the finances weren't as Plaid Cymru thought they were going to be. That is after access talks, that's after working in partnership with the Labour Party. That's after, as well, Plaid Cymru Members being on the public accounts committee and the Finance Committee here.
+
+These are serious allegations, that you're saying the Government didn't know what the finances were. The public has a right to know, and this Senedd does. Before we vote on the budget next week, will you make time available, bring the costings that you say the last Government left that were wrong, so that we can make an informed decision on the vote? Because, right now, we have had Ministers criticise former Ministers and no-one knows who's telling the truth. It is not time that this Senedd sees who's lying?
+
+## 2026-07-14 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767676](https://record.senedd.wales/Plenary/16085#C767676)
+
+Members will have seen yesterday that the Scarlets signed a new deal with the Welsh Rugby Union, but, rather than seen as a success, it was described on the BBC as 'peace is temporary'. Welsh rugby is in an uncertain time, especially its professional side. Now, I found myself on a side where I was agreeing with the Deputy First Minister when she said to the Chamber, on 3 February 2026:
+
+'It’s disappointing that the Welsh Government has failed to recognise its role in the matter'.
+
+She also then went on to say,
+
+'it’s not good enough for them'—
+
+the Welsh Government—
+
+'to wash their hands of the matter.'
+
+Now, I wrote a written question to you, Trefnydd, with your other ministerial hat on as the Minister for sport, in which I asked you if you'd spoken to the WRU and will you step in and protect the regions. You wrote back to me saying that decisions on the future of the game in Wales are a matter for the WRU. So, I was interested, Deputy Llywydd, if the Minister would come to the Chamber when we come back and state what the Welsh Government's position now is. Because Plaid Cymru seemed to say one thing when they weren't in power and are saying something totally different now. Can the people of Wales have assurances that the national game will be protected and that their voices will be heard when the Government steps in?
+
+## 2026-07-15 — 4. 90-second Statements
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768263](https://record.senedd.wales/Plenary/16086#C768263)
+
+Diolch, Lywydd. I was sad and shocked on the weekend to find out about the passing of the Rt Hon Ann Widdecombe. I'm not going to comment today on the circumstances, but will celebrate the person that she was.
+
+Ann was the MP for Maidstone for 23 years. She served in Government, serving the country that she loved as Minister of State for employment and Minister of State for prisons. Ann became a Member of the European Parliament for South West England in 2019. Her words were that she was there to ensure that the largest democratic vote the United Kingdom has had is fulfilled, and she pushed it through. She became an unlikely national treasure through her appearances on Strictly Come Dancing. She was on Big Brother. She appeared in several pantomimes across the country during the seasons, and even appeared in a production at the Royal Opera House.
+
+She was a dedicated campaigner for animal causes. Ann went against her own party and friends when she was outspoken in supporting the ban on fox hunting, claiming it was immoral not to do so. She stood up for animals like donkeys and their welfare. She fought for the end of the use of animals in circuses. Ann showed us that you could be a true Conservative, a 'small c' conservative, but you can also stand up for your principles, you can go against your party. In tributes, we've heard that Ann was a maverick; she was. She was fearless in debate, she was kind-hearted, she was true to her faith at all times.
+
+I had the pleasure of meeting Ann in 2019. It was a friendship that I cherish more than anything. I walked the streets of Ebbw Vale with her, where I saw women leaving a hair salon and nail bar quickly to have a selfie with the Strictly Come Dancing star that was Ann Widdecombe. She looked perplexed at how she was a star—she just saw herself as Ann. That's the person I knew every time I met her. She's a loss to this country, to our party and to Britain as a whole. We on these benches, and, I hope, across the Chamber, will pay tribute to her family and to the person whom we will long miss. Rest in peace, Ann.
+
+## 2026-09-15 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16260#C769138](https://record.senedd.wales/Plenary/16260#C769138)
+
+Diolch, Lywydd. Trefnydd, may I ask for a statement from the Cabinet Minister for Rural Resilience and Sustainability on historic PCB dumping in Wales? In my own constituency, toxic waste was dumped in the Ty Llwyd quarry in Ynysddu, and, decades later, there's no formal determination that the site is contaminated land, and nothing has been published on the long-term plan, despite the fact that PCBs have been found on the site.
+
+Last week, Michael Sheen told Parliament that the First Minister didn't take him up on his offer, but I know that Members here would be grateful if the Government could provide us with an opportunity to find out what plan the Welsh Government has for dealing with toxic waste dumping across Wales, because constituents of all of us have been living with this for too long now.
+
+## 2026-09-16 — 5. Reform UK Debate: Grooming gangs
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769666](https://record.senedd.wales/Plenary/16261#C769666)
+
+The £65 million is allocated by the UK Government. It's a strange scenario; the finance Minister here should be quite happy that Reform isn't asking her to spend any money from the Welsh budget today. We must be included in there, and I hope, when you do meet the chair of the inquiry and other members, that the case is made clearly. And we need to do it without anything else but seeking truth. I don't want anything else—slurs or racism or anything else. All I want in this—and where I agree with the Chair of the committee—is to follow the evidence. Let's empower the police to do what they must do. But we will be voting with the Conservatives on their amendment today, because I believe that there are other cases that we need to get to the bottom of in Wales, whichever layer of body that is.
+
+Cristiana raised several points there that I think should be listened to, and she's raised this passionately time and time again. I hope, when we do leave this Chamber today, we can say that victims will not be ignored. I've heard it across the Chamber, but that isn't enough, us standing here saying it—me standing here saying it isn't. How we vote tonight is what matters. Action from this is what matters.
+
+I heard a powerful story before this debate was tabled, by someone I'm going to call Jane. She's a survivor herself. She was ignored when she talked about her experiences. She was used as what she described as a sexual object, not a human being. From her experience, from what they were doing when they were drugging her—that addiction continued after. The way society labelled her, and what she was—as a drug addict, and a slur, Llywydd, that I will not say in the Chamber, but Members can imagine. Today she has found her way to speak out, to work for a charity helping other people. Her experience has helped more and more young women, women who have come to terms with being able to speak out, to come to terms with what happened and begin their recovery process. And she's watching now and I would like it on the record, which is why I'm saying it, her bravery and actions, and how she's turned a horrific, horrific crime that was made against her, into a positive and a better way of society should inspire us all. For me, it encouraged me to speak out today in this Chamber. And that's the power of speaking out. That's the power of one person speaking to me, to inspire me to speak out in this Chamber today. By letting those victims or survivors—however they wish to be referred to—into that inquiry to be heard is vital. It could inspire another generation, it could open up a lot of eyes into ways we've never considered, or maybe we've walked past blindly.
+
+So, I urge Members, in closing today, to consider what the motion in front of them is. We're not trying to point score. We're not trying to politicise something. We have taken real experiences, listened to real voices and we're urging you today to send a clear signal to the chair of the inquiry: let Wales in. And if you vote to silence us today on that, we will be back, because these voices must be heard. Diolch yn fawr, Lywydd.
+
+## 2026-09-16 — 5. Reform UK Debate: Grooming gangs
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769675](https://record.senedd.wales/Plenary/16261#C769675)
+
+Diolch, Lywydd. Can I start by thanking all Members who tried to contribute to the spirit of how we hoped today's debate would go? Paul, your bravery inspires us all. What you and your family went through, what you still go through, and to have the courage to walk in this Chamber today and share those experiences, to try to convince Members of the importance of voting for this motion, is a true inspiration to us all. Thank you so much.
+
+Beca Brown, your contribution: I agreed with most of it until the political point-scoring decided to come out, but education is completely right. I agree with you. And there we can find common ground, but that's not enough. There are victims now who've already had these experiences, and what they want is to be heard, to be listened to, and their voices then can turn into action when people like us in this Chamber hear those experiences. There are people today in the gallery and watching this debate at home who are very keen on expressing their experiences in a safe environment, where it's not politicised, where they're listened to, and where action can be delivered. We can't undermine that.
+
+Now, Darren, your motion today—on these benches, we do agree with you that Wales does need its own COVID inquiry, for the points made by several Members today. The reason we didn't include it in this motion is that we thought we could find consensus across the Chamber that there is currently an inquiry, which is called the England and Wales inquiry, which doesn't currently look at anywhere in this nation.
+
+Now, Minister, I understand you said you're going to make the case for it, but I don't understand your amendment today. Can you imagine the power that we could have sent? You could have had a mandate from this very Chamber, uniting us. You would not have been walking in there as a Minister of a minority Government, you'd have walked through that door with a mandate from this Senedd that says, 'Wales should be included.' There should not be a policy here that we're going to learn from what's happening over in England. Is this now the policy of Plaid Cymru?
+
+On Monday, you were sitting with separatists. Today, you're sitting here saying, 'For Wales, see England.' It's not right. Voices must be heard. And those victims have their own experiences—unique. And I'm sure across Wales they're just as unique in different areas. We couldn't pinpoint one area of Wales that has one experience. The contributions from Darren and Tom today, talking about their constituency—experiences there are horrific. But I'm sure it's unique to that area that has a right to be heard, just like Newport—different again. Let's encourage now together. Let's end this amendment. Let's vote together and give you a clear mandate. That's what these victims want, not point scoring. This isn't clickbait. My colleagues on these benches, like Cristiana, wrote herself to the Chair of the committee urging for this to happen; as Darren said, he's done too. We've written to the Home Secretary urging for Wales to be in there. We're looking to give you today the power to walk into that office with a mandate from this Chamber, this Senedd, the elected Members saying, 'Wales must be included.' So, I urge you to think again. Take this opportunity. Take this cross-party consensus. Let's stand up for the victims. Let's not be tribal in this. That's my offer to you today in voting with us for this motion.
+
+It's so shocking that—. I've had letters back from the chair of this inquiry. How on earth can £65 million be allocated under the name of England and Wales and not one county at the moment looked at? Just the offer of 'maybe'—'maybe it could be'. That's unacceptable. Victims and survivors from other inquiries have said how important having their voices in those inquiries were, whether it's COVID, Hillsborough—the list goes on. Inquiries are an important part of recovery, and that's what we must start thinking about. Recovery—I'm glad Members have mentioned it today, and, Minister, I do agree with you—from mental health and physical trauma, and to those victims who have turned to, whether it's substance abuse, we must do better there to support them. And Sarah Rees, your contribution there, it was a really powerful one at the start. I'm sorry it went a little bit tribal then, but I'm glad you raised those issues, and thank you.
+
+There is more that we must do—we know that in this Chamber. And there is a consensus here. So, when we go forward, looking to what's happening here, let's look at the victims, as Paul said, not as statistics, as human beings—someone's daughter or, in some cases, son, someone's child. That is the power of what we have in front of us today. Now, I know it's not legally binding, this motion in the Chamber, but it's a signal we can send, as a united Senedd, saying that victims across Wales will be and must be listened to, that there isn't anyone who can ignore them any longer, and any predator out there will know that this Senedd won't stand for it. Wales won't stand for it.
+
+## 2026-09-22 — 1. Questions to the First Minister / NHS Waiting Times
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770789](https://record.senedd.wales/Plenary/16262#C770789)
+
+First Minister, a constituent has come to me who is now unable to work because he has a hernia. He's been waiting close to 36 weeks for his surgery. He's living in pain. He feels it affects his family life, his relationship with his children, all because he's waiting to be seen. During the election, you looked down a camera and told the people of Wales that these waiting lists will see an impact within months. We learnt during recess from your health Minister that months could take up to, now, years. [Interruption.] So, the Minister was wrong when he said that waiting lists will take years to address, was he? That's what he said. So, what can you tell the people of Wales? Do you regret saying it's going to be months, because from reports last week, waiting lists are going up and not down? So, will you apologise to the people of Wales for your statement at the election?
+
+## 2026-09-22 — 1. Questions to the First Minister / NHS Waiting Times
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770802](https://record.senedd.wales/Plenary/16262#C770802)
+
+8. What is the Welsh Government doing to address NHS waiting times in Blaenau Gwent Caerfilli Rhymni? OQ64559
+
+## 2026-09-22 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770924](https://record.senedd.wales/Plenary/16262#C770924)
+
+Trefnydd, I'd be grateful if I could have a statement on local train overcrowding. Transport for Wales's service for Bridgend to Rhymney is currently the third most overcrowded service between peak hours in the UK. That service now is affecting commuters, affecting their transport into work. It's not very easy for elderly people to get a seat, and it's something that my constituents are raising with me quite often. So, I'd be grateful, Trefnydd, if the Minister sitting here could come forward with something so that we can address the overcrowding on Welsh trains. Diolch.
+
+## 2026-09-23 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771513](https://record.senedd.wales/Plenary/16263#C771513)
+
+Oh, you don't care about answering questions from an elected Member. Shocking.
+
+## 2026-09-29 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772926](https://record.senedd.wales/Plenary/16264#C772926)
+
+Trefnydd, I'd be grateful if I could have a statement from the health Minister. A few days after the Senedd election, Audit Wales reported that the Aneurin Bevan health board had awarded £10 million in GP contracts, and that they felt that due diligence wasn't done. I'd be grateful for a statement that could tell us that this is a one-off incident and that this isn't something that is going on throughout Wales, as well as how this could be avoided in future, because that £10 million is a lot of money for a health board to lose.
+
+## 2026-09-30 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Caerphilly Post Office
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773556](https://record.senedd.wales/Plenary/16265#C773556)
+
+I thank the Minister for the answer there. The other concern that people are passing to me in terms of post office closures—whether it's Caerphilly or throughout the constituency—is, once the post office closes, it's the lack of being able to get ID, identification; it's the additional services that the post office uniquely provides to communities. I appreciate what you said on Caerphilly there, but what about other parts of Wales and my constituency that have lost that service, and now people are unable to get identification, because of simple things like the proofreading, the assistance, that the post office provides? What help can the Welsh Government provide to constituents there?
+
+## 2026-09-30 — 6. Reform UK Debate: Default 20 mph speed limit
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773814](https://record.senedd.wales/Plenary/16265#C773814)
+
+Diolch, Lywydd. Well, those local authorities next year will be tested on that, if that's what the response was, because we'll be looking forward to taking this issue back out onto the doorstep and letting the people of Wales decide whether this was a good or bad policy.
+
+This question here today was about, for us, honouring what was a manifesto commitment. We on these benches think it would be wrong to tell the public one thing and then stand up in this Chamber and say the complete opposite. A betrayal in trust of the electorate is an absolute disgrace, and we won't tolerate that. We are going to follow every manifesto commitment we did that put us in here. That's why we are discussing this.
+
+The thing you failed to mention in your response there, Minister, was the people of Wales in this. You went through your figures, you spoke about those, but what about all those people who signed a petition to this place saying that it was wrong to do the roll-out, and 20 mph doesn't work for them? We've heard the figure is 469,571—15 per cent of the people of Wales decided to take their time to sign a Senedd petition to try to send a clear signal to this place, and the problem was there were deaf ears in this place that didn't want to listen. Well, guess what? The people of Wales then sent these people here to these benches, so you will have to listen. That's what we are. [Interruption.] We're going in. It's coming.
+
+Now, an opinion poll by the BBC in March showed that 54 per cent of the people of Wales still oppose this policy, and I heard on the Labour benches quite a strange supporting of their policy there. Quite strange that, because all I've heard Ken Skates speak about in the last couple of weeks was how true devolution needs to come, that local authorities should be making decisions, but what you were supporting in this Chamber today was a top-down approach that didn't work. It shows that Labour want to talk the talk, but they won't walk the walk. They can't be trusted again—
+
+## 2026-09-30 — 6. Reform UK Debate: Default 20 mph speed limit
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773823](https://record.senedd.wales/Plenary/16265#C773823)
+
+What? Oh, Minister, you've got more to say again now, have you? Is this the democracy of Plaid Cymru? Heckle from the front benches after having minutes of your own time. Trust me, I've got a lot to come to, Minister.
+
+This decision today is important to how the electorate look at us. We've heard from Members, good Members, like Gwyn there. I always enjoy his contributions. I can't say I agree with everything Gwyn says. But you were right—the public have told you as well that they are frustrated with this policy.
+
+When you came here today, Minister, I didn't expect you to agree with us, but I thought your tone could have been slightly different. Rather than insulting people that don't agree with this, how about listening to them? Because that there—
+
+## 2026-09-30 — 6. Reform UK Debate: Default 20 mph speed limit
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773835](https://record.senedd.wales/Plenary/16265#C773835)
+
+Absolutely. I want to hear this one.
+
+## 2026-09-30 — 6. Reform UK Debate: Default 20 mph speed limit
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773836](https://record.senedd.wales/Plenary/16265#C773836)
+
+Diolch, Lywydd. As I was saying, we heard also from the benches opposite about how some councils hadn't reversed the decision. Maybe, because of the state that Labour left councils in, with a lack of funds, they simply can't afford it. Some people don't want to put the burden on the taxpayer to undo your mistakes. That's the problem.
+
+What we are talking about today are people's lives. Now, you say you're thinking of the children, but how about we think of, actually, the people out there? Minister, you say it adds a bit of time and it's not much impact. We can say that on these benches, but, for people out there, time is money when they're on the roads—actual people needing to get from one job to the next to pay their bills, to put food on the table. There is a real cost to this.
+
+So, I think the remarks today—. Let's think of the bigger picture. I agree, road safety is an important issue, but there's a wider impact here. Even the last Welsh Government's assessment said that this policy could cost up to £4.5 billion in 30 years. That's a huge impact to the Welsh economy—jobs going, livelihoods. How about we think of them when we're here—people we represent? We in here, this Chamber, are servants to the people, not masters, where we get to ignore them. We don't get to turn our back when we don't like what the electorate are saying. It's important to listen, and that's why we are having what should be an important debate.
+
+Now, you mentioned road safety to me earlier, Minister. We've addressed road safety. We've said that there are lots of things we could be doing and focusing our time on, where that money could have gone, from dangerous junctions to potholes galore. There is a lot out there that we could be spending time on, but, no, we have to be sitting here talking about this today, because a failed policy was rolled out.
+
+And the fact that politicians don't accept it—. And I agree with you, Janet, in your intervention. There's a reason the Labour benches are so empty here today. Deaf ears should not be what the electorate get. And I do want to pay credit to you, Carmelo, for your contribution today; Jason, Helen, Janet, for yours, and Gwyn, I do always enjoy it, like I said, but I don't know what the mobile phone—. I don't know how I could possibly get into that; I think that's a debate for another time at the end. Spending more time outdoors, I do agree with you, but—. I always appreciate a Max Boyce quote as well in a contribution.
+
+I urge Members today to vote on what they think their constituents would want. It's easy for some people to say, 'Oh, it doesn't have much of an impact; our lives aren't impacted by it.' My inbox and my colleagues' inboxes, and I'm sure yours, are of people who are impacted by a policy that does have bad consequences. As we have said, we are not in here today saying that we want 30 mph or higher outside schools or hospitals, what we are saying is that roads that were safe before should be back to 30 mph, and to roll that out to councils in the way that it is, so that they have to work backwards, not work forwards—. I'm afraid, Ken, you don't understand your own policies now in the sense of—
+
+## 2026-09-30 — 6. Reform UK Debate: Default 20 mph speed limit
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773840](https://record.senedd.wales/Plenary/16265#C773840)
+
+You didn't answer what I was addressing, your top-down approach, Ken. Let's get back to your true devolution. But, in terms of schools, I went through education under Labour Governments consecutively here. There wasn't 30 mph outside my school when I was younger. [Interruption.] That was your deal. There wasn't when you brought this bad legislation through, drove it through, ignored the wishes of the people of Wales, ignored them with their concerns, and then you as a Minister tried to unravel the chaos of what your party created. It's time to put your hands up and own it.
+
+## 2026-09-30 — 6. Reform UK Debate: Default 20 mph speed limit
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773843](https://record.senedd.wales/Plenary/16265#C773843)
+
+Apologies, I did name him, so he came to respond, probably. I'm sure he wasn't looking to break any rules.
+
+In closing, I urge Members today to support our motion in getting Wales moving again. Diolch yn fawr.
+
+## 2026-09-30 — 6. Reform UK Debate: Default 20 mph speed limit
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773978](https://record.senedd.wales/Plenary/16265#C773978)
+
+Oh, I—
+
+## 2026-10-06 — 1. Questions to the First Minister / Professional Sport
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C775883](https://record.senedd.wales/Plenary/16313#C775883)
+
+4. What assessment has the First Minister made of the impact of professional sport on the Welsh economy? OQ64617
+
+## 2026-10-06 — 1. Questions to the First Minister / Professional Sport
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C775896](https://record.senedd.wales/Plenary/16313#C775896)
+
+Thank you, First Minister. I agree with you. Sport can have a huge impact on the economy, as we've seen in places like Swansea—when they made the Premier League, tens of millions of pounds put into the economy there—and here in Cardiff, when they were a part of the Premier League. We've seen success with Wrexham now, having an impact on their economy, in Newport, and with other sports as well, like when the Ryder Cup came to Wales, and we've seen it when the wrestling was in Cardiff. But what future plans has the Welsh Government got to encourage more of these large-scale events that can bring better, high-paying jobs during those periods and that can boost our hospitality industry, but not only to current areas that are seeing that—how about if we can attract more of these large-scale events to other parts of Wales yet to be showcased around the world?
+
+## 2026-10-07 — Motions to elect Members to committees
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776810](https://record.senedd.wales/Plenary/16314#C776810)
+
+I formally move the motions.
+
+## 2026-10-07 — 7. Reform UK Debate: Regional rugby
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776892](https://record.senedd.wales/Plenary/16314#C776892)
+
+How? That is the headline under which the party put out a press release there, and today you're saying you can't do anything about it. I think that is an integrity issue right there, absolutely.
+
+Rugby is so much more important, and the WRU have hidden at every opportunity. They've invited Members in this place for a briefing. The briefing wasn't clear and transparent—I sat in it. I've spoken to council leaders that have real concerns about what they could end up with—[Interruption.]—serious money that's going to—. No, Minister, it's not clickbait. When it's real jobs on the line, you'd think you'd actually listen to that. When we see talent leaving Wales now to go and play in English leagues because of the uncertainty here, I think the Government should be listening. That is a concern. Think of the jobs. Think of what we're sending—. The young people that have aspired to play rugby in Wales, looked up at their heroes, and that jersey will no longer exist if the WRU have their way. Heritage gone.
+
+I refuse to stand by and tell my constituents I was not willing to vote for this motion today. I will not tell constituents who have e-mailed telling me about the uncertainty of rugby—I won't be saying, 'I did nothing, I said we were going to let the WRU carry on.' I think we should send a clear signal to them.
+
+To get to the point, the economy relies heavily on these. We've heard from Members like Steven talking about the pub industries. We've heard Carmelo talking about Llanelli in particular. Our economy is struggling in these areas. What the Scarlets and the Ospreys represent, especially the Scarlets in particular, in west Wales, an area that doesn't have a lot of sporting events sent over—. Here in Cardiff, we're quite blessed that there are a lot. We're seeing growing football and rugby in Newport. But in west Wales, it's not so much.
+
+The outreach programmes that the Scarlets are a part of down there help get young people off the streets, get them out from in front of a computer screen. They're a part of the preventative health scheme that we hear this Government talk so much about. But, actually, via this motion here, we could be taking people off the front line that are delivering these services for young people. That's a concern, the wider impact.
+
+Rugby isn't just a sport. Rugby can be a family when you're stood on a terrace, even with opposition fans. It's good for people's mental health. It's a good way of getting out of the house, getting out of the office. For those fans who are e-mailing us on a regular basis, it's a sign of desperation that their lifeline, as they feel, is going away. Their identity could be stripped off them. Why? Because someone called the WRU, the worst-run union right now, won't tell them why their club could be stripped from them, that a competition, a fight between the west must take place. It's unacceptable. You can't treat livelihoods, identities like this.
+
+We've heard from Steve of the Celtic Warriors, when we were promised by the WRU, then, no more restructure, this is it. We've seen the damage it did to Pontypridd and Bridgend, two strong, proud rugby communities no longer there. Are we really prepared to say—
+
+## 2026-10-07 — 7. Reform UK Debate: Regional rugby
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776893](https://record.senedd.wales/Plenary/16314#C776893)
+
+Diolch, Deputy Llywydd. I want to thank all Members who've contributed to what is an important debate. As Members have said in this Chamber, rugby is a lot more. I know that the Minister, in her response, said that she doesn't want to dictate sport, but the Welsh Government, in the past, has stepped in when employment is at risk. As well as clubs that are supported, these regions are employers. Right now for the Welsh economy, the four regions are estimated to contribute between £50 million and £55 million. That is a lot of money. When you say in your motion today that we need to speak with the WRU and give them more time and the rest of it, I think time is running out, Minister. December is coming quickly, and those employees need assurances about whether they'll have a job in the future. So, I'm unafraid today to vote for our motion that's trying to get clarity for people's livelihoods, and I'll never apologise for that. I think the Government has got a role to step in and get involved—
+
+## 2026-10-07 — 7. Reform UK Debate: Regional rugby
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776895](https://record.senedd.wales/Plenary/16314#C776895)
+
+I think, Minister, the role we have to play is the same as when Tata was going under. We stepped in to protect jobs. We saw the Welsh Government bringing them to the table, taking action. That's what I want to see from the Welsh Government. Time and time again, when my colleagues have asked questions in this Chamber around what was going on here with the WRU, they did not get a satisfying response. I asked at the end of last term for a statement from you, as the Minister for sport, on the WRU, and we didn't get one. Our constituents are concerned right now about the future of sport, and we have been forced to bring this debate here today to try to get answers for our constituents. There is a transparency question. That is the concern here.
+
+I think we could have worked together. I think we should press pause on the WRU's plans until they can come forward and tell us what the numbers really are. How did they come to this conclusion? What are they trying to hide? I think protecting four regions until we know those answers is vital, and that's why we are saying we need to send a clear signal.
+
+The First Minister, the Prif Weinidog, stood in this Chamber leading a Government debate not long ago, in which he spoke about the power of this Chamber, in a motion that the Welsh Government didn't control, on fair funding, calling for fair funding—a motion similar to ours today—and said that this place can send a clear signal. He said the power of all of us in this room working together and voting together can send a clear example. We could have sent to the WRU today a clear message that this is unacceptable, that players deserve better, fans deserve better, taxpayers deserve better, like the local authorities that could be on the hook for these stadiums.
+
+Back in February, the Deputy First Minister said to this Chamber, to the last Labour Government, 'You simply can't wash your hands of this'. That was, now, a Plaid Minister who said those words—that Government can't wash their hands of this. What did she expect that Government to do? There's the question now: what did she expect? Nothing. She said it on the record that she expected action because she believed that this Chamber and this Government can have a strong voice. That's what we're doing.
+
+In the election campaign, in The Pembrokeshire Herald, I'm sure you all would have read:
+
+'Plaid Cymru Senedd election candidates emphasize call for Scarlets’ survival'.
+
+Plaid Cymru put a press release out during the election saying that they wanted to save the Scarlets. And today, they're saying that their Government can't get involved. [Interruption.] You just stood up and said, 'What do you expect me to do?' Minister. That is what you said. And your party put a press release out saying that you could get involved. That is unacceptable. There is a standard here in which we tell the electorate things and we should honour them—[Interruption.] Minister, every time now. Come on, you've just had eight minutes to speak and two interventions. I'm trying to address the point you were raising, Minister. I'm pointing out that your party called for these actions.
+
+## 2026-10-07 — 7. Reform UK Debate: Regional rugby
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776907](https://record.senedd.wales/Plenary/16314#C776907)
+
+Yes, you can, by all means.
+
+## 2026-10-07 — 7. Reform UK Debate: Regional rugby
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776910](https://record.senedd.wales/Plenary/16314#C776910)
+
+Well, no, the amendment there right now is saying that WRU have actually consulted people on the outside and they continue doing so. I've spoken to stakeholders in this. They haven't felt consulted. We're hearing from people in the industry that are saying they are—
+
+## 2026-10-07 — 7. Reform UK Debate: Regional rugby
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776912](https://record.senedd.wales/Plenary/16314#C776912)
+
+Is this an intervention or a contribution here, Llywydd? Is this an intervention or a contribution? Because so far, you had an opportunity to speak in this debate, but only one of your Members chose to stand up in the 60-minute debate to contribute. That's the difference there. Now, in terms of what you're saying there, 'This is point scoring.' It's not. You say the WRU have come before the committee. Where are the numbers now? What's the rationale for this? Even the Minister said she's trying to urge them to do it. You say, 'What's the point of this?' Let's send a clear message to them that it's unacceptable, that we're not allowing it to continue. [Interruption.] No, you're having so much time now. If you wanted to speak, you could have put your name forward. [Interruption.] Oh, Llywydd, come on. This is student union style here—
+
+## 2026-10-07 — 7. Reform UK Debate: Regional rugby
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776927](https://record.senedd.wales/Plenary/16314#C776927)
+
+[Interruption.] What? But if she wanted to contribute—. You can put your name forward. That's a Parliament. You should know.
+
+## 2026-10-07 — 7. Reform UK Debate: Regional rugby
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776930](https://record.senedd.wales/Plenary/16314#C776930)
+
+Thank you, Llywydd. But on the point, right now, out there, what are we sending to the people of Wales that this place does? With an issue where they step forward and tell us they're concerned about something, that we say, 'It's not our responsibility here.' Government should be oversight. We've heard the case. The taxpayers' money is on the line. That's why we must intervene here. Bring them forward.
+
+Now, Minister, as I said, I tried to ask you for a statement on this. None was brought forward. We were forced to bring the debate. The December deadline is coming. There isn't assurances with the regions now. So, if you are going to vote for your amendment, and you try to stop ours today, and you're going to say you don't support the four and that you're going to let the WRU continue with its unchecks and balances, we'll be back here when the danger comes if you don't support them now, because we know the WRU will push this through. They have history of doing it, they will do it again. Right now, rugby, regional rugby across Wales, needs us to support it. I hope Members will give them the same support when they need it now as rugby has offered support to so many communities across Wales in the past. I urge Members to support our motion.
+
+## 2026-10-13 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778458](https://record.senedd.wales/Plenary/16315#C778458)
+
+I'd be grateful if, when budget deals or statements are made in the future, that they're made to the Chamber, and not to the press in advance.
+
+But on to—. I request a statement, if possible, Trefnydd, from the Minister for education, based on AI and coding. There's a new study that's coming out that shows Wales quite low, behind other parts of the UK, in terms of where we are with coding in our schools. Given that it's going to be a huge part of young people's futures, would the Government come forward with a statement to tell us what their plans are to get children up to date with the future, like other nations?
+
+## 2026-10-20 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779962](https://record.senedd.wales/Plenary/16317#C779962)
+
+Could I have a statement from the Trefnydd and the Welsh Government on what efforts are being taken to address rough-sleeping and homelessness in Wales? As we're coming into the winter time, it's becoming very concerning about how many people are sleeping out in horrendous conditions right now, and I'd be grateful if the Government could come forward on what we can do, and, hopefully, we can find consensus around the Chamber to address this, so we don't see more lives lost by rough-sleeping this winter.
+
+## 2026-10-21 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Employment Opportunities
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780520](https://record.senedd.wales/Plenary/16318#C780520)
+
+Minister, one concern I've got, from speaking to lots of people in the constituency, who feel young people are leaving the area of Blaenau Gwent Caerffili Rhymni at a large pace now. We can see that the population age is going up in every census, and anyone who's been around the town recently feels that young people are leaving for cities, going over to England or to other parts of the world. What help can you do to incentivise businesses into the constituency, because it's businesses that will create those jobs, but Government have the levers of power to pull? So, I'd be grateful if you could tell us today what levers you're going to pull to bring in those jobs to keep young people here.
+
+## 2026-10-21 — 2. Questions to the Cabinet Minister for Education and the Welsh Language / Pupil Safety
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780567](https://record.senedd.wales/Plenary/16318#C780567)
+
+Thank you for that answer, Minister. In September, more than 300 pupils in the Caerphilly borough lost their free school transport because, as the council said, they fall within the two-mile measurement of the Learner Travel (Wales) Measure 2008. Now, the problem with that is that the Measure is looking at distance but not incline. I've walked this route with campaigners and parents and children themselves—I went from Aberbargoed to Bargoed—and it's the incline that is the tricky part. During different weathers, whether it's the heat we experienced in the summer, or even cold winter days, when that road can be slippery, it does become a risk. Will the Government now look at reviewing the Learner Travel (Wales) Measure 2008 and look to include the advice on inclines and the difficult weather paths that this could create?
+
+## 2026-10-21 — 2. Questions to the Cabinet Minister for Education and the Welsh Language / Pupil Safety
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780616](https://record.senedd.wales/Plenary/16318#C780616)
+
+8. What action is the Welsh Government taking to improve pupil safety? OQ64768
+
+## 2026-10-21 — 3. Questions to the Senedd Commission / Smartglasses
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780608](https://record.senedd.wales/Plenary/16318#C780608)
+
+I appreciate the Llywydd's answer on the Commission's position there. Llywydd, for this review that's taking place with smartglasses, could you confirm whether you're going to be reaching out to charities right now? A lot of them have come forward, like the RNIB, who represent people who are blind or partially sighted, who say this technology has now created an equal playing field. Allowing people who have these glasses who are registered blind or partially sighted on to the estate I think is important in terms of the inclusive side of things. As well, Dyslexia UK is another charity that has come out and actually said these glasses and technology can help equalise the playing field for people's lives in reading in certain colours, and, going forward, I think it's important that the Commission looks to these charities that are coming out expressing views, to make sure the Parliament is as equal as possible.
+
+And in terms of equity, I think it's important that Members should be on an equal playing field. Maybe some Members should be given glasses to help read the manifestos on which they were elected to this Chamber.
+
+## 2026-11-03 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16420#C782338](https://record.senedd.wales/Plenary/16420#C782338)
+
+November is men's health awareness month, commonly known as 'Movember'. In Wales, life expectancy for a man is 78. For a woman, it's 82—almost a four-year gap there. More men are dying by suicide, with the rate at almost three times that of their female counterparts. Prostate cancer in Wales is going to increase by 2035. Men are facing a lot of health issues, and I'd be grateful if the Trefnydd could ask the health Minister to come forward in this men's health month with a strategy for men's health specifically, because far too many men now are dying young, and of diseases, without getting the care that they need.
+
+So, I'd be grateful, Trefnydd, if you could ask the Minister to come forward.
+

@@ -1,0 +1,410 @@
+# Cristiana Emsley AS — Senedd contributions
+
+50 contributions, 9,556 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-06-09 — 1. Questions to the First Minister / Employment Rights Act 1996
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762896](https://record.senedd.wales/Plenary/16072#C762896)
+
+10. What action will the Welsh Government take to support people making protected disclosures from detriment and widen reporting protections under Section 43 of the Employment Rights Act 1996? OQ64091
+
+## 2026-06-09 — 1. Questions to the First Minister / Employment Rights Act 1996
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762899](https://record.senedd.wales/Plenary/16072#C762899)
+
+The First Minister says that he supports whistleblower protections. If that is the case, what objection could there possibly be to allowing NHS whistleblowers to make protected disclosures to willing Members of the Senedd, who are democratically accountable and are often the last resort when official channels have failed? Will he support that change, yes or no?
+
+## 2026-06-10 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763118](https://record.senedd.wales/Plenary/16073#C763118)
+
+Diolch, Lywydd. Saunders Lewis once said, 'A nation without a language is a nation without a heart'. Yesterday, the Deputy First Minister quoted Dr Martin Luther King Jr. and spoke about the kind of nation we want to build together. While the 'Anti-racist Wales Action Plan' may not itself use these phrases, bodies funded to advance its objectives have supported projects such as decolonising the Welsh cake and commissioned reports recommending controversial changes to how people use and experience the Welsh countryside. Many people feel that this agenda risks treating expressions of Welsh culture and identity as problems to be reinterpreted rather than traditions to be celebrated. If the Government's mission is to strengthen Welsh identity, at what point does re-examining our traditions become eroding the cultural confidence of the very nation it was elected to serve?
+
+## 2026-06-10 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763121](https://record.senedd.wales/Plenary/16073#C763121)
+
+Yesterday, the Deputy Minister said that the Welsh Government is committed to upholding the principles of the armed forces covenant and ensuring fair access to healthcare, housing, employment, education, skills and training for service personnel, veterans and their families. Can the Minister, therefore, identify the tangible outcomes that this commitment has delivered in Wales? Specifically, what measurable improvements can she point to in areas such as housing, healthcare access, employment or homelessness that demonstrate that Welsh veterans are materially better off as a direct result of the armed forces covenant, rather than simply being covered by statements of principles and guidance?
+
+## 2026-06-10 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763136](https://record.senedd.wales/Plenary/16073#C763136)
+
+On 31 March this year, the then Labour Government announced a £200 emergency support payment for low-income households using heating oil and liquefied petroleum gas, promising help for people exactly like the constituents who have recently contacted me. Yet, more than two months later, my constituents in Wrexham have been told by the local authority that it was still awaiting guidance from the Government before payments could be made. Minister, Governments do change, yet here we are in June and vulnerable people are still waiting, expecting promises made in their name to be honoured. Emergency support that arrives after the emergency isn't emergency support at all. Can the Minister tell us how many eligible households across Wales are still waiting for this payment today? When will every outstanding payment finally be made? What action is this Government taking to ensure that no pensioner or low-income family is ever again left waiting months for help that was promised in a crisis, because, Minister, what is the point of announcing emergency help if it reaches people only after they spend the winter sitting in 9 degree C homes wrapped in blankets?
+
+## 2026-06-10 — 8. Short Debate: From legal clarity to practical reality: Implementing women’s sex-based rights in Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763417](https://record.senedd.wales/Plenary/16073#C763417)
+
+Llywydd, thank you very much for the opportunity to discuss such a critical subject. I'd like to give a minute each of my time to Natasha Asghar, Laura Anne Jones and Nigel Williams.
+
+## 2026-06-10 — 8. Short Debate: From legal clarity to practical reality: Implementing women’s sex-based rights in Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763420](https://record.senedd.wales/Plenary/16073#C763420)
+
+There are moments in public life when political ambiguity becomes untenable. This is one of those moments. Because this debate is not, at its core, about slogans. It is not about outrage, it is not about a culture war and it is not about diminishing the dignity of any person. It's about law, it's about governance and it is about whether women in Wales can have confidence that rights Parliament enacted, and the Supreme Court unanimously clarified, will be upheld faithfully, fairly and in practice.
+
+Last month, updated guidance was finally issued to help organisations implement the legal position following the Supreme Court judgment. That matters. Clarity matters. Public bodies need certainty. Women deserve confidence. And service providers deserve practical guidance about how to operate lawfully and fairly. But let us be equally clear: guidance is not implementation, publication is not compliance and reassurance on paper is not reassurance in practice. Because the real question before us today is no longer, 'What does the law mean?' The Supreme Court answered that question unanimously. The real question now is, 'What will Wales do with that clarity?' Will implementation be timely? Will it be lawful? Will it be fair? And, crucially, will it be faithful to the protections Parliament enacted? Because let us be candid, women across Wales are asking legitimate questions—questions about hospital wards, about changing rooms, about schools. Questions about refuges. Questions about prisons. Questions about sport, about safeguarding, privacy and dignity. Questions not born of hostility, but of practical reality. Questions not born of prejudice, but of uncertainty. And women deserve answers, not euphemism, not ambiguity, not abstraction. Answers.
+
+Now, let me say something plainly, because, too often, debates such as this are caricatured before they have even begun: this debate is not about hostility to trans people. Every person in Wales deserves dignity, safety and equal treatment under the law—every person. No decent society tolerates harassment, humiliation or exclusion. And let us remember something important: the Supreme Court judgment did not remove legal protections from trans people. Protections against discrimination and harassment on the basis of gender reassignment remain in law.
+
+But lawful governance requires clarity, rights exist in law, and Governments have obligations to implement law consistently, fairly and predictably. That is not hostility. That is Government. Yes, difficult judgments create difficult emotions. The Supreme Court judgment caused distress for some people. That matters. Compassion matters. Empathy matters. Public reassurance matters. But leadership requires balance, because many women in Wales also noticed something in the immediate aftermath of the judgment. Political reassurance was understandably offered to those distressed by the ruling. I understand that instinct. But many women were left asking, 'Where was the equal reassurance for us? Where was the immediate clarity that women’s lawful sex-based protections would remain meaningful in practice? Where was the clear statement that safeguarding, privacy and dignity in single-sex spaces would not quietly dissolve into confusion or uncertainty?' That question deserves an answer, not because women matter more than anyone else, but because women matter too and because rights that exist only in theory are not rights at all. A protection that disappears at the point of challenge is not a protection. A right citizens no longer feel confident exercising is not a meaningful right. And a law that Governments treat as optional soon ceases to command public trust.
+
+## 2026-06-10 — 8. Short Debate: From legal clarity to practical reality: Implementing women’s sex-based rights in Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763430](https://record.senedd.wales/Plenary/16073#C763430)
+
+Now, some will say that this is complicated. And, of course, implementation is complicated. Rights balancing is complicated. Administration is complicated. But complexity cannot become an excuse for paralysis, nor can compassion substitute for legal clarity. The law exists precisely because competing rights must be balanced, not erased, not ignored—balanced. And Governments in democracies do not get to choose which court judgments they implement according to political comfort. The Supreme Court spoke unanimously. The legal obligation did not begin last month with guidance, it began 14 months ago when the court ruled. Guidance helps, but guidance does not replace legal responsibility. The Supreme Court judgment is not optional, and women’s rights are not negotiable.
+
+So, today I ask the Welsh Government some straightforward and reasonable questions: what is the implementation timetable for Wales? How will schools, health boards, local authorities, prisons, sporting bodies and safeguarding services be expected to comply consistently? Which existing guidance, procurement arrangements, commissioning frameworks and policy documents will now be reviewed? How will public bodies be supported to implement the law lawfully and fairly? What oversight mechanisms will exist to ensure consistency across Wales? And can the Government provide a clear assurance that it will not seek, through policy, procurement, guidance, administrative practice or legislative reinterpretation, to weaken, dilute or redefine the sex-based protections accorded to women and girls in law? Because many women remain concerned that previous political positioning and manifesto commitments appear difficult to reconcile with the practical implications of the court’s judgment.
+
+Scrutiny is not hostility. Questions are not prejudice. And democratic accountability is not intolerance. Indeed, scrutiny is our job. When law changes, or when law is clarified, public confidence depends on whether institutions follow through. And this Chamber should reject a false choice—a false choice between women’s rights and human dignity, a false choice between compassion and clarity. Wales is capable of fairness, Wales is capable of compassion, but compassion without clarity creates confusion, and confusion in safeguarding, privacy and rights serves no-one, least of all those who rely on institutions to behave consistently, predictably and lawfully.
+
+So, today I ask not for slogans, not for ideological reassurance, not for rhetorical positioning, but for implementation—a timetable, a commitment, a reassurance to women in Wales that the protections accorded to them in law will remain protections in practice, because lawful governance matters, because public confidence matters, because women matter, and because the rule of law matters. Diolch yn fawr.
+
+## 2026-06-16 — 1. Questions to the First Minister / Community Cohesion
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763590](https://record.senedd.wales/Plenary/16074#C763590)
+
+10. What action is the Welsh Government taking to promote community cohesion and foster a shared sense of belonging across Wales? OQ64184
+
+## 2026-06-16 — 1. Questions to the First Minister / Community Cohesion
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763593](https://record.senedd.wales/Plenary/16074#C763593)
+
+Thank you. First Minister, as someone who came to the UK from eastern Europe and later chose to make Wales my home, I find this debate deeply important. I did not embrace Wales despite its identity, traditions and national symbols; I embraced Wales because of them. I learned its history, I respect its heritage and I proudly celebrate Y Ddraig Goch as the flag of the nation I now call home. Most people who settle here do exactly the same. Integration is a two-way process. Newcomers should be welcomed warmly, but Wales should never be asked to apologise for being Wales. So, can the First Minister give a clear answer? Does he agree that the Welsh flag and our national heritage are symbols of belonging and pride for all who live here, or does he believe they should be diluted or removed if some claim to find them exclusionary or offensive?
+
+## 2026-06-16 — 2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution / Public Service Reform
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763678](https://record.senedd.wales/Plenary/16074#C763678)
+
+5. How will the Welsh Government demonstrate its commitment to public service reform to secure better outcomes for the people of Wales, ahead of seeking any further powers? OQ64142
+
+## 2026-06-16 — 2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution / Public Service Reform
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763687](https://record.senedd.wales/Plenary/16074#C763687)
+
+Thank you. Minister, devolution demands trust, and trust is earned through competent stewardship of the powers you already possess. Yet, last week during a debate on women's rights, some Members walked out of the room and the Government failed to explain how it would uphold the law in practice. If you cannot reassure women that you understand and will faithfully apply the Equality Act 2010 as it stands, why should they trust you with even greater powers over their rights?
+
+## 2026-06-16 — 2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution / Public Service Reform
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763739](https://record.senedd.wales/Plenary/16074#C763739)
+
+Diolch, Llywydd, and, Minister, congratulations on your appointment.
+
+## 2026-06-17 — 2. Questions to the Cabinet Minister for Health and Care / Betsi Cadwaladr University Health Board
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C763904](https://record.senedd.wales/Plenary/16075#C763904)
+
+2. When can the people of north Wales expect to see tangible improvements in waiting times and patient care as a result of the Welsh Government's latest interventions in Betsi Cadwaladr University Health Board, and how will the Cabinet Minister measure the success of those interventions? OQ64154
+
+## 2026-06-17 — 2. Questions to the Cabinet Minister for Health and Care / Betsi Cadwaladr University Health Board
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C763909](https://record.senedd.wales/Plenary/16075#C763909)
+
+Thank you. Minister, babies have been born, started school and reached secondary education during the time Betsi Cadwaladr has been in special measures. If special measures can last for more than 11 years, they are no longer special measures, they are business as usual. Whatever Government was in office when they began, your Government now owns them. North Wales patients have heard over 11 years of assurances. Why should they believe that this time is any different?
+
+## 2026-06-24 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Culture, Language and Heritage
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764691](https://record.senedd.wales/Plenary/16077#C764691)
+
+1. How will the Welsh Government strengthen and promote Welsh culture, language and heritage, and ensure that future generations take pride in Wales's distinct identity? OQ64215
+
+## 2026-06-24 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Culture, Language and Heritage
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764695](https://record.senedd.wales/Plenary/16077#C764695)
+
+Diolch. In 2022, Wrexham Glyndŵr University announced that it was considering removing 'Glyndŵr' from its name, reportedly in part because it was perceived by some as too Welsh, or difficult to pronounce. Regrettably, the name of Owain Glyndŵr was officially dropped from the university in 2023. Now, of course, you were not in Government at that time, but as Plaid Cymru's spokesperson for culture, sport and international affairs, and given your long-standing commitment to promoting Welsh language and heritage, I haven't been able to find any public statement, Senedd contribution, press release or media interviews in which you expressed concern about the proposal. Looking back, do you believe that removing the name of Owain Glyndŵr from one of Wales's universities sent the wrong message about confidence and pride in Welsh identity, and, with hindsight, would you support efforts to restore it?
+
+## 2026-07-07 — 1. Questions to the First Minister / Wrexham's Bid for City of Culture
+
+*Speech* · [https://record.senedd.wales/Plenary/16083#C766331](https://record.senedd.wales/Plenary/16083#C766331)
+
+First Minister, as someone who chose to make Wrexham my home, I know first-hand the pride our communities take in our city's heritage and identity. A successful city of culture bid should leave a lasting legacy, not just a year of celebrations. What commitments can the Welsh Government make today to ensure that Wrexham's bid delivers long-term investment, supports local businesses, creates sustainable opportunities for young people, and leaves a cultural and economic legacy that continues long after 2029?
+
+## 2026-07-08 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Biodiversity, Wildlife Management and Rural Resilience
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C766957](https://record.senedd.wales/Plenary/16084#C766957)
+
+7. How is the Welsh Government ensuring that its policies on biodiversity, wildlife management and rural resilience are informed by practical land-management experience and scientific evidence? OQ64328
+
+## 2026-07-08 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Biodiversity, Wildlife Management and Rural Resilience
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C766959](https://record.senedd.wales/Plenary/16084#C766959)
+
+Thank you. Minister, conservation is not achieved by leaving nature entirely to itself. Farmers, gamekeepers and organisations such as the British Association for Shooting and Conservation understand that protecting biodiversity often requires active habitat management and, where the scientific evidence supports it, lawful control of predator or overabundant species to safeguard vulnerable wildlife. Will the Welsh Government commit to working with BASC and the farming community as equal partners in developing wildlife policy, or will it continue to sideline those with decades of practical conservation experience?
+
+## 2026-07-08 — 6. Member Debate under Standing Order 11.21(iv): Ophthalmology services
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767041](https://record.senedd.wales/Plenary/16084#C767041)
+
+I'd like to begin by thanking Gwyn Williams for securing this important debate. Whatever our political differences, I believe protecting people’s sight is something that can unite this Chamber, and I’m grateful for the opportunity to speak in support of the motion.
+
+Now, you may find this difficult to believe, but today I think every Member in this Chamber will agree with me on two things. First, never take your health for granted. And second, you never know what's around the corner, not just politically, but health-wise too.
+
+Four years ago, I discovered just how true those words are when, over the course of just 48 hours, I went completely blind in my right eye. It was terrifying. Before joining the police in Romania I trained as a nurse, and something told me that it wasn't just simply blurred vision. I suspected that I had retinal detachment involving the macula, the part of the eye responsible for our central vision. It was very unusual at my age, and I remember telling the optometrist at Specsavers what I thought it was. To their credit, they examined me immediately. I was right. It was a macula-off retinal detachment, a genuine ophthalmic emergency. Within hours, I was referred to Wrexham Maelor Hospital, where the diagnosis was confirmed before I was transferred urgently to the eye unit in Abergele. I still remember that miserable Thursday afternoon in January. The following day, the consultant phoned me: ‘Can you get here for surgery on Monday morning?’ ‘Absolutely’, I replied. Then came the pre-operative assessment, and finally, on the surgery day, the injections to numb the eye.
+
+Now, I have enormous respect for ophthalmic surgeons, but when the anaesthetist said, ‘This is going to hurt’, I can confirm that that was the most accurate diagnosis that week. But in keeping in line with parliamentary standards of conduct, I shall not repeat exactly what I said when I both felt and heard the needle passing through the tissues around my eye to get the back. Suffice to say, when the doctor tells you it's going to hurt, believe them.
+
+Thankfully, the surgery was a complete success. I remember being wheeled back to the ward afterwards. A lovely nurse handed me a slice of buttered toast. To me, it tasted like caviar. That was the moment when relief finally caught up with me.
+
+But recovery wasn't easy. For a week, I had to remain in one position for 50 minutes every hour, 16 hours a day, so that the gas bubble inside my eye could do its job. I wasn't upside down, thankfully. I also want to thank my husband, whose love, care and support made all the difference during my recovery week, so much so I was secretly hoping the consultant might prescribe another week, but, unfortunately, he said that I was making excellent progress. It was exhausting, but it worked. My eyesight returned. I genuinely struggle to put into words what it feels like to regain something that you genuinely thought you might have lost forever.
+
+But unfortunately, the story didn't end there. Like many patients following this type of surgery, I later developed a cataract. Cataract surgery is one of the most successful operations the NHS performs, but timing matters. In Wales, the waiting time in many areas stretches to around two years. Just 10 miles from my home, across the border in England, patients can often receive surgery within weeks. I was fortunate. I could afford to pay privately. So, last summer I had the operation and, once again, it restored my vision. But most people cannot make that choice. The pensioner who has stopped driving because they cannot safely see the road, the grandparent struggling to recognise their grandchildren's faces, the self-employed tradesman whose livelihood depends on precise eyesight, the child whose education depends on being able to read the board in school—they cannot simply buy their eyesight back. Their only option is the NHS.
+
+And that is why today's debate matters. This motion is not simply about organisational structures, consultant numbers or waiting list statistics. It's about preserving people's independence, protecting livelihoods, preventing avoidable blindness. Giving people back one of life's greatest gifts: the ability to see the people they love. No patient should lose their sight because the system moved too slowly. No family should spend months wondering whether permanent damage could have been prevented. And no matter where someone lives in Wales, they should expect the same timely, high-quality ophthalmology service.
+
+If establishing centres of excellence, reducing duplication and implementing the committee's recommendations help achieve that, then this Chamber should unite behind those ambitions, because when it comes to protecting someone's eyesight, there should be no Government benches or opposition benches, only patients. Diolch.
+
+## 2026-07-14 — 5. Statement by the Deputy First Minister and Cabinet Minister for Social Justice and Equality: Update on Early Years Childcare and Play
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767796](https://record.senedd.wales/Plenary/16085#C767796)
+
+Deputy First Minister, let me begin with what should unite us today. Every Member in this Chamber wants children to have the best possible start in life and families to have access to affordable, high-quality childcare. But you've just said today that whether or not to expand funded childcare is, quote, 'not up for debate'. With respect, Minister, everything on which this Government spends taxpayers' money is open to debate in this Chamber. Nobody disputes the importance of childcare. What is very much open to scrutiny is whether this Government has a credible, affordable and deliverable plan to provide it.
+
+Today's statement contains a contradiction at its very heart. You tell us that, whilst developing the manifesto, Plaid Cymru, quote, 'carefully costed' the expanded childcare offer, yet only moments later you tell us that officials are now developing clearer costs, reconsidering the assumptions behind them, modelling potential take-up rates and testing a range of variables. Deputy First Minister, you tell us this policy will cost £375 million a year, yet immediately describe that as only a midpoint estimate. A midpoint between what and what exactly? What is the Government's highest estimate? What is the maximum financial liability Welsh taxpayers could ultimately face? If Ministers know those figures, why have they not shared them with this Chamber? If they do not, how can they claim this policy was fully costed before the election?
+
+You also confirm that workforce projections are still being developed and that a workforce plan will be produced in the future. So, which is it? Was this policy properly costed before the election or are the central assumptions only now being worked through after Plaid entered Government? Because both claims cannot comfortably stand together. In fact, today's statement sounds less like a delivery plan and more like a plan to plan another plan. Officials are still modelling the cost, testing the assumptions, preparing workforce projections and promising a future workforce plan. That is not implementation. It is planning to plan some more. And this follows precisely the same pattern Reform Wales identified recently in relation to the proposed Cynnal child payment. Our written question revealed that an expert group is still considering the legal, policy and delivery issues surrounding this flagship commitment.
+
+Today's statement reveals that childcare costings, workforce requirements and delivery assumptions are also still being refined. That matters because these promises made a real difference on the doorstep. I met parents working long hours and families forced to choose between childcare and other essential household bills. Many saw these commitments as a lifeline. They believed that once Plaid Cymru entered Government, the support would begin to arrive, not that Ministers would then establish groups, test assumptions and begin working out how the promises might operate. Those families were entitled to believe the flagship policies put before them had been fully prepared. Instead, they are now discovering how much remains unresolved.
+
+When Reform asks about those unresolved questions, the answers are too often ambiguous. We ask for costings and receive aspirations. We ask for delivery and receive a direction of travel. We ask about workforce capability and are told that projections are still being developed. We identify discrepancies, and before long, yesterday's firm commitment becomes today's flexibility. Perhaps that is the new policy cycle: announce first, avoid the detail, and call the eventual u-turn a phased approach.
+
+The statement also tells us that 16 local authorities expect to complete the roll-out of 12.5 hours for two-year-olds by the end of this financial year, whilst officials continue to work with the remaining two. That progress is welcome, but the real promise is 20 hours for 48 weeks for every child from nine months to four years. That requires far more than urging local authorities to move quickly. It requires enough qualified staff, sustainable providers, adequate premises, Welsh-medium capacity, provision for children with additional learning needs and sufficient support in every part of Wales.
+
+Yet the Government still cannot tell us how many additional practitioners will be needed, where they will be needed, how they will be recruited, how retention will be improved, or what the full capital requirement will be. Those are not minor details. They are the foundations on which the entire promise depends. The more closely today's explanation is examined, the more gaps appear.
+
+Deputy First Minister, ambition is not the issue; preparedness is. Good intentions are not a delivery strategy. A midpoint estimate is not the final costings. The people of Wales deserve a Government that arrives with answers, not one that writes the manifesto first and the implementation plan afterwards.
+
+## 2026-09-15 — 1. Questions to the First Minister / Clinical Governance and Patient Safeguarding
+
+*Speech* · [https://record.senedd.wales/Plenary/16260#C769061](https://record.senedd.wales/Plenary/16260#C769061)
+
+Thank you. The Welsh Gender Service has been subject to an independent clinical review because NHS Wales commissioners identified concerns about the appropriateness of referrals and the robustness of clinical governance and patient safeguards, yet 26 of your own backbenchers have publicly objected to the clinically led pause. There is not a modicum of evidence that this Welsh Government and Plaid Cymru have demonstrated that patient safety comes before ideology. So, if the independent review concludes that the Welsh Gender Service's current assessment process must fundamentally change or that some referrals should not have proceeded, will you guarantee—'yes' or 'no'—that your Government will accept the clinicians' conclusions in full, without political interference from Ministers, backbenchers or campaign groups, even if those conclusions are politically inconvenient? 'Yes' or 'no'?
+
+## 2026-09-15 — 1. Questions to the First Minister / Clinical Governance and Patient Safeguarding
+
+*Speech* · [https://record.senedd.wales/Plenary/16260#C769077](https://record.senedd.wales/Plenary/16260#C769077)
+
+10. What assessment has the First Minister made of the effectiveness of clinical governance and patient safeguarding within NHS Wales? OQ64435
+
+## 2026-09-16 — 5. Reform UK Debate: Grooming gangs
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769628](https://record.senedd.wales/Plenary/16261#C769628)
+
+The last time I stood in this Chamber to speak the uncomfortable truth about the safety of women and girls, Members walked out. So, a trigger warning before I begin. When I stood for election, I promised to stand unapologetically for the safety of women and girls. I intend to keep that promise, and I make no apology for that.
+
+Before entering politics, I served in policing domestically and internationally and I saw first-hand the human reality of trafficking. Once you've seen what human beings are capable of doing to other human beings, you cannot unsee it. Once you have seen institutions from the inside, you develop a very low tolerance for institutional failure.
+
+When the independent inquiry into grooming gangs was announced, I wrote to Baroness Longfield, because the previous independent inquiry into child sexual abuse examined Swansea as its only Welsh case study. I wanted reassurance that Wales would not once again become a footnote, as my colleague has previously said. I received her response. Well, I am not reassured.
+
+Yes, this is a statutory inquiry, Wales is technically within its scope, and, yes, it can compel evidence and witnesses. Its terms of reference examine institutional failure and possible cover-ups. But there's still no guarantee of a dedicated investigation into Wales. I am told the inquiry will visit Wales, meet victims and survivors and establish an office here; Welsh areas may be considered for investigation later. But, Llywydd, an office in Wales is not an investigation of Wales. Listening to Welsh victims is not the same as investigating who failed them.
+
+That matters because this Welsh Government has made integration and community cohesion central to its nation of sanctuary policy. It tells us that its approach helps people integrate with host communities and strengthens community cohesion. Fine. Then let us test that confidence against the evidence. Where evidence shows that culture, ethnicity and religion influenced offending, the targeting of victims, or an institution's willingness to intervene, we must examine it. The inquiry's own terms of reference expressly require those very questions to be examined. This is not prejudice. This is safeguarding. And after some of the comments made in the last 24 hours, perhaps that distinction needs stating particularly clearly.
+
+We have been told that challenging the nation of sanctuary creates division, that Reform is interested in opposition and headlines, and that minorities must not be scapegoated or dehumanised. On one thing, I agree completely: nobody should be dehumanised. But neither should uncomfortable evidence be sanitised because examining it makes politicians uncomfortable. Asking whether children were sexually exploited is not scapegoating, and is most certainly not clickbait. Asking whether institutions failed them is not division, and examining culture, ethnicity or religion where the evidence warrants it is not dehumanising anyone. If scrutiny itself is now to be characterised as division, then institutional failure has found the safest hiding place here. If demanding answers for sexually exploited children generates headlines, perhaps we should ask why the failures did not generate enough headlines in the first place. Because we know the scenario, we know the cycle: reviews, inquiries, recommendations for lessons learned and then other reviews to learn why the lessons were not learnt. Victims deserve better than the carousel of institutional regret. So, my demand is straightforward: guarantee a dedicated Welsh local area investigation under the existing statutory inquiry with its full statutory powers. If that guarantee cannot be given, then Wales must have a dedicated statutory inquiry of its own. This is not duplication; it is accountability.
+
+This Welsh Government tells us that nation of sanctuary policies strengthen integration and community cohesion. Then demonstrate your confidence in them: open the books, open the records and welcome the scrutiny. Plaid Cymru speak endlessly about Wales exercising the powers of a nation—then accept the responsibilities of one. Do not demand the powers of a nation whilst outsourcing the accountability of one, and do not tell Welsh victims that being somewhere within the scope of an England and Wales inquiry is good enough. It isn't. Wales must be investigated and, if others will not look, we will.
+
+## 2026-09-22 — 2. Questions to the Counsel General / Devolution of Youth Justice
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770819](https://record.senedd.wales/Plenary/16262#C770819)
+
+Counsel General, there is a fundamental difference between improving youth justice and simply devolving it. Wales already has strong pre-court diversion and comparatively low levels of youth custody. Yet the Government's own advisory work identifies inconsistent police management, staffing pressures, funding uncertainty and rising school exclusions. Indeed, its own youth justice advisory panel asked the questions Ministers must answer: how will devolution improve outcomes for children rather than simply change who is responsible? Because transferring responsibility across the border does not solve a problem. Changing the nameplate on the door is not reform. Counsel General, what objective test has the Government been advised must be met before further youth justice powers are devolved? If Ministers cannot demonstrate better outcomes for children, victims and the public, what is the legal or constitutional justification for transferring those powers at all?
+
+## 2026-09-22 — 4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C771018](https://record.senedd.wales/Plenary/16262#C771018)
+
+First Minister, you call tackling child poverty the defining mission of this Government, but a defining mission surely requires something to be defined. In July, when I challenged your Deputy First Minister over Cynnal, I said that what she presented was a plan to plan, not a plan. She told me that she was baffled by my question. Well, I have now read your programme for government, and the bafflement should be on your benches. Four years of Government, and on your defining mission, you promise to develop another plan that will then set the targets, benchmarks and milestones. Cynnal itself remains something you merely seek to pilot. This is not a four-year delivery programme; it is a promise to work out later what success should look like.
+
+First Minister, your new ambition already resembles Swiss cheese: impressive packages, but full of holes and left to ferment, increasingly difficult to disguise. So, please answer the question your programme does not: by 2030, precisely what measurable reduction in child poverty will your Government deliver?
+
+## 2026-09-23 — 9. Short Debate: The unacceptable pause in scheduled treatment for trans patients
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771924](https://record.senedd.wales/Plenary/16263#C771924)
+
+Thank you, Llywydd. In line with your instructions, I'll keep this very brief, and I'd like to thank the Member for allowing me this intervention. Whatever our political differences, truth and patient safety must unite us. I accept that this pause may cause distress and patients must be supported, but what would be unacceptable is continuing irreversible referrals when serious concerns exist about referral appropriateness, clinical governance and patient safeguards—concerns I have already raised directly with the Cabinet Minister for health. As lawmakers, our duty is therefore not to pressure clinicians towards a preferred conclusion, it is to safeguard their clinical independence, to follow the science and the evidence, wherever they lead. Distress demands compassion and support, but compassion cannot lower the evidential threshold for irreversible treatment. Medicine demands evidence. Patient safety demands both. Thank you.
+
+## 2026-09-29 — 2. Questions to the First Minister / Freedom of Information and Access to Personal Data
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772820](https://record.senedd.wales/Plenary/16264#C772820)
+
+1. What steps is the Welsh Government taking to ensure that public bodies in Wales comply fully and promptly with their legal obligations on freedom of information and access to personal data? OQ64609
+
+## 2026-09-29 — 2. Questions to the First Minister / Freedom of Information and Access to Personal Data
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772831](https://record.senedd.wales/Plenary/16264#C772831)
+
+Diolch, Brif Weinidog. The right to information is meaningless if citizens have to fight public bodies to simply obtain information that they're legally entitled to. Your own Government recognises the statutory deadlines for freedom of information and subject access requests.
+
+So, I have a very simple question: does the Welsh Government actually monitor whether devolved public bodies in Wales are complying with those legal obligations, and, if so, will you publish that information? Because, if your Government doesn't even know which public bodies are repeatedly failing to comply with the public's right to information, how can you credibly claim that transparency in Wales is being reinforced, rather than merely advertised?
+
+## 2026-09-29 — 7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C773069](https://record.senedd.wales/Plenary/16264#C773069)
+
+Deputy Minister, for most women, giving birth is supposed to be the moment when they finally hold and care for the baby they have carried for months. But, when a baby is born premature or is seriously unwell, that moment can instead mean an incubator, alarms, wires and the mother suddenly feeling that everyone else knows how to care for her baby better than she does. A mother should never feel like a visitor at her own baby's bedside.
+
+So, I welcome the progress being made through the Bliss baby charter, because family-centred care must mean mothers and families being listened to, informed and genuinely involved in their baby's care, but Bliss themselves tell us that there are main areas of neonatal care and family support desperately needing attention. So, Deputy Minister, beyond accreditation and targets, how will you measure what really matters—whether mothers across neonatal units in Wales actually feel supported, involved and able to be a mother to their new baby?
+
+## 2026-09-30 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773486](https://record.senedd.wales/Plenary/16265#C773486)
+
+Deputy First Minister, I have another piece of correspondence that I'm making public for the first time today: our exchange about the veterans and armed forces covenant. In June, I asked you for something very simple, namely measurable outcomes—has veteran homelessness fallen, have healthcare waiting times improved, are veterans finding employment more successfully, and are they accessing housing more quickly. Your response listed programmes, pathways, meetings and future work, but, Deputy First Minister, an activity is not an outcome. A programme existing is not evidence that it is working.
+
+You told me that specific performance measures were something you were planning to raise with the UK Government, that the UK veterans strategy offered a potential way forward, and that further measures would be explored. We are now several months further on, so I'm asking you again: can you give this Senedd just one measurable outcome showing that veterans in Wales are materially better off because of the armed forces covenant on housing, homelessness, healthcare or employment? Will you now commit to publishing Welsh performance measures against which you, as the Minister responsible, can actually be held accountable?
+
+## 2026-09-30 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773500](https://record.senedd.wales/Plenary/16265#C773500)
+
+I'm sticking to the parliamentary code of practice, so I can't answer back.
+
+Deputy First Minister, in June, when I scrutinised the cost of your childcare—
+
+## 2026-09-30 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773509](https://record.senedd.wales/Plenary/16265#C773509)
+
+No, I've got a lot to go through today, but the law is the law and the judgment was issued on 16 July. So, hiding behind the EHRC is not going to cut it. [Interruption.] Shall I carry on with the second question?
+
+## 2026-09-30 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773512](https://record.senedd.wales/Plenary/16265#C773512)
+
+In July, when I scrutinised the cost of your childcare commitment, you told this Chamber that my questioning baffled you. You even suggested that I should do a little bit of reading. Well, I remain baffled by your bafflement, because scrutiny eventually extracted something rather important. Your £375 million mid point became a potential funding range of £250 million to £500 million a year. I would be delighted to do a little bit more reading if your Government would finally publish the numbers.
+
+Deputy First Minister, let us leave the personal remarks behind and deal with the maths. What is your Government's latest fully modelled annual cost of delivering this commitment? What provisions are you asking the finance Minister to make in the forthcoming budget? What measurable benchmarks will you use to demonstrate that hundreds of millions of pounds of taxpayers' money has delivered the promised outcomes? Because the budget cannot be baffled by the maths and eventually the numbers have to add up.
+
+## 2026-09-30 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773524](https://record.senedd.wales/Plenary/16265#C773524)
+
+Diolch, Ddirprwy Lywydd. Deputy First Minister, I want to put you on notice from the outset: my questions today will be direct, so I respectfully ask you to address the questions rather than the person asking them.
+
+In June, I wrote to you asking seven specific questions about the implementation and protection of women's sex-based rights in Wales. For the first time, I'm making that correspondence public. I asked what action your Government would take, what timetable you would follow, what instruction would be issued to public bodies, how women's sex-based rights would be protected in practice, and whether existing Government policies and guidance would be reviewed. You answered none of those seven questions directly. You are the Cabinet Minister responsible for equality and human rights. More than three months later, women are entitled to something more than general assurances. Women do not need another statement of principle; they need implementation. So, I'll ask you again: what has your Government actually done to implement women's sex-based rights in Wales? What has changed? What instructions have been issued? And by what date can women expect those rights to be protected consistently in practice?
+
+## 2026-09-30 — 9. Short Debate: The importance of local services—Protecting the future of Withybush hospital
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773962](https://record.senedd.wales/Plenary/16265#C773962)
+
+Thank you, Claire, for bringing forward this important debate. I know how close Withybush is to Claire's heart, but this is an issue that should unite every corner of this Chamber, because access to healthcare should never depend on where in Wales you live.
+
+For people living in rural Wales, distance is not just an inconvenience. When you are frightened, in pain, in labour or facing a medical emergency, distance can become a clinical reality. A hospital like Withybush is therefore more than bricks and mortar; it is reassurance. It's the knowledge that, when something goes wrong, skilled professionals and essential care are within reach. And we must remember the staff too: the doctors, the nurses, the paramedics, the support teams, who understand these communities and have built their lives around serving them. People living in rural Wales should not have to accept poorer access to healthcare simply because of their postcode. We hear repeatedly about bringing care closer to home. Well, protecting viable local hospital services is precisely what 'closer to home' should mean. Withybush matters because rural communities matter, and access to timely, safe healthcare must never become the privilege of geography.
+
+## 2026-10-06 — 1. Questions to the First Minister / The Childcare Offer
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C775875](https://record.senedd.wales/Plenary/16313#C775875)
+
+Prif Weinidog, last week your Deputy First Minister told me that childcare must be flexible for families and deliverable for providers. Yet, when I asked what this expanded offer will actually cost, she told me that the figures will only become clear in the forthcoming draft budget. But flexibility has a price tag. Longer hours, greater capacity, rural provision and the workforce to deliver it cannot be paid for with aspiration. So, how can your Government promise parents a flexible childcare offer when it still cannot tell them or this Senedd what the fully modelled policy will cost? Surely you cost the flexibility before you promise it, rather than promise it first and work out the bill afterwards. Because however flexible the promise, First Minister, the budget remains stubbornly inflexible. Eventually, the numbers will have to add up. So, please reassure us that Welsh parents will not be left quite as baffled by your childcare maths as your Deputy First Minister apparently was by mine.
+
+## 2026-10-07 — 10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C777019](https://record.senedd.wales/Plenary/16314#C777019)
+
+Thank you, Ben, for allowing me to join your debate today. Holyhead should be a warning about what happens when strategic infrastructure is admired in speeches but neglected in practice. In 2024, Holyhead handled more than 85 per cent of Wales's lorry and unaccompanied trailer traffic to and from Ireland, yet, when the port closed, the vulnerability of this vital economic artery was exposed for everyone to see. The previous Labour Government had years to strengthen the infrastructure around it. Instead, Wales was left talking about the A55 resilience, Menai crossings and freight capacity after the weakness had already been exposed.
+
+Now, the new Welsh Government promises to strengthen port resilience. Fine, but resilience is not a slogan, it is roads, crossings, contingency capacity and investment. So, my question is simple: what will this Government actually deliver at Holyhead, by when, and how will it measure it? Because Wales does not need another strategy describing the opportunity, we need a Government capable of seizing it.
+
+## 2026-10-13 — 7. The Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) (Amendment) Order 2026
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778684](https://record.senedd.wales/Plenary/16315#C778684)
+
+Diolch, Ddirprwy Lywydd. The Legislation Committee agreed its report on this draft Order on 28 September and noted the Welsh Government's response the following week. Our report includes one technical reporting point made under Standing Order 21.2(v) as a matter that needs further explanation. The reporting point highlights that, in the preamble to the draft Order, the enabling powers listed include section 19(4) of the Children and Families (Wales) Measure 2010. However, the explanatory memorandum does not include section 19(4) of the 2010 Measure amongst the enabling powers. The Welsh Government's response clarifies that the preamble to the Order is correct. The Welsh Government has since laid a revised explanatory memorandum to correct the Order. Diolch.
+
+## 2026-10-13 — 8. Legislative Consent Motion: The Armed Forces Bill
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778638](https://record.senedd.wales/Plenary/16315#C778638)
+
+Diolch, Ddirprwy Lywydd. I'd like to begin by thanking my fellow committee members for their work on the legislative consent memorandum, which was laid before I was elected Chair. The committee has considered 15 memoranda since June 2026. It has been a significant body of work. Our report on this memorandum raises issues that are common to many of those other memoranda. I will begin by addressing those common themes.
+
+The Welsh Government's view on whether the Senedd should grant consent to the relevant provisions in a Bill is an important part of the legislative consent process. It helps Senedd committees to come to an informed view about the legislative consent memorandum. Unfortunately, like every other memorandum laid by the Welsh Government to date, this memorandum did not include a recommendation on consent. The reason given in the memorandum was that the Welsh Government needed to analyse the wider impact of the UK legislative programme for Wales before it could come to a view. The same approach was taken across the first eight memoranda laid by this Welsh Government. We do not accept that a decision to carry out an analysis of the impact of the UK Government's legislative programme is an acceptable reason for not including a consent recommendation in a memorandum. We note the Counsel General's assurances that these eight memoranda were laid during the particular circumstances of a King's Speech coinciding with the formulation of a new Welsh Government. The Welsh Government has since agreed its principles on UK legislation in devolved areas. We hope these will now be used when the Government is determining its recommendations on consent.
+
+We eventually received the Deputy First Minister's recommendations on consent on 24 September, four months after the Bill was reintroduced. Standing Orders state that legislative consent memoranda should normally be laid within two weeks. Not one memorandum laid by this Welsh Government to date has met that deadline. This memorandum was laid a little over five weeks after the reintroduction of the Bill. In her response to our report, which we received at 16:13 yesterday, the Deputy First Minister states that this is because the new Government needed to consider this Bill in detail. The Bill was reintroduced very shortly after the Senedd election. We accept that this is likely to have implications for the ability of the Welsh Government to adhere to the two-week deadline. However, officials working under the previous Welsh Government had already carried out a legal analysis of the Bill during the sixth Senedd, before it was subject to a carry-over motion. And, as I have noted above, there was no recommendation on consent from the Deputy First Minister. We therefore see no reason why the memorandum could not have been laid within two weeks of the reintroduction of the Bill.
+
+I will now move on to the specific issues relating to the Bill before us today. First, on consent: we agree with the Welsh Government's assessment in the memorandum about which provisions require the Senedd's consent. Second, on delegated powers: the Welsh Government's principles on UK legislation in devolved areas state that powers to make subordinate legislation in devolved areas should be conferred on the Welsh Ministers alone. The principles also state that, where powers are conferred onto the Secretary of State and the Welsh Ministers concurrently, there should be a duty for the Secretary of State to seek the consent of the Welsh Ministers before exercising them. However, there are a number of provisions in the Bill that confer subordinate legislation-making powers in devolved areas on the Secretary of State alone.
+
+One such power enables the Secretary of State to change which Welsh public bodies are subject to the covenant duty. The Secretary of State must consult the Welsh Ministers before exercising these powers. The Deputy First Minister requested that this be changed to a duty to obtain consent of the Welsh Ministers. The UK Government declined. The Deputy First Minister wrote that, while she favours a consent requirement, she does not anticipate circumstances where changes would be made to the duty or guidance without sufficient consultation. Can the Deputy First Minister guarantee that Welsh Ministers will be meaningfully consulted about the changes to the scope of the Bill or to the statutory guidance by this and future UK Governments? More fundamentally, the UK Government has declined to address a matter that appears to be a red line for the Welsh Government. Given this breach of the Welsh Government's principles, can the Deputy First Minister clarify why she's recommending that the Senedd gives its consent to the Bill? Diolch.
+
+## 2026-10-14 — 5. Welsh Labour Debate: Palliative and end-of-life care
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C779029](https://record.senedd.wales/Plenary/16316#C779029)
+
+There are some areas of public policy where we can talk comfortably about budgets, targets, frameworks and commissioning arrangements. But end-of-life care is ultimately about something much more fundamental. It's about how we treat another human being when they're at their most vulnerable and how we allow families to spend those final irreplaceable moments together.
+
+For me, this is deeply personal, because I did not get to say goodbye to my father. And anyone who has experienced that will understand that there are some moments in life that simply cannot be recreated later. There is no second opportunity for a final conversation, no second opportunity to hold somebody's hand, no second opportunity to say what you wanted to say. That is why the quality of care in those final days and hours matters not only to the person who is dying, it matters profoundly to those who are left behind. Good palliative care provides dignity to the dying, but it also gives families something extraordinarily important: time, support and the opportunity for closure. We cannot change death, but we can change the experience of dying, and that is why the situation facing hospices across Wales should concern every one of us in this Chamber.
+
+Hospices in Wales support around 20,000 adults and children affected by terminal illness every year. Yet around 70 per cent of the cost of hospice care is funded through charitable donations, and Hospice UK has told us that an estimated 10,000 people in Wales already have unmet palliative care needs—already. Yet demand is projected to increase by a further 21 per cent by 2050, whilst hospices simultaneously face rising staffing, national insurance and operational costs. So, this is not a crisis somewhere over the horizon. There is unmet need today, and we are asking the same services to prepare for substantially greater demand tomorrow.
+
+We are already seeing the consequences. Nearly 30 per cent of Welsh voluntary hospices surveyed are reducing in-patient beds or wider services because of financial and workforce pressures. And this is not an abstract national statistic for those of us in north Wales. At St David's Hospice in Holyhead, a four-bed in-patient unit has been temporarily closed. Four beds might sound insignificant on a Government spreadsheet, but a hospice bed is not simply a number. It may be the place where somebody spends their final night, where a husband says goodbye to his wife, where a daughter holds her father's hand, where a family has one final conversation with somebody they love. So, when we talk about losing four beds, four hospice beds, we are potentially talking about four families losing something they can never get back. And there is another important point here. Allowing hospice provision to deteriorate does not make the need disappear. Community services, hospice services, can support people closer to home, prevent unnecessary hospital admissions and relieve pressure on an NHS already under enormous strain. Fail to fund care properly in one part of the system and the human and financial cost simply appears somewhere else.
+
+The Welsh Government provided £3 million for hospices in 2025-26, and committed to developing a sustainable funding solution. But Hospice UK and Hospices Cymru estimate that £30 million in additional funding is required during the remainder of this Senedd term. So, my question to Government is straightforward: where is the sustainable settlement? Hospices cannot recruit and retain specialist staff on warm words, they cannot keep in-patient beds open with another announcement, and families facing the most difficult days of their lives should not also have to wonder whether the care they desperately need will actually be here.
+
+We spend a great deal of time in this Chamber arguing about priorities. Surely, there can be few greater tests of ours than how we care for people at the end of their lives. For the person dying, it's about dignity. For the family, it's about compassion, the time, the chance to say goodbye. And for those left behind, those final moments can become memories carried for the rest of their lives.
+
+For those reasons, Llywydd, I will be supporting the motion before us today and I urge Members of the Chamber to do the same. I know what it means not to have that goodbye, and that is why I want other families to have the opportunity that I did not, because there are many things that Government can postpone, but a final goodbye is not one of them.
+
+## 2026-10-20 — 9. Legislative Consent Motion: The Cyber Security and Resilience (Network Information Systems) Bill
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C780113](https://record.senedd.wales/Plenary/16317#C780113)
+
+Diolch, Lywydd. I thank the committee for its work on this legislative consent memorandum. Last week, I spoke in the debate on the consent motion for the Armed Forces Bill. The committee's report on the Cyber Security and Resilience (Network and Information Systems) Bill contains many of the same themes. We received the Cabinet Minister's response to our report last Thursday. While the committee may disagree with the responses to some recommendations, we nonetheless welcome the timely responses and we encourage other Welsh Ministers to follow suit.
+
+The committee agrees with the Welsh Government's assessment about the provisions in the Bill that require the Senedd's consent. However, in our report, we ask whether consent should also be sought for clause 37(7) of the Bill. Changes to the relevant consultation requirement under clause 37 could affect a code issued by the Secretary of State under clause 36, and the Cabinet Minister believes consent is needed for clause 36. But the Cabinet Minister considered that the regulation-making power in clause 37(7) falls short of meeting the consent test in Standing Order 29.1. He told us it is not possible to conclude at this stage that the regulation-making power would be used to make provision that would affect consultation with regulators on codes of practice. He was also unable to conclude that, as a result of the changes made to the consultation requirements, provision would be made that would affect how regulators in Wales exercise their functions.
+
+The Welsh Government's view on whether the Senedd should grant consent to the relevant provisions in a Bill is an important part of the legislative consent process, because it helps the Senedd committees make an informed decision on a consent motion. This memorandum did not include a recommendation on consent. We eventually received the recommendation in a letter on 28 September, in which the Cabinet Minister said that, as a result of engagement with the UK Government, he could now recommend the Senedd does consent to the relevant provisions in the Bill. We acknowledge this letter in our report, but we were not given full details of the inter-governmental discussion, and so we asked for those details. It is disappointing that, in responding to our report, the Cabinet Minister has only gone as far as to say the Welsh Government is satisfied that the Bill provides appropriate safeguards. So, we still don't have the details we requested.
+
+The Bill confers several delegated powers on the Secretary of State to act in devolved areas. Members will be aware that, in July, the Welsh Government published its principles on UK legislation in devolved areas. The fourth principle states that delegated powers in UK legislation, including Henry VIII powers, should be conferred on the Welsh Ministers alone. The principle further states that any departure from this position needs to be justified by exceptional circumstances on a case-by-case basis. The committee could not identify the exceptional circumstances. In the memorandum, the Cabinet Minister himself calls them broad delegated Henry VIII powers. Members may know that the House of Lords Delegated Powers and Regulatory Reform Committee performs a similar role to that of the Legislation Committee. That committee has deemed two powers in the Bill, which are relevant to the Senedd's consent decision, as unacceptable. Again, the Cabinet Minister's responses to the committee's fifth and sixth recommendations are disappointingly sparse on detail. We asked for an explanation for the apparent breach of the Welsh Government's principles in relation to each delegated power in the Bill that may be used in a devolved area. The Cabinet Minister does not consider that the Welsh Government's principles have been breached and the committee has not received the explanations it asked for.
+
+As for the report of the House of Lords committee, we thought it was fair to give the Cabinet Minister an opportunity to reflect on the concerns of that committee, and we invited him to comment. The Cabinet Minister did not comment, stating that the UK parliamentary committee is entitled to its views and it's the responsibility of the UK Government to consider those views. The Cabinet Minister may wish to reflect on his written response to the committee's report in his closing remarks. Diolch.
+
+## 2026-11-04 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782706](https://record.senedd.wales/Plenary/16421#C782706)
+
+It's not public to all. If you write on social media, other people can see it.
+
+## 2026-11-04 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782713](https://record.senedd.wales/Plenary/16421#C782713)
+
+Deputy First Minister, I'm beginning to think that you may be Reform's greatest asset in this Chamber. Whenever we raise an uncomfortable question, you seem to determined to demonstrate precisely why it needs asking.
+
+Anyway, this is my last question, you'll be relieved to hear. You recently admitted that there has been painfully little change in child poverty in Wales, and that deprivation is actually deepening. Around two in five children in Wales were living in income deprivation in 2024. Yet, when I questioned you in September, you told me your child poverty strategy still needed a tighter focus, measurable targets and milestones, and that you were working on what those targets should be.
+
+Deputy First Minister, children cannot live on strategies, taskforces and targets that Governments are still designing. So, give me something measurable today: by the end of this Senedd term, by exactly how much will your Government reduce child poverty in Wales? Because if you cannot give us a number, how will anyone know whether your strategy has succeeded, and whether we'll simply—let me finish—be back here in four years discussing another strategy for the same failure?
+
+## 2026-11-04 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782740](https://record.senedd.wales/Plenary/16421#C782740)
+
+Diolch. Deputy First Minister, let me set the scene for my scrutiny today. Last time we met across this Chamber, just before the recess, there was rather a lot of hyperventilation, but unfortunately no opportunity for me to intervene and challenge what you were saying. It appears that sometimes diversity stops where diversity of thought begins. So, I intend to use my parliamentary time today to ask what I was not afforded the time to ask then. So, let us keep the temperature down, focus on the substance and answer the questions actually being asked. So, let me begin with the first one: during that debate on the face coverings, you defended the wearing of the burqa on grounds of religious freedom. Can you identify the specific verse in the Koran that unequivocally requires a Muslim woman to cover her face?
+
+## 2026-11-04 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782743](https://record.senedd.wales/Plenary/16421#C782743)
+
+No, I ask you. Just answer the question now.
+
+## 2026-11-04 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782745](https://record.senedd.wales/Plenary/16421#C782745)
+
+And I stood up actually and asked you—
+
+## 2026-11-04 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782750](https://record.senedd.wales/Plenary/16421#C782750)
+
+Answer the question.
+
+## 2026-11-04 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782780](https://record.senedd.wales/Plenary/16421#C782780)
+
+Minister, my responsibility is to scrutinise you and, as you refused the question, to enlighten you. There is no such requirement in the Koran. And let me tell you something, that is precisely the distinction you failed to make because women are entitled to have that distinction discussed without Ministers branding the debate itself as intolerant.
+
+That brings me to the second question. During that debate, you chose to compare Reform's position with the persecution of Jews in 1930s Germany and invoked the Nuremberg law. I have since been contacted by a Member of the Jewish community in Wales, Beth, who has expressly authorised me to raise her words in this Chamber. She writes, 'I'm Jewish and I found Miss Williams's words offensive in the extreme.' She describes your comparison as a false equivalence, which, in her words, minimises the horrors of the Nazi regime and says that using the persecution of the Jews in the 1930s to score political points was hard to listen to. But there's something else. Beth tells me that she cannot put those concerns directly to you because you've blocked her on social media. She said she's never sworn at you or been abusive. Deputy First Minister, you invoked the persecution of Jews to condemn your political opponents. A Jewish woman is now telling you that she found your words profoundly offensive, and she says you have denied her every opportunity to tell you so directly. So, I ask you a very simple question: will you apologise to Beth, unblock her, and listen to a Jewish woman whose history you chose to invoke? [Interruption.] I know the truth hurts. Or does your celebrated commitment to diversity and inclusion end once again where diversity of thought begins?
+

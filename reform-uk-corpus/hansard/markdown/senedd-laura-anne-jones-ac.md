@@ -1,0 +1,512 @@
+# Laura Anne Jones AC — Senedd contributions
+
+61 contributions, 11,940 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-05-12 — 3. Nomination of the First Minister under Standing Order 8
+
+*Speech* · [https://record.senedd.wales/Plenary/16033#C762370](https://record.senedd.wales/Plenary/16033#C762370)
+
+Dan Thomas.
+
+## 2026-05-19 — 3. Statement by the First Minister: The First Minister's Priorities
+
+*Speech* · [https://record.senedd.wales/Plenary/16053#C762494](https://record.senedd.wales/Plenary/16053#C762494)
+
+Diolch. Firstly, First Minister, congratulations. I'm sure every single person in this Chamber wants you to do well for the sake of our country. However, I have huge reservations about whether you can achieve the best outcomes for Wales with the path that you're going down.
+
+In regard to agriculture, what does the title 'Cabinet Minister for Rural Resilience and Sustainability' actually mean? The farmers in my new constituency of Sir Fynwy Torfaen are rightly concerned that there is no mention of farming, no mention of agriculture, and that matters, coupled with the fact that agriculture was not even mentioned in your six key priorities for government yesterday, or today in your 1,387-word speech, not a mention, as opposed to Reform, for whom agriculture will always be a top priority. I just pray this is not a sign of your true intentions.
+
+First Minister, will you reassure the Chamber and farmers across Wales that you will listen to them, that you will cut bureaucracy, and that you'll focus policy on what farmers do best, and that is to feed our nation, rather than let agriculture die on the altar of net-zero dogma and unrealistic environmental targets? It sounded just now as if climate change is the top priority for your Minister here, and agriculture a mere afterthought. Don't you agree with Reform that farming and agriculture deserves to be a top priority for any Government of Wales?
+
+## 2026-06-02 — 4. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16060#C762635](https://record.senedd.wales/Plenary/16060#C762635)
+
+There is nowhere to hide now, there are no more excuses, the Supreme Court has ruled, the guidance has been published and the law is crystal clear. Can the new Welsh Government please issue an urgent statement defining what a woman is for these purposes, and give us a definitive timeline on when policies and guidance will be changed to abide by the law, so that this Senedd can finally seek to protect women and girls across Wales? Diolch.
+
+## 2026-06-09 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762964](https://record.senedd.wales/Plenary/16072#C762964)
+
+Trefnydd, when I was first elected to this place in 2003, bovine TB was a huge problem for Welsh farmers. In fact, it was one of the most urgent, pressing problems in Welsh agriculture. Fast forward nearly 25 years and it still is. The lack of progress in eradicating TB is one of the abject failures of past Governments here. In Reform, we are clear that we need a comprehensive bovine TB control strategy, we need targeted wildlife control as part of a science-led approach, as the First Minister indicated he agreed with earlier, and we need action. Being from a farming community in Monmouthshire, I have seen grown men and women on their knees crying, livelihoods destroyed because this place has failed to take the tough decisions needed to combat bovine TB. Enough of this dark cloud hanging over our agricultural industry for decades. Trefnydd, can I ask that the Welsh Government brings forward an urgent oral statement to this place, including a timetable of when you will bring forward a bovine TB strategy and the subsequent action needed after it, setting out how exactly it will be different to any previous Labour-Plaid strategy before it? Diolch.
+
+## 2026-06-09 — 4. Statement by the Deputy First Minister and Cabinet Minister for Social Justice and Equality: Priorities for Social Justice and Equality
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C763022](https://record.senedd.wales/Plenary/16072#C763022)
+
+Diolch, Deputy Presiding Officer, and diolch, Deputy First Minister. Firstly, congratulations on both of your appointments.
+
+Thank you for your statement outlining your priorities, Minister. Respect, solidarity and fairness are values that have always mattered to the people of Wales, I agree, but does that not apply to women and girls? Are you equally committed to ensuring that their rights in law are upheld, too? Do you agree with Reform that they shouldn’t have to still be fighting, in your words used in the statement, for their safety and fairness over a year since the Supreme Court ruling? It is shocking that all four of your Plaid MPs in Westminster backed a motion this week opposing single-sex services for women. This is nothing short of a complete betrayal of women and girls right across Wales. Deputy First Minister, will you condemn your Westminster counterparts for opposing single-sex services for women and girls—in refuges, in girls’ changing rooms, and so on—and perhaps amend your statement today to include safety and fairness for women and girls as also a priority for your Government? Diolch.
+
+## 2026-06-10 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763215](https://record.senedd.wales/Plenary/16073#C763215)
+
+Diolch, Minister. I'm really happy to hear your viewpoint on that and concur with what you said. TB has been a dark cloud hanging over our farming communities for far too long, and we need to see something finally happen. We all know what needs to be done, so I look forward to seeing that actually happen.
+
+My final question is on something that I think we both agree on. And credit to you, in opposition and in your manifesto, you were very supportive of getting rid of the ridiculous farming-by-calendar nitrate vulnerable zone rules. And rightly so, because farmers cannot control the weather like that; it's just common sense. And anyone who's actually spoken to a farmer—something, I'm sure again, that the last Government seemed to be very poor at—understands how impossible that it is.
+
+The devil is in the detail here, so I would like to hear today exactly what you think should happen to NVZs, outlining a clear timescale as to when we will move to that different approach, assuming it's like the one that was outlined in the Bolton review into water quality. So, will you take this opportunity today to tell us exactly when farming by calendar will end and the new position will begin? Diolch.
+
+## 2026-06-10 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763235](https://record.senedd.wales/Plenary/16073#C763235)
+
+Thank you. I think your comments are very welcome there. You seem to be totally committed to actually listening to farmers, which, I'm afraid to say, is not what the last Government did. It was far more environmentalists, rather than farmers who are actually going through this scheme and dealing with the scheme on a day-to-day basis. Yes, the unions have been very good at helping with filling in forms, but it's not really a job that they should have to do, so that bureaucracy needs to stop. We need to press upon you that urgency, again, to learn those lessons and have them enable that change before 2027.
+
+During the election, your party also promised a science-led, targeted approach to tackling bovine tuberculosis. This is something our party wholeheartedly supports. However, there are farmers with serious mental health issues living under TB restrictions right now, who need to know when you're going to deliver this. The electorate trusted you to deliver this, and I know you understand the urgency of finally getting to grips with bovine TB. Farmers need answers today, Minister. Can you outline how your approach to tackling TB will differ from previous strategies, and when can farmers see meaningful action, with the emphasis on action, to finally get to grips with bovine TB in Wales? Diolch.
+
+## 2026-06-10 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763244](https://record.senedd.wales/Plenary/16073#C763244)
+
+Diolch, Lywydd. Firstly, Minister, congratulations on your appointment. During the election, your party made a very clear commitment to review the sustainable farming scheme. You've just released a statement—literally, just now—that confirms what we all already knew, and that the take-up for the SFS is only around 50 per cent. Despite the SFS not being centred around food production, as Reform would like to see, you must agree that the scheme is far too complex, the compliance requirements are far too rigid, and the paperwork is, quite frankly, bonkers. For many farmers, the uncertainty and the unknown are simply too big a risk. Some farmers feel punished for staying on the old scheme, when the new one is simply not flexible enough for them to enter.
+
+What we need to see is a more flexible, commonsense approach, perhaps with less restrictive requirements, a broader menu of options to choose from, rather than having to complete the full suite of what are restrictive requirements, with farm assurance, perhaps, being the golden ticket, so that more farmers can participate rather than being shut out by requirements that are, quite frankly, through no fault of their own, unattainable.
+
+The figures you released today prove that there is a huge difference in take-up of different types of farms: 65 per cent, I think, of take-up in Gwynedd, and we're seeing 35 per cent, for example, in Monmouthshire, which says a lot, and I know you'll understand why. Farmers need certainty, they need security going forward. You've made a promise to the Welsh electorate to have this review. We need to know, Minister, when this review will begin, so that we can see that breakdown of why take-up is so poor. And will these changes be in place by 2027, because they absolutely need to be? Diolch.
+
+## 2026-06-10 — 8. Short Debate: From legal clarity to practical reality: Implementing women’s sex-based rights in Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763434](https://record.senedd.wales/Plenary/16073#C763434)
+
+Could I firstly thank my colleague Cristiana Emsley for bringing forward this short debate today? It's been very thoughtful, and I concur with everything that she said and with what Natasha Asghar just said. The first short debate of this seventh Senedd, and what an important and pertinent one it is. It's simple. In Reform, we support what are basic rights for women and girls in Wales. We support the Supreme Court's ruling that sex means biological sex in equity law, because it's important for safety, for dignity and for fairness. This is the law, as Cristiana rightly says. It is crystal clear. Why should women and girls have to be fighting still for rights already enshrined in law?
+
+As the former chair of the cross-party group on sport in the last Senedd, I want to know from the Minister when will you make it clear to sporting bodies in Wales that fairness and safety in sport are important. It is the law to abide by it, and women and girls in Wales should have the right to single-sex, safe, fair sport. Women and girls don't deserve more delay.
+
+And I want to thank, once again, Cristiana, for bringing forward today's debate. Yes, we have asked you, Minister, a lot of questions on this in the last week, but, Presiding Officer, that's because Reform thinks it's important, and we think women and girls in Wales are important. Diolch.
+
+## 2026-06-23 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764466](https://record.senedd.wales/Plenary/16076#C764466)
+
+Trefnydd, the law is the law. You say that you respect the Supreme Court judgment, so when will we see you fulfil that obligation and protect the rights of women and girls across Wales? It's time for dates now, and I would like to ask for a statement that reflects that, outlining your immediate planned actions in this regard. Diolch.
+
+## 2026-06-23 — 4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Priorities for Rural Resilience and Sustainability
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764531](https://record.senedd.wales/Plenary/16076#C764531)
+
+Diolch, Deputy Presiding Officer, and diolch for your statement, Minister. We have seen recently what has happened when the current Prime Minister followed crazy net-zero dogma, piled costs onto ordinary people and forgot the communities that keep this country fed—he's been rejected for going down that path. Are these really the footsteps that you want to follow? Because this is your chance to do something different, to recognise reality and adopt a common-sense approach. Yes, we all want to look after the environment, of course we do, but that does not mean hammering Welsh farmers with more rules and requirements, more costs and more bureaucracy whilst treating food production as an afterthought. So, today, I want to press you, Minister, on some practical points.
+
+You say in your statement that businesses need access to resilient supply chains and that we must strengthen the system that brings food to people across Wales; I 100 per cent agree with that. You said that you want to promote Welsh food properly—again, of course we do—through a national food strategy for Wales. But, as usual, you've given no detail on how you would look to achieve this. We need to hear more detail on this and how you'll promote Welsh produce, not only in Wales but across the UK and abroad. You need a clear plan in place, from field to fork, so that Welsh farmers, producers, processors and retailers are all properly supported. And I agree—you need to strengthen local supply chains so that we can get more Welsh food into Welsh supply chains, into hospitals, into schools and so forth. So, as part of that strategy, what is your plan to ensure that we don't lose any more essential abattoirs?
+
+On the bureaucracy review, I welcome any serious efforts to cut red tape—we all do—but why on earth does it have to take nine months to review something that we all already know the answers to? There is a degree of urgency to this, Minister, which you recognised in opposition. Farmers need to be freed up from the pointless bureaucracy and red tape now so that they can be free to do what they do best—to farm and to produce food. When you were in opposition you voiced these very concerns, like I am now, but now you're in Government you seem to be rowing back on that urgency. Taking nine months to review this is a farce. Minister, will you commit to publishing early recommendations from this review before the nine-months process is completed?
+
+I welcome in your statement your commitment to deal with flooding, which, of course, has recently had a devastating impact on businesses, homes and communities in my own constituency, particularly in Monmouth, in Monmouthshire. What is needed are urgent practical steps to prevent flooding, particularly prevention upstream, or even dredging rivers. And I have to say, I'm looking forward to a statement on this before the summer outlining your plans.
+
+On SFS, we need an urgent, proper review into why take-up is so low, so that the SFS can be adapted and more flexible, and inclusive of all farms.
+
+Lastly, Minister, is one of your Government's priorities to put large solar farms on prime agricultural land, or would you, as Minister for farming, look to stop any significant solar farms that include prime agricultural land to ensure that we have every means possible to create that sustainable food nation, if that is indeed your intention? Diolch.
+
+## 2026-06-24 — 7. Reform UK Debate: A Welsh Rivers Act
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764993](https://record.senedd.wales/Plenary/16077#C764993)
+
+Yes, thanks, I will. [Interruption.] Okay. I'd appreciate hearing what you have to say later.
+
+I hope that you'll now take this opportunity, Minister, to support our motion today and show the people of Wales that cleaning up our rivers, seas and waterways really is a priority for your Government too. We want our motion to be the one that kick-starts real action on this, to motivate the Government and Senedd into action.
+
+The Conservatives—we fully agree with your amendment that NRW is no longer fit for purpose and able to perform its functions, which I know, actually, it wants to, but it's constrained by the amount of work, its diversity, and from being underfunded to meet those demands.
+
+And again, with the Labour amendment, there is much to agree on. What is abundantly clear is that we're all singing from the same song sheet in terms of what we want to achieve here. It is clear that we must use the powers that we have and ensure that it is this Senedd that saves our rivers, our seas, our waterways and protects them for future generations to enjoy. It is fair that Labour have mentioned the Bolton review. It's sensible, and I know that the Government and Minister stood here and already committed to looking to the findings of it.
+
+My hope is now that this Government will listen to and work with our farmers hand in hand, to get away from farming by calendar, ensure that there are those technical solutions in place to tackle pollution, which I know that the whole of the agricultural sector also wants to achieve. It is easy for people to stand here and blame farmers, but the previous Senedds are equally responsible.
+
+We welcome the UK Government's water Bill, but that alone will not bring back the clean, healthy rivers that my constituents and yours quite rightly demand. This Senedd needs to act now. It feels deeply wrong that households are being asked to pay more through their water bills while this failure continues. How can it be right that Welsh water bosses are receiving eye-watering amounts of bonuses and money whilst river pollution remains? Our rivers belong to Wales, to the communities built around them, and to future generations who should not have to ask why we allowed them to drastically decline in this way.
+
+The Welsh rivers Act would give Wales a framework to deal with the sewage discharge accountability, catchment-wide nutrient management and measurable improvements in water quality. I look forward to what the Minister has to say, and I urge all Members in this Chamber to reject amendments today that have watered down our motion, and to support our clear call for a Welsh rivers Act and to move beyond warm words and weak accountability and finally start to restore the rivers, seas and waterways that Wales should be proud of with the urgency that it requires. Diolch.
+
+## 2026-06-24 — 7. Reform UK Debate: A Welsh Rivers Act
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C765004](https://record.senedd.wales/Plenary/16077#C765004)
+
+Diolch, Lywydd. I'm pleased to bring forward our motion today that's laid before you, and formally move it in the name of Llŷr Powell and Reform. It calls for the Welsh Government to introduce a Welsh rivers Act, which is long overdue. I think that every single one of us in here agree that the state of our rivers, our seas and waterways, and the amount of pollution that is in them is totally unacceptable. I hope that it will be this Senedd, all of us here, cross-party, that will be the first to take proper action to rectify this situation.
+
+We in Reform think that culminating those actions within an Act will show our commitment as this Senedd to do this, and it ensures that we are held to account on those promises. It is heartbreaking to see the state of our rivers that run through our beautiful country and the seas that surround us full of green algae and raw sewage. Our motion is simple—it calls for sewage discharge accountability, catchment-wide nutrient management and rewards for measurable water quality improvements that are practical, reasonable and long overdue. Every Member in this Chamber knows the truth—we are failing our rivers, their wildlife, their habitats and our constituents on this.
+
+For me, this issue is close to my heart. I grew up in Usk, a stone's throw from the River Usk. When I was younger, I was fiercely proud that it was a famous salmon fishing river, with a worldwide reputation that brought tourism, life and pride to our area. Famous faces used to come to fish there, from some of the James Bonds, Billy Connolly and some royalty. The Sweet's Fishing Tackle shop there was known far beyond Wales; it had an international reputation as far as China. That was the reputation that the River Usk and Usk once had. And not only was the river fantastic for fishing, it was a wonderful place to play and for families to enjoy. I regularly played and fished there myself growing up. But now, sewage, pollution and algae have replaced the abundance of salmon and trout and the ecosystems that support them, damaging tourism, local pride, wildlife and leaving children now entering our river at their own risk.
+
+And sadly, the River Usk in my constituency is not an isolated story; it's a problem that blights the whole of Wales, as my colleagues and I'm sure others across this Chamber will outline further during this debate. The national evidence is damning. Natural Resources Wales has warned that the resilience of freshwater ecosystems has not improved since the last 'State of Natural Resources Report' in 2020. Salmon are now predicted to be locally extinct in some of our Welsh rivers by 2030. And only 40 per cent of water bodies in Wales are classed as being good or in better overall condition. So, this Welsh rivers Act that we are proposing today is an urgent response to serious and measurable decline after years of inaction by Governments at both ends of the M4.
+
+Looking at the amendments, we see Plaid's. We can fully agree with most of the shared aims that we both want to, clearly, achieve, but do we really need the full devolution of the water sector to achieve this, when we already have the powers here in Wales that just haven't been used properly? And how long would that take? How long would that take? We have a body in NRW that is far too under-resourced and performs way too many functions to fully concentrate on our waterways and give them the attention they deserve and need.
+
+Having looked at the supplementary budget, I can't see any indication of your intention to clean up water in there, and wonder why the Minister did not mention this in his speech yesterday where he outlined—[Interruption.] I can quote what you said. You said that children and families deserve clean waterways, which they do, but you did not go into detail on that, Minister.
+
+## 2026-06-30 — 1. Questions to the First Minister / Food Security
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765344](https://record.senedd.wales/Plenary/16078#C765344)
+
+3. What action is the Welsh Government taking to strengthen food security? OQ64317
+
+## 2026-06-30 — 1. Questions to the First Minister / Food Security
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765355](https://record.senedd.wales/Plenary/16078#C765355)
+
+First Minister, I welcome your answer on the importance of food security, and it's good to see that you're thinking about it. But you cannot, on the one hand, say that food security matters, it's your aim, you have a plan that would require as much farmland as possible, and then, on the other hand, allow prime agricultural land or food production land to be taken out of food production and used instead for large-scale solar developments. So, First Minister, which is it that you want?
+
+## 2026-06-30 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765530](https://record.senedd.wales/Plenary/16078#C765530)
+
+Trefnydd, all Labour MPs, including my own Monmouthshire MP, Catherine Fookes, and Torfaen's Nick Simpson—Thomas-Symonds, sorry—voted in Westminster recently to support a trial pushing—offering, sorry—puberty blockers, life-altering drugs to children. It's abhorrent. And yet, they've also backed banning social media for under-16s, because children are supposedly not mature enough to use it responsibly. So, they are saying on the one hand that children are too immature to scroll on their phones, but mature enough to consent to irreversible life-altering decisions about their bodies and fertility. I hope that, Trefnydd, you will agree with me that this trial is nothing short of state-sponsored child abuse. So, may I request a statement from the Welsh Government stating its commitment to safeguarding Welsh children from such drugs in this UK Government-led trial, as I believe it's in the Welsh Government's power to take Welsh children out of the sickening experiment on vulnerable children? Diolch.
+
+## 2026-07-07 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16083#C766481](https://record.senedd.wales/Plenary/16083#C766481)
+
+Diolch, Lywydd. Trefnydd, a comprehensive school in my constituency has decided to remove skirts as a uniform option for all girls from its uniform policy, due to a few girls spoiling it for the many by hitching their skirts too high. If a minority of pupils were not following the rules, surely those select few pupils should have been disciplined, instead of removing the skirt option for every girl. This seems more like collective punishment rather than a reasonable solution. Boys still appear to have a choice of uniform that they wear, whilst girls have had the choice taken away from them. This doesn't seem right and, quite frankly, I think sends the wrong message. What makes this even more concerning is that the school says that it values the student voice, yet has acknowledged that the majority of pupils were against this decision. The strength of feeling from parents has also been very clear on this, so I'm hoping the school still will change its mind on this. So, will the Minister for education make a statement outlining what guidance the Welsh Government gives schools on fair and proportionate uniform policies? Diolch.
+
+## 2026-07-08 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C766905](https://record.senedd.wales/Plenary/16084#C766905)
+
+Diolch, Lywydd. Minister, can I take this opportunity to, firstly, urge you to make any key policy announcements before the Royal Welsh Show here in this Chamber, in this Senedd, in the right and proper place to do so, so that everybody across this Chamber has the opportunity to scrutinise any key policy before the summer recess?
+
+Minister, Plaid have previously backed carbon budgets that explicitly state that achieving net zero by 2050 requires a reduction in livestock numbers. The former Climate Change Committee recommended that livestock numbers in Wales be reduced by 19 per cent by 2033. The UK Climate Change Committee has just taken this even further now, which has been accepted by the Westminster Government, outlining that, post 2033, meat consumption should be reduced by 25 per cent by 2040, 35 per cent by 2050, that dairy consumption should be reduced by 20 per cent by 2035, and that cattle and sheep numbers should also be reduced by 27 per cent by 2040 and 38 per cent by 2050. Can you give Welsh farmers today a cast-iron guarantee either way that Plaid and you will or will not be accepting or adopting the recommendations of both of these climate change committees as I've laid out—'yes' or 'no', Minister?
+
+## 2026-07-08 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C766916](https://record.senedd.wales/Plenary/16084#C766916)
+
+Well, that's surprising, Minister, considering your obsession with hitting left-wing ideological climate targets, that you wouldn't adhere to those recommendations by, particularly, the UK Climate Change Committee. But I'll take it, that is good news, and we will hold you to account on that, Minister, that you have no intention to reduce livestock numbers, openly or through the back door, because that obviously flies in the face of past Plaid policy and what your Westminster colleagues are saying.
+
+Does that mean instead that we can look forward to an announcement before next week, before the Royal Welsh Show, here in the Senedd, on how you will encourage more food production, more consumption of meat in Wales, as well as increase livestock numbers, because both the farmers and the unions and Reform want that? Perhaps, Minister, we can also look forward to an announcement next week that you will tackle TB once and for all, and that perhaps you'll also introduce a suckler cow premium, which would really help the industry in this regard. Is that your intention?
+
+## 2026-07-08 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C766932](https://record.senedd.wales/Plenary/16084#C766932)
+
+Thank you, Minister. Diolch. Farmers need that reassurance. I agree with my colleague across the Chamber that they need that reassurance, preferably before the Royal Welsh Show, on TB, because it is absolutely decimating our industry and it has farmers crying on their knees. It needs to be tackled, and it needs to be tackled now.
+
+Now, an easier one, Minister: sheep scab. Sheep scab is a highly contagious disease, caused by mites, which costs the sheep industry millions in Wales and remains a significant threat to animal welfare, our environment and productivity. Not helped, of course, by not controlling the spread of bracken. The current dip wash used for sheep has clear risks attached to it given the toxic chemicals in it, but I'm aware of new technology, Clear Dip, that would take the risk out of sheep dip, treating it at the point of use, with diazinon being captured for safe disposal on site, which is better for farmers and better for sheep. I'm sure you'll agree, Minister. Having talked to the National Sheep Association last week, it seems to be a viable alternative, not that expensive, better for the environment, and better for sheep welfare. Minister, is Clear Dip something that you think the Welsh Government should support and that you think should be rolled out across Wales? Diolch.
+
+## 2026-07-15 — 1. Questions to the Cabinet Minister for Health and Care / NHS Services in Sir Fynwy Torfaen
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768015](https://record.senedd.wales/Plenary/16086#C768015)
+
+1. What action is the Welsh Government taking to improve NHS services in Sir Fynwy Torfaen? OQ64391
+
+## 2026-07-15 — 1. Questions to the Cabinet Minister for Health and Care / NHS Services in Sir Fynwy Torfaen
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768021](https://record.senedd.wales/Plenary/16086#C768021)
+
+Diolch. In order to improve services for all in my constituency and across Wales, we need to ensure that we protect women's rights in line with the Supreme Court ruling that sex means biological sex, therefore protecting single-sex wards, toilets and changing rooms. We all know the case of the Darlington nurses, so this is crucial to prevent these situations not only for patients, but for staff. Language in the NHS is also important. Women and girls menstruate, women breastfeed, men don't. In health, this is important. Sex means biological sex. Facts are important. Let's cut the nonsense. Minister, will you now look into urgently making changes in our Welsh NHS in line with the ruling to protect women and girls in Wales, as they've already begun to do in other parts of the UK?
+
+## 2026-07-15 — 2. Questions to the Cabinet Minister for Local Government, Housing and Planning / Social Housing
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768212](https://record.senedd.wales/Plenary/16086#C768212)
+
+5. What action is the Welsh Government taking to meet its social housing targets? OQ64420
+
+## 2026-07-15 — 2. Questions to the Cabinet Minister for Local Government, Housing and Planning / Social Housing
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768220](https://record.senedd.wales/Plenary/16086#C768220)
+
+Diolch, Minister. Following on from what our Reform spokesperson has already said, I would like to urge you further to have annual targets so that any progress on delivering those 20,000 social homes can be easily tracked. We all know that Rome wasn't built in a day, but we would like to know how many homes will be built in Wales in a year.
+
+Minister, following alongside those aims to get people into social housing as soon as possible, I was wondering whether the pots of money currently given to registered social landlords to adapt old stock—current old stock—to meet the demand and needs of those on current waiting lists will continue.
+
+## 2026-07-15 — 7. Reform UK Debate: Bovine TB
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768308](https://record.senedd.wales/Plenary/16086#C768308)
+
+We also recognise in our motion that wildlife is a source of infection, and that's what's been the missing action. Along with higher standards and everything else that farmers accept, it is a significant part of the problem that now, finally, needs to be addressed. Too often, farmers are falsely portrayed as if they do not care about animal welfare or the environment; nothing could be further from the truth. Welsh farmers are amongst our greatest animal lovers and environmental custodians. They do not want to see any animal killed unnecessarily. Our motion recognises the complexity of bovine TB, with the multiple routes of transmission, as well as the infection from wildlife, but we must recognise and accept that wildlife is a source of infection.
+
+We need to incorporate culling in our plan, but, unlike England, we want to see a more targeted, science-led approach that will identify only wildlife and sets that have TB, not a blanket approach, targeting all sets. This, of course, will save wildlife and save unnecessary killing, and also it will help eradicate the disease arguably better than with the approach in England. If the technical advisory group recommends it, that recommendation must be given full consideration—it just must. The evidence already out there shows that this is likely to be a key element for success in ridding Wales of this cruel disease once and for all.
+
+I'm sure you'd agree, Minister, that we need to look at, firstly, focusing these wildlife control efforts in areas with the highest level of bovine TB disease—in Monmouthshire, Pembrokeshire, Ceredigion and so forth. Local evidence showing us where this disease is prevalent should be used to identify those sets and show us where the action is necessary. This will, in turn, protect healthy badger populations, safeguard and save healthy cattle and give farmers in the worst affected areas and communities a chance to break that cycle of infection.
+
+For years, after successive Labour Governments, farmers were given strategies, consultation reviews and warm words, and Labour's amendment today shows that they have still not learned that lesson. After 27 years in Government, nearly three decades of failure in tackling this disease, they want the Chamber to congratulate them for a so-called partnership approach and point to statistics suggesting it's improving. But I invite those who feel this way to attend livestock farms, to visit farms and actually listen to farmers, as everyone across Wales wants bovine TB gone for good, recognising the devastation it causes and the urgency to tackle this.
+
+Farmers living through repeated breakdowns, restrictions and slaughter of healthy cattle will not recognise the rosy picture that you present. We are calling for a targeted, evidence-led approach in areas where bovine TB is most severe. Farmers have already paid too high a price for previous Governments not taking that action. They need a plan that works, they need a timetable. Let's be bold with our aims. Let's try to stop cattle, badgers and wildlife having to die unnecessary and painful deaths from TB.
+
+We now have a Minister that agrees that we can no longer skirt around what we all know to be true—that wildlife is part of that problem. We now have a Minister who has said in this Chamber that he would not be afraid to take those difficult decisions if that's what the science points to. We now, finally, have consensus and an agreement across this Chamber that an urgent, different approach needs to be taken to rid Wales of bovine TB. The majority of us agree now that we need a targeted approach and that we need to take these difficult decisions to protect wildlife, save healthy badgers, healthy cattle, and save our farmers from further mental torture.
+
+This is it. This is the time. This is the Senedd to make a significant difference to our farmers and our rural communities. Minister, if you back our motion today and you heed the cry from our rural communities who need real action, Reform, and other parties in this Chamber, I know, will back you, and we will be behind you 100 per cent. We have a responsibility to do this for future generations, and the ultimate responsibility, of course, lies on your shoulders. I hope today that you'll use this opportunity to state your clear intentions, to make an announcement with firm, clear plans and a timetable for action. We are grateful for your warm words to date on this, Minister, but now is that time for action. Let us be the Senedd and you be the Government to change this. I urge you to all come together across the Chamber today, ahead of the Royal Welsh Show next week, and the local shows in your constituencies this summer, and vote collectively for a motion that will send a strong, reassuring message to our agricultural industry that we are ready to take those tough, grown-up decisions, based in reality and science, that will mean we can finally support our farmers, save animals and rid Wales of this cruel disease once and for all. Diolch.
+
+## 2026-07-15 — 7. Reform UK Debate: Bovine TB
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768325](https://record.senedd.wales/Plenary/16086#C768325)
+
+Diolch, Lywydd. I move our Reform motion today in the name of Llŷr Powell.
+
+This has been a long time coming. I believe that, finally, we have the consensus across this Chamber on how we need to and why we need to tackle this cruel bovine TB disease once and for all. I do so in the spirit of seriousness and responsibility, having seen grown men and women, farmers, on their knees crying due to their cattle being slaughtered by previous Governments' failure to tackle this devastating disease.
+
+Bovine TB is not a party political problem. It is one of the top and one of the most pressing and painful issues facing our agricultural communities still today—not according to just me or my party, but according to the entire rural communities across Wales. When I was first elected to this place in 2003, bovine TB was already devastating Welsh farms and had cast a dark cloud over the industry. Over two decades later, farmers are still living under that same dark cloud, watching healthy cattle taken away, enduring endless restrictions and seeing family businesses and family members pushed to breaking point. I think we can all agree across this Chamber that the present strategy and past strategies have not worked. We cannot keep doing the same thing and expecting different results. We all know what needs doing. Our farmers are calling for a fresh start on this, and a bolder, targeted approach led by science.
+
+This disease causes enormous financial damage, but the emotional toll is harder to measure. Coming from a farming family and community in Monmouthshire, I have seen the reality. I've seen the pain and the hardship it causes—watching cattle they have bred, reared and cared for being taken away to be slaughtered, in many cases unnecessarily. And on that, tests have to be improved. They have to be clearer. They have to be more accurate. For those who haven't seen it in their own communities, they may have seen the recent Clarkson's Farm episode of a cow being taken away for slaughter that was carrying twin calves, which were also killed, because of a test that came back as inconclusive, not definitive.
+
+This is the cruel reality of what our farmers are having to deal with. And this isn't a stand-alone case. The toll that this has taken on some of our Welsh farmers has led them to take their own lives. It is not only the cost to human lives, but the cost to animal lives that must be considered. We must also account for the enormous cost to the public purse. Minister, how much has bovine TB cost Wales every year? How much has decades of failure to tackle this disease already cost the Welsh taxpayer, and how much more will it cost Wales if your Government follows in the previous footsteps of past Governments by failing to do what's necessary?
+
+## 2026-07-15 — 8. Welsh Conservatives Debate: Deposit-return scheme
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768380](https://record.senedd.wales/Plenary/16086#C768380)
+
+Diolch, Deputy Presiding Officer. We do indeed have a lot to be proud of here in Wales, don't we? Credit where credit’s due: in terms of recycling, we are absolutely brilliant and world leaders, and kerbside particularly. And if our system to recycle glass ain't broke, why are we fixing it? Reform are not opposed to a deposit-return scheme, but we do argue whether it's actually necessary to do something different for the sake of it. We support practical measures to reduce litter, to improve recycling and protect our environment. We are in sole support of this motion today, and we are opposed to the Welsh Government's decision to create a system separate from the United Kingdom.
+
+This is where the scheme goes from a sensible idea to bureaucratic eco-madness. We are standing on the edge of yet another economic disaster cooked up right here in the Cardiff Bay bubble. The Plaid Cymru minority Government, backed by the leftovers of left Labour's failed policies, is about to push through a scheme so detached from reality that it would be funny if it wasn't dangerous. Now on paper, it sounds lovely, doesn't it? We're going to help the environment. But let's look at the reality. Under their plan, when you buy a drink, you pay a mandatory deposit, and you only get it back if you drag your empty bottles and cans back to the shop. But here's the kicker, the absolute madness that perfectly sums up this establishment in Cardiff Bay: they have insisted on including glass in the Welsh scheme, completely isolating Wales from England, Scotland and Northern Ireland. Think about what that actually means. England, Scotland and Northern Ireland will operate one broadly aligned system, whilst Wales insists on going its own way. This is classic Plaid-Labour politics, making Wales different simply for the sake of being different. People will be buying drinks in Hereford, Chester, Bristol and bringing them back to Wales, whilst businesses will be expected to understand and administer different rules depending on which side of the border they happen to stand on.
+
+The industry itself has warned that this ideological stubbornness opens up a massive risk of cross-border fraud, with the British Soft Drinks Association warning of a potential £300 million fraud risk because our politicians wanted to look virtuous instead of being practical. It is an open invitation for exploitation. And who pays for this? The hard-working people of Wales, who are already battling a brutal cost-of-living crisis. The British Soft Drinks Association has explicitly warned that forcing glass into the scheme could add up to 50p to the cost of a single bottle of drink—50p on one single bottle. Executives from Tesco, Sainsbury's and Coca-Cola have written to the First Minister, warning that this scheme could cause higher prices and a severe reduction in consumer choice. Major brands are already looking at Wales and saying it's not worth the hassle. They are not going to print separate, expensive Wales-only labels just to satisfy Cardiff Bay. Our supermarkets will have emptier shelves and our Welsh families will have emptier wallets. It is terrible news for our economy.
+
+What about our independent retailers? Our shopkeepers are expected to become waste disposal sites. Wine merchants on the border have already said they are deeply concerned about expanding or investing in Wales because the red tape involved in keeping separate Welsh and English stock is completely unaffordable. Cardiff Bay is punishing the very people who keep the Welsh economy alive. And for what? What is the environmental grand prize here? Wales already has, as I've said, world-class kerbside recycling—credit where it's due. Our communities already recycle over 90 per cent of their glass through normal household collections. The system works. But instead of leaving it alone, this Government wants to dismantle a working system. It wants to force elderly residents, busy parents, those who are disabled to load heavy glass into their cars and drive to a supermarket machine just to get their own money back. This does not reduce carbon emissions. It increases them. Think of all those unnecessary and increased car journeys. It's classic Plaid virtue signalling in its most arrogant and absurd way.
+
+Deputy Presiding Officer, the whole roll-out is a complete and utter mess. With less than 15 months until the October 2027 deadline, the Government has not successfully appointed an administrator even to run this scheme. It rejected the only realistic industry applicant because it was blinded by its own dogma. The rest of the UK is using Exchange for Change, but the Plaid Welsh Government rejected it. [Interruption.]
+
+## 2026-07-15 — 8. Welsh Conservatives Debate: Deposit-return scheme
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768479](https://record.senedd.wales/Plenary/16086#C768479)
+
+The Minister just outlined that that is factually incorrect, and I will take that, then. [Interruption.]
+
+## 2026-07-15 — 8. Welsh Conservatives Debate: Deposit-return scheme
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768480](https://record.senedd.wales/Plenary/16086#C768480)
+
+Yes, and you'll explain that. That's great.
+
+If Wales has no compatible scheme in place when the rest of the UK launches, Welsh consumers could be charged a 20p deposit with no easy way to reclaim it unless they cross the border into England. That would turn a refundable deposit into an effective 20p drinks tax on the people of Wales. It is walking straight into the same catastrophic collapse we saw when Scotland tried and failed with this.
+
+Let me clear on Reform's position: we are not against a deposit-return scheme; we are against a separate glass-heavy scheme that creates higher cost, greater bureaucracy and needless divergence from the rest of the United Kingdom. A UK-wide scheme for cans and plastic bottles is one thing, but dragging glass into it, despite warnings, is just silly. We need to unshackle Welsh business from excessive over-regulation. We need to stop treating Welsh consumers like cash cows and ideological experiments. It's time to throw this broken glass policy in the bin where it belongs, align with the rest of the UK, and start focusing on policies that actually grow our economy, lower people's bills and support local business. We will be supporting the Conservative motion today. Diolch.
+
+## 2026-09-15 — 3. Statement by the First Minister: Weather, wildfires, drought and resilience
+
+*Speech* · [https://record.senedd.wales/Plenary/16260#C769130](https://record.senedd.wales/Plenary/16260#C769130)
+
+Good afternoon, First Minister, and diolch for your statement. Unfortunately, like the rest of your 100-plus days of Government, your response to this emergency was nothing but a complete let-down, and your lack of action since has been an enormous disappointment, causing anguish amongst farming communities across Wales. Your statement screams of 'too little, too late' and begs the question of whether this Government is truly fit for purpose and knows what it's doing. But what is clear is that our farmers deserve better.
+
+I'd like to take a moment to pay tribute to our firefighters and our armed forces personnel who came to our rescue and stood beside our hero farmers, which you do not mention in this speech, who worked day and night—[Interruption.]—who worked day and night to try and contain those fires. However, firefighters felt ill-prepared to deal with the very specific fire that is a peat fire, with apparent calls by the Fire Brigades Union for an emergency summit, which went unnoticed. You yourself, First Minister, didn't attend a COBRA meeting until 12 August, when fires had already been burning for weeks. This crisis has exposed a Government that is not prepared for emergencies whatsoever. The question needs to be asked as to why it took so long to react to the wildfire outbreaks. Why didn't you have more input to ensure that the alert message was bilingual? Those first few hours were crucial, and this Government's failure to act has cost our nation not just a hefty financial cost, but also cost us dearly in an environmental context. It wasn't until 14 August that the military assistance was requested, at which time there were 30 incidents being dealt with across our nation. The list is long. There's just one thing after another, which shows this Government's incompetence.
+
+I'm holding in front of me a map that your Government produced, which shows major incidents in Wales, yet it doesn't even include the Blorenge common, which you stood on hours after I did. You saw the devastation with your own eyes. You know that it was the longest burning fire in the whole of Wales. You called in your armed forces to help there, you called in fire services from all over the country to help there, yet your office produces a map that doesn't even include it. There was no help and no aid for the first important hours there, so instead farmers and landowners were throwing themselves onto the front line, risking their lives with no help. If they on Blorenge mountain weren't included on that map, I really would like to ask you, First Minister, what criteria would make them be declared a major incident?
+
+Now, let's look at what we do know. Bad agricultural policy over the last three decades has done nothing but fuel this crisis. The question on everyone's lips is: First Minister, will you be able to bring that lot behind you to do what is necessary? We need to revert agricultural policy back to common sense and proven farming methods that prevent fires.
+
+It is abundantly clear that the climate-change-obsessed, extreme environmental lobby has dominated policy in Wales for three decades, resulting in the devastation that we've seen over the summer. Livestock have been killed, habitats destroyed and carbon-capturing peatlands lost for decades. We need firebreaks. We need fire ponds, as you've just admitted in your own speech. They are the most effective way of tackling fires in our uplands. We need more livestock on our uplands, not less. They are the natural firebreak makers. We need to control rampant bracken. It's absolutely essential. It's turning our mountains into a tinderbox. Where it can't be eaten, where it can't be safely burned or rolled, we need a way to manage it. First Minister, can you assure us today that you will do all in your power to reduce these fuel loads, create those firebreaks, which you admit are needed, and accelerate new technology to get bracken under control, alongside ensuring that the sustainable farming scheme does everything within it to support our farmers in the rehabilitation of these lands, as they will play an instrumental part in bringing them back?
+
+I've spoken to farmers north and south only this morning who have had complete radio silence from this Government. Where is that support? It's just not good enough. You've announced two summits, but I'm baffled as to why our farmers and commoners won't be sat around that table with you, like you personally promised them on the Blorenge. They're the experts, they know the uplands better than any—[Interruption.] I'm sorry, Minister, I've spoken to them this morning and they are not involved. [Interruption.] No, I'm sorry. They are the experts, they know the uplands better than anyone. It is not just nice to involve them; it is absolutely essential that they are if we're going to get an operational plan in place to truly prevent the scale of devastation that we've seen this summer.
+
+First Minister, will you guarantee today that the farmers and commoners who are on the front line will be sat around that table in the summit? I'd love you to guarantee that. Will you launch an immediate educational awareness campaign targeting arson and human error, instead of hiding behind the excuse of climate change? This is what started the fires, not climate change, coupled with bad agricultural policy. You need to recognise this, and you need to act accordingly. Diolch.
+
+## 2026-09-22 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770945](https://record.senedd.wales/Plenary/16262#C770945)
+
+To be fair, you, like me, Trefnydd, have been an advocate for ensuring children and young people get to school safely and happy, and I'm sure that you'll agree with me that the first priority of governments at every level should be to protect children's and young people's well-being and not leave them anxious and worried. This policy of getting as many pupils as possible onto public buses rather than school buses is majorly flawed. It may work in urban areas, but it certainly doesn't work in rural areas, where routes like the Usk to Monmouth are long and winding, with national speed limit roads. Children packed in like sardines, standing for 40 minutes, is just not acceptable, and I'm sure you'll agree with that. But, sadly, this was the case in Monmouthshire on the first day of term, with multiple parents and pupils contacting me, with issues—similar issues, actually—flagged all over Monmouthshire and Torfaen. How can we possibly be in a situation where children have to have their own seat and even wear a seat belt for school trips, but this is acceptable?
+
+Cost-cutting exercises by councils—and we all know they're strapped for cash—should never come at the expense of children's safety and well-being. Trefnydd, on that note, I would like to request an urgent statement from the Cabinet Minister responsible as to when this policy will be reviewed to ensure all children and young people get to school safely, on time and ready to learn. Diolch.
+
+## 2026-09-29 — 1. Nominations for a Committee Chair
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772802](https://record.senedd.wales/Plenary/16264#C772802)
+
+Can I propose Cai Parry-Jones?
+
+## 2026-09-29 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772946](https://record.senedd.wales/Plenary/16264#C772946)
+
+Trefnydd, I would like to request a statement on the shameful neglect of some of Wales's most treasured historic sites, including our Roman remains in Caerwent, known to the Romans as Venta Silurum. These remains are hugely impressive, and the Roman city there is one of the most significant structures in Wales and Europe, dating back nearly 2,000 years. That makes their condition even more disgraceful, that what should be a source of national pride is now being swallowed by weeds—nearly 2,000 years of history left to deteriorate under successive Governments' watches here. As you know, Trefnydd, these sites are vital to our history, education and tourism in Monmouthshire and across Wales. Bizarrely, I asked for an urgent meeting with Cadw about their condition, and was told to ask you first for permission for a meeting. I'm not sure if that's normal. Trefnydd, can I request a statement from you on the upkeep of historic sites in Wales? And can I cheekily use this opportunity to invite you there yourself to see the disgraceful condition that they're in? Diolch.
+
+## 2026-09-30 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773585](https://record.senedd.wales/Plenary/16265#C773585)
+
+I hope you're more than considering it because it's absolutely completely unworkable, and you know that as well as I do. Not only is dropping the BPS funding by 1 per cent the right thing to do, but by not doing that and pushing ahead with this 20 per cent cut, you're putting our Welsh heritage, our Welsh culture and Welsh language at risk, as well as our national security. You said all the right things in opposition, Minister, didn't you? But now you seem to be struggling to say them and do them as the Minister. I know you've agreed with me in the past that the BPS trajectory needs to be a much more gradual, tapering trajectory—your words, not mine. Now you're in Government as the Minister able to do this, you're backtracking. You said in black and white in this Chamber that you thought that it should be a more just transition—again, your words. So, tell me: will you do it?
+
+## 2026-09-30 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773593](https://record.senedd.wales/Plenary/16265#C773593)
+
+Diolch, Deputy Presiding Officer. Firstly, Minister, I want to say 'diolch' to you too for your recent announcements, finally injecting some common sense into Labour's ridiculously rigid nitrate vulnerable zones rules. It's of course welcome and long overdue, as are advance payments for the basic payment scheme and the sustainable farming scheme after such a difficult summer.
+
+But bringing forward that money does not give farmers a penny more overall, and it does not address the downward trajectory of the basic payment scheme. Lawfully, we are all, of course, aware that you have to bring down BPS payments, but it is in your power, Minister, as to how much. Many are struggling on the 60 per cent of the BPS original 2025 value. Now dropping it to just 40 per cent would literally signal the end of most family farms in Wales. As I am, you must be aware that the majority of the 51 per cent remaining on the BPS are those small family farms that you claim to want to protect. Pushing ahead with this cut, with SFS remaining wholly unsuitable, inflexible and unworkable, is playing literally Russian roulette with their livelihoods. Minister, you need to make the SFS workable, and fast, and you need to put protections in place to help those that remain on the BPS. So, would you consider dropping the BPS by just 1 per cent, as opposed to the further 20 per cent, unless of course you do want to be the Minister responsible for the genuine end of family farms across Wales?
+
+## 2026-09-30 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773595](https://record.senedd.wales/Plenary/16265#C773595)
+
+Well, you're putting family farms in Wales at risk, Minister, by saying that. I hope that you do recognise that, currently, on the SFS, people cannot get on it whether they want to or not.
+
+I'd like to bring back to what Sarah Edwards, one of my colleagues, has just asked you in the Chamber. I, too, am aware of the extremely worrying circumstance that Green GEN Cymru surveyors appear to be arriving unannounced on farms to survey land, with huge machinery, and, not only that, they are not even adhering to their own biosecurity measures, with no checks in place to ensure that they are. This is genuinely concerning. This is not about whether you agree with windfarms or not, Minister. Most of these farms have had bovine TB or are at high risk of it. This is not a theoretical concern either; the High Court has already found Green GEN lacking in terms of their biosecurity measures. Without the right measures in place here, there is a real risk of disease like TB being spread farm to farm, and I'm not even mentioning the other environmental concerns that the people of the Towy valley have. Don't you agree with me, Minister, that we cannot have a situation where rural communities in west Wales have to spend hundreds of thousands of pounds to ask a court to help them to merely protect their own farms? Farmers need protection in place. They need support on this, Minister. Green GEN Cymru and contracted surveyors need to adhere to the rules to protect our farms. Will you work with the Cabinet Minister for Enterprise, Connectivity and Energy to ensure this happens, please, and perhaps even visit the Towy valley to meet with the communities there that are so concerned? Diolch.
+
+## 2026-09-30 — 4. 90-second Statements
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773699](https://record.senedd.wales/Plenary/16265#C773699)
+
+Diolch, Ddirprwy Lywydd. A wonderful old school friend of mine and a constituent, Matthew Cox, was diagnosed in 2025 with motor neurone disease, a cruel terminal illness that progressively takes away the ability to move, speak, swallow and breathe. Faced with that devastating diagnosis, Matt has chosen to turn that negative into a positive and devote his energy to helping others with MND now and in the future. Matt's warmth and generosity has always been extraordinary; now, so has his determination.
+
+He has chosen to complete a number of marathons to help reach his goal of £100,000—which you can follow on his Instagram, @matthewjamescox—driven by his want to give money to the charities that have supported him after his diagnosis, that have helped him when he's felt so lost. This included the MND Connect helpline, which was literally, I believe, a lifeline for him and many others facing this cruel disease. He completed the London, Leeds, Welsh and, recently, the Great North Run marathons, where he doubled the distance he walked every time, which is an incredible accomplishment.
+
+My plea to this Government, and to this whole Senedd, is to help ensure that support is there for every family facing this devastating disease. Matt, you're giving others hope, and I'm proud to call you my friend.
+
+## 2026-10-06 — 1. Questions to the First Minister / NHS Care
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C775886](https://record.senedd.wales/Plenary/16313#C775886)
+
+5. What progress has the First Minister made on improving timely access to NHS care? OQ64675
+
+## 2026-10-06 — 1. Questions to the First Minister / NHS Care
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C775889](https://record.senedd.wales/Plenary/16313#C775889)
+
+First Minister, I'm sure you'll agree with me that when it comes to dentistry, it's important to drill into the data. Recent data shows that only 40 per cent of people were treated under an NHS dentist, a 40 per cent drop since 2020. It is very difficult for anybody now to access NHS dental treatment. Your own health Minister admitted in a committee recently that he faces a 60-mile round trip to see his dentist. When the flawed new dental contract came into force on 1 April, five practices in my area of Monmouthshire Torfaen stopped providing NHS care. Access to NHS dentists is absolutely vital, otherwise Wales will face more dental problems further down the road. What are you going to do about it, First Minister? Will you finally involve practising dentists to try and help solve this problem? The lack of accessibility to NHS dentists is now out of control.
+
+## 2026-10-06 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C776069](https://record.senedd.wales/Plenary/16313#C776069)
+
+Trefnydd, in a free society, we show our faces. It's how we recognise each other, it's how we trust each other, it's how we talk to each other. A nurse needs to see their patient, a teacher needs to see their parent at the school gate. For public safety, it's important. Reform's position is clear: we would ban the burqa and every other full face covering in public. Trefnydd, could we please have a statement setting out the Welsh Government's position on this? I know this matter falls outside the Senedd's powers, but if the Welsh Government will be making representations to the UK Government on Wales's behalf, it would be beneficial for this entire Senedd to understand your position on this. Also, feel free to sign our petition on this. Diolch.
+
+## 2026-10-06 — 4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C776105](https://record.senedd.wales/Plenary/16313#C776105)
+
+Yes, sure.
+
+## 2026-10-06 — 4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C776107](https://record.senedd.wales/Plenary/16313#C776107)
+
+Cars are not a luxury.
+
+## 2026-10-06 — 4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C776111](https://record.senedd.wales/Plenary/16313#C776111)
+
+Cars are not a luxury for most people, Minister—they're a necessity.
+
+## 2026-10-07 — 2. Questions to the Cabinet Minister for Local Government, Housing and Planning / Housing Growth
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776753](https://record.senedd.wales/Plenary/16314#C776753)
+
+—it's not. Diolch.
+
+## 2026-10-07 — 2. Questions to the Cabinet Minister for Local Government, Housing and Planning / Housing Growth
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776792](https://record.senedd.wales/Plenary/16314#C776792)
+
+6. How does the Welsh Government ensure infrastructure keeps pace with housing growth? OQ64672
+
+## 2026-10-07 — 2. Questions to the Cabinet Minister for Local Government, Housing and Planning / Housing Growth
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776794](https://record.senedd.wales/Plenary/16314#C776794)
+
+Diolch. Minister, most communities in my constituency are already stretched to the limit. It's already hard to get a GP appointment, seeing an NHS dentist is almost impossible, and schools already have too many children in the classroom without the right support, yet more homes are being approved without the infrastructure there to support them.
+
+We all want to see more housing as soon as possible, as has been said today, but there has to be some common sense attached to it. I know this has been brought up quite a number of times today in this Senedd, and I want to just reiterate points made by the Member for Carmarthenshire and the Member for Fflint Wrecsam, because my constituency shares those same pressures, and that's why I welcome the consultation that is open right now. But how do you envisage better infrastructure planning around new housing developments? And, as you develop the new national development framework following the consultation, will you work with local authorities to look to reform planning policy to ensure that any large housing developments are only approved where there is the necessary infrastructure already in place, or there is clear funding commitment to deliver it alongside the housing? As you've said today, that should be happening, but as you know and I know and this Chamber knows—
+
+## 2026-10-13 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778480](https://record.senedd.wales/Plenary/16315#C778480)
+
+Good afternoon, Trefnydd. Since questioning the First Minister on NHS dental care last week, I have had countless constituents and people across Wales get in contact. One said that they have waited unsuccessfully since 2019 to get back on an NHS list, now facing £800-plus for root canal treatment. Another says they finally secured NHS care, only to be restricted to emergency treatment due to the new dental contract. Another says their practice has gone private, demanding £264 a year just for membership fees. This is the reality of your fundamentally flawed dental contract. A new dental school is welcome, of course it is, but it is the contract that needs reworking, and this Government needs to listen, as I said last week, to practising dentists to make the contract fit for purpose. A lack of NHS dental care is now a national emergency, and I believe this requires an urgent statement on the floor of this Senedd or a debate to address this. Diolch.
+
+## 2026-10-13 — 4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778539](https://record.senedd.wales/Plenary/16315#C778539)
+
+Thank you for your statement, Minister. Natural Resources Wales has warned of a higher risk of flooding this year than last year, with one in seven homes and businesses in Wales at risk. People are being told to prepare, but what your Government has outlined today just doesn't cut it, sadly, and fails to reassure those affected by flooding year on year. We already know where the flooding will be. Communities are already doing everything they can to prepare, but I do agree that there does need to be greater awareness of tools that are available to alert to flood warnings. But, across the border, the Government has set out £4.2 billion for flood defences and also set out what emergency resources they will provide, including 260 mobile pumps, 250 km of temporary barriers and so on. Welsh communities deserve that level of clarity. So, my first question is: where is the detail in the statement, Minister?
+
+At the end of the day, it'll be no surprise to anyone here that there will be a lot of rain in Wales this winter. Call it what you like: El Niño, the end of the world, whatever, but what we do know is that there will be weather that will cause floods this year. What we're trying to establish in Wales is how prepared are we for storms like this, like the devastating storm Claudia. Why is it that communities such as Skenfrith that have been severely flooded four times in six years still don't qualify for urgent funding, when there's a clear need for it? Why is it that our precious rural villages across Wales have to build, for example, an extra 20 to 200 houses to satisfy the Government's criteria to get the urgent help that they need and deserve? I've stood in my wellies with residents time and time again, year after year, who've had their businesses or family homes destroyed over and over again. Why is it that they lose out?
+
+Reform will protect rural Wales and ensure that communities like Skenfrith won't be expected to shoulder the burden of repeated flooding in areas where successive Governments have failed to invest in proper flood defences. And to that end, Minister, can you make your position clear now on how funding will be allocated for flood defences, please?
+
+Minister, do you know what's missing from this statement? And I'm genuinely shocked that it's missing from the statement. There's no mention of flood risks that now have been created from the recent wildfires. Trenches were built, landscape was disrupted on the mountains, and now, that, potentially, will channel water downhill towards urban areas, affecting homes and businesses, for example, in Blaenavon. Yet, in Blaenavon, the commoners there have not seen a penny from Welsh Government to reduce the flood risk—no funding, no practical guidance. So, you say in your statement that
+
+'natural flood management can only succeed through strong partnership working with farmers and landowners',
+
+but where is that partnership now? Where is the financial help here? Farmers do need your help on this now, and I urge you to be proactive, Minister, on this now, and not follow in the footsteps of past Governments that have been more reactive. Diolch.
+
+## 2026-10-20 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779951](https://record.senedd.wales/Plenary/16317#C779951)
+
+Trefnydd, I would like two statements, please. I've just returned from the Welsh Dairy Show in Carmarthenshire this morning. It was a fantastic showcase of what the industry has to offer here in Wales. But it was also a great opportunity to speak to our dairy farmers and hear directly their concerns. And, on the back of that, I would like an oral statement on the dairy industry in Wales, outlining what this Welsh Government will do, and how it's working with Westminster to ensure that our Welsh dairy farmers are getting the support that they need.
+
+Secondly, Trefnydd, NHS England has now finally banned biological males from women's spaces, following the Supreme Court ruling that sex means biological sex. I would like an urgent statement from this Government reassuring this Chamber that NHS Wales will soon follow suit, because women and girls in Wales have waited far too long for these basic protections. Diolch.
+
+## 2026-11-03 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16420#C782345](https://record.senedd.wales/Plenary/16420#C782345)
+
+I'd like two statements, please, Trefnydd. Now, there's something totally wrong with socialist Governments at both ends of the M4 utterly content to give away British taxpayers' money to everyone except the British. At a time when British people are really struggling and our infrastructure is crumbling, I ask myself why on earth is Labour spaffing away £40 million in the Caribbean on green projects and is this Plaid Government wasting £60 million on the nation of sanctuary policy whilst our own Welsh people are on their knees. It has to stop. Can the Government make a statement, setting out exactly how much it gets to spend on foreign aid, foreign people and foreign projects? Because I for one think this Chamber and everyone in it deserve a proper explanation of how, in these times of hardship, you can possibly justify that.
+
+Secondly, I'd like to call for a statement from the Welsh Government recognising the bravery, the courage and the sacrifice of Welsh men and women who fought to suppress the slave trade—Welsh men like Robert Everett and Morgan John Rhys and our great Welsh, English, Scottish and Irish sailors that served together, united in the Royal Navy, under the British Empire, fighting to stop this evil trade. We should be proud of their courage, their sacrifice and their contribution. Will the Welsh Government affirm this in the statement, setting out how their actions will be remembered in our schools, in our museums and in our commemorations? Diolch.
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782809](https://record.senedd.wales/Plenary/16421#C782809)
+
+that deserved an oral statement in this Chamber so that everybody—because it is a collective effort—every single MS should have the opportunity to ask you questions on it.
+
+But I'll move on to my second question—[Interruption.] You've had your chance, it's mine now. Your Government is consulting on whether to replace or scrap the scheme that gives the youngest pupils in our schools free milk during the day and subsidise it through to year 6 if requested. Margaret Thatcher got a lot right, but on this, she got it wrong: she should never have snatched milk out of the schools. It may have been 'Thatcher the milk snatcher' a few decades ago, but it's 'Llyr dim llaeth' now, which perhaps will be the nickname that sticks.
+
+It isn't good enough to—
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782813](https://record.senedd.wales/Plenary/16421#C782813)
+
+—just give milk to breakfast clubs, all children deserve to have that nutritional benefit, which supports our dairy farmers and local economies across Wales. Your bedfellows, Labour—
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782820](https://record.senedd.wales/Plenary/16421#C782820)
+
+—even recognised it. Can you guarantee here today that you will not scrap the scheme, which should not even be an option in the consultation? Diolch.
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782823](https://record.senedd.wales/Plenary/16421#C782823)
+
+Diolch. Minister, the devastation caused by this summer's wildfires demanded and deserved an oral statement in this Chamber post-summit to update us on the outcomes and provide us with a list of the urgent and long-term actions that you will now take, and—importantly—outline where the funding for them will come from. Instead, we got a written statement. I'm bewildered that you or the First Minister haven't made the time to come to the Chamber this week to outline that and set out what has been in the summit and face proper scrutiny. The urgency of getting preventative actions in place is paramount if we are to be as prepared as we can be for next summer. A summit is great, but now we need real, tangible action, and at speed, if we are to prevent the fires on the scale that we saw. Since September 2025, England's Countryside Stewardship Higher Tier pays for work like bracken control and firebreaks, with scope for private investment to help carry that work forward, but there is no equivalent in Wales. It will take a substantial uplift on the budget, private capital, money from our farmers and commoners' own pockets, to enable any actions.
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782830](https://record.senedd.wales/Plenary/16421#C782830)
+
+Yes, we certainly will, Minister. That consultation, as an option, takes away all children having milk or getting rid of it altogether. That should not even be an option in the consultation, Minister.
+
+Minister, I commend this Government, actually, on the work it's done in the promotion of our fantastic Welsh produce that we have on offer here in Wales, and you're 'Rooted in Wales' campaign. But if this Government is truly serious about using local produce in our schools, hospitals, public bodies, how are you going to incentivise local authorities to do that? Are you planning to subsidise the food? What is your plan, Minister? Because the biggest barrier for local authorities to use local suppliers is cost.
+
+As I previously outlined in this Chamber, in Merthyr, 99 per cent of school children—school chickens, sorry—came from Thailand and China. In Conwy, 94 per cent came from outside the UK. This is a complete shambles, and it's happening right across Wales. It's all very well and good that you're promoting local Welsh high-quality products through adverts like 'Rooted in Wales', but until you get to grips with our abattoirs, the local supply chain issues, and supporting our farmers in a way where they are absolutely able to produce food—
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782836](https://record.senedd.wales/Plenary/16421#C782836)
+
+Yes. But Minister, who should pay for these land management interventions? Will you use the SFS or another scheme to incentivise farmers and landowners to carry out these vital works? Fundamentally, would they be in place—
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782837](https://record.senedd.wales/Plenary/16421#C782837)
+
+—you won't get to grips with this.
+
+Can you update the Senedd on how you're working—
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782841](https://record.senedd.wales/Plenary/16421#C782841)
+
+—with local authorities on local procurement plans?
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782842](https://record.senedd.wales/Plenary/16421#C782842)
+
+Fundamentally, would they be in place for the hot weather in the summer? Diolch.
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782857](https://record.senedd.wales/Plenary/16421#C782857)
+
+I would love to—I will definitely take you up on that offer, Minister. I appreciate that. But that response was extremely disappointing and very wishy-washy considering the amount of time that we have left before next summer to put these actions in place. You're still reviewing and creating another view. This summit was of utmost importance. Even though it was two hours long and contributors had 90 seconds each to contribute, it was a very important summit that deserved an oral statement
+
+## 2026-11-04 — 3. Topical Questions / Dŵr Cymru
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782923](https://record.senedd.wales/Plenary/16421#C782923)
+
+Firstly, I concur with all the concerns raised by Jane Dodds, and I thank her for raising something that is a matter that concerns us all. Welsh Water's supply interruption figure was one hour, 23 minutes against a five-minute target. Serious pollution incidents rose by half and the average household bill is £683.
+
+When you chaired the environment committee, Minister, you told Welsh Water to up its game. In June, you told this Chamber that you'd asked to meet with the chief executive. Did that meeting take place? What deadlines did you secure and will you publish them so people across Wales can see when they'll get the reliable water supply
+

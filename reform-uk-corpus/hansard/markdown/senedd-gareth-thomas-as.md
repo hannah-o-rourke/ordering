@@ -1,0 +1,164 @@
+# Gareth Thomas AS — Senedd contributions
+
+23 contributions, 3,332 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-06-02 — 1. Questions to the First Minister / Disabled People’s Rights
+
+*Speech* · [https://record.senedd.wales/Plenary/16060#C762603](https://record.senedd.wales/Plenary/16060#C762603)
+
+First Minister, removing barriers and embedding disabled people's rights in law and public life must begin with a clear commitment to a social model of disability, and recognising that it is society, not impairment, that disables people. That requires a rights-based approach across government, with clear duties on public bodies to promote equality, inclusion and accessibility in everything they do.
+
+But this cannot remain at the level of intent. We need a robust disabled people's rights action plan with measurable outcomes, clear accountability and transparent reporting to this Senedd. We must also remove barriers to participation in employment, transport, housing and public services, and actively support disabled people into leadership roles. Crucially, disabled people must be central to decision making, shaping services and ensuring accessibility by default.
+
+How will these commitments be enforced? How will progress be measured? What formal role will disabled people have in holding Government to account? And with 21 per cent of people in Wales being disabled, why is there no dedicated Minister for disabled people?
+
+## 2026-06-02 — 1. Questions to the First Minister / Disabled People’s Rights
+
+*Speech* · [https://record.senedd.wales/Plenary/16060#C762627](https://record.senedd.wales/Plenary/16060#C762627)
+
+8. How is the Welsh Government removing barriers to ensure disabled people’s rights are fully embedded in law and public life? OQ64080
+
+## 2026-06-17 — 2. Questions to the Cabinet Minister for Health and Care / The NHS Estate
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C764035](https://record.senedd.wales/Plenary/16075#C764035)
+
+I thank the Member for his question and the Minister for his response, but it does not reflect the severity of what patients and staff are facing on the ground. I've been using that hospital for 30 years and I've also worked there. At the University Hospital of Wales we're seeing sewage leaks, water damage, infrastructure now 50 to 60 years old, alongside a maintenance backlog running into hundreds of millions of pounds. Staff are clear that parts of the estate are no longer fit for modern healthcare and are affecting both safety and working conditions. This is not just Cardiff. At the Princess of Wales Hospital in Bridgend we have already seen the consequences: structural failures, ward closures and disrupted services. All this sits within the NHS Wales maintenance backlog of approaching £1 billion. I ask the Minister directly: what immediate site-specific action is being taken in Bridgend and the Vale to make the highest risk buildings safe? What new capital funding will be committed? And when will patients and staff see real visible improvements?
+
+## 2026-06-23 — 6. Statement by the Cabinet Minister for Health and Care: Delivering on our priorities: Reducing waiting times and strengthening primary care
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764631](https://record.senedd.wales/Plenary/16076#C764631)
+
+Diolch. As a practising psychologist, it frustrates me that Wales spends more per person on health than in England, yet patients in Wales are still waiting months, years, for mental health treatment. The problem is how funding in Wales is used. In England, mental health investment is clearly prioritised, with around 9 per cent of the NHS budget allocated to it, rising each year and backed by enforceable standards. In Wales, there's no equivalent guarantee. Funding is less transparent, less targeted and spread across a more fragmented system. The result is that 2,000 plus adults per month are waiting six months to three years plus for therapy. Children are facing rising demand and, in many cases, hidden waiting lists before they even reach specialist care. Those that are neurodivergent wait more than two years for therapy.
+
+So, despite higher overall spending, outcomes are weaker because funding is not consistently directed and protected in a way that guarantees timely access to mental health support. Historically in Wales, they're fragmented when tracking mental health. That raises a simple but critical question: if the money is already ring-fenced for mental health and patients on waiting lists are going to come down, what specific measurable changes will the Government make to ensure that mental health funding actually delivers timely care?
+
+## 2026-06-24 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Sport for Disabled People
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764710](https://record.senedd.wales/Plenary/16077#C764710)
+
+2. What action is the Welsh Government taking to support and encourage participation in sport among disabled people? OQ64207
+
+## 2026-06-24 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Sport for Disabled People
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764713](https://record.senedd.wales/Plenary/16077#C764713)
+
+Thank you for your response. One key barrier is accessibility. Many sport facilities are not designed for disabled users—for example, lacking ramps, adaptive equipment or accessible changing rooms. This means some people physically cannot take part. This reduces participation and is one cause of social isolation, with 70 per cent of wheelchair users not leaving their homes. Another barrier is attitude and confidence and feeling stigmatised by the wider population. Due to the latter, disabled people may experience negative stereotyping or feel that they are not welcome in sports clubs. This can lower confidence and discourage them from joining, leading to a poorer quality of life. With that said, can the Government explain how it will address these ongoing inequalities, particularly in access and funding distribution, and what mechanisms are in place to guarantee that investment is delivering real, measurable change for everyday people, not just headline successes?
+
+## 2026-06-24 — 4. 90-second Statements
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764900](https://record.senedd.wales/Plenary/16077#C764900)
+
+Diolch, Lywydd. Armed Forces Week is a moment for us not only to reflect, but to recognise, promote and stand firmly behind our armed forces community. Across the Royal Navy, the Royal Air Force and the army, our service personnel demonstrate courage, discipline and an unwavering commitment to protect our nation. They stand ready to serve, often in dangerous conditions, so that we can live in safety and security. But the armed forces community is much broader than those in uniform. It includes veterans who continue to contribute to society long after their service ends. It includes families, spouses, partners, children and friends who carry the weight of the service life through separation, relocation and uncertainty. They're all part of one community and they all deserve our support. That is why we believe support must go beyond words. Promoting the armed forces community means ensuring they are treated fairly, with proper access to healthcare, housing and education. It means recognising their sacrifices in practical ways, not just ceremonial ones, because a nation that asks so much of its armed forces must be prepared to give something back. So, during this Armed Forces Week, let us do more than simply say 'thank you'. Let us show it through action, through support and through a renewed commitment to those who serve and those who have served and the families who stand beside them. Diolch.
+
+## 2026-07-07 — 6. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Priorities for social care, mental health and women's health
+
+*Speech* · [https://record.senedd.wales/Plenary/16083#C766708](https://record.senedd.wales/Plenary/16083#C766708)
+
+I echo James's words. Whilst I welcome the focus on improving social care, mental health and women's health services, many constituents have told me and continue to tell me that lengthy waiting times are having a profound impact, not only on patients themselves, but also on their families and carers. The longer people wait for assessments, treatment and support, the greater the risk their physical and mental health will deteriorate. Families are often left carrying the burden of care, and, by the time support arrives, people's needs can be more complex, requiring more intensive and costly interventions. This places additional pressure on already stretched health and social care services. As someone with a professional background in psychology, I know how important prevention and intervention is. Delays can mean the difference between managing the condition effectively and a person becoming depressed and possibly suicidal. Given these consequences, can the Deputy Minister outline how the Welsh Government will prioritise reducing waiting lists, which can be up to seven years, across social care, mental health and women's health services? And what specific measures will be taken to ensure that people receive timely assessments, treatment and support before their conditions worsen, placing further pressure on families, carers and the wider system?
+
+## 2026-07-08 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Cynnal Child Payment
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C766820](https://record.senedd.wales/Plenary/16084#C766820)
+
+Deputy First Minister, reports suggest that the Cynnal child payment pilot could cost around £10 million and support around 15,000 children across Wales, but there's still a lack of clarity about whether that funding has been formally allocated and whether it is generally new investment or funding redirected from existing anti-poverty programmes. For families in Bridgend and the Vale of Glamorgan, the important question is what this means for them in practice. Constituents facing the pressures of the cost-of-living crisis will want to know whether their children will benefit, whether their communities will be included in the pilot and what difference the payment is expected to make to household finances and child poverty locally. So, can you confirm how many families in Bridgend and the Vale of Glamorgan are expected to benefit, whether those areas will be included in the initial roll-out, and what assessment has been made of the impact on child poverty in our communities? Finally, will the Government publish local figures so that Members can judge whether Cynnal is delivering real benefits for families and value for public money?
+
+## 2026-07-14 — 2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767639](https://record.senedd.wales/Plenary/16085#C767639)
+
+Sorry, I'm just—. Thank you, Dirprwy Lywydd. Minister—. I'm lost at the moment, sorry.
+
+## 2026-07-14 — 2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767653](https://record.senedd.wales/Plenary/16085#C767653)
+
+No, no, it's all right, I've got it now. Sorry.
+
+## 2026-07-14 — 2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767660](https://record.senedd.wales/Plenary/16085#C767660)
+
+I've got two.
+
+## 2026-07-14 — 2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution / Priorities in Pen-y-bont Bro Morgannwg
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767663](https://record.senedd.wales/Plenary/16085#C767663)
+
+3. How is the Cabinet Minister working with cabinet colleagues to deliver the Welsh Government's priorities in Pen-y-bont Bro Morgannwg? OQ64379
+
+## 2026-07-14 — 2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution / Priorities in Pen-y-bont Bro Morgannwg
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767674](https://record.senedd.wales/Plenary/16085#C767674)
+
+Cabinet Minister, the Welsh Government has repeatedly identified health, education, tackling poverty and the cost of living as key priorities, yet many families in Pen-y-bont Bro Morgannwg tell me they're still facing long waits for health care, are worried about educational standards and are struggling to make ends meet as their household costs continue to rise. For many, a family holiday this summer remains out of reach. Given the clear gap between the Government's ambitions and the reality facing many constituents, what evidence can you provide that these policies are delivering meaningful improvements? And how are you working across Government to ensure departments are not operating in silos, but together delivering tangible, measurable benefits for families in communities like mine?
+
+## 2026-09-15 — 7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Putting Women, Babies and Families at the Heart of Safety: The implementation of Call for Concern in Maternity and Neonatal Services
+
+*Speech* · [https://record.senedd.wales/Plenary/16260#C769354](https://record.senedd.wales/Plenary/16260#C769354)
+
+Thanks, Deputy Minister. It's a really serious thing that you've brought to our attention with postpartum. The maternity and birth statistics for 2025 show that 35 per cent of pregnant women in Wales report a mental health condition at initial assessment. Cwm Taf Morgannwg health board had the highest rate in Wales at 39 per cent. Deterioration in mental health during pregnancy or the postnatal period can be extremely rapid. One of the main clinical messages from MBRRACE-UK, in the report last year, was that it's important to recognise and act on red flags in maternal mental health, including significant change in mental state, thoughts or acts of violent self-harm, expression of incompetence as a mother, or estrangement from the infant. Could a call for concern in maternity services be made where the concern is psychiatric deterioration, including postpartum psychosis, acute suicide ideation, or a sudden change in behaviour?
+
+## 2026-09-22 — 5. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Welsh Defence Ethical Framework
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C771058](https://record.senedd.wales/Plenary/16262#C771058)
+
+Minister, you say you don't want to delay or add uncertainty, but forcing businesses through new self-declaration processes risks doing exactly that. We have businesses like IrvinGQ in Llangeinor, working on parachute systems and naval decoys; we have Raplas Technologies in the Vale of Glamorgan, developing innovative 3D printing technology for defence. These are precisely the businesses that we should be helping to grow, not burying under paperwork. So, Cabinet Minister, what guarantee will you give Welsh small and medium-sized enterprises that the self-declaration process will be simple, proportionate and workable, and that small defence companies won't need a team of lawyers just to comply?
+
+## 2026-10-13 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778491](https://record.senedd.wales/Plenary/16315#C778491)
+
+Trefnydd, I would like to request an urgent Government statement on the independence, accountability and powers of Care Inspectorate Wales. When social services fail, accountability cannot be optional. Section 150 of Social Services and Well-being (Wales) Act 2014 sets out clear statutory grounds for intervention where a local authority fails, or is likely to fail, in the exercise of its social services functions. Section 152 then gives Welsh Ministers the power to intervene where statutory conditions aren't met. Yet, Care Inspectorate Wales exercises its functions on behalf of Welsh Ministers. That raises a serious question about whether professional independence goes far enough. Families affected by serious failures deserve a regulator whose structural independence is beyond question, with powers necessary to expose systematic problems and ensure they are acted upon. Will the Government, therefore, bring forward an urgent statement setting out precisely how it will ensure that Care Inspectorate Wales can make decisions independently of Welsh Ministers, while remaining fully transparent and accountable to the people of Wales and the Senedd? Diolch.
+
+## 2026-10-13 — 5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778601](https://record.senedd.wales/Plenary/16315#C778601)
+
+Cabinet Minister, when ice and snow arrive, disabled people are often the first to be cut off from healthcare. A wheelchair user cannot safely cross an untreated pavement, and someone who relies on accessible transport may find services cancelled without notice. Missed appointments can mean delayed treatment, and too often, a crisis that ends in hospital.
+
+Cabinet Minister, what guidance has been given to the health boards to make sure that disabled patients are offered flexible alternatives, such as home visits, rescheduling without penalty, or remote consultations where appropriate, when severe weather prevents them from travelling? And how will health boards work with local authorities and transport providers, so that routes to key health sites remain accessible throughout the winter? Diolch.
+
+## 2026-10-13 — 8. Legislative Consent Motion: The Armed Forces Bill
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778647](https://record.senedd.wales/Plenary/16315#C778647)
+
+Reform UK supports the Armed Forces Bill, and Reform Wales will be supporting this LCM. Reform in Wales will always be proud to support veterans here in Wales. The armed forces covenant is a commitment of real significance. It provides that those who have served should suffer no disadvantage as a consequence of their service, and that special provision is justified for those who are willing to make the ultimate sacrifice for this country. For those who are willing to give everything for this country, the covenant represents the country's duty and obligation to them in return. That obligation carries particular weight here in Wales. An estimated 115,000 veterans live here—although this number is likely to be much higher—representing 4.5 per cent of residents aged 16 and over, compared to 3.8 per cent in England.
+
+Local health boards and NHS trusts in Wales have been subject to a statutory duty to have due regard to the covenant since November 2022. The Bill extends that duty to the Welsh Ministers themselves and broadens its scope to include health and social care, employment, transport, social security and criminal justice. However, a statutory duty is of value only when it can be relied upon, and, in healthcare, the Welsh Government has already failed to effectively implement the covenant. Welsh health circular WHC/2023/022 provides that veterans should receive priority treatment for service-related conditions over other patients with the same clinical need, yet only 15 per cent of GP practices in Wales are accredited as veteran friendly. Veterans' NHS Wales, the dedicated mental health service for veterans, who I volunteer for, does vital work but receives only £920,000 a year. That is about £8 per veteran.
+
+The Armed Forces Bill is a welcome step forward, but it is not enough on its own. We will support the motion today because we believe in both the Armed Forces Bill and the covenant it upholds. But we will be holding the Government to account over these duties and obligations coming into effect. And we will judge this Government by the outcomes it achieves for veterans. Diolch.
+
+## 2026-10-20 — 1. Questions to the First Minister / Veterans
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779823](https://record.senedd.wales/Plenary/16317#C779823)
+
+11. How is the Welsh Government supporting the mental health of veterans in Wales who face investigation or prosecution relating to their service in Northern Ireland? OQ64774
+
+## 2026-10-20 — 1. Questions to the First Minister / Veterans
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779829](https://record.senedd.wales/Plenary/16317#C779829)
+
+First Minister, soldiers from Wales answered their country's call in Northern Ireland. Some never came home, and this Remembrance Day we will rightly honour their memory. Those deployed as part of Operation Banner witnessed violence, experienced loss and lived under constant threat. For some reason, the scars, both physical and mental, have lasted a lifetime. Today, veterans face investigation or prosecution for events that did or did not take place decades ago. They are asked to account for a split-second decision when memories have faded, records have been lost and fellow soldiers, who could speak to them, have passed away. They've lived with years of uncertainty, questioning and public scrutiny. Those who served this country deserve to know that they will not face this ordeal alone. Yet Veterans' NHS Wales receives only £8 per veteran. Will the Welsh Government review the funding of Veterans' NHS Wales, so that the Welsh veterans receive the support they deserve? And will the First Minister take this opportunity to recognise the service and sacrifice of Welsh veterans who served in Northern Ireland?
+
+## 2026-10-21 — 7. Reform UK Debate: Prostate cancer strategy
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780767](https://record.senedd.wales/Plenary/16318#C780767)
+
+Every Member here will have met a constituent who has lived with prostate cancer or a family who has lost someone to it. A man who put off seeing the GP because he felt fine. A wife who noticed something was wrong before he did. A son who now gets himself checked because his father was diagnosed too late. These are not abstract cases. They are our neighbours, our friends and, for some of us, our own families.
+
+Prostate cancer does not affect all communities equally. In our most deprived communities, most men, or more men, are now diagnosed at a later stage than at an earlier one, while men in more affluent areas are more often caught early. In practice, that means that a man's postcode can decide whether his cancer is found while it can still be treated.
+
+According to the 'National Prostate Cancer Audit State of the Nation Report 2026', diagnoses in Wales rose by 12 per cent between 2023 and 2024 to around 2,500 men. That is 2,500 men in a single year who heard the words, 'You have cancer', and 2,500 families whose lives changed in that moment. The same audit found that only 54 per cent of men in Wales with high-risk or locally advanced disease received radical treatment, compared with 69 per cent in England. Those are the men whose cancer is the most dangerous, and too many of them do not appear to have received the treatment that could have saved their lives.
+
+At the same time, 11 per cent of men in Wales with low-risk disease received radical treatment that may not have been needed, compared with 7 per cent in England, with all the lasting consequences that that can bring. The audit urges caution about the Welsh figures because of problems with data quality. Think about what that means. We cannot even say with confidence how many men with prostate cancer are being treated in Wales. That should trouble every one of us, and should be put right.
+
+We also know how hard it is for many men to come forward. Too many have grown up believing that talking about their health is a weakness, and prostate cancer often gives no warning in its early stages. Members of the Senedd have spoken with real courage about their personal experiences, and I pay tribute to them, Paul. Our party leader in Scotland has done the same. But we cannot ask men to be brave enough to come forward and then fail to have a clear plan waiting for them when they do.
+
+Men account for 54 per cent of cancer deaths in Wales. That is why Reform Wales has called for a 10-year cancer strategy, investment in modern diagnostics, targeted screening where need is greatest, and a men's health framework for Wales. So, I call on the Government to name prostate cancer in the strategy, with clear and measurable objectives included, to fix the data, so that we know what is happening to men diagnosed with prostate cancer, and to close the gap between our richest and poorest communities, so that no man is diagnosed too late because of where he lives. I urge all Members to support this motion. Diolch.
+
+## 2026-11-04 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / The Welsh Benefits Charter
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782711](https://record.senedd.wales/Plenary/16421#C782711)
+
+The Welsh Government's own progress report on phase 1 of streamlining Welsh benefits, published in April, admits that it has not been possible to establish a baseline take-up rate for council tax reduction, free school meals or the school essentials grant, and the longer term evaluation has not yet been looked at. Bridgend council took part in a Welsh Government pilot; the Vale of Glamorgan did not. The review of the pilot found that, on average, only around 15 per cent of households contacting each campaign went on to receive an award. Without a baseline, the Government cannot tell my constituents whether the Welsh benefits charter is working. Will the Cabinet Minister and Deputy First Minister commit to publishing take-up figures for each local authority and to agreeing a framework for evaluating the charter in the long term, so that progress in Bridgend and the Vale of Glamorgan can finally be measured?
+

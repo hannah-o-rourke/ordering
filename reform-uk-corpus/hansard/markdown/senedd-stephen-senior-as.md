@@ -1,0 +1,218 @@
+# Stephen Senior AS — Senedd contributions
+
+27 contributions, 4,024 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-05-12 — 3. Nomination of the First Minister under Standing Order 8
+
+*Speech* · [https://record.senedd.wales/Plenary/16033#C762217](https://record.senedd.wales/Plenary/16033#C762217)
+
+Dan Thomas.
+
+## 2026-06-02 — 1. Questions to the First Minister / Science GCSEs
+
+*Speech* · [https://record.senedd.wales/Plenary/16060#C762547](https://record.senedd.wales/Plenary/16060#C762547)
+
+4. Will the First Minister commit to offering separate physics, chemistry and biology GCSEs, and reverse the previous administration's plans to offer only combined science? OQ64074
+
+## 2026-06-02 — 1. Questions to the First Minister / Science GCSEs
+
+*Speech* · [https://record.senedd.wales/Plenary/16060#C762551](https://record.senedd.wales/Plenary/16060#C762551)
+
+I think the First Minister knows that there is a review of that over the next two years, and I'm disappointed that he can't at this stage commit to saying that he would reverse that review over a two-year period. I should declare an interest: I'm a member of the Institute of Physics, and I'm also a member of both the Association of School and College Leaders and NASUWT teaching unions.
+
+I was reminded seeing the film recently—the quite delightful film—of the First Minister singing back in 1983, and I also recall that, back in the 1980s, like myself, you probably had a choice of six or even seven subjects for O-level or GCSE. The key stage 4 curriculum has been so squeezed with so much compulsory content that this has become an issue of time for the three sciences, time for music, time for computing, time for modern foreign languages and so on. I just wonder whether the First Minister would consider looking at the wider issue of key stage 4 and how we can give our pupils more options, in terms of the curriculum, so that we can develop some of those subjects that are so important for an advanced economy.
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767114](https://record.senedd.wales/Plenary/16084#C767114)
+
+Thank you, Presiding Officer. There's a basic law of taxation that we understand. Let's have some examples. If you tax smoking, you get less smoking. If you tax jobs, you get fewer jobs. If you tax private education, as we've seen in the last few days, you get less private education. It's about time that we realised that. Wales is not exceptional. We do not have large numbers of foreign tourists who will compensate for this. Please, please think very carefully about that and support the motion of Llŷr Powell. Thank you, Presiding Officer.
+
+## 2026-07-15 — 2. Questions to the Cabinet Minister for Local Government, Housing and Planning / Local Government Pension Schemes
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768080](https://record.senedd.wales/Plenary/16086#C768080)
+
+Minister, whilst public sector pensions are not devolved, you know that the Welsh Government is responsible for oversight of local government and the £25 billion pot that is in the Welsh local government pension scheme. In recent years, there's been huge pressure from both elected members and pressure groups to divest from arms companies, from energy companies and from the banking system. Cabinet Minister, it was reported, just before the election in May, that you recently supported the Senedd Palestine pledge, which was produced by the Palestine Solidarity Campaign. That's a group connected with the Palestinian news agency, which I remind Members used to be part of the Palestine Liberation Organization, and also Stop the War, the Campaign for Nuclear Disarmament and Extinction Rebellion. So, it's got a long history of various different groups. Three of your Cabinet Ministers supported that. Minister, now you've transitioned from being a campaigner to being in Government, can you give an assurance that the Welsh Government will exert no pressure on those local government pension schemes to divest from those key defence and energy companies, which we need in this great country of ours?
+
+## 2026-07-15 — 2. Questions to the Cabinet Minister for Local Government, Housing and Planning / Local Government Pension Schemes
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768130](https://record.senedd.wales/Plenary/16086#C768130)
+
+1. What action is the Welsh Government taking to ensure that local government pension schemes are free to invest in key British defence and energy companies? OQ64395
+
+## 2026-07-15 — 7. Reform UK Debate: Bovine TB
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768341](https://record.senedd.wales/Plenary/16086#C768341)
+
+Thank you, Presiding Officer. Now, for some, this is handkerchiefs out time, because we need to talk about badgers and deer, both of which feature on the cuddly part of the animal spectrum, though I do notice that we have quite a few empty seats.
+
+I looked at some of the data on this, and I have to say, initially, when I looked at England and Wales, the data looked remarkably similar, and I thought, what's the issue? But then I looked at Scotland, and Scotland's really, really interesting. And then I looked at the regions of England, and I looked at the regions of Wales, and a light came on. I could see myself directly what the problem was.
+
+It's strange that some matters have become bizarrely and wrongly a matter of left and right, for example, bin collections and speed limits. For some reason, badgers fall into that category. It shouldn't be the case. Those in this Chamber who are perhaps vegans have a perfectly valid argument to deploy: there should be no cattle in the countryside, as they exist only for our benefit as consumers. No cattle, no badger problem. But for those of us who enjoy dairy products and meat and use leather, we know that there is a trade-off between our wishes and wildlife. The countryside that gives us a delight to be in is rarely natural. It has been created by our farmers over hundreds of years. They do a remarkable job, and we should listen to them.
+
+In a perfect world, we'd have a reliable test for bovine TB. We'd have a proven vaccination for bovine TB, which we'd use in cattle, relatively easily, and in wildlife, which is a bit more difficult to achieve. But we don't have any of that yet, so we have to deal with the situation as we find it. The facts are that in some parts of Wales bovine TB is explosive. It is true that cattle are more likely to catch it from other members of the herd, but it's also true that the first infected in the herd is likely to become infected from wildlife, and there's a clear link between the number of badgers and infection. Scotland is largely clear of bovine TB and has a very low badger population. There's evidence from England that culling badgers in those TB reservoir areas substantially reduces cases after four years.
+
+Food security should be at the forefront of all our minds, not to mention the risk of losing rare bloodlines and losing farmers with extensive knowledge and skills in dairy and beef. We should be working with farmers and vets to ensure that all diseased animals are culled early, but no matter what your view or how you came to it, the fact remains that bovines and badgers cohabit. Much effort and paperwork goes into testing cattle pre and post movement. Unfortunately, somebody forgot to send the badgers the memorandum about not moving around. In the real world, strategic culling within these wildlife reservoirs has to form part of TB management, at least for now.
+
+This is a Reform UK motion, but it's a motion to help Welsh farmers. It is an example how this expanded Senedd can work together for the good of Wales. Please support it.
+
+## 2026-09-15 — 5. Statement by the Deputy Minister for Skills and Tertiary Education: Review of Higher Education
+
+*Speech* · [https://record.senedd.wales/Plenary/16260#C769263](https://record.senedd.wales/Plenary/16260#C769263)
+
+I'd like to thank the Deputy Minister for sight of his statement. Deputy Minister, you quite correctly referred to prosperity a few times in the economy, and indeed there's a lot of evidence that the success of the economy is linked to education. We've had well-rehearsed arguments about PISA results at secondary level, but at a higher education level, I'll point to some evidence from around the world. We know that, for example, in terms of the top 100 universities, we have between nine and 14 from England, two in Scotland, with one just outside of the top 100, but alas none in Wales, and none close to being in the top 100 in Wales. Our top university comes in just above 200. Professor Prendergast has successfully run a top 100 university in Ireland, and I'm wondering whether you'd be prepared to ask this group to look at a strategy for creating a top 100 university in Wales, because we should have a top 100 university in Wales, and we need a top 100 university in Wales.
+
+## 2026-09-16 — 2. Questions to the Cabinet Minister for Finance / Recent Wildfires
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769571](https://record.senedd.wales/Plenary/16261#C769571)
+
+Minister, a fortnight ago, I attended the defence security and resilience conference in Newport, something rather naively described by opponents as an arms fair. It wasn't an arms fair. Resilience was a really key part of it, and some of these discussions we've had featured there highly in terms of flooding and wildfires. The First Minister yesterday quite rightly referred to resilience several times in his statement regarding the wildfires, and, indeed, we have a Cabinet member that has that word in the description. So, my question is, really: looking as to when these events occur in the future, and we do need to build into our land management more resilience—things like firebreaks and ponds, and so on—is the Minister prepared to talk about the financial impacts of the sustainable farming scheme, in particular, in terms of working into that scheme how we can build more resilience into our system so that we can prevent the extent of these fires in future?
+
+## 2026-09-16 — 8. Short Debate: Congestion isn't inevitable: How the Welsh Government and Cardiff Council can improve the lives of motorists in Cardiff and the surrounding regions
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769776](https://record.senedd.wales/Plenary/16261#C769776)
+
+The economy of Wales moving, absolutely. We need the Cardiff and the wider Cardiff economy to surge, and we can't. It's not happening. We have a problem, and the biggest problem is Bristol. Let's look at some facts here. We have house prices in Bristol that are roughly a third higher than in Cardiff. We have average salaries in Bristol roughly 20 per cent higher than in Cardiff. In fact, I was quite surprised that it was only 20 per cent.
+
+Cardiff has a congestion problem, but getting to Cardiff is an even bigger problem. We've only got to look over the border there and see what goes on in terms of the build around the M4 and the M5 and compare it over here, and there's not a lot, apart from some spots of Cardiff, such as not far from where we are now, where things are promising, but, in the main, we haven't built much this side of the bridge in over 25 years.
+
+We've got to address car access. We've got to address the M4 relief road, and people like us are going to keep on about it, and we're going to keep on about it, because, until we sort that M4 out, there is a real limit to what we can achieve and what we should be achieving with the capital city of this country driving economic growth across south Wales and the whole of Wales.
+
+## 2026-09-22 — 6. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Update on the Deposit-return Scheme
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C771116](https://record.senedd.wales/Plenary/16262#C771116)
+
+Thank you, Deputy Presiding Officer. Minister, this is a hospital pass that was put out by Boris Johnson's Conservative Government, passed to Labour, who embraced it in Westminster, then it came to Labour in Cardiff and now it's ended up on your desk. I think, deep down, you've already acknowledged that glass is the only real solid argument for it, and the rest of it is debatable. We don't actually need it in Wales in terms of plastic and metal recycling. It's complicated, it's going to cause problems for local authorities and it's going to be deeply, deeply unpopular. There are only 11 Plaid MSs in the Chamber at the moment, but I can guarantee you that, when this is implemented, if it is implemented—. It's two and a half years before the next election. I look over there and I see the depleted Labour ranks and I think of the effect of the 20 mph legislation. This will be Plaid Cymru's 20 mph. I would urge you, Minister, to have a good look at this. You have a point about reusing glass. You have a point on that. Maybe at some point in the future that will be viable, with energy costs being so high, but I would urge you please to look at it. And my question is—I suspect from what you've said, so I have to ask it: are you really convinced by this scheme?
+
+## 2026-09-23 — 2. Questions to the Cabinet Minister for Education and Welsh Language / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771426](https://record.senedd.wales/Plenary/16263#C771426)
+
+Thank you, Cabinet Secretary. I hear what you're saying, but there's nothing new in baseline assessment. Perhaps it'll be different from what we've had previously. [Interruption.] Yes. I mean, we can go back to 1998, and there was the literacy and numeracy framework, which never got adopted—didn't see its way through devolution.
+
+Putting that to one side, I'm going to talk about the Curriculum for Wales, because the Curriculum for Wales will be cited as having the potential to improve pupil outcomes. But last week, the Scottish Government announced its largest ever review of the curriculum up there in over 15 years, because of their poor PISA results. And unfortunately, for those who don't know, the Curriculum for Wales was largely based, not exclusively, but largely based on their Curriculum for Excellence in Scotland, as it was called. Its DNA runs right through our curriculum here. I describe it as the mashed potato of the curriculum—it's bland and of little nutritious value.
+
+Minister, since we've not yet seen the impact of the new curriculum on PISA results, and Scotland has, my fear is that matters are going to get worse, and potentially a lot worse. Will you follow the lead of Scotland and announce your own review of the Welsh school curriculum?
+
+## 2026-09-23 — 2. Questions to the Cabinet Minister for Education and Welsh Language / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771437](https://record.senedd.wales/Plenary/16263#C771437)
+
+Thank you, Deputy Presiding Officer. Cabinet Minister, let's just have a little look back over 20 years of the Programme for International Student Assessment in Wales. Back in 2006, Jane Hutt:
+
+'we can learn from the best and most effective practice'.
+
+We move on to Leighton Andrews, who, to his credit, had a bit of a crack at this, quite forthright. He talked about 'systemic failure'. A few more years to Huw Lewis—'no quick fixes'. Kirsty Williams, who was in post for quite a while:
+
+'it will take time for Welsh education reforms to be reflected in PISA results'.
+
+Well, a Liberal did get one prediction correct there. Jeremy Miles:
+
+'a renewed national focus on reading, numeracy and science'.
+
+And then, obviously, a few years later, yourself:
+
+'not where we want them'.
+
+I should say, during that period, I actually was partly responsible for administering PISA in a couple of schools in Wales, so I know a little bit about it. It's a grim tale, Minister. It feels like groundhog day for the younger Members. Perhaps that's a film well worth watching. We feel stuck in a loop. My question is: why should we think that this Welsh Government's announcements will make any difference?
+
+## 2026-09-23 — 2. Questions to the Cabinet Minister for Education and Welsh Language / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771443](https://record.senedd.wales/Plenary/16263#C771443)
+
+Okay. Finally, you touched on qualifications at 16—I'm just going to touch on those at 18. There are those who believe that PISA results are stand-alone and don't contribute to anything in particular, because we've got GCSE and A-level results. Let's just look at A-level results, because you can't really compare them to England any longer, because both GCSEs and A-levels, whilst they're branded the same, have not got the same structure, and have not necessarily got the same gradings either.
+
+But we do have comparative data for university entry, and I'm just going to focus on Cambridge University. This is not the complete picture, but when we look at some of the data published by Cambridge University, going back over a decade, a few things come to light. During the last three years, there were 325 applicants from Wales to Cambridge, and 21 per cent of those were ultimately successful. If we roll back a decade, we're at 260 applicants, so fewer applicants, but 30 per cent were successful. And I should point out the success rate for Scotland last year was just 12 per cent, and that's a real worry, because we've adopted that curriculum. It's the trend that matters—there are more applying, but fewer are successful.
+
+My question to you, Minister, is: would you commission—because I've only had a snapshot there—some independent research to see whether fewer students from Wales are successful in their applications to the competitive universities and the competitive courses?
+
+## 2026-09-29 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772941](https://record.senedd.wales/Plenary/16264#C772941)
+
+Business Manager, in July, Sam Rowlands expressed concern to you that protocols were being developed in local government that would restrict the freedom of elected members to communicate directly with Members of this Parliament. In recent weeks, there's been further evidence that councils are still pursuing this agenda. This is clearly unacceptable in any democracy. My apologies—if there's a statement that's already been made on this, I couldn't find it. But, otherwise, I'm requesting a statement from the Welsh Government on this matter.
+
+## 2026-10-07 — 1. Questions to the Cabinet Minister for Health and Care / Non-emergency Patient Transport Service
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776609](https://record.senedd.wales/Plenary/16314#C776609)
+
+2. How is the Welsh Government monitoring late cancellations by the Welsh Ambulance Services NHS Trust of non-emergency patient transport in Monmouthshire and Torfaen? OQ64614
+
+## 2026-10-07 — 1. Questions to the Cabinet Minister for Health and Care / Non-emergency Patient Transport Service
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776611](https://record.senedd.wales/Plenary/16314#C776611)
+
+Cabinet Minister, the Welsh ambulance service quite rightly complains that patients cancel non-emergency transport at the last minute, with it reported that 20,000 had been cancelled until July, and around 60,000 last year. However, it seems that no such monitoring happens when the service itself cancels transport. Indeed, a recent consultation on the proposed changes to the service contained this statement:
+
+'Demand for transport continues to increase, and journeys regularly have to be cancelled because demand exceeded available capacity.'
+
+In other words, bookings are taken for seats that might not even exist. That's a failure of organisation and a real failure of the NHS. Very recently, a care home in my constituency was instructed that a resident would be collected earlier than planned, otherwise the transport would be cancelled. The home managed to comply, but it was stressful, and the patient arrived two hours early for her appointment and was out of the care home for over five hours. This is wholly unacceptable. Cabinet Minister, cancelled transport means wasted NHS appointment time and undue stress on patients and carers. Will you instruct your officials to establish the extent of the problem, the causes and the solutions?
+
+## 2026-10-13 — 1. Questions to the First Minister / Community Energy
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778364](https://record.senedd.wales/Plenary/16315#C778364)
+
+First Minister, Wales presently has nearly 4,000 MW of installed capacity, all dependent on gas for firing. Given what's just been said, this document, produced by the National Grid, 'Community Energy Scenarios', reveals the truth of this community energy nonsense. At best—at best—it will mean we go from 47 MW to 281 MW by 2035. To be fair to you, you're not a Nimby First Minister, but what I would describe Plaid's nuclear policy as is 'only in Rhun's back yard', because that's effectively what we've got. First Minister, right across south Wales, we have a growing energy problem. Will you reconsider Plaid's energy policy so that we can look at a series of small modular reactors right across south Wales?
+
+## 2026-10-14 — 2. Questions to the Cabinet Minister for Finance / Land Transaction Tax
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C779000](https://record.senedd.wales/Plenary/16316#C779000)
+
+3. What assessment has the Welsh Government made of the impact of the land transaction tax since its introduction in 2018? OQ64688
+
+## 2026-10-14 — 2. Questions to the Cabinet Minister for Finance / Land Transaction Tax
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C779003](https://record.senedd.wales/Plenary/16316#C779003)
+
+I refer to my register of interests. I want to focus on two areas of concern, Minister. First is our first-time buyers. There is no first-time buyer relief in Wales. So, for example, if a first-time buyer buys a £300,000 house, they pay £4,500 more in tax than in England. The more expensive the house, the worse that gets. Secondly, Wales has now got a punishing tax for those who buy more expensive homes. For example, a £1 million home in Wales requires £62,000-worth of tax— about half as much again as in England. Now, some people might think that's good. But let me remind you all that Wales has a worryingly small tax base: 1.1 per cent of taxpayers in Wales pay additional tax, compared to 1.5 per cent in the west midlands and 1.9 per cent in the south-west. We should be worried about that. Minister, Wales is getting poorer and the decisions made in this place over 27 years, which you've just reminded us of, have contributed to that. This tax policy was introduced by Mr Mark Drakeford. It acts as an incentive for young people to buy houses in England, and it acts as a disincentive for those who are more wealthy to move to Wales. Your Government claims to want a transformation of the Welsh economy—
+
+## 2026-10-14 — 2. Questions to the Cabinet Minister for Finance / Land Transaction Tax
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C779008](https://record.senedd.wales/Plenary/16316#C779008)
+
+Will you consider changing this structure or, even better, set a target for its abolition?
+
+## 2026-10-21 — 10. Short Debate: Full-face coverings are against British values
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C781027](https://record.senedd.wales/Plenary/16318#C781027)
+
+Just a point of order, Presiding Officer—[Inaudible.]—review, after what's been said in the last 60 seconds or so, to decide whether that's appropriate for the Chamber.
+
+## 2026-10-21 — 2. Questions to the Cabinet Minister for Education and the Welsh Language / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780533](https://record.senedd.wales/Plenary/16318#C780533)
+
+Okay, thank you, Minister. I see that later on there's a question regarding teachers leaving the profession. Surveys show that poor pupil behaviour is a factor. However, Plaid's recent programme for government, whilst acknowledging workload concerns, makes no mention of behaviour.
+
+Staff working in schools have a legal right to use reasonable force to control or restrain pupils. Welsh Government guidance explicitly states that no school should have a 'no physical contact' policy. However, there are still occasions when school staff face lengthy investigations and possible suspension for having operated within the law. This can have a devastating impact on both them and pupil behaviour in the school, whenever staff, unsurprisingly, decide that no physical intervention is their best policy.
+
+Minister, will you ask your officials to establish whether schools are advising staff on their legal right to use reasonable force and whether disciplinary processes are being initiated despite staff having operated within the law?
+
+## 2026-10-21 — 2. Questions to the Cabinet Minister for Education and the Welsh Language / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780546](https://record.senedd.wales/Plenary/16318#C780546)
+
+Thank you, Deputy Presiding Officer. Cabinet Minister, additional learning needs funding remains a contentious issue, with a debate scheduled next month in response to a petition. ALN funding by the Welsh Government is up 14 per cent on last year, and has more than doubled in eight years. Inflation over that period has been around 35 per cent. The percentage of the education budget assigned to ALN has risen from just below 15 per cent to nearly 19 per cent over the same period. At local authority level, there have been huge variations, with increases over the last decade ranging from 65 per cent to 297 per cent. One authority now spends more than a quarter of its education budget on ALN. These figures suggest that there has been a rapid change within Welsh education. Whatever is happening looks unsustainable in terms of funding. Minister, what are your thoughts on the reasons for this ALN spending trajectory?
+
+## 2026-10-21 — 2. Questions to the Cabinet Minister for Education and the Welsh Language / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780547](https://record.senedd.wales/Plenary/16318#C780547)
+
+Okay, thank you, Minister. Finally, the national literacy and numeracy assessments are online and personalised to each pupil. So, they're rather like a flow chart, where the next question depends on the answers to the last one. These tests can be taken whenever the school feels it's appropriate. Pupils can take time out during the assessments, and pupils are permitted to repeat the exercise any time. This is not a standardised test where all pupils in a cohort take the same test at the same time of the year so that judgments can be made about pupil and school standards, including progress.
+
+This is what the tests were originally designed to do when Leighton Andrews introduced them, and that is what happened when the tests were introduced in 2014. This adaptive system, as it's called, has been in place for a decade, but has clearly not led to any improvements in the Programme for International Student Assessment results. Minister, will you reintroduce standardised literacy and numeracy tests to be used by all pupils annually at the end of year 2 to year 9?
+
+## 2026-10-21 — 8. Welsh Labour Debate: The M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780895](https://record.senedd.wales/Plenary/16318#C780895)
+
+Will you take an intervention?
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Flooding
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782855](https://record.senedd.wales/Plenary/16421#C782855)
+
+Minister, following on from that, I need to talk about human sewage, or black water as it's sometimes euphemistically known. As you know, much of Wales is covered by a combined sewer system where human waste and rainwater all goes, effectively, into the same pipe. When it was originally built, that wasn't a problem because it just went into the nearest river or into the sea. However, today, that pipe network just can't cope at times, and the water treatment plants can't cope during very heavy rain. We know that there are overflows, which either put the water into the river or into the sea, and even those can't cope sometimes, and it gets backed up, and some of these places that are flooded end up with a very stressful situation where we have human waste in that flood water. That's the harsh reality of our water system.
+
+Now, to separate out those two different systems at a UK level would cost anything between an estimated £300 billion and £1 trillion. The fact we can't put a figure on it shows the problem. We actually don't even know or have an accurate map of where some of those pipes are. So, Minister, my question is: does the Welsh Government, having worked with the water industry in Wales—which is, obviously, more than one company—have any estimate for how much it might cost to solve the problem of combined sewers and combined sewer overflows?
+

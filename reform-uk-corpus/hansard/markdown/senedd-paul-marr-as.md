@@ -1,0 +1,242 @@
+# Paul Marr AS — Senedd contributions
+
+27 contributions, 5,806 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-05-12 — 3. Nomination of the First Minister under Standing Order 8
+
+*Speech* · [https://record.senedd.wales/Plenary/16033#C762378](https://record.senedd.wales/Plenary/16033#C762378)
+
+Dan Thomas.
+
+## 2026-06-10 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Fly-tipping
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763256](https://record.senedd.wales/Plenary/16073#C763256)
+
+Minister, illegal fly-tipping in my constituency of Ceredigion Penfro continues to escalate at an alarming rate. This is not just an environmental issue, it is an economic one. The area that I represent depends heavily on tourism, with visitors drawn specifically by the natural beauty of our coastlines and our countryside. Given that enforcement activity and response times vary significantly between local authorities, what steps will this Welsh Government take to introduce clear national standards for monitoring, enforcement and clean-up of fly-tipping? And how will it ensure that the council leadership is held directly accountable where these standards are not met?
+
+## 2026-06-16 — 2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution / Devolution of Justice
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763685](https://record.senedd.wales/Plenary/16074#C763685)
+
+May I also add my congratulations to the Minister on his appointment, and may I thank the Member for his question? Minister, I'm quite sure that I speak for many other people across Wales when I say that, rather than looking for further devolved powers—and I say this respectfully, you're going to be looking for trust, as my colleague Cristiana Emsley has pointed out, in support for further powers—these people would actually like to see the problems fixed in Wales before they issue any trust for any further devolved powers. Minister, let me ask you this: what suitable qualifications do you have within your Government to effectively oversee the judicial system? After serving 20 years in Her Majesty's Prison Service, and more recently providing drug and alcohol interventions in police custody, I have seen first-hand the devastating effects of crime, both to the victim and the offender. This arguably makes me suitably qualified to scrutinise your plans.
+
+Minister, in 2024 your party supported the decriminalisation of illegal drugs and proposed cleansing convictions for drug possession. If justice is devolved to Wales, would you pursue these policies, and what assurances can you give the public, the NHS, the police and the brave men and women who enter our prisons on a daily basis that decriminalisation would not be—[Interruption.]
+
+## 2026-06-17 — 3. Questions to the Cabinet Minister for Local Government, Housing and Planning / Houses in Multiple Occupation
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C764033](https://record.senedd.wales/Plenary/16075#C764033)
+
+1. Does the Cabinet Minister hold data for the total number of houses in multiple occupation in Wales and the proportion occupied by current and former asylum seekers? OQ64156
+
+## 2026-06-17 — 3. Questions to the Cabinet Minister for Local Government, Housing and Planning / Houses in Multiple Occupation
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C764063](https://record.senedd.wales/Plenary/16075#C764063)
+
+Thank you, Minister, for your response. I recently met with a 70-year-old armed forces veteran in my constituency of Ceredigion Penfro, who told me that, after falling on hard times, he had spent several years living in an abandoned camper van, because he was unable to secure accommodation. Given cases such as this, what assurances can your Government provide the people of Wales facing homelessness that they will not be treated less favourably in the allocation of housing or housing support than those individuals that have been granted asylum status?
+
+## 2026-06-24 — 2. Questions to the Cabinet Minister for Finance / Tax Policies
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764865](https://record.senedd.wales/Plenary/16077#C764865)
+
+Thank you to the Members for the original questions. What assessment has the Welsh Government made of whether council tax premiums and land transaction surcharges on second homes are actually increasing the availability and the affordability of housing for local people in Ceredigion Penfro?
+
+## 2026-06-24 — 7. Reform UK Debate: A Welsh Rivers Act
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C765033](https://record.senedd.wales/Plenary/16077#C765033)
+
+Can I start by thanking two people? First of all, Laura Anne Jones, for holding this debate, and Janet for bringing the debate back to the debate rather than using this as a platform for political point scoring.
+
+Members of this Senedd, I recently met with residents and councillors to discuss concerns regarding water quality at the beaches in south Pembrokeshire. We are incredibly fortunate that several of our beaches hold Blue Flag status, which is of significant importance to the area's visitor economy. In addition, some of our waterways form part of Pembrokeshire's marine special area of conservation. As Blue Flag status depends on bathing water being classified as ‘excellent’, there is particular concern that the streams often flowing across our beaches and into the ocean are not designated as bathing water by NRW. However, they continue to attract small children who often play in the water there. Some of these streams are monitored by local citizen science groups whose data indicates seriously high levels of E. coli. They are consistently far worse than those classified as ‘poor’ under freshwater bathing water standards. E. coli can cause serious illness and may pose a particular risk to young children. I remind Members of the tragic case of Heather Preen, eight years old, who tragically died after contracting E. coli in 1999. E. coli is also only an indicator organism for sewage contamination, which may include other harmful substances such as pharmaceuticals, hormones and viruses.
+
+In addition, the Cleddau Project, also in Pembrokeshire, has recently presented the findings of a 12-month citizen science initiative assessing water quality across 49 sites within the Cleddau catchment. The project, led by local surveyors and analysed by Professor Paul Withers of Lancaster University, identifies a significant decline in river health, primarily attributed to sewage discharge. The data indicates elevated levels of phosphates and nitrates within tributaries. Preliminary testing has identified concerning levels of E. coli in upper catchment areas near Haverfordwest, raising potential public health concerns for rivers, their users and our ecology. Species such as Atlantic salmon and otters are reported to be in decline. Salmon populations are now considered by Natural Resources Wales to be at risk, reflecting broader ecological stress within the river system.
+
+In addition, the River Teifi has similar problems with pollution. For the 2026 citizen science water quality report, over 70 sites were tested. There are 27 with data covering over 12 months. Of these 27, 15 produced annual mean orthophosphate results above the targets utilised by Natural Resources Wales. Taking into account the possible limitations of the equipment used, six of the sites completely fail the NRW targets, and nine are above the target but fall within the error range. The failing sections are mainly in the lower Teifi catchment area, which is below Newcastle Emlyn, whilst those above target but within the error range are mainly from the central catchment area, which includes Newcastle Emlyn to Lampeter. And, I think, Members of the Senedd, what is interesting here, and I quote from the report directly, is that
+
+'testing the quality of the water (...nutrient and e-coli content) was not encouraged given the results would not be used or recognised by key authorities.'
+
+This gives rise to many of my constituents asking to whose agenda NRW are exactly working towards.
+
+It is not only our streams, estuaries and seas affected by pollution and the failings of Welsh Water. Plaid Cymru have pledged to build 20,000 homes by the end of this Government. In my constituency alone, we've had three housing developments effectively shelved due to concerns about the build run-off affecting water quality and the capacity of the sewer network to deal with the additional waste. This is more than 200 homes. This equates to 1 per cent of the total 20,000 pledged by this Government. This is reflected up and down the country, so rendering the pledge for homes unachievable.
+
+Given the importance of water quality to public health and environmental sustainability, there is a clear question here as to whether the timeline of up to the mid-2030s for changes to our water policy adequately reflects the urgency of this issue. We all have families, children and grandchildren. We have a responsibility. So, I would ask you, Members of this Senedd: is this the legacy that we really want to leave behind, allowing the wheels of bureaucracy to grind slowly along while our children become ill because of dirty water? Should we not take this opportunity to prevent Armageddon on our waterways and within our outdated sewerage infrastructure, we may be remembered as those who ignored all of the warning signs on our watch, and it will be to the detriment of our children's health. Or should we be remembered as those who tried to do something to stop the poisoning of our streams, rivers and seas, and build a country for the future? Diolch.
+
+## 2026-06-30 — 1. Questions to the First Minister / Puberty Blockers
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765376](https://record.senedd.wales/Plenary/16078#C765376)
+
+9. Does the Welsh Government support the provision of puberty blockers to 11-year-old children? OQ64316
+
+## 2026-06-30 — 1. Questions to the First Minister / Puberty Blockers
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765381](https://record.senedd.wales/Plenary/16078#C765381)
+
+First Minister, thank you so much for your response. The Cass review makes it clear that there are significant uncertainties around the long-term safety of these treatments for children, including potential impacts on bone health, fertility and brain development. Given those risks, can you explain why any child in Wales should be exposed to medical interventions where the evidence base is so limited? And what specific steps will your Government take to ensure that vulnerable young people are not subject to avoidable harm?
+
+## 2026-07-01 — 2. Questions to the Cabinet Minister for Education and the Welsh Language / Anti-social Behaviour in Schools
+
+*Speech* · [https://record.senedd.wales/Plenary/16082#C765784](https://record.senedd.wales/Plenary/16082#C765784)
+
+1. What is the Welsh Government doing to tackle anti-social behaviour in schools? OQ64280
+
+## 2026-07-01 — 2. Questions to the Cabinet Minister for Education and the Welsh Language / Anti-social Behaviour in Schools
+
+*Speech* · [https://record.senedd.wales/Plenary/16082#C765789](https://record.senedd.wales/Plenary/16082#C765789)
+
+Diolch, Minister, for your response. I certainly welcome early interventions. It was one of the root interventions in the prison service that worked extremely well. So, I absolutely welcome that.
+
+However, Minister, parents in Ceredigion Penfro want to know why schools are increasingly being expected to deal with the threat of knife crime without proper resources. Policies and plans, with respect, Minister, do not stop blades. Will the Welsh Government commit today to funding preventable security measures, including protective equipment such as knife blankets and emergency response training?
+
+You may say that we do not need to escalate to these measures at this moment. However, I remind you of the horrific knife attack on a teacher reported in the news very recently in Milford Haven. I am certain that the teacher in question would have welcomed any and all measures to adequately protect themselves.
+
+And finally, Minister, in my 20 years in the prison service, attacks on staff with bladed instruments became a regular occurrence. The norm is what it became. So, I ask you, Minister: what assurance will this Government offer teachers that these rising numbers of incidents are not expected to be their new norm?
+
+## 2026-07-08 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Preventing and Responding to Child Sexual Abuse
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C766874](https://record.senedd.wales/Plenary/16084#C766874)
+
+Minister, what assurances can you offer that no child victim of sexual abuse is denied timely access to counselling or therapeutic services because of potential postcode differences in provision?
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767084](https://record.senedd.wales/Plenary/16084#C767084)
+
+I rise today to address yet another example of Welsh Government introducing policy without fully understanding the consequences. I refer to the 182-day occupancy requirement for self-catering accommodation providers. The policy was supposed to help tackle housing pressures and the impact of second homes. Instead, it is placing genuine tourism businesses under increasing strain, particularly in Ceredigion Penfro.
+
+Since 2023, holiday-let operators have had to achieve 182 days of commercial occupancy to qualify for business rates rather than council tax. If they fail to meet the threshold, they can face significant additional costs, often including second home premiums. In theory, Ministers may argue that this sounds reasonable, but governing is not done in theory. It must be rooted in the realities faced by communities in Tenby, Saundersfoot, Newport, St Davids, Aberaeron, Newquay and countless other coastal and rural towns whose economies depend heavily upon seasonal tourism. Owners cannot control the weather. They cannot control rising living costs that reduce holiday bookings. They cannot control wider economy uncertainty, and they also cannot control the fact that west Wales remains a highly seasonable tourism market. Yet Welsh operators face one of the highest occupancy thresholds anywhere in these islands.
+
+Reports suggest that almost 40 per cent of operators have failed to meet the target while many are now questioning whether their business should remain viable. These are not large investors. They are family-run businesses that support jobs and local economies. They employ local cleaners, gardeners, tradespeople and maintenance workers. They support cafes, pubs, restaurants, shops and visitor attractions across our communities.
+
+What is particularly difficult to justify is the comparison with England. There is the equivalent threshold of 70 nights. In Wales, it is 182—more than double. So, where is the evidence that this higher threshold is delivering better outcomes? Has housing become more affordable in Pembrokeshire and Ceredigion? Has the housing supply significantly increased? Or has this policy simply created financial pressures and uncertainty for local tourism and businesses? The evidence increasingly points to the latter.
+
+The Government's consultation generated over 1,200 responses, yet the result was largely administrative changes and technical exemptions. The central issue remained untouched: the threshold itself. This is not about protecting second homes, or those who exploit loopholes, it is about recognising that legitimate tourism businesses should not be penalised because they cannot guarantee year-round demand. The realities of Ceredigion and Penfro are not the realities of Cardiff. A one-size-fits-all approach simply does not work.
+
+At Reform UK, we believe that Government should support enterprise, not burden it. If housing supply is the problem, build more homes. If affordability is the issue, reform planning and increase housing delivery. But please do not place the blame on small businesses that create jobs and support one of Wales's most important industries. So, I urge this Government to think again. Please review the 180-day rule, work with the tourism sector and local communities and introduce a fairer, more flexible approach that reflects the realities of rural Wales. Because good policy should be based on evidence, common sense and economic reality, not arbitrary targets that risk damaging the very communities that they claim to help. Diolch.
+
+## 2026-07-14 — 1. Questions to the First Minister / Defence Investment Plan
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767503](https://record.senedd.wales/Plenary/16085#C767503)
+
+First Minister, Reform UK makes no apology for supporting increased investment in Britain's armed forces at a time of growing global instability. National defence is the first duty of any Government, so, rather than blaming Westminster for difficult spending decisions, will you explain what efficiencies the Welsh Government is prepared to make within its own capital programme before claiming Wales cannot cope? How much money could be redirected by cancelling lower priority projects and reducing waste, so that essential infrastructure, such as roads, hospitals and schools, is protected while the UK strengthens our national security?
+
+## 2026-07-14 — 6. Statement by the Deputy Minister for Public and Preventative Health: Priorities for Public and Preventative Health
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767872](https://record.senedd.wales/Plenary/16085#C767872)
+
+Thank you, Deputy Minister, for your statement, and welcome to your role. Minister, everyone agrees that prevention is better than cure, but prevention only works if people can actually access the services they need. In west rural Wales, too many residents face long journeys, limited appointment availability and growing difficulty accessing GPs, community healthcare and screening programmes. Reform UK believes that public money should be focused on delivering effective front-line services, not expanding bureaucracy. Rural communities contribute just as much to the public purse as anyone else and deserve the same standard of healthcare. If we are serious about preventative health, we need practical action that improves access, shortens waiting times and ensures services reach people where they live, rather than expecting patients to travel even greater distances. Deputy Minister, what specific changes will the Welsh Government make to improve access to preventative healthcare in west rural Wales? And can you guarantee that future investment will be directed towards strengthening front-line services in rural communities, rather than increasing administration costs? Diolch.
+
+## 2026-09-16 — 2. Questions to the Cabinet Minister for Finance / The Tourism Industry
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769544](https://record.senedd.wales/Plenary/16261#C769544)
+
+Minister, what financial support will you prioritise to attract visitors to Ceredigion and Pembrokeshire outside of the summer months, so that tourism can sustain year-round jobs and give young people greater opportunities to work locally?
+
+## 2026-09-16 — 5. Reform UK Debate: Grooming gangs
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769614](https://record.senedd.wales/Plenary/16261#C769614)
+
+Diolch yn fawr, Lywydd. I'd like to move today's motion submitted in the name of my colleague Llŷr Powell, Reform UK. Members of the Chamber, three years ago today, my daughter was held against her will and raped. I say this with her agreement; I will not give the details. I say it because in debates like this, victims are often talked about as a category, a number and a strategy. She's my child. Let me be clear, this was not a grooming gang, it was one man, and let me give the outcome first, because it matters. He is serving 14 years. She was believed.
+
+But it took far too long, the examinations, the statements, the changes of personnel, the waiting for news and the uncertainty when nothing appeared to happen. She kept going. Nothing should underestimate what that required. A conviction matters enormously, but it does not erase what came before or the need for support. That is the perspective that I bring here today.
+
+Now, hold that beside what inquiries have found out about children subjected to organised sexual exploitation. Children disbelieved, children blamed, adults describing abuse as though it were a choice that the child had made. I am not equating my daughter's experience with theirs. I'm asking Members to consider what happens when a victim faces those barriers without someone beside them insisting that they matter.
+
+We do not need to look outside of Wales for evidence. In February 2022, the independent inquiry into child sexual abuse published its investigation into exploitation by organised networks. Swansea was one of the six areas examined. It found that neither the police nor the council accurately understood how many children were experiencing or were at risk of child sexual exploitation. South Wales Police had told the inquiry that there was no data suggesting exploitation by organised networks. The inquiry found examples that should have been identified. It also describes a perpetrator facing similar previous allegations, a case closed with no recorded explanation, no exploitation flag and no application for a sexual risk order, despite evidence suggesting he was a likely candidate. A Welsh city, a national inquiry four years ago. Members should ask what changed after those findings, who checked and whether children are safer as a result, because publishing a finding is only the beginning of accountability.
+
+## 2026-09-16 — 5. Reform UK Debate: Grooming gangs
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769617](https://record.senedd.wales/Plenary/16261#C769617)
+
+My daughter had a family that would have done anything for her. For a long time, she did not ask us; she was ashamed. The shame belonged entirely to the man who harmed her, but knowing that as a parent does not mean that you can make your child feel it as well. Abusers use shame to silence people. Fear and manipulation make asking for help impossible. She had somewhere to turn, even when she could not bring herself to turn there. Ask yourselves what happens to a young person who feels that she has nowhere.
+
+And this is not only a question about historic abuse. On 3 August this year, five defendants were convicted at Caernarfon Crown Court of more than 40 offences, following a North Wales Police investigation. The case concerned the exploitation and abuse of three girls aged 14 to 16 in Rhyl and the surrounding areas between April 2022 and March 2024. Those young women deserve recognition for their courage. The officers who secured those convictions deserve the credit. But successful prosecutions must also prompt us to ask whether opportunities to protect children earlier were missed. We should establish the answer through evidence without prejudging the findings.
+
+The independent inquiry into grooming gangs covers England and Wales. In the first investigations, they are Oldham, Bradford, Keighley and London. Further areas will be selected. No Welsh area is in that initial group, but that does not mean that Wales has been excluded. But families deserve clarity about how Welsh institutional failures will be examined.
+
+There is another question that Ministers should pursue. In June, the National Crime Agency reported that Operation Beaconport had identified closed cases in eight police areas with potentially viable lines of inquiry. Forces were directed to reopen those cases to determine the next steps. So, what is the position in Wales? How many qualifying cases have our forces referred? Have Welsh cases been returned for further action? Ministers should seek that information and publish what can properly be disclosed whilst protecting survivors and investigations.
+
+We must also be precise about this Chamber's responsibilities. Policing and criminal justice, as we know, are not devolved. However, health, education and social services are. This Senedd legislates and scrutinises spending in those areas. Welsh Ministers set safeguarding policies and must answer for their effectiveness. We cannot direct every criminal investigation. We can demand that services around a child recognise abuse, share concerns and act. We can insist that information is recorded consistently so repeated warnings are recognised. We can scrutinise whether survivors receive support through the process and after the verdict. The responsibilities are substantial and they must be exercised.
+
+Investigators must also follow the evidence where it leads. I've heard the excuses before, when not to look, that the numbers in Wales are far lower than elsewhere and that most abuse here is committed by home-grown perpetrators. Both of these things may be true, but neither of them is an answer. A comparison of numbers is not a safeguarding policy. No child was ever protected by the observation that a different kind of offender is more common. And a victim hears that argument exactly the way that it is meant. She hears that her case was small, that she was a rounding error in somebody else's statistic. I'm not asking this Chamber to inflate the scale of anything, I'm asking for Members to stop using scale as a reason not to look. Baroness Casey's audit identified examples of organisations avoiding questions about ethnicity for fear of appearing racist or increasing community tensions. No offender's background, regardless of colour, should place them above scrutiny. The test is the individual, not the community he came from. The standard must be the same. Follow the evidence and protect the child.
+
+Yesterday, in answering my colleague Claire Archibald, the Deputy Minister for Social Care, Mental Health and Women's Health spoke about the importance of women being heard and not ignored. I agree with her and I intend to hold her to that principle, because that principle must apply here too. The victims we're talking about today are often girls who are frightened, manipulated and ashamed, girls who may not have the confidence, the words or the power to insist that somebody listens. A girl of 14 is not yet a woman. She should not have to become one before her voice matters. And being heard cannot simply mean somebody listened. It must mean that concerns are recorded, the warning signs are recognised, that referrals are made, information is shared and, when the evidence demands it, that action follows, because a child should not have to keep telling adults that something is wrong until somebody finally believes her.
+
+That is what being heard must mean in safeguarding, and that is the standard to which I intend to hold this Government. So, I ask Ministers for three things. First, publish the substantive correspondence with the Home Office and the inquiry, with necessary protections for confidential information. Let this Chamber see what has been requested and what remains unresolved. Secondly, bring together evidence from safeguarding boards, police and survivors, and make a formal case for examining Welsh institutional failures. Thirdly, if those failures are not adequately examined by the national inquiry, will Ministers establish a Wales-specific statutory inquiry into devolved services? Welsh families deserve a clear answer.
+
+Members of the Chamber, I cannot give my daughter back those three years, nobody here can, but every Member can bring the same seriousness to another family's child that they would bring to their own. The next child in Fishguard, Haverfordwest, Pembroke or anywhere here in Wales—before accepting assurance, think about the child waiting for someone to act. If this were a child you love, what answers would be good enough? Diolch yn fawr.
+
+## 2026-09-22 — 1. Questions to the First Minister / Healthcare Priorities
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770710](https://record.senedd.wales/Plenary/16262#C770710)
+
+Thank you to Paul Davies for the question. First Minister, 35 per cent of Ceredigion households and 23 per cent in Pembrokeshire rely on oil heating, among the highest rates in Wales. Public Health Wales warns that cold homes increase cardiovascular and respiratory risks, particular for older and vulnerable people. As your Government moves towards net zero, how will you ensure that rural households are not forced to ration heating because of the cost of that transition, and will you guarantee that keeping people warm and healthy comes before hitting arbitrary deadlines? Diolch.
+
+## 2026-09-23 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Economic Outcomes in Ceredigion Penfro
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771379](https://record.senedd.wales/Plenary/16263#C771379)
+
+4. What action is the Cabinet Minister taking to improve economic outcomes in Ceredigion Penfro? OQ64513
+
+## 2026-09-23 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Economic Outcomes in Ceredigion Penfro
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771383](https://record.senedd.wales/Plenary/16263#C771383)
+
+Minister, thank you for your response. Yesterday, you told this Chamber that new defence-related investment decisions should, where possible, wait for your ethical defence investment framework. Yet Ceredigion Penfro should be benefiting directly from the £50 million defence growth deal, with Ministry of Defence Aberporth offering skilled jobs, investment and opportunities for local business. So, a simple question, Minister: are the defence growth deal and Aberporth both exempt from that pause? And if not, can you guarantee that not one job or contract, and not one pound of investment in Ceredigion Penfro will be lost or delayed as a result? West Wales needs certainty and investment now, not another framework standing in the way. Diolch.
+
+## 2026-09-30 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Child Poverty
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773589](https://record.senedd.wales/Plenary/16265#C773589)
+
+Thank you to Anna for the question. Deputy First Minister, on 22 September the First Minister told the Senedd that Cynnal was going to be piloted and it is happening, yet your programme for government says that you will 'seek to' pilot Cynnal. The distinction there really matters, Minister, because 'we're going to' is a commitment, while 'seek to' is not. So, for families in Ceredigion Penfro, I have two straightforward questions: will Ceredigion Penfro be included in the Cynnal pilot? And on your childcare commitment, on what date will families in Ceredigion Penfro be able to access the allocated funded hours per week? Families need to know not just what this Government intends to do, but when they will actually receive the support. Diolch.
+
+## 2026-09-30 — 9. Short Debate: The importance of local services—Protecting the future of Withybush hospital
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773956](https://record.senedd.wales/Plenary/16265#C773956)
+
+Diolch, Lywydd. I thank Claire for bringing forward this important debate today, and thank you to all Members that have remained to hear it.
+
+For older people living across Ceredigion Penfro, access to healthcare must not become a postcode lottery. At the last census, more than a quarter of Pembrokeshire residents were aged 65 or over. For someone who no longer drives, the distance can mean an expensive taxi fare, dependence on relatives, or maybe not even getting there at all. In an emergency, distance matters. Hywel Dda's 2023 travel survey recorded 38 minutes from Withybush to Glangwili, even with lights and sirens. Specialist care matters; so does reaching it safely. I support Claire's call to protect Withybush. Safe transfers, affordable transport and care closer to home must be built into any changes from the outset. Living in west Wales should never mean being left further from care, with our constituents financially victimised because of where they live. Diolch yn fawr.
+
+## 2026-10-06 — 6. Debate: Fiscal Reform
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C776202](https://record.senedd.wales/Plenary/16313#C776202)
+
+Well, here we go again: Labour and Plaid Cymru lecturing this Senedd on fiscal reform, which, to many of my constituents, will be somewhat like Bonnie and Clyde asking to look after the bank over lunch time. Whilst you admire the confidence, I wouldn't give them the keys. Plaid Cymru and Labour may sit on different sides of this Chamber, but when it comes to the fundamental approach of taxing and spending, we have seen remarkably little appetite for genuine fiscal reform.
+
+Indeed, this current 2026-27 budget was secured through an agreement between Labour and Plaid Cymru, and when Plaid extended to Government, it chose to honour the spending commitments in that budget. So, this debate should not simply be about who spends the money. It should be about something much more fundamental: how Government raises it, how it spends it, whether taxpayers receive value for it, and whether Government itself is prepared to reform, because fiscal reform cannot simply mean changing the name above the door whilst maintaining the same approach underneath it. That is why fiscal reform is ultimately about a choice: a choice between a Government that believes the answer to almost every problem is more spending and more bureaucracy, where Reform UK believes taxpayers have a right to demand value and accountability and results, because Government has no money of its own. [Interruption.] No, thank you.
+
+Every pound spent in this place ultimately comes from taxpayers or borrowing that taxpayers will eventually have to service, and Reform UK starts from a very simple principle: it is taxpayers' money before it is Government's money. That is where I believe the fundamental difference between Reform and Plaid Cymru lies. Plaid Cymru came into Government promising change. Then came its first financial test, the supplementary budget. And what happened? It failed. On 14 July, Plaid Cymru's first supplementary budget was rejected by this Senedd by 49 to 44 votes. Now, Plaid will undoubtedly blame opposition parties, but Government is about more than announcing how much money you want to spend. Government is about leadership. It is all about building confidence in your priorities, demonstrating value for money, and convincing Parliament your financial plans deserve its support. That is precisely why fiscal reform matters, and Plaid cannot pretend that they have nothing to do with the financial settlement that they inherited. Only months earlier, Plaid Cymru negotiated a budget agreement with the previous Labour Government and then abstained to allow the budget to pass. They did not endorse every line of it, but they helped provide the parliamentary route for that financial settlement to take effect.
+
+So, Reform's message on fiscal reform is different. Fiscal reform cannot simply mean spending more, taxing more, creating another scheme. This isn't reform; it's more bureaucracy. Genuine fiscal reforms mean asking the harder questions. What can Government stop doing? What can Government do better? Where is taxpayers' money going and being wasted? And what bureaucracy can be removed? That is what fiscal reform should be about: prioritising expenditure, eliminating waste and ensuring that Government lives within the resources available to it. It commits us to cutting 1p from every £1 across all rates of Welsh income tax by the end of this Senedd term, funded through reductions in expenditure elsewhere without cuts to front-line services, putting more of people's own money back in their pockets. We will review the quango state, merging or abolishing bodies whose functions are duplicated or unnecessary. And we will introduce a tax lock. Reform will not introduce a new Welsh-controlled tax or levy that has not been set out in our manifesto and approved by voters.
+
+That is fiscal reform—lower taxation where it can be afforded, disciplined spending, less waste, and protecting the front-line services upon which people depend, because economic growth does not come from Government's endless moving of taxpayers' money around Cardiff Bay. Prosperity comes from people building businesses, entrepreneurs taking risks, companies investing, and people earning and spending their own money. And Government should create the conditions that allow them to do it. That is the Reform alternative—lower taxes, less waste, less bureaucracy, better infrastructure, stronger front-line services, and a Government that understands that economic growth ultimately pays for public services upon which we all depend.
+
+So, when Plaid Cymru return to this Chamber with further spending plans, Reform should ask a very different question: not simply, 'How much are you spending, and where can savings be redirected towards front-line services in—?' Sorry, bear with me. Apologies. So, this includes politically fashionable projects that Governments are often reluctant to challenge, because fiscal reform requires us to confront spending driven more by ideology than outcomes. The test should not be whether a policy makes a Minister feel virtuous. The test should be: does it work, does it improve people's lives, and is it worth what taxpayers are being charged for it? If the answer is 'no', then Reform should have absolutely no hesitation in challenging that expenditure. There should be no sacred cows here when it comes to taxpayers' money.
+
+## 2026-10-06 — 6. Debate: Fiscal Reform
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C776217](https://record.senedd.wales/Plenary/16313#C776217)
+
+Yes, certainly. Our Welsh manifesto sets out a cost-neutral programme, cutting waste and funding additional expenditure, rather than assuming that every new priority requires additional funding or borrowing. We set out our fiscal approach clearly. If we want to spend more—
+
+## 2026-10-06 — 6. Debate: Fiscal Reform
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C776220](https://record.senedd.wales/Plenary/16313#C776220)
+
+Yes, certainly. I'll do that now. That is what fiscal reform in Wales needs, not another Government asking taxpayers to dig into their pockets, but a Government prepared to look into its own pockets first. That is the difference—
+
+## 2026-10-07 — 8. Reform UK Debate: Access to HMOs and social housing for foreign nationals
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776957](https://record.senedd.wales/Plenary/16314#C776957)
+
+Before I begin, can I just say that the huge numbers of people who put these Members in these seats to represent their views need to have those views heard? Because you don't like them doesn't mean to say that those views are irrelevant. There have been enough interventions this afternoon to try and stop those views from being heard, so politely and respectfully, I won't be taking any during my speech.
+
+Many of my constituents ask a simple question, Llywydd: who is housing for in Wales? They work, pay their taxes and raise their families here, yet when they need a secure, affordable home, too often the answer is to keep waiting. Shelter Cymru's 2025 research estimated that around 170,000 people, including approximately 45,000 children, are represented on social housing waiting lists. At the building rate used in that report, providing enough additional homes to meet that demand would take more than 35 years. That is a generation of unmet need. Children grow up, families struggle, people put their lives on hold, while the Government produces another promise.
+
+Shelter Cymru attributes this crisis to decades of failing to build enough social homes. On that, they are right. But acknowledging that failure does not remove the need to make choices today. Building more homes and deciding who has access to them are both responsibilities of this Government. We must build more, faster, but construction takes time and our constituents need help now. Where homes are scarce, eligibility matters, priorities matter and British taxpayers are entitled to ask whether the system that they support puts their needs first. My answer is that it should. That includes British citizens who cannot work through disability, those caring for relatives, pensioners, children and, of course, our veterans. Putting our citizens first must mean protecting those who need support, as well as recognising those whose taxes sustain it.
+
+In Ceredigion Penfro, constituents tell me that they have worked here and paid in all of their working lives and raised families here, and still, they are told to wait. They deserve more than sympathy; they deserve a clear priority in housing policy. That goes beyond asylum accommodation, and we should say so plainly. The argument is about housing capacity and national priorities, not claiming that somebody's nationality determines their character.
+
+Social housing is scarce. Reform UK believe that access should be reserved for British citizens. On HMOs, our stance is clear: immigration policy must reflect housing capacity and British citizens must come first. The Welsh and UK Governments must work together to deliver that policy with clear rules, a managed transition and firm enforcement.
+
+Constituents have also raised concerns about what they describe—and these are my constituents' concerns—as asylum seekers arriving in HMOs after dark, with little explanation to neighbours. Arriving after dark does not establish wrongdoing, but silence from those responsible leaves fears growing and questions unanswered. Residents deserve information about management, occupancy, safeguards and who will respond when concerns arise. Those responsibilities apply whatever eligibility rules are adopted. Restricting access cannot replace proper enforcement. British taxpayers should not be an afterthought in the housing system that they sustain. That is why I support this motion. Build more homes, put British citizens first and make the Government answer for the decisions that it takes.
+

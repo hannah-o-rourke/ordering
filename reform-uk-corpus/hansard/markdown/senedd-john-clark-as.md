@@ -1,0 +1,200 @@
+# John Clark AS — Senedd contributions
+
+26 contributions, 2,675 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-05-12 — 3. Nomination of the First Minister under Standing Order 8
+
+*Speech* · [https://record.senedd.wales/Plenary/16033#C762294](https://record.senedd.wales/Plenary/16033#C762294)
+
+Dan Thomas.
+
+## 2026-06-09 — 1. Questions to the First Minister / Minimising the Tax Burden
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762790](https://record.senedd.wales/Plenary/16072#C762790)
+
+First Minister, the tourism tax is one of the biggest worries for businesses in my constituency. Will the Government consider reassessing their approach to this issue and give business confidence by scrapping this tax?
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767091](https://record.senedd.wales/Plenary/16084#C767091)
+
+Yes.
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767094](https://record.senedd.wales/Plenary/16084#C767094)
+
+The reality is that the council will redirect money that they're already using to support tourism. This basically plugs a hole of theirs and allows them to redirect that money elsewhere. And you already know that.
+
+We should not take tourism for granted. People choose Wales for our coastline, our castles, mountains and culture, but above all for the Welsh welcome. Wales has the potential for immediate growth in tourism, but world-class status is not our birthright. It is earned every day by thousands of small business owners who invest their savings, time and energy into keeping hotels, guest houses, bed and breakfasts and campsites open and attractive. If those operators feel their efforts are being taken for granted, or that the Government is determined to stop them from making a living, they will invest elsewhere or simply give up.
+
+The combination of this levy, the 182-day rule and the 20 mph speed limit is all sending exactly the wrong message: that Wales is becoming a less welcoming place for visitors and for those who serve them. We have a responsibility after a clear verdict by the Welsh people to review the previous Government's decisions. Scrapping this regressive levy and lowering the 182-day threshold would send a powerful positive signal: Wales is open for business and values tourism. Let us reject the politics of burden. Let us back growth, investment and opportunity. I urge the Senedd to support this motion. Diolch yn fawr, Lywydd.
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767098](https://record.senedd.wales/Plenary/16084#C767098)
+
+I strongly support this motion from my colleague Llŷr Powell. The tourism sector is not just a luxury for Wales—it is a lifeline. It contributes £3.8 billion to our economy and accounts for over 11 per cent of employment. This so-called visitor levy is the wrong tax at the wrong time. It is regressive by design. A £1.30 charge on a £50 room represents a far higher percentage increase than the same charge on a £200 room. It hits cheaper accommodation hardest, precisely the kind used by families, younger visitors and domestic tourists, the people who keep our smaller businesses alive. Smaller operators, often family-run, already face heavier administration burdens than the large chains. This levy imposes more paperwork, administration costs and responsibility. It is not progressive; it is a tax on aspiration.
+
+Our accommodation providers are already struggling. Visitor numbers haven't recovered to pre-COVID levels. Cost-of-living pressures are squeezing domestic demand, whilst international visitors have cheap choices elsewhere. Visit our coastal towns and you will see the evidence: tired frontages, peeling paint and far too few high-quality new developments. If budget operators could simply raise their prices without losing occupancy, they would have done it years ago. Instead, many are fighting to survive.
+
+These businesses are already heavily taxed and regulated. They collect VAT, they pay business rates, they pay corporation tax, they pay national insurance and they pay income tax on behalf of their staff. They generate additional revenue for the Government through alcohol, tobacco and waste charges. Yet now we ask them to become unpaid tax collectors once again, this time for a levy that, in practice, frees up council budgets for other spending rather than delivering genuine new investment in tourism.
+
+Let me be frank about the numbers in my own area. Conwy council carries £230 million in debt, with annual interest and repayments exceeding £17 million. Conwy council's own impact assessment estimates that the visitor levy would raise £2 million a year. That's a sticking plaster. It's not a solution. Council overspending and poor financial management—
+
+## 2026-07-15 — 3. Topical Questions / The Wildfire in Sychnant Pass
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768199](https://record.senedd.wales/Plenary/16086#C768199)
+
+Will the Welsh Government follow in the footsteps of the Scottish Government and develop a strategic action plan to address escalating wildfire threats in Wales?
+
+## 2026-09-15 — 1. Questions to the First Minister / Supporting Local Businesses
+
+*Speech* · [https://record.senedd.wales/Plenary/16260#C768976](https://record.senedd.wales/Plenary/16260#C768976)
+
+2. What action is the First Minister taking to support local businesses in the Bangor area? OQ64469
+
+## 2026-09-15 — 1. Questions to the First Minister / Supporting Local Businesses
+
+*Speech* · [https://record.senedd.wales/Plenary/16260#C768984](https://record.senedd.wales/Plenary/16260#C768984)
+
+Your Government launched the town-centre taskforce in Bangor. Neither of the co-chairs are from the city and no Bangor trader has been named to it. The £654,000 announced that day is for an event space at Storiel, not for the high street, where shops are empty and the pavement is broken by lorries. How does the taskforce actually support local businesses on Bangor high street?
+
+## 2026-09-22 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770980](https://record.senedd.wales/Plenary/16262#C770980)
+
+Trefnydd, can I request a statement from the Cabinet Minister for Local Government, Housing and Planning on the extent of houses in multiple occupancy in Bangor Aberconwy Môn being used by Government-contracted organisations to house people via Home Office schemes? And what assessment has been made of the effect on local housing costs and supply for constituents on waiting lists, some of whom have been waiting for over a year?
+
+## 2026-09-29 — 5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C773020](https://record.senedd.wales/Plenary/16264#C773020)
+
+Thank you, Deputy Llywydd. Minister, a conversation that closes in November and a framework that arrives in 2029 is not a plan for homes, jobs or high streets now. The current framework already tells north Wales where it sits—national growth in Wrexham and Deeside, while Bangor Conwy Môn is offered only managed coastal growth. If this revision merely re-badges that map, businesses along the A55 will see no change.
+
+Will the Minister confirm three things: first, that the engagement in the north-west will be as serious as in Cardiff; second, that empty and broken high streets will not be treated as lower priority issues; and, thirdly, that this revision will treat Bangor, Caernarfon, Llandudno and Holyhead as more than a supporting act to Wrexham and Deeside and that we won't have to wait until 2029 for a confirmation of that? Conversations do matter, but towns across the north-west cannot wait for the next plan.
+
+## 2026-10-06 — 4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C776124](https://record.senedd.wales/Plenary/16313#C776124)
+
+Thank you, Deputy Minister, for today's announcement. People on both sides of the Menai strait will judge this statement on whether it gives them a credible plan that's both affordable and keeps traffic moving. When either of the existing bridges fail, hospital appointments are missed, staff are late for work, and businesses in Bangor and on Ynys Môn lose trade. Local estimates put that at £30 million a year. So, we welcome this announcement.
+
+But given how tight Welsh budgets are, and that we're already suffering under unbearable taxes, I worry how we can afford this. Given Holyhead's role as the principal gateway between Great Britain and Ireland, can the Deputy Minister please tell us: has he appealed for funding for the third bridge from the UK Government, and, if so, how have they responded? Are they prepared to pick up the lion's share of this bill? And if the UK Government does not share the bill, how will the Welsh Government finance the £400 million to £600 million cost? Thank you.
+
+## 2026-10-07 — 10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C777059](https://record.senedd.wales/Plenary/16314#C777059)
+
+I have two family members working in the merchant navy.
+
+Ports are how the north-west Wales economy breathes. Holyhead is the second biggest roll-on, roll-off port in the United Kingdom. In 2024, it handled 1.5 million passengers, nearly four out of every five sea passengers between Wales and Ireland, and 4.3 million tonnes of freight—that is, food, parcels and exports—moving every night across the Irish sea. When storm damage closed the port last winter, the backlog showed how much Britain and Ireland depended on it. The port and its supply chain are worth more than £100 million a year to north Wales, and around 1,000 local jobs rely on it. In Holyhead itself, port work is a major share of local employment. Cruise ships are adding a new stream. Almost 50,000 visitors came ashore at Holyhead last year, spending in shops, on coaches and attractions, from Anglesey and into Snowdonia. And it's not just the ferry port; we've got Caernarfon, Porthmadog and our smaller harbours that sustain fishing, marine services and the visitor economy, the tourist economy, along the Menai strait and all around Anglesey and down the Llŷn peninsula. Reliable berths, reliable roads and rail into them are not a luxury; they are the foundation of our jobs, our trade and our tourism in the north-west. We need to support our ports. Thank you.
+
+## 2026-10-07 — 8. Reform UK Debate: Access to HMOs and social housing for foreign nationals
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776936](https://record.senedd.wales/Plenary/16314#C776936)
+
+Diolch, Llywydd. Llywydd, the Member for Caerdydd Penarth has set out the principle. I will set out what it looks like on a street in Bangor. A house that used to hold a family now holds six men who arrived in this country as adults. The bins overflow, the parking goes, the neighbours stop letting their children play outside, and when the neighbours complain, they're told they are the problem.
+
+This is not a housing policy; it's a choice to socialise the cost of a failed system, a transfer of the cost from the people who made the decision to the people who live next door to it. HMOs for foreign nationals have become the mechanism by which hard political choices are avoided. Wales does not have a spare stock of family homes. We have long waiting lists. We have young couples forced to live with their parents into their 30s. We have veterans and key workers who can't get housing in the town where they were born. And we have a licensing regime for HMOs that's treating it as a growth industry.
+
+Every family home converted into a HMO is a home taken out of the market for a local family and put into a market that pays better, where the tenants are transient, the houses are crowded, and rental income is backed by a public contract. Landlords did not invent this incentive—Government did. So, let us be precise about what this motion does and does not do.
+
+## 2026-10-07 — 8. Reform UK Debate: Access to HMOs and social housing for foreign nationals
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776962](https://record.senedd.wales/Plenary/16314#C776962)
+
+In a moment.
+
+It does not say Wales is closed. It does not say that a nurse, a doctor or an engineer who can house themselves in the private market is unwelcome. It simply says,
+
+'end access to HMOs and social housing for foreign nationals'.
+
+That's taxpayer-funded accommodation.
+
+## 2026-10-07 — 8. Reform UK Debate: Access to HMOs and social housing for foreign nationals
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776964](https://record.senedd.wales/Plenary/16314#C776964)
+
+If we had unlimited money, I'd agree with you, but we don't have unlimited money and we have vulnerable people in this country. They should be prioritised.
+
+In Gwynedd alone, we have over 2,000 local people in need of social housing, often waiting for over two years. This motion will simply ensure people who already belong to this country have priority. Reform has been clear. Foreign nationals should not be in social housing. The order of priority should be British families with children, British veterans, British workers. This motion simply asks the Government to stop pretending that eligibility is somebody else's problem, even as constituents are pushed aside.
+
+## 2026-10-07 — 8. Reform UK Debate: Access to HMOs and social housing for foreign nationals
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776975](https://record.senedd.wales/Plenary/16314#C776975)
+
+Originally?
+
+## 2026-10-07 — 8. Reform UK Debate: Access to HMOs and social housing for foreign nationals
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776976](https://record.senedd.wales/Plenary/16314#C776976)
+
+I'm not a Canadian at all. [Laughter.]
+
+## 2026-10-07 — 8. Reform UK Debate: Access to HMOs and social housing for foreign nationals
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776981](https://record.senedd.wales/Plenary/16314#C776981)
+
+My mother is Heulwen Roberts from Llangefni. My father—[Inaudible.]
+
+## 2026-10-07 — 8. Reform UK Debate: Access to HMOs and social housing for foreign nationals
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776984](https://record.senedd.wales/Plenary/16314#C776984)
+
+—from Manchester.
+
+The order of priority should be British—. Well, actually, where Westminster—. Okay, this motion simply asks the Government to stop pretending that eligibility is somebody else's problem. Where Westminster holds the power to act, this Government must use its influence to ensure Westminster respects the interests of the Welsh people.
+
+The Senedd could also make it harder to dodge the local connection test for housing. Gwynedd already uses one: five years residence, or a close family member resident for 10 years, or five years of work in the community. We could set a Wales-wide minimum qualification period, stop short placement counting as a connection, and require a local connection to outweigh other factors.
+
+Some Members may try and claim that this is unfair. I will tell you what is unfair. It is unfair that a person who has paid tax into the system for decades can wait longer for housing than somebody who has just arrived. It is unfair that a street in Bangor absorbs the disorder while people who designed the nation of sanctuary live nowhere near it.
+
+It is dishonest to pretend that every arrival is a net contributor. Some are; many in the HMO system are not. A housing policy that cannot tell the difference or simply ignores these outcomes is not compassion; it is an invoice sent to my constituents, paid not only with money but also by sacrificing community cohesion. In a world where Government is spending more than it can afford, where the reality of scarcity is a growing fact of life, the moral duty is first to our people and then to the people of the world.
+
+This choice is now becoming acute and urgent. HMOs must not be used as a solution for our failure to control our borders. We have done more than enough. The test now is whether this Chamber will say so. I support this motion.
+
+## 2026-10-13 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778474](https://record.senedd.wales/Plenary/16315#C778474)
+
+Trefnydd, I'd like to request a statement from the First Minister on the Welsh Government's overseas offices—the network of 20 offices across 11 countries, with an annual running cost of around £4.7 million. Members from more than one party have asked since 2021 for office-by-office costs and benefits, most recently David Mills, on 6 October. The Government has said it cannot break them down. In February, the Government told the Economy, Trade and Rural Affairs Committee it would not release office-by-office investment results, citing data protection and Office for National Statistics rules, and offered only network-wide figures. A Senedd committee has also reported that written information on the wider £58 million international budget was frequently incomplete and unclear, with irreconcilable amounts. Will the Trefnydd ask the First Minister to make a statement on this?
+
+## 2026-10-14 — 8. Short Debate: Green across the aisle: Making environmental stewardship a common cause
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C779138](https://record.senedd.wales/Plenary/16316#C779138)
+
+We're told that even though Britain only emits 1 per cent of global carbon dioxide emissions, whilst China and India emit 40 per cent, we should pursue net zero as an example. Ironically, our main emissions cuts have come from exporting steel and other heavy industries to those same countries. But they cannot follow our example; they cannot export their emissions to themselves, and the goods we now import are often produced under weaker environmental rules.
+
+Net zero in its current form is ideologically driven, it is damaging our economy and it will not deliver its aims. We need to look after the environment without crippling our industry or sacrificing our energy security. Nuclear power offers that practical path. It's carbon neutral, highly reliable and statistically the safest form of large-scale energy. Yes, the upfront costs and build times are significant, but the long-term benefits outweigh them. It's time to stop delaying. Let's re-industrialise, invest in nuclear and protect both our economic and environmental future. Thank you.
+
+## 2026-10-20 — 2. Questions to the Counsel General / Large-scale Data Centres
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779888](https://record.senedd.wales/Plenary/16317#C779888)
+
+8. What legal advice has the Counsel General provided to the Welsh Government regarding Welsh Ministers’ powers to call in planning applications for large-scale data-centre developments, including the statutory criteria under the relevant planning legislation and the legal duties that apply when such a request is received? OQ64745
+
+## 2026-10-20 — 2. Questions to the Counsel General / Large-scale Data Centres
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779890](https://record.senedd.wales/Plenary/16317#C779890)
+
+Given that several call-in requests for data centre schemes, including the one at the former Ferodo site near Caernarfon, are currently under consideration, what does the legal advice say about the statutory criteria under section 77 of the Town and Country Planning Act and the threshold of 'more than local importance', when issues such as grid capacity, energy demand or the absence of a specific national data centre policy are raised?
+
+## 2026-10-20 — 2. Questions to the Counsel General / Establishing a Distinct or Separate Legal Jurisdiction
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779915](https://record.senedd.wales/Plenary/16317#C779915)
+
+11. What legal advice has the Counsel General provided to the Welsh Government on the legal implications of establishing a distinct or separate legal jurisdiction for Wales? OQ64744
+
+## 2026-10-20 — 2. Questions to the Counsel General / Establishing a Distinct or Separate Legal Jurisdiction
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779949](https://record.senedd.wales/Plenary/16317#C779949)
+
+What legal advice has the Counsel General provided on the practical implications of moving from the existing distinct body of Welsh law to a fully separate jurisdiction, specifically for the single England and Wales legal profession, cross-border practices, access to justice, and legal certainty for businesses operating on both sides of the border?
+
+## 2026-10-20 — 5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C780032](https://record.senedd.wales/Plenary/16317#C780032)
+
+Minister, thank you for your statement today. Section 4 would allow the Welsh Revenue Authority to withhold certain tax repayments while an inquiry is ongoing. Your own explanatory memorandum acknowledges that some inquiries can take months, or even years, potentially creating cash flow difficulties for taxpayers. Beyond the existing appeal right, will you commit to clear, published service standards for these inquiries, and to reporting how long repayments are being withheld, so that small businesses and taxpayers are not left facing prolonged uncertainty?
+

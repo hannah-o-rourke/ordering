@@ -1,0 +1,368 @@
+# Louise Emery AS — Senedd contributions
+
+43 contributions, 8,021 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-05-12 — 3. Nomination of the First Minister under Standing Order 8
+
+*Speech* · [https://record.senedd.wales/Plenary/16033#C762328](https://record.senedd.wales/Plenary/16033#C762328)
+
+Dan Thomas.
+
+## 2026-06-02 — 6. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Enterprise, Connectivity and Energy Priorities
+
+*Speech* · [https://record.senedd.wales/Plenary/16060#C762760](https://record.senedd.wales/Plenary/16060#C762760)
+
+In relation to the question I'm going to ask, I'd like to declare that I have a small self-catering unit next to my home.
+
+All the economic impact assessments that I've read recently relating to the tourism levy, which your party supported, show a potential reduction in gross value added and a loss of jobs. So, how can the 'grow, invest and innovate' mantra of this new agency also apply to the tourism sector?
+
+## 2026-06-16 — 1. Questions to the First Minister / GP Services
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763482](https://record.senedd.wales/Plenary/16074#C763482)
+
+2. Will the First Minister make a statement on the provision of GP services in Clwyd? OQ64187
+
+## 2026-06-16 — 1. Questions to the First Minister / GP Services
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763486](https://record.senedd.wales/Plenary/16074#C763486)
+
+First Minister, Healthy Prestatyn Iach was created in 2016 as a flagship response to the collapse of GP services in north Denbighshire—three practices terminating their contracts in a single year because they could not recruit enough doctors. A decade on, patients still report that accessing primary care there is difficult and stressful, and now the practice is consulting on reducing its boundary, which would see patients, including some of the most vulnerable in the community, with high levels of deprivation, transferred to neighbouring practices whose own capacity to absorb them is unclear. And the consultation window for patients is just three weeks. First Minister, what discussions have you had to ensure that no boundary changes will be approved unless there is clear evidence that receiving practices have sufficient capacity to maintain standards of access and care, and that the consultation is meaningful and not just a rubber-stamping exercise? Diolch.
+
+## 2026-06-16 — 6. Statement by the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport: Priorities for Culture and Sport
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763795](https://record.senedd.wales/Plenary/16074#C763795)
+
+Thank you for your statement, Minister. I note at the start that you say that the financial situation is challenging, but I must remind you that you were part of the budgetary process for the last few years, so this must come as no surprise, as you signed off the cuts with Welsh Labour. I also notice your objective of seeing increased spending, instead of the pre-election pledge to increase spending on culture, arts and sport year on year over the first term in office as a percentage of the entire Welsh budget. That's gone from a percentage to just an objective. So, I'd like my first question to be this: now you're in Government, what is that percentage of the budget to spend on culture, arts and sport?
+
+I do agree with your sentiment to develop Wales as a cultural and sporting powerhouse, and that work is already under way. That's great. I appreciate you're engaging stakeholders in the first 100 days. Note that that ends on 20 August. It literally is around the summer corner. But when will the Senedd receive and be able to scrutinise the consultation results? That's my second question. And my third question: can I have a written list of stakeholders that you are working with?
+
+I'm glad to hear that sport is to be made accessible to all, especially when it comes to geography. We have great facilities in north Wales. Eirias park in my constituency of Clwyd is a fine example. But when teams and individuals do well enough to get to national competitions or national teams, they always have to head down south, a long four-hour drive with extra costs for fuel and accommodation, a burden on those parents that put so much into their children's sporting lives. From personal experience, I know that no amount of chewy sweets can revive an under-12 hockey team, having spent five hours in the car the night before, playing against a fresh south Walian team who've had a good night's sleep in their own beds. I won't share the result. Alternate locations, north and south, for competitions and training is only fair, so north Walian future sporting stars are not disadvantaged.
+
+I was quite enjoying the Minister's statement until I came to the fourth page, where I read that work has already begun on the establishment of a shadow broadcasting and communications authority for Wales. I'd like to put my response to this into two words: 'completely unnecessary'. This is more constitutional navel-gazing, more quangos, more slow state-building towards independence, and more cost.
+
+Then I read that you're developing plans to support public interest journalism and safeguard the provision of high-quality news. On this side of the Chamber, we feel we already have a state-funded news outlet with blatant political bias, and we don't need any more. I would suggest that state-funded journalism in Wales will mean state-funded interference, and I would also suggest that 'high-quality news' is a highly subjective phrase. Who is going to decide what is high-quality journalism and therefore needs state help? How can we ensure there's no foreign interference, for example? [Interruption.] I'll just wait until you quieten down. How can we ensure there is no foreign interference when allocating Books Council of Wales funding to news outlets? I am very nervous about Government funding the media at any level, as this will affect impartiality, and Reform will not be supportive of this.
+
+Moving on from that, I am really glad to hear that the Welsh language is an integral part of your priorities. The Welsh language is also an integral part of my priorities.
+
+## 2026-06-16 — 6. Statement by the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport: Priorities for Culture and Sport
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763798](https://record.senedd.wales/Plenary/16074#C763798)
+
+I've been learning Welsh for two years now. I've enjoyed learning the language, but it is difficult. I do need support. I will practice my skills with you at the Eisteddfod this year.
+
+## 2026-06-16 — 6. Statement by the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport: Priorities for Culture and Sport
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763801](https://record.senedd.wales/Plenary/16074#C763801)
+
+As Welsh learner champion for my previous county council, I'm happy to discuss how you get people like me speaking Welsh. But be aware, the evidence is clear—coercion drives resentment, not fluency. If the Welsh Government is serious about 1 million Welsh speakers, it needs to invest in the conditions that make people choose the language, not mandate it on those who don't speak it. Welsh culture, the arts and sport should lift people up and bring communities together—that we agree on. But they can do that in whatever language they choose. I look forward to working with you, Minister, on all of your objectives. This is what Reform Wales believes about art and culture and sport. It can be a very positive thing. So let's work together. Diolch yn fawr.
+
+## 2026-06-24 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Equality of Access to the Arts
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764743](https://record.senedd.wales/Plenary/16077#C764743)
+
+I wanted to focus on cultural events as part of access to the arts. A lot of the problems are around grant funding. So, cultural events are often set up by cultural teams, which have to access pots of grants—the shared prosperity grant being one recently that Creu Conwy in Conwy County Borough Council accessed. It had a wonderful array of cultural activities, which then come to an end and the staff we employ then lose their jobs. So, if we're going to have this accessibility to arts, we need to embed cultural activities year on year on year, so that it becomes a tradition of the family. For example, we brought a Welsh language element into a town centre Santa's grotto last year. We can't do that next year because the funding has gone. So, I think that if we're going to look at embedding culture into people's lives, we need to embed the grant funding into local authorities' general spending, rather than them chasing grants. So, would you please consider that, Minister?
+
+## 2026-06-24 — 2. Questions to the Cabinet Minister for Finance / Local Government Funding
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764825](https://record.senedd.wales/Plenary/16077#C764825)
+
+7. What consideration has the Cabinet Minister given to reforming the local government funding formula? OQ64205
+
+## 2026-06-24 — 2. Questions to the Cabinet Minister for Finance / Local Government Funding
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764830](https://record.senedd.wales/Plenary/16077#C764830)
+
+It's great to actually be here in the Senedd, because I have spent the last nine years complaining about the funding formula from the council chambers up in Conwy, and all the time we would be asking our leaders to go and ask Welsh Government Ministers to review the funding formula based on the ageing demographic that we have, particularly in Conwy, which affects our social care budget. So, here I am—and you're going to be sick of this question—but, please, please, when you're looking at the funding formulas, can you consider the ageing demographic that we have along the north Wales coast? People are living longer lives, healthy lives. It must be the north Walian sea air. But we need some consideration for the high level of social care costs that are now overtaking education budgets, particularly in Conwy. Diolch.
+
+## 2026-06-30 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765531](https://record.senedd.wales/Plenary/16078#C765531)
+
+The UK Government closed the listed places of worship scheme on 31 March. A £92 million replacement fund was found, but exclusively for England. This means that churches and chapels across Wales faced a 20 per cent VAT increase overnight on every single repair. Now, I know there are National Lottery and Cadw applications that can be applied for, but they require professional help, and that's very hard for small, volunteer-run community groups. This is not just about the buildings. We know our churches and chapels are where we sing our hymns, where we preserve our language, and they forge our national identity. So please can I request a statement from the Minister for culture on this very urgent issue? Diolch.
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767063](https://record.senedd.wales/Plenary/16084#C767063)
+
+Tourism in Wales is not a 'nice to have' on the margins of our economy, it is one of the load-bearing pillars of it. Welsh Government's own data shows that this sector directly supports more than 150,000 jobs—nearly 12 per cent of all employment in Wales—and generates £3.8 billion, 5.1 per cent of our gross value added. These are not abstract statistics on a spreadsheet; this is the guesthouse in Tenby, the cafe in Betws-y-Coed, the outdoor activity centre in Eryri, the small hotel in Llandudno that keeps its lights on in February because it knows summer is coming.
+
+In Pembrokeshire and Anglesey, more than one in five jobs sits within tourism. This is not a supplementary income stream for those communities; it is the backbone of their local economy. Four in five tourism enterprises in Wales employ fewer than nine people. This is a sector of family businesses and sole traders, not international hotel chains that can absorb bad policy and move on. When this Chamber legislates without understanding that reality, it is these people who pay the price. So, point one of this motion shouldn't be controversial, it simply asks the Senedd to recognise what is already true.
+
+My colleagues were with the First Minister last Friday on a luxurious cruise ship in Holyhead port, and we were hearing about the good work that Cruise Wales and Holyhead Town Council have done to get more cruise ships to stop there on their British isles tours. There are around 60 a year at the moment, bringing close to £0.25 million to the immediate local economy, not to mention the wider benefits of showcasing north Wales to returning visitors. This is an excellent example of what can be achieved when Government works together with the sector, but these examples are few and far between.
+
+Wales is currently the only UK nation yet to recover pre-pandemic visitor spend. Scotland's international spend was up 41 per cent on 2019, ours is still down. If we're serious about Wales being world class, this Chamber must ask why we're the exception and stop making decisions that make the answer worse.
+
+The first bad decision: tourism tax. A tax on visitors is a tax on the jobs that serve them, a blunt instrument that hits small, rural and coastal operators hardest. And remember that Wales, as part of the UK, already charges 20 per cent value added tax on hospitality accommodation, more than double Germany's 7 per cent or France, Italy and Spain's 10 per cent. Layer a visitor levy on top of this and we're pricing Wales out of the market when we're trying to grow the sector. It's not even been implemented yet, but the perception of Wales taxing visitors, especially from England, I believe, has already had a negative impact on visitor numbers, and I'll let my colleagues expand on this further.
+
+The second bad decision: introducing the 182-day rule. Nearly 40 per cent of genuine holiday lets are not making this unrealistic high bar of letting days. Independent survey evidence shows 47 per cent of owners are losing money as they're being classed wrongly as second homes. England's equivalent threshold is 70 nights, less than half ours. And there is no evidence so far that the higher Welsh bar achieves its aim of increasing the number of family homes in local communities. Protecting housing supply and community sustainability can be done through the planning system, not through an unfair fiscal tool, and I'll let my colleagues set out why that number needs to change.
+
+We talk about sustainable tourism. What does that mean? Well to me, in my opinion, it means the visitor should bring maximum cash to the local economy for jobs and businesses, with minimum disturbance to daily life and no lasting change to the fabric of a community. But sometimes it feels there are winners and losers in our busy summers. The tourism sector makes the majority of their revenue over summer, but for those who can't park outside their house or find their bins full of visitors' litter, it can feel that they are not benefiting from this surge in numbers, and we totally get that. But this need not be the case.
+
+We can have winners and winners if we ease up on regulation. Let the farmer open his field to cars on busy weekends in certain hotspots; let residents associations negotiate a residents' permit scheme, so locals get parking while visitors pay for theirs; let a village hall become the ticket office or shuttle bus pick-up point for a nearby attraction, taking a fee for the privilege. On this side of the Chamber, I have a whole bucketful of ideas to make sure that local communities benefit from this sector, but this doesn't include taxing visitors, leading them to go somewhere cheaper, which could literally be a few miles away in a different county that hasn't implemented the tax. Although I do not agree with the policy, if the previous Welsh Government wanted to implement the tourism tax, they should have had the guts to insist it was a Wales-wide policy rather than passing the buck to local authorities.
+
+Sustainability also means a wide range of accommodation, so people stay rather than just visit for a day in tourism-specific places. This means relaxing regulations to support more hotels, bed and breakfasts, caravan parks and campsites. For example, we recently changed the law in Wales. We only allow 28 days of permitted development for a landowner to run a summer campsite. In England it's 60. Nobody will invest in water supply or temporary toilets for just 28 days of business. So, let's change that.
+
+Sustainability means better transport and co-ordination around our tourism hotspots. I know, from a number of occasions, freezing cold at the base of yr Wyddfa waiting for the Sherpa bus that never arrived, that this system isn't good enough. I know there's a transport plan specifically for the Eryri National Park, but it currently remains a plan. Where is the Welsh explorer pass linking public transport to discounted attractions? Where's the Cadw castle pass, where you can visit as many castles as you can in a week and take a selfie at each one and get a discount in the shop? This is not a lack-of-resources issue. These things are often policy and partnership problems. We can do so much more to support the sector without taxing it.
+
+And finally, I want to make this point about how the tourism and hospitality industry can make a vital contribution to stopping our rising youth unemployment. Almost everyone's first job was in hospitality. It teaches communication, quick thinking, hard work. Major hotel chains and tourism attractions employ lawyers, accountants, engineers, sales and marketing. It's not just making beds and serving tables, but for many of those best paid professionals, that's where they started. And I've seen first-hand how hospitality careers are valued across Europe.
+
+I've visited Swiss hospitality schools, which are world class, drawing students from across the globe to prestigious courses. I recently set up a hospitality excellence fund with my local college, privately funded to help our students compete nationally to raise their game. We talk about ambition for Wales. So, why can't we compete with those Swiss colleges? Why can't we say proudly from the very top that hospitality in Wales is one of the best starts to a career? Where is the drive? Where is the ambition? Well, maybe it starts now.
+
+In this Chamber, by supporting this motion and removing those two barriers—one fiscal, one regulatory—that the previous Government has put in the way of that sector's success, we need to be working cross-party to create an environment that encourages private business to invest in our tourism offer, high-value accommodation, world-class visitor attractions. Let's liberate the tourism sector, not strangle it with taxes and regulation. Llywydd, I commend the motion to the Senedd.
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767078](https://record.senedd.wales/Plenary/16084#C767078)
+
+Llywydd, I move the motion in the name of Llŷr Powell.
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767085](https://record.senedd.wales/Plenary/16084#C767085)
+
+Will you accept an intervention?
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767087](https://record.senedd.wales/Plenary/16084#C767087)
+
+When you talk about £1.30 a night, you need to add the VAT on that for a lot of businesses. That comes up to £1.57. If you do the calculation on £500 for a cheap week in a caravan in my constituency, that's £65 extra tax for a family of five or six. So, that's not just a cappuccino, is it?
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767102](https://record.senedd.wales/Plenary/16084#C767102)
+
+Will you take an intervention?
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767105](https://record.senedd.wales/Plenary/16084#C767105)
+
+Obviously, councils that have a lot of tourism have an enhanced population grant, which is exactly what's there to fund those issues, so we don't need another source of income. Do you agree or disagree?
+
+## 2026-07-08 — 7. Reform UK Debate: The tourism sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C767121](https://record.senedd.wales/Plenary/16084#C767121)
+
+Diolch. For the record, I refer Members to my register of interests. Deputy Presiding Officer, I move the motion in the name of—. Hold on.
+
+## 2026-07-15 — 1. Questions to the Cabinet Minister for Health and Care / Patient Consultations and Associated Services
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768115](https://record.senedd.wales/Plenary/16086#C768115)
+
+7. What action is the Welsh Government taking to ensure NHS Wales uses existing technology to speed up access to patient consultations and associated services? OQ64423
+
+## 2026-07-15 — 1. Questions to the Cabinet Minister for Health and Care / Patient Consultations and Associated Services
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768118](https://record.senedd.wales/Plenary/16086#C768118)
+
+That's great to hear, because obviously face-to-face initial consultations are still vital for most people, but for those who have got long-term conditions or those who are working full time or have transport issues, online consultations are really going to work. We've referred to Betsi Cadwaladr. They did a trial of Attend Anywhere. There were five patients in 2020—five patients in five years, and they haven't told the public a single thing about how this technology is performing in north Wales. So, I agree with your sentiment that we know it's a vital part of services for the NHS, but in Betsi Cadwaladr, could you please tell me what is going on in terms of how they're using Attend Anywhere and other technology to help my constituents?
+
+## 2026-09-16 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769429](https://record.senedd.wales/Plenary/16261#C769429)
+
+A final question, and I'll change the subject now. Minister, the closure of the listed places of worship grant scheme has left congregations facing significant extra costs. In June, I think I spoke about this and you promised an update on Cadw's assessment of the closure's impacts and confirmed that Wales did receive Barnett consequentials. Three months on, we have over 3,000 listed places of worship in Wales still without dedicated support. Scotland has launched a scheme. What has that assessment concluded and will you commit to protecting Wales's historic churches and chapels?
+
+## 2026-09-16 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769452](https://record.senedd.wales/Plenary/16261#C769452)
+
+Cabinet Minister, thank you for coming to the culture committee on Monday, where we discussed the shadow broadcasting and communications authority for Wales. I'd like to press you further on this, if I may. You referred in committee to the 2023 expert panel report as evidence for supporting your approach to this shadow authority. As a lot of us weren't there in 2023, I thought I'd just remind us of the remit of that panel. The main purpose was to provide options and recommendations on the delivery of the Welsh Government and Plaid Cymru co-operation agreement at the time to explore the creation of this shadow authority. The panel will have specific regard to that and will be expected to build on that initial thinking within the co-operation agreement. So, it may well have been an expert panel, but I'm not sure it was independent advice given. So, I'd like to ask the Minister what independent assessment your Government has undertaken of the alternative—that the problems identified by the panel, which we both agree on, could be addressed within the existing UK regulatory framework without any need for a shadow authority.
+
+## 2026-09-16 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769475](https://record.senedd.wales/Plenary/16261#C769475)
+
+Thank you for that answer, and, as I think we agree, nobody disputes that journalism faces financial pressures, particularly in Wales, that viewing habits are changing and that Welsh language broadcasting should definitely be supported. And I refer to the Welsh Affairs Committee, which heard evidence from S4C in the last week or so, working successfully with the BBC, Ofcom and the Department for Culture, Media and Sport to improve the prominence of Welsh language content and address these problems. None of these discussions stated that devolution was the best outcome. Referring to our committee discussion, we talked about the need for funding for extra journalists particularly. So, do you believe that, if this goes ahead as, obviously, a shadow authority, ultimately devolving broadcasting powers to Cardiff would actually mean funding available to solve these problems, and where would this money come from? Diolch.
+
+## 2026-09-22 — 6. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Update on the Deposit-return Scheme
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C771074](https://record.senedd.wales/Plenary/16262#C771074)
+
+Thank you, Minister, for your statement. We're clearly driving forward with the deposit-return scheme, but I simply don't think this Chamber or the general public, certainly Welsh families and Welsh businesses, truly understand what is coming next October, whether the scheme includes plastic, aluminium or glass containers. The fact that we're virtually empty here in the Chamber just shows that people don't understand it. So, I really thank you for allowing me to do this very briefly.
+
+Let me begin. This is the current system of recycling in Wales. We have the highest recycling rates in Wales. Yes, shop, containers, home, Trolibocs, council, they sort it out, they make the money. Okay. This is what's going to happen now. We're going to go to the shop, we're going to buy containers, they're going to have a 20p flat rate on them, they're going to go to homes, and we've got to return them to retail. We've got to take them to these vending machines to get our 20 pences back. Meanwhile, the council have still got to pick up all the low-value recycling. Think about this here, I'm going to talk about this in a minute. Okay, that's the new system. I'll show you this outside if you want more detail.
+
+Obviously, DRS was introduced by the Conservatives in the Environment Act 2021, and I do not understand—[Interruption.] I know, that's why I left. [Laughter.] We are going to have a second parallel system that requires people to drive, transport and return these containers separately. Why are we moving material around twice? Think of the emissions. Why are we building a system around thousands of reverse vending machines? The shops have got to buy these machines. We're locking ourselves into technology that belongs to the past. When you get to the machine and you put your bottle in, you get a paper ticket. It's not the 1980s. It's ridiculous.
+
+And then there's the cost. This is the most serious point for me. Cost of living—every family in Wales is feeling the cost of living. Now we're being told that every drinks container will carry an extra charge. Say you're buying a 24-pack of water bottles, that's £4.80 to the bill upfront. Yes, we're told we can get it back, but we all know not every deposit will be redeemed. You'll lose your paper ticket. Some families just won't get round to doing it. And what about online food delivery? For people that don't want to or can't go to supermarkets—the elderly, the vulnerable, people with health conditions, disabilities—how do they get back their 20p? So, Minister, here's your first question: how will people that use online delivery and don't go to supermarkets get their 20p back?
+
+And where does all this unredeemed money go? It goes into a private scheme administrator, sitting in a bank account earning lots of interest. A private, not-for-profit organisation, chief execs paid very nicely, and there's very little public understanding of who controls that money and how it will be spent. So, second question, Minister: how long will those unredeemed 20 pences be kept in that private bank account earning interest, and who decides how and when that money is spent?
+
+Oh, perhaps the biggest issue of all is one that's not been discussed today at all in the statement: council revenues. This scheme quietly removes some of the most valuable recyclable materials, like aluminium, from local authority recycling streams—the materials that help councils generate revenue and offset collection costs. For years, councils have built recycling services around those materials, and now we're proposing to remove them and hand control elsewhere.
+
+I've got letters and statements here from companies and member organisations in England—the Association of Directors of Environment, Economy, Planning and Transport and the National Association of Waste Disposal Officers—lots of different companies that recycle for local authorities, basically saying, and I quote from one of them, 'DRS would duplicate a system that is already costing local authorities hundreds of thousands of pounds each year', and they want it to be paused. This is in England. So, my third question to the Minister is: what impact assessments has the Welsh Government done on local council revenues in this new system?
+
+Now, let's look at our friends in Ireland. They're about two years ahead of us. I noticed the statement said that it was working well in other countries. Well, I've spoken to our counterparts over the Irish sea. There are constant problems with the machines. They either break down or they fill up quickly. People hate them. It creates litter. Listen to this: Dublin City Council has spent hundreds of thousands of pounds—I think it's about £800,000—cleaning up after scavenging for bottles and cans from litter bins. They pull all the litter out, they find the valuable product, they don't put the litter back in.
+
+Control, like the plan for Wales, is with a non-government organisation. That organisation now sits on €98 million of unredeemed deposits, because that's what happens when you devise a system that hasn't been thought through on the impact to everyday life, what we're asking people to do, to take their containers back to the vending machines. My goodness, there's enough to do in life already. And by removing those valuable recyclable products from household waste management in Ireland, bin collection charges—it’s a slightly different system to us here—have gone up by 30 per cent.
+
+If litter was the issue, there are simpler and cheaper ways to tackle it. For me, I would scrap this scheme and we should be improving and modernising our world-leading kerbside recycling system. Part of the extended producer responsibility tax could be ring-fenced by UK Government with Barnett consequentials to invest in the latest technology, so these high-value materials can still be picked up kerbside, and we can start building processing plants here in Wales.
+
+Minister, DRS is a reform too far. It will have a massive impact on Welsh recycling records, Welsh communities and Welsh pockets. Please: pause, wait.
+
+## 2026-09-23 — 3. Questions to the Senedd Commission / Expansion of Tŷ Hywel
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771514](https://record.senedd.wales/Plenary/16263#C771514)
+
+Thank you, you've answered a couple of questions in your statement, so I just wanted to ask: will the landlord be paying for the costs relating to moving us and staff members, or is it just for the improvements to Tŷ Hywel? Thanks.
+
+## 2026-09-23 — 3. Questions to the Senedd Commission / Expansion of Tŷ Hywel
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771574](https://record.senedd.wales/Plenary/16263#C771574)
+
+7. Will the Commission provide an update on the Bay 32 project? OQ64558
+
+## 2026-09-29 — 2. Questions to the First Minister / Music Venues
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772861](https://record.senedd.wales/Plenary/16264#C772861)
+
+I'm glad you brought up this question about music venues, because they are struggling. I want to talk about Arts Council Wales's core funding. Grass-roots music venues seem to get nothing from that, whereas other music genres, like opera, can receive millions of pounds. So, the same system that subsidises theatres and galleries without question tells our small venues that they're commercial operations and they must fend for themselves. We've talked about some of the clubs that are still going, but some have failed—Central Station in Wrexham, TJ's in Newport and Barfly in Cardiff. This month, Tramshed missed out on rates relief by £4,000. Just because business returned to normal after COVID, it doesn't mean they're making more money now.
+
+Every business supports the 30 per cent business rates cut, and we support that here, but these small venues are not taking advantage of that because they're just slightly over the threshold, and we really risk an effect on young Welsh talent. So, I'd like to ask you: can you think about replacing the cliff edge with a taper and commit to parity of esteem for grass-roots music venues? Diolch.
+
+## 2026-09-29 — 4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework
+
+*Speech* · [https://record.senedd.wales/Plenary/16264#C772998](https://record.senedd.wales/Plenary/16264#C772998)
+
+I thank you, Minister, for your statement, and, genuinely, I hope this does work, for all of my constituents in Clwyd, but also for myself and my family. Certainly, with Betsi Cadwaladr health board, you never quite know when you're going there what's going to happen, and we've had some horror stories over the last 12 months, particularly.
+
+But I just wanted to focus on this idea of health boards setting their own criteria and the assessments being made by stakeholders. I'm just a bit concerned about that, because, obviously, there's senior management in place right now, and chief executives in place right now, who are overseeing health boards that really aren't doing a good enough job. And you're sort of asking them to mark their own homework. I'd hope they would be very nervous about this framework coming in and they'd need to pull their socks up. Because this is about leadership and culture. So, that's down to human beings inside organisations just not doing a good enough job, and trying to change that culture has to be carrot and stick. So, I'm slightly concerned about them setting their own criteria, so a little bit more about that, please.
+
+And then, in terms of making the public aware of what we're doing, it's a pretty dry document, isn't it? And it's trying to make sure that the public understand that all of us want to make sure the NHS is a much better-run organisation. How are we going to get that across to the public about these changes? And, particularly, I was interested that the accountability review may be held in public for health boards. So, tell us a little bit more about that, and about setting your own criteria. Diolch.
+
+## 2026-10-06 — 4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C776103](https://record.senedd.wales/Plenary/16313#C776103)
+
+Oh dear, oh dear, oh dear, Minister. We were expecting a lot more on this side of the Chamber. But, anyway, we'll start north and then we'll travel south, if that's okay.
+
+So, I'll start with the positives. Nice to see we're doing some baby steps with the current bridges that cross the Menai strait. Wind deflectors—let's get on with that as soon as we can, improve those; we've got a winter ahead of us. And varying the speed limit—we like varying the speed limit in this Chamber, don't we—I'll give you a positive on that one. But, in terms of the actual third bridge, it sounds like you're just thinking about a third bridge, which simply is not good enough. So, you're going to recommence development work and look at design development, environmental assessment, business case preparation. To me, it doesn't sound like you're completely committed to a third crossing, because I thought we'd done all this work before. I thought this was called the purple route and that that work had been done. And obviously what's disappointing to see, and this is why I question your commitment, is there's nothing in here about funding a third bridge. It's going to be an expensive project and is going to need cross-party support, and there's nothing in here about that. So, I want to ask you, and you can answer once I've finished, clearly: are you actually committed to building the third bridge across the Menai strait, 'yes' or 'no'?
+
+Right, then, let's head down south. Now you need more thinking time—18 months of more thinking time—about solutions. And again, I thought we'd been here and gone through all of that with the M4 relief road and the black route. And in between the thinking time—which you clearly need, fair enough—for the next five years, you're going to do some improvements, which, personally, I think is just a sticking-plaster approach that ties in directly to Plaid Cymru's anti-motorist stance.
+
+Let's talk about closing junctions. I do love the statistic about one in 10 cars not making it onto the M4. Of course they can't make it onto the M4, because they can't get onto the M4 because you've closed the junction. Closing junctions doesn't solve congestion and it's going to move that onto Newport's local roads. Newport City Council recently—July 2026—voted unanimously against any measure that diverts traffic onto Newport's already congested streets. I don't think they will be so delighted with your statement today. As we in Reform have said, stopping cars getting onto the motorway isn't a solution that Newport will thank you for. And in your own assessment, the cost of this is £14 million, and reducing traffic by a whopping 3 per cent.
+
+Let's go over to the Heads of the Valleys plan. So, let me just get this right: ferries transport comes off the boats in Pembroke and then goes across east to Dover and on to Europe, and what you want to do is encourage, persuade, divert that freight traffic to go up over the Heads of the Valleys and back down again, and the cost of doing that is £49 million, which is some pretty swanky cafes and some nice rest facilities, and you think that will reduce the traffic on the M4 by 1 per cent. It's just not going to happen.
+
+And then, finally, we get on to rail. Now, let's be clear: Reform supports more rail capacity, but rail should add choice, not be used to justify restricting road access. As Laura Anne Jones pointed out, the M4 users have no realistic alternative. We need to remind ourselves that, unlike us, there are a lot of people who aren't members of the lanyard class who go to work each day with a small briefcase. How are delivery drivers and tradespeople going to get on the train? 'Excuse me, ma'am, can you just move to one side while I put my 12 pots of paint and my toolbox there?' It's not going to happen.
+
+Basically, Minister, I'm asking you to drop your ideology. What you've done here is pretend to be committed to fixing the road issues, but actually you're thinking about a bridge, you've got 18 months more of thinking about the M4, and you've got a five-year scheme, which, essentially, is going to cost millions of pounds and reduce traffic congestion by 4 per cent. So, here is the solution. On your last page of your statement, you say, 'We are developing a long-term roads-based and engineering solution.' Well, I'll tell you, we've got one: it's the M4 relief road, the black route. Reform UK have costed this at £2.8 billion. Yes, that's a lot of money, but I will guarantee here that, if there is a Reform Welsh Government, we will be lobbying and working with a Reform UK Westminster Government—which is coming, ladies and gentlemen—and we will build the M4 relief road. So, Minister, I want to confirm: are you committed to the bridge, completely and utterly committed? And please stop thinking and just get on with it. Diolch yn fawr.
+
+## 2026-10-07 — 6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776837](https://record.senedd.wales/Plenary/16314#C776837)
+
+I speak to support this motion and the powerful case that my colleagues in this Chamber have already established.
+
+Family drug and alcohol courts were something that I was not very aware of before Tom brought this forward, so I'm really pleased that we're talking about it today. Of course, it was not dreamt up in a think tank; it was born of a judge's frustration. District judge Nicholas Crichton sat in a family court in London and watched the same mothers return again and again. He asked a simple question:
+
+'Just what is it that family courts are there to do? Just take away children?'
+
+'If we are looking to remove the 8th, 9th or 10th child, the family courts can't be doing very well by this family'.
+
+Inspired by family treatment courts in the United States, he set up the first London FDAC in 2008. As we've heard in the Chamber already, an international review of 17 studies of family drug treatment courts found that families were significantly more likely to be reunited. From Australia to New Zealand, this works.
+
+The most senior family judge in England and Wales, Sir Andrew McFarlane, said:
+
+'The ultimate goal remains for FDAC courts to be available in all areas of England and Wales.'
+
+England and Wales. Members, the judiciary is ready, and it is waiting for us.
+
+Mothers reunited through FDAC were more than likely to still be off drugs or alcohol five years on. This is not a performance for the courtroom. This is a life rebuilt. Even when children cannot go home, FDAC keeps parents in treatment so that they can still play a healthy part in their children's lives, so the next baby does not end up in court and maybe taken away from the family.
+
+The motion asks that FDACs form part of a strategy to keep children out of care. Bedfordshire shows the way, and we've heard quotes from Bedfordshire across the Chamber today. Bedfordshire is not just about children's services running this. It is also backed by the local integrated care board, who evaluate its work and bring support from every partner. Here in Wales, we have partners around the table already. We have health boards, we have substance misuse area planning boards, we have regional partnership boards, and we have police and crime commissioners—for now. Every one of them gains when a parent recovers and a family stays together. Every one of those organisations, and us, should help own this.
+
+I urge Members to support this motion. As Tom said, we need to build a care system in Wales that builds, not breaks, families.
+
+## 2026-10-07 — 7. Reform UK Debate: Regional rugby
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776855](https://record.senedd.wales/Plenary/16314#C776855)
+
+Diolch, thank you. I move the motion in the name of the Reform UK group. Cardiff, the Dragons, the Ospreys, the Scarlets. For more than 20 years, these four regions have carried Welsh rugby. They are employers, they are community hubs, they are the first steps on the ladder for the young players, from Pembrokeshire to Pontypool. And today, one of them faces the axe.
+
+Now, let it be clear what this motion does. It does not ask Ministers to run the Welsh Rugby Union. It is and should be independent. But independence should not be immune from scrutiny. Where public money has gone in, the public is owed answers. And where a decision will hit jobs, businesses and communities, this Senedd is owed the evidence behind that decision.
+
+So, for those of you who are not as passionate about rugby as I am, in October 2025 the WRU announced the decision to cut the men's professional game from four teams to three. In July 2026, it published its road map. Cardiff would be offered the capital licence; the Dragons, the east; and the Ospreys and the Scarlets would be left to fight over one licence in the west. And in August, the WRU's director of rugby, Dave Reddin, confirmed the union is sticking to that plan. So, the destination has been chosen. One region is being lined up to go before anyone has seen the test it will be judged by. That is the wrong way around. The WRU says it cannot afford four competitive teams, so publish the business case for three teams against four in full before December.
+
+And this is not only the WRU's money. In 2021, the Welsh Government gave £13.5 million in survival funding to rugby—£2.7 million each to the union and to all four regions—and a further £475,000 in 2022; £1.8 million in 2024 for the national stadium; and Sport Wales has put nearly £435,000 into the WRU this year. Councils have stepped in too. Swansea has approved £5.1 million to rebuild St Helen's, with a 50-year lease for the Ospreys. The city deal has added £771,000. Carmarthenshire council owns Parc y Scarlets and lent the club £2.4 million, which is still being repaid.
+
+So, when the Minister told this Chamber last month that the Government does not fund professional sports teams, with respect, the record shows that it has. So, whether you are a rugby fan or not, taxpayers have a stake in this. So, what happens if a region goes? What happens to St Helen's, where 90 per cent of availability of the ground is meant for community use? Who pays the rent? Who fills the stands? What happens to Parc y Scarlets and the council loan still being repaid? What happens to the training grounds, the academies, the coaches, the physios, to the players at clubs that are on a regional pathway? What happens to programmes like Ospreys in the Community, the hotels, the pubs, the cafes and the taxis? It goes on and on and on. And what about the young players in north Wales or rural Wales? Fewer teams, fewer contracts, fewer chances, more of our talent lost over the border or not discovered at all.
+
+The Government's amendment would delete our call to protect the four regions, but it also says that this decision must be informed by a full assessment of the social, community and economic consequences. So, will the Minister ask the WRU to publish its business case for three teams against four, independently checked, before licensing begins in December? Will the Minister work with Sport Wales and councils to publish a full record of public grants, loans and stadium investment in the WRU and the regions, with the conditions attached, to provide transparency in what the taxpayer has spent? And is the Government planning to do the assessment on the impact on jobs, businesses, community programmes and player pathways, not forgetting the impact on north and rural Wales?
+
+Everyone in this Chamber says rugby matters to Wales. It absolutely does, but warm words will not save a region. The WRU is independent, but it is not accountable to no-one—it answers to its clubs, its supporters, and, where public money is involved, to the people of Wales. This is a huge decision. If the WRU won't protect the future of the four regions, if the WRU can't protect the future of the four regions, then the communities around these clubs, the businesses that rely on these clubs, and the taxpayer that's funded these regions needs to understand why. Diolch.
+
+## 2026-10-14 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C778826](https://record.senedd.wales/Plenary/16316#C778826)
+
+Diolch. Now, I'd like an update on the national museum in Cardiff. Now, we know that we got some funding for roof repairs earlier this year, and you came to our culture committee and expressed concern about water entering galleries containing our national collections. We've got winter approaching, and it's important that we have essential maintenance that carries on. But I want to know what progress there's been on the funding and repairs and what timetable and funding are in place to complete the urgent works, because we could be in a position where not only that our collections are at risk, but that the museum actually has to close.
+
+## 2026-10-14 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C778834](https://record.senedd.wales/Plenary/16316#C778834)
+
+Diolch. Minister, I had a question to the First Minister on 29 September about business rates and music venues—and I welcome the 30 per cent reduction—that talked about the cliff edge that happens at the £51,000 business rate edge. I want to keep this issue front and centre of your mind when you're in discussions with the finance Minister. A lot of cultural activities require public money to exist, and we don't want music venues to join that list. They want to be self-sufficient, they don't want to rely on grants, and this is a way we can help them. So, can I ask will you address the exclusion of music venues with the finance Minister, including consideration of a business rates taper approach in the future? Diolch.
+
+## 2026-10-14 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C778841](https://record.senedd.wales/Plenary/16316#C778841)
+
+Okay. Finally, I want to talk about the Tour de France. It's coming to Wales next summer, starting in Welshpool and finishing in Cardiff. We want it to be a successful event to showcase Wales, to help the local economy and be a great event for all of us to attend. But events of this scale cost money to host. We totally accept that; that's the deal. But we want transparency around these costs now and in the build-up to the event, and in the legacy funding afterwards. Now, I know you've announced the £4.5 million legacy fund, and I've got a query about that and then a question about the hosting fees. The legacy fund comes from the brilliant basics fund, or is administered through the brilliant basics fund, which is to provide small tourism infrastructure projects. Is this additional money, the £4.5 million, noting that it's going to be ring-fenced for cycling infrastructure, or is it just part of the brilliant basics fund, so it's going to come out of that original pot? That's my first question. And secondly, on the hosting fee, which public body has paid for this? Thank you.
+
+## 2026-10-20 — 2. Questions to the Counsel General / Devolution of Broadcasting
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779922](https://record.senedd.wales/Plenary/16317#C779922)
+
+I'm sure you just made a political statement about the strong broadcasting sector required to be devolved, but, okay, I'll forgive you on that one.
+
+## 2026-10-20 — 2. Questions to the Counsel General / Devolution of Broadcasting
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779928](https://record.senedd.wales/Plenary/16317#C779928)
+
+Okay, fair enough. It's obviously currently largely reserved to the UK Parliament, so the question is: how do you assess the implications of such a change with broadcasting to the overall existing constitutional settlement? So, how does that work by taking something out of the constitutional settlement?
+
+## 2026-10-20 — 2. Questions to the Counsel General / Devolution of Broadcasting
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C780019](https://record.senedd.wales/Plenary/16317#C780019)
+
+Yes, I thought you'd just made quite a political statement, because she asked you whether you agreed it should be devolved, and you said you did.
+
+## 2026-10-20 — 8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C780203](https://record.senedd.wales/Plenary/16317#C780203)
+
+Thank you, Minister, for your statement. I want to ask you a question specifically about energy being more affordable from this strategy—and maybe I'm misunderstanding it. I appreciate single home owners can go and purchase solar panels with a grant, possibly, and then they can see their energy bills reduced for that household. I also get about communities that can perhaps put a panel of solar panels on a nearby field and feed into that, and they get their own reduction in energy. But we are part of the national grid, so any energy that we produce, whether it's clean or fossil fuel, goes into a national grid. We're part of an energy market across the UK. We've got household prices fixed by the UK Government. We've got international fuel fossil markets that dictate that. So I'm trying to understand, with the community ownership and the national public energy company, what is the actual mechanism by which this strategy will eventually lower bills for the majority of Welsh people that go onto comparison sites and just choose a provider? The majority of people. How is that mechanism going to work when we have a national grid and the UK Government dictating energy prices? Diolch.
+
+## 2026-11-03 — 1. Questions to the First Minister / The Autumn Budget
+
+*Speech* · [https://record.senedd.wales/Plenary/16420#C782234](https://record.senedd.wales/Plenary/16420#C782234)
+
+2. What assessment has the Welsh Government made of the impact of the UK Government’s autumn budget on small retail, hospitality and leisure businesses in Wales? OQ64842
+
+## 2026-11-03 — 1. Questions to the First Minister / The Autumn Budget
+
+*Speech* · [https://record.senedd.wales/Plenary/16420#C782237](https://record.senedd.wales/Plenary/16420#C782237)
+
+So, you've probably guessed, First Minister, that I'm going to talk about the threshold, which has been increased to £18,000 for small retail, hospitality and leisure premises in England. In Wales, if we just remind the Chamber, it's £6,000, with tapered relief up to £12,000. Will your Government assess how many Welsh businesses would actually benefit if the threshold matched over in England and publish that estimated cost ahead of the Welsh budget? Diolch.
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Wildlife-related TB
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782895](https://record.senedd.wales/Plenary/16421#C782895)
+
+4. Will the Cabinet Minister provide an update on the timescale for receiving and publishing the Bovine TB Technical Advisory Group for Wales's advice paper on wildlife-related TB? OQ64811
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Wildlife-related TB
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782897](https://record.senedd.wales/Plenary/16421#C782897)
+
+Well, that is great news, because that was my next question, exactly when that's going to be published. So, can I check that will be published in—. You said published in full by the end of November, and available to the public?
+
+## 2026-11-04 — 2. Questions to the Cabinet Minister for Rural Resilience and Sustainability / Wildlife-related TB
+
+*Speech* · [https://record.senedd.wales/Plenary/16421#C782902](https://record.senedd.wales/Plenary/16421#C782902)
+
+Diolch yn fawr.
+

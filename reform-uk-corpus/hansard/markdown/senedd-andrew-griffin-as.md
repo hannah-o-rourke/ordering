@@ -1,0 +1,216 @@
+# Andrew Griffin AS — Senedd contributions
+
+26 contributions, 4,945 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-05-12 — 3. Nomination of the First Minister under Standing Order 8
+
+*Speech* · [https://record.senedd.wales/Plenary/16033#C762346](https://record.senedd.wales/Plenary/16033#C762346)
+
+Dan Thomas.
+
+## 2026-06-09 — 1. Questions to the First Minister / Safeguarding Arrangements in Schools
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762779](https://record.senedd.wales/Plenary/16072#C762779)
+
+1. What assessment has the Welsh Government made of the effectiveness of safeguarding arrangements in schools across Wales? OQ64099
+
+## 2026-06-09 — 1. Questions to the First Minister / Safeguarding Arrangements in Schools
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762783](https://record.senedd.wales/Plenary/16072#C762783)
+
+Thank you, First Minister, for your response. I've received correspondence from constituents in Gwynedd who have expressed concern about the appalling case of the convicted sex offender Neil Foden. While the criminal proceedings have been concluded, many questions remain about the actions, decisions and oversight of the Plaid Cymru-controlled Gwynedd council. Public confidence can only be restored through full transparency and accountability. Will you therefore commit today to commissioning or supporting an independent review of Gwynedd council's handling of this case, so that any lessons can be learned and the public can have confidence that safeguarding systems are working as they should?
+
+## 2026-06-17 — 6. Reform UK Debate: Government international spending
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C764205](https://record.senedd.wales/Plenary/16075#C764205)
+
+I'd like to begin by thanking those Members who have already contributed to this debate, and in particular Llŷr Powell for bringing this motion forward. It's an important discussion, and one that goes directly to how we prioritise the use of our limited public funds.
+
+I want to speak about this in the way it's raised with me by constituents across my constituency in Gwynedd Maldwyn, not through ideology. Because when we talk about international activity or overseas offices, it can feel very distant from the day-to-day reality of my constituents. Let's strip it back. We're talking about a choice of how we spend around £9 million pounds a year, and when you look at that, it stops being abstract very quickly. A significant part of that, around £4.6 million to £4.7 million every year, is simply spent on maintaining the overseas offices. So before anything else happens, almost half of that funding has already been committed. And in Gwynedd Maldwyn, that matters.
+
+I can tell you what £9 million looks like when you come back home. It looks like families waiting longer than they should for a home, constituents struggling to access consistent healthcare, communities where the bus service has been reduced or withdrawn, and older residents who just need more support to stay independent. Those are not abstract pressures. That is what my constituents are dealing with now. That same £9 million in one year could mean around 200 additional nurses, 60 to 90 social homes, dozens of rural bus routes, or hundreds of homecare packages. That is the scale of the choice that we make.
+
+In Gwynedd Maldwyn, our economy depends on farming, small businesses, tourism and hospitality, all of which are under pressure. That same funding could be used to support those sectors directly, strengthening the local economy that my constituents rely on. At the same time, Gwynedd, Powys and Wrexham councils are stretched, health services are under pressure and rural connectivity is fragile. We're not dealing with spare capacity.
+
+I'm not talking about theoretical impacts. I'm talking about what funding would do with the systems we already run. The question is simple. Is this really the best use of £9 million a year for my constituents of Gwynedd Maldwyn and other constituents in other constituencies of Wales? Because every pound spent internationally is a pound not spent on local services, local businesses or the rural communities that I represent. In Gwynedd Maldwyn, £9 million is not a small figure. It's the difference between pressures easing or continuing. My constituents expect that that difference is made here by us, and I urge you to support this motion. Thank you.
+
+## 2026-06-23 — 3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: Priorities for Government Effectiveness and Constitution
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764521](https://record.senedd.wales/Plenary/16076#C764521)
+
+We've already heard today about cross-border co-operation. Following last week's comments by the Cabinet secretary for health on the importance of cross-border care, what assessment has the Government made of the impact that any constitutional change would have on those arrangements? And how will you guarantee that patients in border communities who depend on routine and specialist treatment in England will not face disruption, delays or additional barriers if the current arrangements need to be renegotiated?
+
+## 2026-06-24 — 5. Member Debate under Standing Order 11.21(iv): Stillbirth and neonatal mortality
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764910](https://record.senedd.wales/Plenary/16077#C764910)
+
+I'd like to begin by thanking the Members for bringing forward this important and deeply sensitive debate. And I won't make any apology that some of what I will say will be repeating messages already said, but I feel those messages are important.
+
+At the outset, this is not a policy discussion, this is about families—parents who go into hospital expecting one outcome and leave with something they will carry for the rest of their lives. That is the reality behind every statistic, every report and every line of this motion. So, we should be clear about where we are. And as the Member has said, and it needs repeating, Wales continues to have a higher stillbirth rate than the rest of the UK, and that has not improved meaningfully since 2018.
+
+If we matched the best outcomes in Europe, over 1,000 babies might still be alive today—over 1,000 lives. That's not a marginal issue. That is a system that is not delivering what it should. We've had reports, we've had reviews, we've had commitments, but outcomes have not improved. The question is: why hasn't it worked, and what will we do differently now?
+
+We need clear accountability, a stronger focus on front-line care, and an end to the postcode lottery in bereavement support. This motion is about results, fewer deaths, better care and equal standards. Families do not need more reports; they need fewer babies dying. This is not partisan. It's about whether more children live and fewer families grieve. That is the standard we should all hold ourselves to. Behind every statistic is a name, a family, and a future that never had the chance to unfold. If we cannot come together on this, we must ask ourselves, 'What are we doing here?' I urge all Members to support this motion and commit to real change, because until fewer parents leave hospital without their baby, our work is not finished. Diolch.
+
+## 2026-06-30 — 2. Questions to the Counsel General / Cross-border Healthcare Arrangements
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765471](https://record.senedd.wales/Plenary/16078#C765471)
+
+5. What legal advice has the Counsel General provided to the Welsh Government on the extent to which cross-border healthcare arrangements between Wales and England are underpinned by administrative agreements, or by enforceable statutory or contractual obligations? OQ64238
+
+## 2026-06-30 — 2. Questions to the Counsel General / Cross-border Healthcare Arrangements
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765473](https://record.senedd.wales/Plenary/16078#C765473)
+
+Counsel General, I'm not overly clear from your response where the legal certainty lies, so can you clarify whether you are satisfied that current cross-border healthcare arrangements would withstand a change in legislative competence without requiring renegotiation and, if not, what is the legal risk to patients in the interim?
+
+## 2026-07-01 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / National Energy Strategy
+
+*Speech* · [https://record.senedd.wales/Plenary/16082#C765714](https://record.senedd.wales/Plenary/16082#C765714)
+
+Cabinet Minister, you mentioned renewables. Recent reports have raised concerns that asbestos-containing components may have been used in some wind turbines in the United Kingdom. What assessment has the Welsh Government made of whether any turbines in Wales are affected? What discussions have taken place with operators, manufacturers and the Health and Safety Executive, and what action is being taken to protect workers and reassure local communities? If such components are identified in Wales, will you confirm that the full costs of inspection, remediation and replacement will be borne by the operators and manufacturers, and not by the Welsh taxpayer? And finally, unless and until the Government can provide assurance that the scale of this issue is fully understood, and that there is no risk to workers or the public, will you consider introducing a temporary moratorium on new wind turbine installations in Wales? Thank you.
+
+## 2026-07-15 — 7. Reform UK Debate: Bovine TB
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768338](https://record.senedd.wales/Plenary/16086#C768338)
+
+As one of the Members for Gwynedd Maldwyn, I have the privilege of representing one of the largest and most rural constituencies in Wales, where agriculture is the backbone of our economy and our communities, and I'm therefore grateful to speak in support of this motion. Before today's debate, I wanted to hear not from officials or policy papers, but from people living with bovine TB every day. So, over the weekend, I met with farmers from across Montgomeryshire. What those farmers told me was not just about cattle—it was about the emotional, financial and human cost of living under the constant shadow of bovine TB.
+
+According to the latest NFU statistics, in the year to December 2024, there were 500 new bovine TB herd incidents across Wales, and more than 10,000 cattle were slaughtered as part of TB control. They're not just statistics. They represent hundreds of farming businesses, and thousands of difficult conversations around kitchen tables across rural Wales. When we debate bovine TB, it is easy to become consumed by statistics, testing regimes and policy arguments. Those things matter, but we should never lose sight of the people living through the disease every single day.
+
+The farmers I met were not asking for sympathy. They were asking for certainty. They were asking for leadership. Farmers from across the Tanat, Vyrnwy and Severn valleys described living with the constant worry that the next routine test could change everything. Some also told me they had reduced their cattle numbers or moved away from keeping cattle altogether, because they simply could not continue living with the uncertainty and risk of prolonged TB restrictions. That should concern every Member of this Senedd. If farmers are changing the very nature of their business because of the fear of bovine TB, then the impact of this disease extends far beyond the individual farm.
+
+When TB is detected, beef farmers can no longer sell their cattle freely. Dairy farmers continue producing milk, but movement restrictions still disrupt their businesses and make it difficult to plan for the future. The impact, however, goes far beyond the balance sheet. Farmers can prepare for bad weather. They can prepare for difficult markets. What they cannot prepare for is the uncertainty of not knowing whether the next routine test will change everything. Every TB test brings back the same question, 'What if this one comes back positive?' That uncertainty affects mental well-being, family life and confidence in the future. It creates sleepless nights and constant anxiety over whether the business will withstand another breakdown.
+
+One of the most difficult conversations I had was with a farmer who described the reality of having to slaughter a recently-calved cow on the farm because of bovine TB restrictions. That is something no livestock keeper ever wants to experience. It is a stark reminder that behind every policy and every statistic are real people making heartbreaking decisions about animals they have cared for every day.
+
+The farmers also made another point that struck me: whilst vets and testers are rightly paid for carrying out the testing regime, farmers themselves receive nothing for the considerable time spent gathering the livestock, handling the cattle and dealing with the disruption. That time has a financial cost.
+
+The effects don't stop at the farm gate, either. Agriculture sustains livestock markets, feed merchants, agriculture suppliers, contractors, hauliers, machinery dealers and many other rural businesses. When a farm suffers a prolonged TB breakdown, the effects ripple through the whole rural economy. Llywydd, if our shared objective is the eradication of bovine TB—and I believe that is something every Member in this Chamber shares—then we have a duty to ask a simple question: is the current approach delivering that objective? If not, we have a responsibility to examine every source of infection, and every scientifically validated control method available to us. Whatever recommendations are ultimately made by the TB technical advisory group, I believe the Welsh Government has a duty to consider them objectively, proportionately, and on the basis of the available evidence. That's not ideology; it's good policy.
+
+Behind every herd restriction is a farming family carrying an enormous emotional and financial burden. Behind every positive test is another difficult conversation around the kitchen table. Behind every statistic is a farming family trying to plan for the future. Some are now questioning whether they continue keeping cattle, and that should concern every one of us. Because, if cattle leave our farms, the effects are felt throughout the wider rural economy. Our decisions today don't just affect cattle. They affect people, they affect families, they affect livelihoods, and they affect the future of our rural communities.
+
+Llywydd, farmers can live with many challenges: bad weather, volatile markets and rising costs. What they cannot live with is indefinite uncertainty. They deserve confidence that Wales is serious about eradicating bovine TB and prepared to follow the evidence wherever it leads. For the sake of our farmers, their families, and the generations that will follow, I urge Members across this Chamber to support this motion. Diolch.
+
+## 2026-09-22 — 2. Questions to the Counsel General / Health Board Service Reconfiguration
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770825](https://record.senedd.wales/Plenary/16262#C770825)
+
+I'd like to thank Jane Dodds for bringing this matter up. Powys is a large and sparsely populated rural county, where removing in-patient provision from community hospitals can mean substantially longer journeys for patients and their families. When a health board considers a major service reconfiguration, what legal duties must it take into account regarding rurality, equality and access to services? And what remedies are available if those duties have not been properly discharged?
+
+## 2026-09-22 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770926](https://record.senedd.wales/Plenary/16262#C770926)
+
+Trefnydd, we just heard questions to the Counsel General about the legal position surrounding health service reconfiguration. Last week, Powys Teaching Health Board decided to press ahead with consultation on proposals that could remove in-patient beds from a number of our community hospitals. There is considerable concern across Powys and many of us are far from convinced that the voices of local people or their elected representatives are being heard. Will you therefore arrange for an urgent statement from the Cabinet Minister for Health and Care setting out the Government's position, what discussions he has had with the health board, and, crucially, whether he is prepared to intervene?
+
+## 2026-09-30 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Childcare
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773560](https://record.senedd.wales/Plenary/16265#C773560)
+
+Thank you, Cabinet Minister. I welcome the principle of extending childcare, but there does seem to be a rather large gap between announcing an entitlement and families actually benefiting from it. Powys County Council has itself estimated that the parents of more than 1,000 young children in the county could be missing out on free or reduced-cost childcare. And, of course, in a county as large and rural as Powys, eligibility is only half the issue. There also has to be a suitable provider within a reasonable distance of where a family lives. So, Cabinet Minister, as you roll out this offer, what are you doing to ensure that Powys County Council not only identifies those families who are entitled to support, but has sufficient childcare provision for them actually to use it?
+
+## 2026-09-30 — 5. Member Debate under Standing Order 11.21(iv): Contaminated land
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773728](https://record.senedd.wales/Plenary/16265#C773728)
+
+Can I begin by thanking Niamh, with Elwyn's support, for bringing this important issue to the Chamber today? Some of what I'm going to say may repeat some things that Niamh and Elwyn have said, but that's because they are important and need to be said more than once.
+
+Wales has a proud industrial history. It has brought jobs and prosperity to communities across the country and made an enormous contribution to the development of modern Britain. But that history has also left us with problems, which, many decades later, we are still having to deal with. Old mines, quarries, chemical works and industrial sites simply did not operate to the environmental standards that we would expect today. And for some of the people I represent, that isn't just history. Close to the north-eastern border of my constituency, as mentioned by Elwyn, near Rhos, Cefn Mawr, Acrefair and Ruabon, is the former Monsanto chemical waste tip. This is not rumour or local folklore. Parliamentary records confirm that Monsanto chemicals were deposited there in 1964 and 1965—prior to my being born, just.
+
+More than 60 years later, people are still asking questions about that site and the neighbouring acid tar lagoon. Wrexham council has investigated the sites extensively. Its position is that contaminants are present, but the sites do not meet the legal definition of contaminated land. It does, however, continue to inspect and monitor them. But I can understand why people living nearby remain concerned. If you live close to somewhere like this, you want straightforward answers. What is in the ground? Is it getting out? Is there any risk to my family or my home, and if there is a problem, who is going to do something about it? These seem perfectly reasonable questions to me, and 60 years is an awfully long time to be asking them.
+
+There have been calls for people living near contaminated sites to be offered blood tests for PCBs. Public Health Wales has considered that, and its advice is that blood testing is not recommended. It cannot reliably tell somebody how or where they were exposed, or what the consequences for their health might be. We should listen to that advice. There's little point in offering people a test that may leave them with more questions rather than fewer.
+
+But that makes investigating the land itself all the more important. We need to establish what is actually there, whether contaminants are escaping and whether they present a genuine risk. This is where councils need help. They have responsibilities for contaminated land, but investigating sites like these is complicated and expensive. I welcome the fact that capital funding has now been agreed, but Wrexham County Borough Council is already making the point that additional funding will be needed if councils are going to investigate potentially contaminated sites properly. I think we should listen to them. There is little use giving local authorities responsibility for dealing with these sites if we don't also give them the means to do the job.
+
+Then, of course, comes, as Niamh has mentioned, the difficult question of who pays if something needs putting right. Where the original polluter can be identified and liability established, every reasonable effort should be made to recover the costs from them. But when something happened 50, 60 or even 100 years ago, that isn't always possible. Companies disappear, businesses change hands and records are lost. We cannot simply shrug our shoulders. The fact that pollution is old doesn't make it any less real. And it isn't reasonable to leave one council and its council tax payers facing an enormous bill simply because the original polluter can no longer be pursued. There is a balance to be struck here.
+
+I don't want to frighten people unnecessarily. Public Health Wales makes clear that PCBs can come from a number of sources and that finding elevated levels in a particular place does not necessarily establish where someone has been exposed. What I do want is for people to have confidence that somebody is actually finding out. If a site is safe, tell them, give them reassurance. If there's a problem, tell them and then do something about it.
+
+The people living near the former Monsanto tip have lived with questions about that site for long enough. There will be other communities across Wales in very much the same position. They deserve answers, they deserve a system capable of establishing the facts, and where action is needed, they deserve to know that the money and the determination are there to see it through. As their representatives, the least we can do is to make sure their questions are heard and keep asking them until they get a proper answer. Thank you.
+
+## 2026-10-06 — 1. Questions to the First Minister / Public Services in Rural Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C775821](https://record.senedd.wales/Plenary/16313#C775821)
+
+1. What assessment has the First Minister made of the provision of public services in rural Wales? OQ64619
+
+## 2026-10-06 — 1. Questions to the First Minister / Public Services in Rural Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C775825](https://record.senedd.wales/Plenary/16313#C775825)
+
+Thank you, First Minister. During the election campaign, I heard the same concern right across the Gwynedd Maldwyn constituency that rural mid Wales is too often overlooked. We're seeing schools close, continuing problems on the Cambrian line, in-patient beds closed at Tywyn, and potentially fewer community hospital beds provided in Powys. This winter we are also facing reductions in routine gritting. Now, I know the response: 'Schools and roads are matters for councils, health services for health boards'. But the Welsh Government sets policy, provides much of the funding and can intervene. Indeed, you've just provided Powys Teaching Health Board with an additional £3.5 million to tackle waiting lists. So, who in your Government is responsible for looking at the cumulative effect of all these decisions on rural communities, and what are you going to do about it?
+
+## 2026-10-06 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16313#C776071](https://record.senedd.wales/Plenary/16313#C776071)
+
+Trefnydd, could I ask for a statement from the Cabinet Secretary for health and social care on the operation of the 'Listening to People' NHS complaints process? Constituents have raised concerns with me following their experience of pursuing complaints involving Betsi Cadwaladr University Health Board. The new system places clear requirements on health bodies, including acknowledgement within five working days and a 10 working day early resolution stage. However, concerns have been raised with me about what happens when a patient believes that the health board itself has failed to follow those requirements. Could we therefore have a statement from the Cabinet Secretary explaining how compliance with 'Listening to People' is monitored, what action the Welsh Government can take where a health board is not compliant, and what effective route is available to a patient who believes the complaints process itself has failed? Thank you.
+
+## 2026-10-07 — 4. 90-second Statements
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776831](https://record.senedd.wales/Plenary/16314#C776831)
+
+This week is the first National Cadets Week, and I wanted to take the opportunity to recognise both the young people involved in the cadet forces and the volunteers who give up so much of their time to support them. I've been involved with the Royal Air Force Air Cadets for more than 40 years, first in uniform as a cadet and a member of staff, and now as a civilian trustee, so this is something very close to me.
+
+Over those years, I've seen many young people come through the organisation. Some have gone on to join the armed forces, but many haven't, and that's not the point. What the cadet movement does particularly well is give young people opportunities; it gives them confidence, responsibility, friendships and experiences they might otherwise never have had. And none of this happens without the adult volunteers who turn up week after week, often after a full day's work, and give their evenings and weekends to make it happen. His Majesty the King has recognised their contribution during National Cadets Week, and I would simply like to add my thanks. After more than 40 years, I am still very proud to be involved. Diolch.
+
+## 2026-10-13 — 3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778544](https://record.senedd.wales/Plenary/16315#C778544)
+
+Diolch, Ddirprwy Lywydd. As a north Powys resident, I welcome the Minister's announcement today. I think he's reached a sensible conclusion, albeit provisionally, and I'm sure my constituents in the affected area will also welcome this announcement. All five local authorities, remember—all five local authorities—objected to this proposal, and there have been very real concerns from farmers, businesses and local communities.
+
+In my role as Chair of the Public Accounts and Public Administration Committee, I'm particularly conscious of the financial pressures facing public services. Indeed, only yesterday we were examining the serious financial difficulties facing the NHS in Wales. At £11.6 million, just to establish another national park authority, before we even consider the ongoing costs, we have to question whether that's the best use of public money. Nobody's suggesting we shouldn't protect our countryside, but, surely, we should make better use of the arrangements we already have, rather than creating another layer of bureaucracy. So, Minister, can you reassure those communities that their concerns will be properly reflected in the final decision, and tell us how quickly that decision will be made once the four weeks are up? Diolch.
+
+## 2026-10-14 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / National Monuments
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C778828](https://record.senedd.wales/Plenary/16316#C778828)
+
+Following on from that question about protecting our historic heritage for future generations, last week, I had a meeting with Historic Houses Wales. A great deal of our heritage is actually in private ownership. I know from personal experience of living in a grade II listed house just how expensive these properties can be to maintain, particularly when there are restrictions on making improvements to reduce running costs. Can I ask the Cabinet Minister what practical support is available through Cadw for private owners who are helping to preserve our historic heritage, and how is she working with colleagues across Government to make sure these buildings remain viable for future generations?
+
+## 2026-10-14 — 6. Reform UK Debate: Local referendums on council tax rises
+
+*Speech* · [https://record.senedd.wales/Plenary/16316#C779076](https://record.senedd.wales/Plenary/16316#C779076)
+
+I'm pleased to support the motion tabled by my colleague Llŷr Powell, but I want to approach it from a slightly different angle, because I've been a town councillor myself, and know something about setting budgets and council tax precepts.
+
+I know it's not always easy; the constituency I represent covers parts of four council areas—Gwynedd, Wrexham, Powys and Denbighshire—and each faces its own challenges. But there's one thing they all have in common: every year, people receive their council tax bill and almost without fail it's gone up again. For someone on a good income, another £100 or £150 might not seem particularly significant, but, for a pensioner or someone living on a fixed income, that's money they've got to find from somewhere, and the trouble is that these increases don't happen in isolation; they build up year after year. A 5 per cent increase this year is added to all the increases that have gone before it, and next year's increase is calculated on top of that. That's why I think we need to look at what people are paying today compared with five or 10 years ago, rather than just looking at the latest percentage, because household incomes certainly haven't kept pace.
+
+Now, having been a town councillor, there's something else I think that's worth explaining. When your council tax bill arrives, you might reasonably assume all that money is going to your county council, but it isn't. Part of it goes towards policing, and, depending on where you live, there's also a contribution to your town or community council. Fire and rescue services are funded through council budgets too. In fact, the police element alone accounts for roughly £1 in every £6 on the average council tax bill in Wales, and that's not an amount your county council decides. I mention this because I think people deserve to know exactly who is responsible for the different parts of their bill, and, if we're going to introduce a referendum threshold, we need to be clear about which increase it applies to.
+
+Now, I don't want anyone to think I'm suggesting councils have an easy job; they don't. Social care costs are rising, schools are under pressure, and councils are being asked to deliver services with increasingly stretched budgets. But that brings me to something else that matters. Is the way we fund local government in Wales actually fit for purpose? Because delivering services in large rural counties like Powys, Gwynedd and Denbighshire is very different from delivering them in a city. You've got smaller communities spread over much greater distances. School transport costs more, providing services costs more, and, in many cases, there simply aren't the economies of scale that larger urban areas can achieve. So, we need a funding system that recognises those differences, not a one-size-fits-all approach that assumes every council faces the same circumstances.
+
+The Welsh Government has a responsibility to get that right, because, if we're going to hold councils accountable for the money they ask residents to pay, we must also hold the Welsh Government accountable for the funding decisions that affect them. None of this changes the position of the person who has to pay the bill—they don't get to choose whether their income goes up enough to cover another council tax increase, they just have to find the money, and that's why I support giving them a greater say when particularly large increases are proposed. It doesn't mean councils can never put council tax up by more than 4.99 per cent; it means that, if they believe they need to, they should be prepared to explain why and put that decision to the people who are going to pay for it. I don't think that is unreasonable, because, ultimately, this isn't about figures on a spreadsheet or arguments between politicians, it's about what people have left in their pockets at the end of the month, and I think those people deserve a say. So, I'll be supporting this motion and urge other Members to do the same. Diolch, Lywydd.
+
+## 2026-10-21 — 2. Questions to the Cabinet Minister for Education and the Welsh Language / Rural Schools
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780569](https://record.senedd.wales/Plenary/16318#C780569)
+
+5. What assessment has the Cabinet Minister made of the financial pressures facing rural schools in Gwynedd Maldwyn? OQ64722
+
+## 2026-10-21 — 2. Questions to the Cabinet Minister for Education and the Welsh Language / Rural Schools
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780576](https://record.senedd.wales/Plenary/16318#C780576)
+
+Thank you, Cabinet Minister. In Gwynedd Maldwyn, we're already seeing the consequences of the financial pressures on these rural schools. Both Gwynedd and Powys have closed rural primary schools and further closures are being considered or progressed. I understand smaller schools can cost more per pupil to run, but these schools are often at the heart of their communities. When one closes, it's not just the school building that is lost; children may have to travel much further, parents have to reorganise their lives, and villages lose something that is very difficult to replace. And, of course, transporting those children elsewhere comes at a cost as well. So, can I ask the Cabinet Secretary whether the Welsh Government is properly accounting for those wider costs and the impact on rural communities when assessing the funding pressures facing our rural schools? Thank you.
+
+## 2026-11-03 — 1. Questions to the First Minister / Community Sporting Facilities in Rural Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16420#C782317](https://record.senedd.wales/Plenary/16420#C782317)
+
+7. What assessment has the First Minister made of the adequacy of funding for community sporting facilities in rural Wales? OQ64806
+
+## 2026-11-03 — 1. Questions to the First Minister / Community Sporting Facilities in Rural Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16420#C782322](https://record.senedd.wales/Plenary/16420#C782322)
+
+Thank you, First Minister. Grass-roots sport is essential to the health and well-being of our communities, particularly in rural areas where alternative facilities can be many miles away. In Powys alone, the council estimates that £16.8 million is needed over the next decade simply to bring its leisure facilities into good repair. Meanwhile in Gwynedd, concerns have been raised about the equality of leisure facilities and the declining number of children receiving swimming lessons. Your Government recently announced £13 million in capital funding for sport across Wales. What assurances can you give that rural communities, such as those in Gwynedd Maldwyn, will receive a fair share of that investment, and that access to basic sporting facilities will not become another casualty of the pressures facing local government?
+
+## 2026-11-03 — 1. Questions to the First Minister / Community Sporting Facilities in Rural Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16420#C782328](https://record.senedd.wales/Plenary/16420#C782328)
+
+facing local government?
+

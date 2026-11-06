@@ -1,0 +1,767 @@
+[
+ {
+  "chamber": "House of Commons",
+  "speaker": "Andrew Rosindell",
+  "contributions": 54,
+  "words": 7675,
+  "file": "markdown/house-of-commons-andrew-rosindell.md",
+  "first": "2026-01-20",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "House of Commons",
+  "speaker": "Danny Kruger",
+  "contributions": 68,
+  "words": 12041,
+  "file": "markdown/house-of-commons-danny-kruger.md",
+  "first": "2025-10-14",
+  "last": "2026-11-02"
+ },
+ {
+  "chamber": "House of Commons",
+  "speaker": "James McMurdock",
+  "contributions": 13,
+  "words": 1854,
+  "file": "markdown/house-of-commons-james-mcmurdock.md",
+  "first": "2024-09-09",
+  "last": "2025-06-09"
+ },
+ {
+  "chamber": "House of Commons",
+  "speaker": "Lee Anderson",
+  "contributions": 146,
+  "words": 13545,
+  "file": "markdown/house-of-commons-lee-anderson.md",
+  "first": "2024-04-16",
+  "last": "2026-11-02"
+ },
+ {
+  "chamber": "House of Commons",
+  "speaker": "Nigel Farage",
+  "contributions": 63,
+  "words": 9889,
+  "file": "markdown/house-of-commons-nigel-farage.md",
+  "first": "2024-07-09",
+  "last": "2026-10-29"
+ },
+ {
+  "chamber": "House of Commons",
+  "speaker": "Richard Tice",
+  "contributions": 378,
+  "words": 38583,
+  "file": "markdown/house-of-commons-richard-tice.md",
+  "first": "2024-07-22",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "House of Commons",
+  "speaker": "Robert Jenrick",
+  "contributions": 54,
+  "words": 7201,
+  "file": "markdown/house-of-commons-robert-jenrick.md",
+  "first": "2026-01-21",
+  "last": "2026-11-02"
+ },
+ {
+  "chamber": "House of Commons",
+  "speaker": "Rupert Lowe",
+  "contributions": 37,
+  "words": 8558,
+  "file": "markdown/house-of-commons-rupert-lowe.md",
+  "first": "2024-07-24",
+  "last": "2025-03-06"
+ },
+ {
+  "chamber": "House of Commons",
+  "speaker": "Sarah Pochin",
+  "contributions": 103,
+  "words": 10351,
+  "file": "markdown/house-of-commons-sarah-pochin.md",
+  "first": "2025-05-12",
+  "last": "2026-11-02"
+ },
+ {
+  "chamber": "House of Commons",
+  "speaker": "Suella Braverman",
+  "contributions": 46,
+  "words": 6453,
+  "file": "markdown/house-of-commons-suella-braverman.md",
+  "first": "2026-02-04",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Adrian Mason",
+  "contributions": 2,
+  "words": 32,
+  "file": "markdown/senedd-adrian-mason.md",
+  "first": "2026-07-15",
+  "last": "2026-07-15"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Adrian Mason AS",
+  "contributions": 37,
+  "words": 6066,
+  "file": "markdown/senedd-adrian-mason-as.md",
+  "first": "2026-05-12",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Andrew Griffin",
+  "contributions": 1,
+  "words": 17,
+  "file": "markdown/senedd-andrew-griffin.md",
+  "first": "2026-06-10",
+  "last": "2026-06-10"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Andrew Griffin AS",
+  "contributions": 26,
+  "words": 4945,
+  "file": "markdown/senedd-andrew-griffin-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Art Wright",
+  "contributions": 3,
+  "words": 49,
+  "file": "markdown/senedd-art-wright.md",
+  "first": "2026-06-16",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Art Wright AS",
+  "contributions": 31,
+  "words": 4755,
+  "file": "markdown/senedd-art-wright-as.md",
+  "first": "2026-05-12",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Benjamin Hodge McKenna AS",
+  "contributions": 1,
+  "words": 2,
+  "file": "markdown/senedd-benjamin-hodge-mckenna-as.md",
+  "first": "2026-05-12",
+  "last": "2026-05-12"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Benjamin Hodge Mckenna",
+  "contributions": 1,
+  "words": 15,
+  "file": "markdown/senedd-benjamin-hodge-mckenna.md",
+  "first": "2026-11-03",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Benjamin Hodge Mckenna AS",
+  "contributions": 48,
+  "words": 11373,
+  "file": "markdown/senedd-benjamin-hodge-mckenna-as.md",
+  "first": "2026-06-02",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Cai Parry-Jones AS",
+  "contributions": 45,
+  "words": 9505,
+  "file": "markdown/senedd-cai-parry-jones-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Carmelo Colasanto",
+  "contributions": 2,
+  "words": 29,
+  "file": "markdown/senedd-carmelo-colasanto.md",
+  "first": "2026-06-17",
+  "last": "2026-07-14"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Carmelo Colasanto AS",
+  "contributions": 24,
+  "words": 5791,
+  "file": "markdown/senedd-carmelo-colasanto-as.md",
+  "first": "2026-05-12",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Catherine Cullen ",
+  "contributions": 3,
+  "words": 55,
+  "file": "markdown/senedd-catherine-cullen.md",
+  "first": "2026-06-16",
+  "last": "2026-09-30"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Catherine Cullen  AS",
+  "contributions": 39,
+  "words": 5329,
+  "file": "markdown/senedd-catherine-cullen-as.md",
+  "first": "2026-05-12",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Christina Emsley AS",
+  "contributions": 1,
+  "words": 2,
+  "file": "markdown/senedd-christina-emsley-as.md",
+  "first": "2026-05-12",
+  "last": "2026-05-12"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Claire Archibald",
+  "contributions": 4,
+  "words": 67,
+  "file": "markdown/senedd-claire-archibald.md",
+  "first": "2026-07-01",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Claire Archibald AS",
+  "contributions": 24,
+  "words": 6584,
+  "file": "markdown/senedd-claire-archibald-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Claire Johnson-Wood",
+  "contributions": 2,
+  "words": 44,
+  "file": "markdown/senedd-claire-johnson-wood.md",
+  "first": "2026-06-10",
+  "last": "2026-07-01"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Claire Johnson-Wood AS",
+  "contributions": 13,
+  "words": 1059,
+  "file": "markdown/senedd-claire-johnson-wood-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Cristiana Emsley",
+  "contributions": 1,
+  "words": 31,
+  "file": "markdown/senedd-cristiana-emsley.md",
+  "first": "2026-07-08",
+  "last": "2026-07-08"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Cristiana Emsley AS",
+  "contributions": 50,
+  "words": 9556,
+  "file": "markdown/senedd-cristiana-emsley-as.md",
+  "first": "2026-06-09",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Dan Thomas AS",
+  "contributions": 32,
+  "words": 8637,
+  "file": "markdown/senedd-dan-thomas-as.md",
+  "first": "2026-05-12",
+  "last": "2026-07-14"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "David Hughes",
+  "contributions": 1,
+  "words": 29,
+  "file": "markdown/senedd-david-hughes.md",
+  "first": "2026-06-10",
+  "last": "2026-06-10"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "David Hughes AS",
+  "contributions": 21,
+  "words": 1711,
+  "file": "markdown/senedd-david-hughes-as.md",
+  "first": "2026-05-12",
+  "last": "2026-10-20"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "David Mills",
+  "contributions": 1,
+  "words": 15,
+  "file": "markdown/senedd-david-mills.md",
+  "first": "2026-10-20",
+  "last": "2026-10-20"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "David Mills AS",
+  "contributions": 26,
+  "words": 3771,
+  "file": "markdown/senedd-david-mills-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Francesca O'Brien",
+  "contributions": 2,
+  "words": 33,
+  "file": "markdown/senedd-francesca-o-brien.md",
+  "first": "2026-06-23",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Francesca O'Brien AS",
+  "contributions": 69,
+  "words": 12436,
+  "file": "markdown/senedd-francesca-o-brien-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Gareth Beer",
+  "contributions": 1,
+  "words": 15,
+  "file": "markdown/senedd-gareth-beer.md",
+  "first": "2026-07-08",
+  "last": "2026-07-08"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Gareth Beer AS",
+  "contributions": 23,
+  "words": 2790,
+  "file": "markdown/senedd-gareth-beer-as.md",
+  "first": "2026-05-12",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Gareth Thomas",
+  "contributions": 4,
+  "words": 103,
+  "file": "markdown/senedd-gareth-thomas.md",
+  "first": "2026-06-10",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Gareth Thomas AS",
+  "contributions": 23,
+  "words": 3332,
+  "file": "markdown/senedd-gareth-thomas-as.md",
+  "first": "2026-06-02",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Gaz Thomas AS",
+  "contributions": 1,
+  "words": 2,
+  "file": "markdown/senedd-gaz-thomas-as.md",
+  "first": "2026-05-12",
+  "last": "2026-05-12"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Helen Jenner",
+  "contributions": 2,
+  "words": 68,
+  "file": "markdown/senedd-helen-jenner.md",
+  "first": "2026-07-15",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Helen Jenner AS",
+  "contributions": 62,
+  "words": 13484,
+  "file": "markdown/senedd-helen-jenner-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Iain McIntosh",
+  "contributions": 3,
+  "words": 66,
+  "file": "markdown/senedd-iain-mcintosh.md",
+  "first": "2026-07-14",
+  "last": "2026-09-23"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Iain McIntosh AS",
+  "contributions": 38,
+  "words": 5437,
+  "file": "markdown/senedd-iain-mcintosh-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "James Evans AS",
+  "contributions": 71,
+  "words": 21849,
+  "file": "markdown/senedd-james-evans-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Jason O'Connell",
+  "contributions": 5,
+  "words": 85,
+  "file": "markdown/senedd-jason-o-connell.md",
+  "first": "2026-06-30",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Jason O'Connell AS",
+  "contributions": 63,
+  "words": 15986,
+  "file": "markdown/senedd-jason-o-connell-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Joe Martin",
+  "contributions": 4,
+  "words": 52,
+  "file": "markdown/senedd-joe-martin.md",
+  "first": "2026-07-15",
+  "last": "2026-10-07"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Joe Martin AS",
+  "contributions": 26,
+  "words": 3598,
+  "file": "markdown/senedd-joe-martin-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "John Clark",
+  "contributions": 4,
+  "words": 79,
+  "file": "markdown/senedd-john-clark.md",
+  "first": "2026-07-15",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "John Clark AS",
+  "contributions": 26,
+  "words": 2675,
+  "file": "markdown/senedd-john-clark-as.md",
+  "first": "2026-05-12",
+  "last": "2026-10-20"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Joshua Kim AS",
+  "contributions": 14,
+  "words": 1976,
+  "file": "markdown/senedd-joshua-kim-as.md",
+  "first": "2026-05-12",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Laura Anne Jones",
+  "contributions": 4,
+  "words": 55,
+  "file": "markdown/senedd-laura-anne-jones.md",
+  "first": "2026-06-10",
+  "last": "2026-09-30"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Laura Anne Jones AC",
+  "contributions": 61,
+  "words": 11940,
+  "file": "markdown/senedd-laura-anne-jones-ac.md",
+  "first": "2026-05-12",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Llyr Powell AS",
+  "contributions": 2,
+  "words": 6,
+  "file": "markdown/senedd-llyr-powell-as.md",
+  "first": "2026-05-12",
+  "last": "2026-05-12"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Ll\u0177r Powell",
+  "contributions": 1,
+  "words": 10,
+  "file": "markdown/senedd-ll-r-powell.md",
+  "first": "2026-11-04",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Ll\u0177r Powell AS",
+  "contributions": 50,
+  "words": 9544,
+  "file": "markdown/senedd-ll-r-powell-as.md",
+  "first": "2026-06-09",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Louise Emery AS",
+  "contributions": 43,
+  "words": 8021,
+  "file": "markdown/senedd-louise-emery-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Nigel Williams",
+  "contributions": 4,
+  "words": 86,
+  "file": "markdown/senedd-nigel-williams.md",
+  "first": "2026-07-15",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Nigel Williams AS",
+  "contributions": 31,
+  "words": 6191,
+  "file": "markdown/senedd-nigel-williams-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Paul Marr",
+  "contributions": 2,
+  "words": 35,
+  "file": "markdown/senedd-paul-marr.md",
+  "first": "2026-09-16",
+  "last": "2026-10-14"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Paul Marr AS",
+  "contributions": 27,
+  "words": 5806,
+  "file": "markdown/senedd-paul-marr-as.md",
+  "first": "2026-05-12",
+  "last": "2026-10-07"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Sarah Cooper-Lesadd AS",
+  "contributions": 29,
+  "words": 6219,
+  "file": "markdown/senedd-sarah-cooper-lesadd-as.md",
+  "first": "2026-05-12",
+  "last": "2026-07-14"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Sarah Edwards",
+  "contributions": 2,
+  "words": 34,
+  "file": "markdown/senedd-sarah-edwards.md",
+  "first": "2026-07-08",
+  "last": "2026-10-14"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Sarah Edwards AS",
+  "contributions": 22,
+  "words": 1222,
+  "file": "markdown/senedd-sarah-edwards-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Stephen Senior AS",
+  "contributions": 27,
+  "words": 4024,
+  "file": "markdown/senedd-stephen-senior-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Steve Bayliss",
+  "contributions": 6,
+  "words": 132,
+  "file": "markdown/senedd-steve-bayliss.md",
+  "first": "2026-06-02",
+  "last": "2026-10-07"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Steve Bayliss AS",
+  "contributions": 23,
+  "words": 3727,
+  "file": "markdown/senedd-steve-bayliss-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-03"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Steven Rodaway",
+  "contributions": 1,
+  "words": 15,
+  "file": "markdown/senedd-steven-rodaway.md",
+  "first": "2026-07-08",
+  "last": "2026-07-08"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Steven Rodaway AS",
+  "contributions": 33,
+  "words": 5795,
+  "file": "markdown/senedd-steven-rodaway-as.md",
+  "first": "2026-05-12",
+  "last": "2026-10-21"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Tom Montgomery",
+  "contributions": 3,
+  "words": 54,
+  "file": "markdown/senedd-tom-montgomery.md",
+  "first": "2026-06-02",
+  "last": "2026-10-07"
+ },
+ {
+  "chamber": "Senedd",
+  "speaker": "Tom Montgomery AS",
+  "contributions": 39,
+  "words": 8755,
+  "file": "markdown/senedd-tom-montgomery-as.md",
+  "first": "2026-05-12",
+  "last": "2026-11-04"
+ },
+ {
+  "chamber": "Westminster Hall",
+  "speaker": "Andrew Rosindell",
+  "contributions": 37,
+  "words": 8913,
+  "file": "markdown/westminster-hall-andrew-rosindell.md",
+  "first": "2026-01-21",
+  "last": "2026-10-20"
+ },
+ {
+  "chamber": "Westminster Hall",
+  "speaker": "Danny Kruger",
+  "contributions": 12,
+  "words": 3206,
+  "file": "markdown/westminster-hall-danny-kruger.md",
+  "first": "2025-10-15",
+  "last": "2026-10-12"
+ },
+ {
+  "chamber": "Westminster Hall",
+  "speaker": "James McMurdock",
+  "contributions": 27,
+  "words": 3571,
+  "file": "markdown/westminster-hall-james-mcmurdock.md",
+  "first": "2024-10-09",
+  "last": "2025-05-22"
+ },
+ {
+  "chamber": "Westminster Hall",
+  "speaker": "Lee Anderson",
+  "contributions": 79,
+  "words": 20533,
+  "file": "markdown/westminster-hall-lee-anderson.md",
+  "first": "2024-03-20",
+  "last": "2026-06-01"
+ },
+ {
+  "chamber": "Westminster Hall",
+  "speaker": "Nigel Farage",
+  "contributions": 9,
+  "words": 3864,
+  "file": "markdown/westminster-hall-nigel-farage.md",
+  "first": "2024-09-04",
+  "last": "2026-06-01"
+ },
+ {
+  "chamber": "Westminster Hall",
+  "speaker": "Richard Tice",
+  "contributions": 53,
+  "words": 13490,
+  "file": "markdown/westminster-hall-richard-tice.md",
+  "first": "2024-10-09",
+  "last": "2026-06-22"
+ },
+ {
+  "chamber": "Westminster Hall",
+  "speaker": "Robert Jenrick",
+  "contributions": 4,
+  "words": 2263,
+  "file": "markdown/westminster-hall-robert-jenrick.md",
+  "first": "2026-06-01",
+  "last": "2026-07-06"
+ },
+ {
+  "chamber": "Westminster Hall",
+  "speaker": "Rupert Lowe",
+  "contributions": 15,
+  "words": 3968,
+  "file": "markdown/westminster-hall-rupert-lowe.md",
+  "first": "2024-09-10",
+  "last": "2025-03-06"
+ },
+ {
+  "chamber": "Westminster Hall",
+  "speaker": "Sarah Pochin",
+  "contributions": 27,
+  "words": 5157,
+  "file": "markdown/westminster-hall-sarah-pochin.md",
+  "first": "2025-07-14",
+  "last": "2026-10-13"
+ },
+ {
+  "chamber": "Westminster Hall",
+  "speaker": "Suella Braverman",
+  "contributions": 1,
+  "words": 137,
+  "file": "markdown/westminster-hall-suella-braverman.md",
+  "first": "2026-06-01",
+  "last": "2026-06-01"
+ }
+]

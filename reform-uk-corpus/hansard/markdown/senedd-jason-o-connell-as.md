@@ -1,0 +1,594 @@
+# Jason O'Connell AS — Senedd contributions
+
+63 contributions, 15,986 words. Source: TheyWorkForYou / ParlParse scraped Hansard.
+
+## 2026-05-12 — 3. Nomination of the First Minister under Standing Order 8
+
+*Speech* · [https://record.senedd.wales/Plenary/16033#C762186](https://record.senedd.wales/Plenary/16033#C762186)
+
+Dan Thomas.
+
+## 2026-05-19 — 3. Statement by the First Minister: The First Minister's Priorities
+
+*Speech* · [https://record.senedd.wales/Plenary/16053#C762464](https://record.senedd.wales/Plenary/16053#C762464)
+
+Thank you for today's statement from the First Minister, and congratulations on your appointment. We wish you well.
+
+I would like to address one of the many Plaid Cymru elephants in the room today. One of your MSs, now elected in the Senedd, previously said that she hates the English, and I quote,
+
+'as a race, as people, as a country'.
+
+Do you stand by these comments, and what are you and your party going to do to ensure that this anti-English, xenophobic sentiment is rooted out and stopped? Diolch.
+
+## 2026-06-02 — 6. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Enterprise, Connectivity and Energy Priorities
+
+*Speech* · [https://record.senedd.wales/Plenary/16060#C762734](https://record.senedd.wales/Plenary/16060#C762734)
+
+Thank you for your statement, Minister, and congratulations on your appointment. I have to relay my initial concern about the direction of the Welsh economy if the answer to the challenges that we're being presented with is to bring back a failed Welsh development agency. History tells us that it was another unnecessary bureaucratic quango that was linked to illegally inflated redundancy payments, where directors flew first class around the world while communities across Wales were left behind. And this—this—is Plaid's answer to the economic decay that infects our towns and valleys. The same model, the same results, not even new branding.
+
+The Welsh Development Agency did, indeed, create some jobs, but it also created a hollowed-out Welsh economy that enabled the easy transit of organisations out of the country. When it became cheaper to operate elsewhere, foreign companies left and they took thousands of high-skill jobs with them. Between 1998 and 2008, Wales lost 171 foreign-owned sites, around 31,000 jobs. Still now, Wales suffers weak productivity, low wages and significant economic underperformance compared to the rest of the UK. And while Wales has just one FTSE 100 company, Welsh businesses are closing at an alarming rate. And that is the WDA legacy. Perhaps that's what they talk about in Boston, but Reform would do things differently. No additional bloated quangos, no new layers of bureaucracy and no abdication of ministerial responsibility to unnamed and unaccountable civil servants. Reform would put Welsh business at the heart of everything we do. We would leverage the tax system to create the environment in which companies, directors, entrepreneurs and risk takers succeed, cutting barriers to relocation, speeding up planning approvals and reducing regulatory burden, making Wales genuinely competitive and attractive for investment. And that is the difference a Reform government would make.
+
+Now, Minister, let's talk about our high streets. Across Wales, illegal shops masquerading as businesses are polluting our high streets. In Caerphilly, we saw a car wash exposed as a people-smuggling network worth millions. Dilshad Shamo and Ali Khdir illegally organised the smuggling of thousands of migrants into Europe. And, Minister, your leader might not believe illegal immigration exists, but our communities up and down this country will tell you it does. And it affects every single one of us, whether you want to admit it or not. Even in my own constituency, shops have sold illegal tobacco and vapes to children while openly displaying drug paraphernalia in shop windows sold as cultural ornaments. Reform will put an end to this black economy. Reform will put genuine Welsh businesses first and work with the UK Government to stamp out criminality on our high streets.
+
+So, Minister, I challenge you today: take action and show that Plaid will not ignore what their own eyes are telling them. Minister, how will you and your Government work with local police and the Home Office to crack down on criminal enterprises masquerading as legitimate businesses, harming the genuine Welsh economy?
+
+Finally, let me turn to the subject of energy. Welsh households are being hammered by rising energy bills due to foreign conflicts. This we all know. Where this Government or the previous Government gets this right, you will have our full support, as has been seen with the SMR project at Wylfa, which will power thousands of homes, create jobs and boost energy security in Wales. Yet, Plaid’s answer is once again to put ideology over the people you are meant to serve. In your 74-page manifesto, not once do you mention the word 'nuclear'. Instead of embracing the opportunity in front of you, Plaid prioritise green ideology over affordability and energy security. The US and the world's major superpowers are all forging ahead with their own high-spec SMR projects at historic rates, yet Wales, again, is suffering delay after delay with a Government that only has plans for plans and nothing that can be measured or delivered—no plan for childcare, your flagship policy; no plan for the economy; and no plan for a brighter, more prosperous Wales. So, with that in mind, where does Plaid really stand on the energy issue? Because Reform, to be clear, backs nuclear.
+
+Minister, you once said that nuclear was the wrong answer for Wales. Do you stand by this and does your party stand by this? How does opposing nuclear power help families in Wales struggling to pay their energy bills or secure energy security? And why should businesses invest in this country of ours, bringing jobs and prosperity, when your Government isn't clear about what it believes in and how you will achieve it? Diolch.
+
+## 2026-06-09 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C762928](https://record.senedd.wales/Plenary/16072#C762928)
+
+Trefnydd, can I ask for a statement from the Cabinet Minister for enterprise on the delays to Tata Steel's electric arc furnace? Workers at the site were promised certainty, they were promised a bright green future and that Welsh steel making would be secured. We remember these promises well. Instead, thousands of jobs have disappeared. A few weeks ago, the leader of the opposition and I visited the site and were told that all was well. But, this week, we hear that the electricity grid is not ready and that Port Talbot now faces months more of disruption and delay. Politicians rushed headfirst into net zero without thinking about the consequences or the transition. As usual, the people left paying are the communities up and down this country of ours. The old parties, Labour and the Tories, have failed the workers at Tata. They should be hanging their heads in shame. The Welsh Government must act fast to ensure that jobs at Tata and up and down the supply chain are protected during this disruption. The future of Welsh steel making depends on it. Diolch.
+
+## 2026-06-09 — 5. Statement by the Deputy Minister for Transport: Key Infrastructure Resilience
+
+*Speech* · [https://record.senedd.wales/Plenary/16072#C763070](https://record.senedd.wales/Plenary/16072#C763070)
+
+Thank you, Llywydd, and thank you for the statement, Minister. But if I can start just by responding to Janet. There were a lot of sound bites in that statement, Janet, and you really shouldn't talk Wales down so much. You really shouldn't. [Laughter.]
+
+But back to the statement itself. Road infrastructure should be an absolute top priority for this Government. From Newport to Llandudno, Wales is full of economic potential, but it needs a transport network that can actually unleash that potential. Now, if we take the A55, which has been discussed quite widely today, the economic backbone of north Wales, it's used every day by hundreds of thousands of commuters and hauliers carrying freight between Chester and Holyhead, but it's being held back by congestion bottlenecks and tinkering at the edges of what needs to be a long-term solution in that area. When the A55 stalls, north Wales stalls, businesses lose out, productivity is hit, and Wales's economy takes a hit as well as a result. Signalling upgrades of variable speed limits will not be enough, and, while Plaid offer patch-job fixes, Reform back proper road-building solutions. Minister, will you confirm if you intend to widen the A55 where appropriate, and, if not, can you guarantee that what you've proposed in this statement will be enough to match the economic benefit that Reform are planning with widening the A55?
+
+Also, the Minister is right to recognise that the Menai crossings operate as a system, but that system is already under clear and growing strain. Now we welcome proposals such as wind deflectors on the Britannia bridge and improved traffic management on the A55. These are sensible, practical steps to manage immediate disruption. As we said last week, we will back sensible solutions where we see them. But these are short-term mitigations. They're not the long-term solutions that our economy demands. Now when either crossing is restricted, the impact is immediate and severe across the whole of north Wales. An entire community of 70,000 people are cut off. Community, freight and businesses are punished as a result. So, whilst it's welcome that the Government is now beginning work on options for a third Menai crossing, can the Minister be clear: what timelines do you have regarding that work, and how will they ensure that motorists and businesses using the crossings will face the least possible disruption in the meantime?
+
+And finally, if I can return to the M4 relief road, which I know will be widely discussed not only up til now, but during the entirety of this Senedd, it's key to a better connected, stronger economy for Wales. Now, hundreds of thousands of vehicles use the M4 around Newport daily, countless business leaders have called for a relief road to be built, and yet Plaid today offers plans for plans in this statement, despite having, for years, not come up with a firm solution.
+
+Motorists have been stuck with a Plaid-backed Labour Government that's been tough on motorists and soft on infrastructure for the last 27 years. They pushed excessive 20 mph speed limits, slowing down the Welsh economy, wasted £150 million of taxpayers' money on cancelled plans for the M4 relief road. Now, Minister, many motorists are waiting with bated breath to see how this new Government will treat motorists. So, what are your actual specific plans for a 'road-based solution', whatever that means? How much will it cost? When will you deliver on your pre-election promises? Because your statement was severely lacking in details, and that is becoming a hallmark of this Plaid Government early on. Reform will hold you to account on the M4 relief road, and when you fail to deliver your roads-based solution, we stand by, ready with a costed, credible and concrete plan, ready to execute for the people of Wales. Diolch.
+
+## 2026-06-10 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality / Child Poverty
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763167](https://record.senedd.wales/Plenary/16073#C763167)
+
+Cabinet Minister, around 32 per cent of children in Merthyr Tydfil are growing up in poverty. That's one of the highest rates in Wales, and this is after 27 years of a Labour Government propped up by Plaid. Meanwhile, life expectancy in our Valleys and communities remains far below the Welsh average. Minister, health is indeed wealth. If parents are stuck on waiting lists, living with chronic illness or struggling with poor mental health, families are far more likely to remain trapped in poverty. How are you working across portfolios as part of a wider Government strategy to tackle child poverty, especially in areas like Pontypridd and Merthyr? Diolch.
+
+## 2026-06-10 — 5. Reform UK Debate: Childcare offer
+
+*Speech* · [https://record.senedd.wales/Plenary/16073#C763362](https://record.senedd.wales/Plenary/16073#C763362)
+
+Could I just ask you to read back what the original statement was that you're responding to, please? The motion. Thank you.
+
+## 2026-06-16 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16074#C763700](https://record.senedd.wales/Plenary/16074#C763700)
+
+Trefnydd, can we have a statement from the Cabinet Minister for enterprise on the decision by Marshall Land Systems to relocate its operations to Merthyr Tydfil? At a time of heightened global tensions, and with instability and indecision on defence spending rising in Westminster, Wales must play its part in continuing to support Britain's defence industry and seek opportunities such as this to expand our manufacturing base across Wales. This investment is a major vote of confidence in Merthyr and south Wales, bringing skilled jobs and long-term opportunities to a deprived area. The Welsh Government must ensure that Welsh workers and businesses benefit fully, and go further by positioning Pontypridd Cynon Merthyr, alongside neighbouring Valleys, as a hub for defence and advanced manufacturing, driving high-skilled jobs and much-needed investment. Diolch.
+
+## 2026-06-17 — 6. Reform UK Debate: Government international spending
+
+*Speech* · [https://record.senedd.wales/Plenary/16075#C764210](https://record.senedd.wales/Plenary/16075#C764210)
+
+Diolch, Lywydd. Can I just say, first of all, I'm deeply disappointed that some Members have left the Chamber today, and it just goes to show, I think, for those constituents that voted for those Members that when the debate gets tough, they get gone, and that is absolutely shameful for the people that voted for them.
+
+So, allow me to be absolutely clear on what today's debate is about. Now, our motion is not about Reform wanting to pull up the drawbridge on the rest of the world. In fact, we need the rest of the world to realise the economic potential that we have here. This debate is about one very simple principle: Welsh taxpayers' money should always be spent in Wales on Welsh people. It is that simple. There is a UK Government budget for foreign spending to the tune of £13 billion, and many of the achievements that you just reeled off there, Minister, are as a direct result of that foreign investment. None of those were accomplished as a result of this Senedd planting a tree in Uganda, I can promise you that.
+
+All we hear here is there's not enough money for schools, there's not enough money for hospitals, not enough money for councils, and our roads are sometimes like driving on the surface of the moon. Yet, somehow, when it comes to overseas schemes, offices, vanity projects and the like, this Government always manages to bust open the chequebook.
+
+I thank the Members who we've heard from today, some who set out very clearly why they believe this spending should end. Now, at a time when our children are struggling to learn to read, people are sick and getting treated in hospital corridors, we believe that Welsh taxpayers' money should be spent on directly improving those aspects of life in Wales.
+
+We heard from Cai, who made the point that this is about priorities, and he's absolutely right. It's very easy for Labour and Plaid to stand up and say that this is only a small percentage of our budget. But that is not an argument. Indeed, it is just going to show that you've completely lost sight of the value of a taxpayer pound. People in our constituencies up and down this country go to work every day, and they contribute each and every hard-earned pound, and it is on us to spend that pound diligently for their benefit.
+
+Now, just imagine what that money could do for Wales. Millions of pounds, as has already been said, could be spent on millions of additional free school meals, could be spent to fix the roads. Iain and Andrew raised how our towns and villages are declining, while international offices remain open. Now, how is that prioritising the people of Wales?
+
+Then we heard, of course, from Plaid, the ones that were still here. Anybody who thinks that Welsh taxpayers' money should be spent in Wales is an isolationist, which is quite ironic, given the position that the party wants to take on independence. Ending international spending doesn't mean we can't foster positive relations or encourage investment for our businesses. I'll remind Members that the UK maintains £13.5 billion of spending a year.
+
+There is a lot of confusion here, I think, between what this Senedd has devolved responsibility for versus what the UK Government has responsibility for. This is about Senedd spending. So, this is a party that (a) wants to undo Brexit, (b) wants to take us out of the United Kingdom, and they have the gall to call others isolationists. A party that spreads division between us and England. And again, I note in the Minister's response, not once did I hear the words, 'United Kingdom', which tells us everything that you need to know.
+
+So, financially reckless abroad, while pushing grievance politics at home, they're a party full of excuses and empty promises. They always blame Westminster. It's always unfair, and I'm sure HS2 funding will solve a lot of this country's ills, but we have to be based in realism.
+
+Now, what we're saying is: we do have the money, but we have to prioritise Welsh people and Welsh businesses. The truth is, as we've seen today, a lot of the Plaid Members are addicted to performative politics. This standout that we've seen today just goes to show that. They love the press release. They love the empty slogan. They love telling everyone how compassionate they are. But true compassion has to begin at home with Welsh people. And that’s what today’s motion is about: looking after our families, looking after our communities, and looking after our country. We have to allow those abroad to look after themselves while we in Wales are still struggling up and down the country. That’s why people are voting for Reform. That’s why Labour has crumbled. That’s why the Tories have vanished at a UK level, and why Plaid will fall flat during this term. They are sick of this Government, already obsessed with international vanity projects. They want a Government that fixes the NHS, supports businesses and puts Welsh communities first. Plaid Cymru call themselves the party of Wales, and today they have the chance to prove it: back Reform’s motion, end Welsh Government international spending and put Wales first. Diolch.
+
+## 2026-06-23 — 5. Statement by the Cabinet Minister for Finance: The First Supplementary Budget 2026-27
+
+*Speech* · [https://record.senedd.wales/Plenary/16076#C764643](https://record.senedd.wales/Plenary/16076#C764643)
+
+Diolch, Lywydd. Minister, thank you for your statement. It is pretty clear to us today that Plaid Cymru have raided Wales's capital emergency fund, putting our economy's resilience at risk. You said today in your statement that you believe you have a mandate from the people of Wales for this, but I don't recall that being discussed prior to the election. You will recall, however, just how vague Plaid Cymru were on their costings prior to the election. Despite repeated calls subsequent to that, we still don't know the cost of your flagship policies, so any mandate, I'm afraid, is wafer thin.
+
+In the past few years, major storms have swept through Wales and lives have been ruined, businesses have been lost and jobs have been lost as a result. Instead of building on the £121 million that you had at the final budget, Plaid have left just £3 million in case of emergencies, without going into the Wales reserve. This money isn't for Plaid's ideological projects, it's for the protection of Wales during an emergency event.
+
+Pontypridd Cynon Merthyr residents in my constituency have been flooded time and time again. So, Minister, if Wales faces another disastrous storm this winter, will you meet the affected constituents to tell them that you've spent the money specifically earmarked for resilience and recovery and for the protection of Wales? Will you tell them face to face that you've spent that elsewhere? Can you guarantee that if a national disaster or pandemic hit tomorrow you have left Welsh finances strong enough to survive it? Diolch.
+
+## 2026-06-24 — 2. Questions to the Cabinet Minister for Finance / Front-line Services
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764857](https://record.senedd.wales/Plenary/16077#C764857)
+
+8. What discussions has the Cabinet Minister had with the Cabinet Minister for Health and Care regarding how the Welsh Government's budget for 2026-27 supports front-line services? OQ64191
+
+## 2026-06-24 — 2. Questions to the Cabinet Minister for Finance / Front-line Services
+
+*Speech* · [https://record.senedd.wales/Plenary/16077#C764859](https://record.senedd.wales/Plenary/16077#C764859)
+
+Thank you for the answer. Back in January, the now First Minister boasted that Plaid Cymru had secured £300 million of additional funding for front-line services and put the next Welsh Government 'on a firmer footing'. In the mini-budget yesterday, you diverted millions away from the most vulnerable in our society—those being children with additional learning needs—and refused to acknowledge that councils and schools across our country, like mine in Merthyr, are being pushed further into the red because of rising ALN demand. Minister, it's clear that this Plaid mini-budget is an exercise in misaligned priorities and I'm beginning to lose track of Plaid Cymru's uncosted promises. How will you balance a £1 billion ALN spend with promises such as the third Menai crossing and a £587 million childcare offer that hasn't been fully costed yet, all while protecting front-line services? Are you an economic magician, or are you storing up bad news for budgets yet to come? Diolch.
+
+## 2026-06-30 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765552](https://record.senedd.wales/Plenary/16078#C765552)
+
+Trefnydd, can I ask for a statement from the Minister for enterprise on the ongoing situation at Kepak in Merthyr Tydfil? Kepak is Wales's largest meat processing plant and they began a consultation that could see the loss of up to 85 jobs. For years, the farming industry and the wider rural industry have warned Governments what would happen if their pleas for increased production were ignored and not made a priority. Now, herd numbers are falling, confidence is collapsing and Welsh workers are paying the price. It's absolutely vital the Welsh Government does all it can to save these jobs in Merthyr. Every one of these jobs supports families, the wider community and local businesses in our constituency. Losing them will be a blow not just to Merthyr, but to Wales's entire food production sector. Diolch.
+
+## 2026-06-30 — 5. Statement by the Deputy Minister for Transport: Integrated Transport: North-South Coach Services
+
+*Speech* · [https://record.senedd.wales/Plenary/16078#C765596](https://record.senedd.wales/Plenary/16078#C765596)
+
+Thank you for your statement—[Interruption.] There we go. How is that? Thank you.
+
+Thank you for your statement, Minister. These improvements to north-south travel are long overdue. Your announcements today are a small but very important step to fixing that, but these 100-day commitments that we've heard so much about are nothing to boast out. For this coach service to be genuinely able to deliver for residents and boost the local economy, it must be operational, it must be frequent and it must be dependable at all times of the day.
+
+Minister, you say you're working on a single platform for booking and planning journeys, but this will not be of any use if coaches, trains and buses only run every two hours or are delayed. So, can you guarantee that a service residents can count on will be put in place, in time, by the end of the year? Can you guarantee that there are back-ups available should mechanical failure happen or any unforeseen instances with the vehicles? And how are timetables being matched with other transport services, such as trains and the wider bus network?
+
+But, of course, reliability of the infrastructure alone isn't enough. Even the best service will fail if people simply can't afford to use it. Plaid likes to pretend that Reform opposes green transport, but the truth is that we simply don't. We support a transport system that is reliable, affordable and works for Welsh people. A north-south service could be a genuine alternative to the car if it's affordable for families, if it's affordable for students, and if it's priced to support jobs, tourism and economic growth across Wales. There's one word missing from your statement, and that word is 'affordability'. You never told us what this service will cost, what Welsh people will need to pay to use it. So, can you tell us what fare levels are being considered for this service, and will you guarantee family tickets and group discounts from day 1, so that this service is full of passengers and not just full of empty promises?
+
+Frankly, today exposes a much bigger problem for Wales. While countries across Europe are investing in modern rail networks that drive growth, connect labour markets and drive investment, Wales is still talking about coaches. In Switzerland, they built the Gotthard base tunnel that connected the north and the south. It cut journey times, it shifted freight onto rail and it turned fragmented regions into single functioning labour markets. Plaid Cymru talks about ambition for Wales, but today's statement tells a very different story. It's a story of a fragmented Wales economy and a celebration of the status quo, which is limited to the equivalent of Dave's Coaches.
+
+Now, Minister, coaches won't transform the economy, infrastructure does. So, Minister, what conversations have you had surrounding major north-south rail infrastructure projects? Is that something that Plaid is completely ruling out? What assessment has been made of the economic impact of this coach service? And why is Plaid's answer to Wales's greatest infrastructure challenges 'more buses'? It certainly won't solve the M4 relief road in the south and it certainly won't solve the economic challenges. The country wants you to build.
+
+Finally, I'd like to link this to our ports. For generations, our ports have been gateways to Welsh trade, Welsh businesses and Welsh jobs. The port of Holyhead alone handles 4.8 million tonnes of freight every year, making it Wales's principal gateway for trade with Ireland. Every lorry, every ferry and every business that relies on that port is a reminder of the economic opportunity that's sitting on our very doorstep, yet your flagship north-south service doesn't even reach it; it stops at Bangor. That tells us everything we need to know about this Government's ambition: big on announcements, big on the press release, very short on delivery.
+
+If you're serious about growing the north Wales economy, supporting businesses and creating jobs, why would you stop miles short of one of Wales's most important economic gateways? Will you commit today to extending this service to Holyhead, and in the south to Fishguard, with a funded timetable for delivery? Or is this another example where a Government talks about connecting Wales while leaving the very places that create jobs and economic growth disconnected? Diolch.
+
+## 2026-07-01 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16082#C765710](https://record.senedd.wales/Plenary/16082#C765710)
+
+Diolch, Lywydd. After 27 years of hard Labour, propped up by Plaid, regional inequality across the Welsh economy has never been higher. Many towns across the Valleys in my constituency feel forgotten and left behind as a result. Now, endless opportunities for new business, especially on the large size, have been placed towards the Cardiff area, with numerous top jobs given to civil servants, while the rest of Wales is left with near empty satellite offices, while many people in those offices choose to work from home. Minister, this is not acceptable for a truly dynamic Wales that we want to see. If you are serious about tackling regional inequality, you'll place the new Welsh Development Agency offices where they are needed the most: Merthyr, Pontypridd, Aberdare, the heart of the Valleys. So, will you ensure that all WDA offices are placed in these areas, that they are staffed full-time, in person, delivering stable jobs, increased football—footfall, sorry—for businesses, boosting the local economy? Diolch.
+
+## 2026-07-01 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16082#C765727](https://record.senedd.wales/Plenary/16082#C765727)
+
+Diolch for the answer. Wales has some of the oldest hospitals and infrastructure in the UK. Yet as a result of Keir Starmer's delayed investment plan on defence this week, Wales will see its capital funding slashed and our nation will be poorer for it. Now, Reform doesn't disagree with increasing defence spending, but that money has to come from the right place, and that right place has to be from the welfare budget. For the last 13 years, the UK has spent more on welfare than it has received in income tax. Instead, the UK Labour Government has sacrificed Wales on the altar of ever-expanding welfare, putting at risk the building our sick and young need, and starving the Welsh economy of much-needed infrastructure and economic growth. So, do you agree with me, Minister, that Starmer's defence spending decisions have unfairly punished Wales and our economy, and what economic impact assessments will be carried out regarding this? Diolch.
+
+## 2026-07-01 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16082#C765730](https://record.senedd.wales/Plenary/16082#C765730)
+
+Diolch. Thank you. For this next question, can I declare an interest as a former worker at the St Athan site? Now, St Athan used to be a powerhouse for aerospace and defence. It's now underutilised and it lies next, of course, to a rather underperforming and underutilised Cardiff Airport. After key defence contracts were lost, Plaid Cymru's former leader Leanne Wood stated:
+
+'People have been led up the garden path with promises of thousands of well-paid jobs, yet ultimately businesses and workers have been left bitterly disappointed.'
+
+It loathes me to agree with her. Now, today, we have a Plaid Government that's soft on the economy and soft on growth, choosing instead to knock at the door of No. 10 begging for scraps from an already struggling UK—a Government that cares more about their image on the national stage than they do about the Welsh economy. We should be focused on bringing an aerospace hub like St Athan to its former glory and realise its full potential, doubling down on jobs, attracting businesses and accessing global opportunities in the maintenance, repair, overhaul and freight sectors. There is so much potential there.
+
+So, Minister, you claim Wales is open for business—what is your Government's strategy for aerospace? Because I've heard nothing on this. How are you going to connect your proposed skills audit with the high-skilled jobs needed in the sector, and are you going to be able to finally deliver a result for St Athan and the wider aerospace community? Diolch.
+
+## 2026-07-01 — 3. Questions to the Senedd Commission / Reducing Operating Costs
+
+*Speech* · [https://record.senedd.wales/Plenary/16082#C765897](https://record.senedd.wales/Plenary/16082#C765897)
+
+6. What is the Commission doing to reduce its operating costs to provide better value for taxpayers? OQ64262
+
+## 2026-07-01 — 3. Questions to the Senedd Commission / Reducing Operating Costs
+
+*Speech* · [https://record.senedd.wales/Plenary/16082#C765900](https://record.senedd.wales/Plenary/16082#C765900)
+
+Thank you for the answer. The Commission is not known for its fiscal efficiency, but it does rent Tŷ Hywel at over £2 million per year. The lease on the building is due to expire, with planned renovations costing the Commission several million pounds to complete. This comes at great cost to the taxpayer, who we all answer to. What is the Senedd Commission doing to keep these costs down, including negotiating the rent? How are you making savings in other areas to mitigate those costs? Diolch.
+
+## 2026-07-07 — 3. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: New Development Agency for Wales
+
+*Speech* · [https://record.senedd.wales/Plenary/16083#C766478](https://record.senedd.wales/Plenary/16083#C766478)
+
+It's a shame that, today, we're here debating the creation of yet another quango, more bureaucracy, but, of course, now we learn that we've got a panel to oversee the quango. I think the next announcement could well be the committee to oversee the panel to oversee the quango that advises the Government. I mean, it's got to come to a head at some point.
+
+But, Minister, scrutiny is how we get better government. Now, today, Plaid has denied the Chamber that scrutiny. If taxpayers are funding this new development agency, then they deserve transparency. Minister, you say you want the new agency to provide support, advice and guidance, but you've said nothing about how. So, let me give you a suggestion. Decades ago, Welsh Labour scrapped the Welsh Development Agency, WDA1. They promised a simpler, better support mechanism for Welsh businesses. But instead, we've got a patchwork of organisations: Business Wales for advice, the Development Bank of Wales for finance, and now what we're proposing is WDA2 to sit on top. The current system is too confusing.
+
+Minister, Business Wales returns £18 of economic value for every £1 that's invested. They do great work in helping businesses to grow and scale. The Federation of Small Businesses backs them, and entrepreneurs across Wales rely on them. So, why not bring Business Wales into the new WDA and make the support network less confusing and more accessible to businesses? One existing organisation with proven results already, not more Government bloat, not more quangos.
+
+Minister, allow me to move on to supply chains. Attracting inward investment is important, but of course, as we all know, it's only the first step. The real test is whether that investment becomes rooted across Welsh communities up and down the country. Of course, we've learned that lesson before. In the last WDA, Wales welcomed major international employers, created thousands of jobs, and celebrated new investment, as short lived as it was. But those companies moved production elsewhere when the Government reduced the support. They took high-paying jobs with them, because their supply chains were never truly anchored in Wales, and it was easy to do so.
+
+Other countries that have succeeded have taken a different approach. When we look at the Irish economy, inward investors are expected to work with local suppliers, strengthen domestic supply chains, and create opportunities for already established local businesses in that country to grow alongside them. In 2023, the Irish Development Agency's client companies spent £11.3 billion on Irish services and £3.3 billion on Irish materials. This is what we need the proposed WDA to do: bring companies that build up local communities, rather than hollow them out.
+
+So, Minister, can you assure us that this new development agency will not judge success simply by the number of inward investments, but the number of companies across Wales that exist that scale up from small to medium? Will it make support for inward investment conditional on creating lasting opportunities for Welsh businesses and Welsh people, so that we don't just bring investment to Wales, but we keep the wealth that they bring with them in Wales?
+
+And finally, Minister, you said a lot of nice words in your statement today about growth, and, of course, about productivity, and we agree with a lot of them. But what you're really telling us is that you're only just beginning to think about what the WDA will actually be. In fact, you won't even be doing that; the advisory panel will do it for you.
+
+This is exactly why Reform are opposed to the WDA. Right now, there are around 25,000 small businesses in Wales that are looking to export abroad, but instead of helping them and actually making Wales the best place to start a business, all we're doing is setting up yet another advisory board, creating plans for plans. It's become a modus operandi for this Plaid Government. You've had years in opposition, and this is the best that you can do.
+
+We still don't know how much the proposed WDA will cost. We don't know how many staff it will employ. We don't know how it will integrate across Government with other organisations. We've got nothing. All we've got are some warm words. So, Minister, do you agree with me that Plaid Cymru is out of its depth when it comes to the economy, and do you agree with me that Wales deserves better? Diolch.
+
+## 2026-07-07 — 5. Statement by the Deputy Minister for Transport: Our Vision for the Devolution of Rail
+
+*Speech* · [https://record.senedd.wales/Plenary/16083#C766566](https://record.senedd.wales/Plenary/16083#C766566)
+
+Thank you for your statement. Minister, we in Reform, it is worth saying at the outset, respect the ownership of the Valleys lines from this Welsh Government. It is worth saying that power over rail must not be devolved further. Rail infrastructure isn't just about operating trains, it's maintaining tracks, replacing signalling, responding to flooding, emergency failures and so much more. These are responsibilities that require highly specialist engineers, experienced asset managers, robust governance and long-term financial planning, things that this Plaid Government is not renowned for.
+
+Now, Minister, at present, only the core Valleys lines are devolved. Large sections of rail infrastructure are still managed by Network Rail. So, given that you've only managed and owned a small part of the rail section in Wales, what evidence can you provide that the Welsh Government has the people, the expertise, the management capability and the financial resilience to take on responsibility for the entire network?
+
+Now, I admire the work that Transport for Wales is doing, but when the state-of-the-art tram trains don't even have toilets—a pressing issue that was raised with me only this morning by Age Cymru—I think we really have to focus on getting the basics right. And let's not forget Plaid's terrible record on transport as a whole: for 27 years, we've seen how Labour and Plaid have engaged in a hostile war on motorists without delivering the reliable transport network Wales was promised over and over at every election.
+
+Now, Welsh roads are plagued by potholes. Plaid have actively wanted to scrap the M4 relief road, and now we've no idea what their policy is on the M4 relief road, as motorists continue to suffer with blanket 20 mph limits, which are still not supported today.
+
+Now, we're expected to believe that this same Labour-Plaid agenda can successfully take on responsibility for the entire rail network, and that Westminster owes them money, consistently whingeing about perceived unfairness rather than getting on with the job. Now, Minister, in 2013, the UK Government offered Wales the financial borrowing powers needed to build the M4 relief road, and guess what? Plaid Cymru opposed it, and millions of taxpayers' money was wasted on an ideological drive to force people onto public transport. Instead of trying to devolve rail and persistently begging for more powers from Westminster, Plaid should be focused on the projects we currently have at hand to improve our transport network: build the third Menai crossing; upgrade the A55 expressway; scrap 20 mph blanket limits; and build the M4 relief road.
+
+Minister, the Welsh public don't want rail devolution. They want trains to run on time. They want a road network that makes it easy and quick to get from A to B. But for Plaid, these projects take a back seat time and time again, because for them, constitutional power comes first. More power, more power, more power. Welsh people come second every single time. So, do you agree with me, Minister, that completing these projects should be a clear priority over more rail devolution, and for Plaid to come clean with the people of Wales, or are you now stuck in what's known as the Cardiff Bay bubble?
+
+On HS2 funding, Plaid have called for consequentials time and time again, but reliance on this is not a credible strategy. Now, we in Reform believe that Wales deserves fairer funding, of course we do, but we do not trust that this Government will be able to deliver it, which is why we will oppose any call for greater devolution of rail.
+
+Now, let's remind ourselves: in the first-ever supplementary budget, £340 million was given to Wales for children with ALN, but not a single penny has reached schools. Absolutely shameful. Now, Minister, that funding was meant for some of the most vulnerable children in Wales, but instead it has been diverted to fulfilling uncosted election promises. Reform knows it, this Senedd knows it and the people of Wales know it. Minister, there are 40,000 children with ALN across Wales crying out for help. This money is theirs. It is not there to fulfil uncosted promises. So, if this Government cannot be trusted to deliver funding that is specifically for children in this case, if this Government prioritises constitutional change and uncosted promises over our most vulnerable, how can we trust you to take on responsibility for a devolved rail network—a system that would require long-term capital planning, subsidy decisions and billions in public spending? So, I ask you: given pressures already on the Welsh budget, what safeguards will be in place to ensure that any additional funding received is protected from Plaid's uncosted policy raids and to plug inevitable funding gaps? Diolch.
+
+## 2026-07-08 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Community Safety
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C766868](https://record.senedd.wales/Plenary/16084#C766868)
+
+6. What is the Welsh Government doing to support community safety in Pontypridd Cynon Merthyr? OQ64356
+
+## 2026-07-08 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Community Safety
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C766871](https://record.senedd.wales/Plenary/16084#C766871)
+
+Thank you, Minister. Residents in my constituency have raised concerns about anti-social behaviour, specifically at Aberdare bus station—a very niche area—with locals calling it a hotspot for crime. Given the pain and disruption caused, many local businesses and residents are feeling unsafe. People want to see a strong and consistent police presence on their streets. So, what conversations has the Minister had with the local police and council regarding their strategy for tackling anti-social and violent behaviour in the area?
+
+## 2026-07-08 — 1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice / Community Safety
+
+*Speech* · [https://record.senedd.wales/Plenary/16084#C766878](https://record.senedd.wales/Plenary/16084#C766878)
+
+Oh, I'm sorry.
+
+## 2026-07-14 — 3. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767729](https://record.senedd.wales/Plenary/16085#C767729)
+
+Diolch, Deputy Llywydd. Can I have a statement from the housing Minister on the latest housing policy for women fleeing abusive relationships? A few weeks ago I met with Grace Andellten, a brave and courageous domestic abuse survivor. From her harrowing experience, she found the strength to write a book to help other women in the same situation. Now her book is a powerful testimony of her story. She survived sexual assault, physical assault, coercive control, as well as being pursued, after leaving the relationship, by her ex-partner. She's personally reached out to all Members of the Senedd to seek support, but, instead of taking up her recommendations for Georgia's Law, around rapid rehousing for working women fleeing high-risk abuse, many Members of this Senedd and the previous Senedd have chosen to ignore her cries for help. Trefnydd, domestic violence is not party political. We all have a duty to act in this Chamber, so I've written a letter to the Cabinet Minister for housing relaying her concerns, and, in the meantime, it would be much appreciated if everybody here went online and enacted the support for women fleeing violent relationships they so desperately deserve. Diolch.
+
+## 2026-07-14 — 8. Legislative Consent Motion: Steel Industry (Nationalisation) Bill
+
+*Speech* · [https://record.senedd.wales/Plenary/16085#C767863](https://record.senedd.wales/Plenary/16085#C767863)
+
+Reform believes Britain must do everything it can to retain the ability to make its own steel. Our MPs supported this Bill in Westminster, and today we will support it in the Senedd. But, we have to be very clear, this Bill comes far too late. The workers and their families at Port Talbot know that better than anyone. For years, they were promised certainty, instead they got delay. They were promised a plan and, despite the £1.25 billion transition programme, including up to £500 million of taxpayer support, many workers are still asking what replaces the secure skilled jobs that have been lost. Instead of those jobs, they got managed decline. Thanks to praying at the altar of net zero, we all now know that economic decline comes hand in hand with net zero. The blast furnaces have gone, thousands of livelihoods have been affected, and Britain has become more dependent on imported steel as a result.
+
+More than 2,100 Tata Steel jobs had been lost by September last year, with many of those losses concentrated in and around Port Talbot. Behind every one of those figures is a family, a household and a community that deserved better from its Government. While countries like India and China continue to expand their steel making, forging ahead using a balanced energy mix, what we have is not an industrial strategy that people can rely on, it's failure on an industrial scale.
+
+These decisions haven't affected climate change one bit, or even contributed to solving it. They've moved the problem elsewhere, if not, indeed, made it worse by having to ship product around the world and weakening our national resilience. The closure of Port Talbot's blast furnaces has been linked to almost two thirds of the reduction in UK emissions between 2023 and 2025, yet global emissions do not disappear. When that production moves overseas, they are simply exported along with the jobs. The only achievement here is economic decay and destroying Welsh communities.
+
+Where intervention is needed to protect steel making, it should be decisive and focused on rebuilding a competitive industry. Our steel workers deserve an industry with a future. Our nation demands a strong steel industry and a Government with a credible strategy, one that protects jobs, strengthens Wales, and secures Britain's industrial independence. This Bill is a necessary step towards that and it has our support. Diolch.
+
+## 2026-07-15 — 6. Member Debate under Standing Order 11.21(iv): Young people and employment
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768251](https://record.senedd.wales/Plenary/16086#C768251)
+
+I'd also like to declare an interest. It might surprise a few people to know that I'm a former young person myself. It was a while ago now, but—. I will say, I think when you think about the journey that young people go through, for too long, they've been kind of mis-sold a promise that if you go to university, then on the other side awaits a golden nirvana, a good job and big success, but the reality is that it hasn't—. Instead, thousands of young people across Wales, and indeed the UK, go into that process and they leave having to go for unpaid or low-paid jobs at the end of it in an unrelated field, because the degree that they had isn't valued by employers or wanted by the economy. They leave with debt. And the harsh reality is that the dreams of those young people going into those university courses have often been broken, and there's a lot of disappointment on the other side. And on both sides of the M4, young people have been mis-sold degrees, pushed through the system and leave with tens of thousands of pounds-worth of debt that they carry with them for decades. An economy of skilled workers that those employers have to go out to the world to look for to fill that—we could be filling right here in Wales. And many people in that generation are really paying the price for the decisions that we, as the older generation, have been making, and, certainly, in this Chamber.
+
+Now, as has already been mentioned, 17 per cent of Welsh young people in Wales are NEET, and that, for a supposed advanced economy, is not an acceptable position to be in. Unlike many of them, I actually started my career with an apprenticeship, and I would say it was easily one of the best decisions I ever made. I would actually like to take the opportunity to pay tribute to those men and women at the civilian technical training school that I went on to work with. They've gone on throughout the world to achieve some remarkable things. It's just a shame that we couldn't keep them employed here in Wales, and that's what we have to look to do. I was able to earn and learn at the same time, and it led to a long and successful 30-year career across aerospace and defence. First of all with the Ministry of Defence at St Athan—a three-year apprenticeship that taught me and my colleagues the fundamentals of aerospace engineering. I then went on to the defence sector at another Welsh success story at General Dynamics, and various senior management positions soon after. So, apprenticeships may well be vocational in nature, but they can lead to some really exciting places for young people.
+
+I know first-hand what apprenticeships can achieve. I understand the power of apprenticeships, for employers and for young people. They have dual value, and it's important that we consider that. Now, I want every young person in Wales to have those same opportunities. I think we can all agree to that premise. I think there will be consensus around the Chamber on that. I think there's power in that. That means shifting our focus away from low-value degrees and putting skilled trades back at the heart of where they belong, which is at the heart of Welsh education, so that people are aware of what those trades mean to the economy as they're coming through school and making those choices.
+
+Now, today, young people who want to become electricians, engineers, plumbers and technicians are fighting over a handful of apprenticeship places. Despite skyrocketing demand, apprenticeship starts in Wales have actually fallen by around 37 per cent over the last decade. The last Government claimed they delivered 100,000 apprenticeships over the last term, but as we all now know, the figures were fiddled and the public were misled on that, and that's a terrible legacy to leave. Terrible delivery and a misrepresentation of data. But we need to turn that around.
+
+Now, this debate today is an attempt to reclaim that narrative; we understand that. But I do think that we can all come together to recognise that programmes like Jobs Growth Wales and ReAct aren't enough to get our students through the process into producing high-quality jobs for employers. Too often these programmes have become a revolving door of courses, placements and paperwork, rather than a genuine route into secure employment and training. Now, of course it's not enough for me to say what we wouldn't do; we are the party that tells the public exactly what we would do. Reform Wales would expand high-quality degree apprenticeships, work with employers and make vocational skills just as respected as academic qualifications.
+
+We also need to have an honest conversation about the impact of uncontrolled immigration on our jobs market. To not acknowledge the direct correlation is not to acknowledge the reality of the pressures that people face. Four hundred Welsh nurses, for example, paramedics and midwives who were trained here in Wales, ready, willing and able to work in our NHS, are unable to find work, while we import staff from abroad. Now, that's completely unacceptable to the men and women who are looking for jobs in our NHS. But that's what happens when Welsh workers aren't put first. Now, we appreciate anyone that wants to work in our NHS and contribute, but it can't be to the detriment of our own Welsh young people. Warm words aren't enough. We need better than the young person's guarantee. That's why—
+
+## 2026-07-15 — 6. Member Debate under Standing Order 11.21(iv): Young people and employment
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768274](https://record.senedd.wales/Plenary/16086#C768274)
+
+—we'll be abstaining today. Last point, and I will skip over.
+
+## 2026-07-15 — 6. Member Debate under Standing Order 11.21(iv): Young people and employment
+
+*Speech* · [https://record.senedd.wales/Plenary/16086#C768276](https://record.senedd.wales/Plenary/16086#C768276)
+
+All parties have fallen short when it comes to prioritising the needs of our youngest. They deserve better. Restore will be abstaining. Thank you.
+
+## 2026-09-15 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16260#C769166](https://record.senedd.wales/Plenary/16260#C769166)
+
+Diolch, Drefnydd. I'd like to request a statement from the Deputy Minister for Transport following the deeply concerning rise in the number of people killed or seriously injured on Welsh roads. Now, every one of these statistics represents a person, a family, in some of those cases, a life tragically lost, so this deserves a serious response. Three years ago, the Welsh public were told that introducing a default 20 mph limit would make our roads safer, yet, last year, the number of people killed or seriously injured on our roads was the highest since before the pandemic. Now, this should force this Government to confront some difficult realities. Labour introduced this policy, Plaid Cymru backed it, millions of pounds of taxpayers' money has been spent implementing it, businesses and motorists have carried the consequences, yet these figures should concern every single one of us. Now there needs to be a proper assessment of what has worked, what has failed and, most importantly, what needs to change.
+
+Trefnydd, residents across Wales deserve a road safety strategy based on evidence and results, not ideology. They deserve dangerous roads, junctions and accident black spots to be properly identified and tackled. They deserve investment, targeted where it will actually prevent serious accidents and save lives. And above all, they deserve honesty about whether the policy they were promised would make them safer is actually working. Diolch.
+
+## 2026-09-16 — 1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport / Creative Industries
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769446](https://record.senedd.wales/Plenary/16261#C769446)
+
+Before I begin, can I please take the opportunity to congratulate my former colleague on her latest defection yesterday? I'm sure that her newfound political beliefs and journey to the left will have her back in the Conservative Party in no time at all.
+
+But back to the matter at hand. Minister, Julien Macdonald is a fantastic example of the talent that can come out of Merthyr Tydfil. Born and brought up in Merthyr, he went on to work with Chanel, Givenchy, and to dress some of the biggest names in the world, including Beyoncé and Jennifer Lopez. Now, sadly, his company went into liquidation in 2023, but his success was ultimately built outside of Wales due to a lack of opportunity in the Welsh creative industry and a lack of support from Welsh Governments. So, what is the Welsh Government doing to make sure that talented people from places like Merthyr Tydfil do not feel that they have to leave to build successful creative businesses? And what support can you give to help creative companies actually base themselves in Merthyr and the wider Valleys, creating jobs and opportunities? Diolch.
+
+## 2026-09-16 — 8. Short Debate: Congestion isn't inevitable: How the Welsh Government and Cardiff Council can improve the lives of motorists in Cardiff and the surrounding regions
+
+*Speech* · [https://record.senedd.wales/Plenary/16261#C769785](https://record.senedd.wales/Plenary/16261#C769785)
+
+The eastern bay link road shows exactly what happens when Government actually invests in road infrastructure. Fifty-seven million pounds was spent connecting Cardiff Bay directly to Rover Way. It improved connections, reduced journey times and helped to ease congestion. But the job was never finished. Rover Way remains a single-carriageway road, carrying significant traffic and freight, while the wider eastern bay link was never completed. When further improvements were considered, the priority was not encouraging capacity, but avoiding measures that might encourage greater car use. And that is the fundamental problem. For too long, Labour and Plaid Cymru's war on motorists has demonised everyday commuters rather than helped the very people they are trying to do to get to work, run businesses and support their families. Now, we see the same anti-driver thinking with the abandoned M4 relief road around Newport. Now, congestion is not inevitable; it's the consequence of political inaction and the wrong choices. South Wales desperately needs proper road infrastructure alongside better public transport. So, let's stop putting ideology before infrastructure, let's finish what we started, and let's get south Wales moving again. Diolch.
+
+## 2026-09-22 — 2. Questions to the Counsel General / Devolved Elections and Artificially Generated Content
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770861](https://record.senedd.wales/Plenary/16262#C770861)
+
+They can't choose another candidate—[Interruption.]
+
+## 2026-09-22 — 2. Questions to the Counsel General / Devolved Elections and Artificially Generated Content
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770872](https://record.senedd.wales/Plenary/16262#C770872)
+
+Diolch, Lywydd. Yet, the Member keeps their seat, alongside their very generous salary. Now, some learned legal minds, such as yourself, could consider that to be fraud by misrepresentation. So, Counsel General, does Welsh electoral law provide any legal protection for voters where a candidate's conduct after election departs from the political representation they were elected under? Does Plaid Cymru still consider that politicians who mislead constituents should be criminalised? And have you considered that, in order to protect Welsh democracy, the Member should do the right thing and resign? Diolch.
+
+## 2026-09-22 — 2. Questions to the Counsel General / Devolved Elections and Artificially Generated Content
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770891](https://record.senedd.wales/Plenary/16262#C770891)
+
+We've all been elected.
+
+## 2026-09-22 — 2. Questions to the Counsel General / Devolved Elections and Artificially Generated Content
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C770898](https://record.senedd.wales/Plenary/16262#C770898)
+
+Counsel General, under Wales's electoral law voting system, voters get one vote for a political party and its list of candidates, so there's a very clear statement of accountability. What happens when a candidate asks voters to back one party, gets elected on that party's manifesto and then walks away from those commitments? The voter doesn't have to change their vote—[Interruption.]
+
+## 2026-09-22 — 5. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Welsh Defence Ethical Framework
+
+*Speech* · [https://record.senedd.wales/Plenary/16262#C771043](https://record.senedd.wales/Plenary/16262#C771043)
+
+Thank you for your statement, Minister. At a time of rising geopolitical tensions and a fragile economic outlook, we should not be placing political ideology ahead of Welsh security, Welsh jobs and Welsh investment. What we should be doing is everything possible to bring defence investment into Wales and secure the skilled, well-paid jobs that come with it. This is a sector that employs thousands of Welsh men and women and contributes £1.5 billion to the Welsh economy, and there could be so much more. My concern is that this framework risks doing precisely the opposite and rejecting those opportunities that are presented. It risks discouraging investment, creating uncertainty and giving defence companies another reason to take their investment elsewhere.
+
+And as usual, it will be the Welsh people who pay the price. They will lose out on jobs, Welsh businesses will lose out on investment, and communities will lose out on the economic benefits that come with both. If we look at a case in Marshall Land Systems, they are moving into Merthyr, creating hundreds of jobs and supporting Welsh families. That's exactly the kind of investment that we should be fighting for. It's also a clear example of the positive impact that defence investment can have on a community, and yet it's exactly the kind of opportunity that this framework could put at risk, through uncertainty and additional barriers.
+
+There's also a serious question about what you've told the Senedd. In your statement today, you said that interim decisions on defence will be taken by the First Minister. Yet, in an earlier statement, you said that all decisions would be deferred until the framework has been finalised, so we need clarity on this point. Because businesses considering investing millions of pounds into Wales deserve clarity from this Government. And let's be absolutely clear about what's being proposed here today. The United Kingdom already has a national system governing defence exports. Companies exporting controlled military and dual-use goods are already subject to the UK's strategic export control regime, with applications assessed against national criteria and strict ethical requirements. Yet, your Government now wants to introduce an additional test that defence companies elsewhere in the United Kingdom will not have to face, creating a distinct competitive barrier for those seeking to set up in Wales.
+
+So, what exactly does this additional test achieve and what happens when a company fails it? Defence investment is not trapped within the border of Wales; companies can expand in England, Scotland or elsewhere with ease. Investment can move, and when investment moves, the jobs, the supply chain and everything else go with it. So, before you introduce this framework, what assessment have you carried out of the economic consequences for Wales? What assessment have you made of the jobs that could be lost as a result? And how can you seriously ask this Senedd to support a framework when you've not released the criteria by which companies will be judged? That appears to be becoming a pattern with this Government—big on announcements, but remarkably short on detail. So, Minister, what exactly are the criteria? What will cause a Welsh defence company to pass or fail this test? Who will make that decision, and on what basis will they make it?
+
+There's another issue that simply cannot be ignored. Your party has a long record of opposition to significant parts of the defence sector. Now, your Deputy Minister, Mark Hooper, once said that attending an arms fair is indefensible. Your culture Minister described an arms fair as 'a contemptible event', yet thousands of Welsh men and women attend these events to support those industries every year. And Plaid Cymru has explicitly opposed the renewal of defence systems such as Trident in years past. Now, those aren't my words, those are the recorded positions of Members of your own party and your front bench. And now that same party is introducing a framework that could determine which defence companies receive Welsh Government support and investment. So, Welsh businesses are entitled to ask a very serious question: how can they have confidence that this will be an evidence-based framework, rather than an ideological test shaped by Plaid Cymru's long-standing hostility towards the defence industry?
+
+Minister, national security is one of the first responsibilities of any Government, and securing good jobs, investment and prosperity for the people of Wales should be one of the first responsibilities of this Government. Neither should be sacrificed for ideology. So, we call upon you today, for the sake of the industry, to scrap this framework, remove the uncertainty, back Welsh worker, welcome defence investments into Wales. And we can all get on with the job we were elected to do, to grow the economy, put Welsh jobs, Welsh prosperity and our national security first. Diolch.
+
+## 2026-09-23 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771367](https://record.senedd.wales/Plenary/16263#C771367)
+
+I'm pretty sure I heard the data tell me there that accidents were going up, but that's the data for you.
+
+Cabinet Minister, you can dispute all the figures you like, but you can't dispute your party's own record. This goes far beyond the 20 mph default limit. For years, major road projects have been frozen, cancelled or ruled out while congestion's got worse and motorists have been left in traffic up and down Wales. Your own leader made his priorities perfectly clear during the election campaign. He said that Plaid would keep the default limit and that it would not be reviewed. So, let us be clear: while we accept that this is a policy that you inherited from the previous Government, it's an approach you actively supported. You spent years telling the people of Wales that this was all about safety, when in fact, as most people know, up and down the country, it was all about the pursuit of damaging net-zero dogma. Absolutely. Without the proper infrastructure investment, frustrated Welsh motorists would have no choice but to use public transport—isn't that right, Minister? So, rather than punishing motorists as a transport strategy, will you actually invest in the proper road infrastructure that Wales actually needs?
+
+## 2026-09-23 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771369](https://record.senedd.wales/Plenary/16263#C771369)
+
+Diolch, Ddirprwy Lywydd. Minister, this week marks three years since the introduction of the default 20 mph limit across Wales. That's three years that motorists have been treated as a problem, and three years since this institution has ignored all the calls to overturn this disastrous policy. The cost is 1 billion extra minutes to car journey times across Wales each year. That's 1 billion minutes, and a policy estimated to cost up to £9 billion to the Welsh economy. And, after all of that, Welsh road deaths are still rising throughout the varying speed zones. Now, Minister, every one of those deaths is a tragedy. Road safety deserves a strategy that's more than just changing road signs. For years, when Labour was in Government, your party backed this single-minded approach. You defended it, you backed it, and now the data tells us it's clearly not working. So, Cabinet Minister, will you finally listen to the data and the hundreds of thousands of people who continue to speak out against this policy and end this experiment?
+
+## 2026-09-23 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771382](https://record.senedd.wales/Plenary/16263#C771382)
+
+Another cop out. But the good news is we also care about young people. We want to make sure they have jobs well into the future and our economy thrives. Absolutely. Now, in June, you stood in this Chamber and made a very clear commitment to review the position on the M4 relief road. You said this would not be another review that kicks the can down the road—the can would likely end up in a traffic jam anyway. You said you would return to the Senedd early in autumn with your Government's way forward. Well, Cabinet Minister, rather depressingly, it is autumn. You ruled out a completely viable black route, but the people sitting in congestion around Newport every day don't know what this Government is going to do about the traffic. So, it's time to come clean. Before the election, your party promised a solution on the M4. But I know, and you know, that you have nothing. You were just trying to waste time while you figure it all out at the last minute. In fact, you've taken so long, we've done the work for you. We've revised the costings for the M4 relief road, and £2.8 billion is the updated cost. We are more than happy to continue the work, secure the funding, take over your brief and get the job done ourselves. So, Minister, can you tell us what is your solution to the congestion on the M4? Diolch.
+
+## 2026-09-23 — 2. Questions to the Cabinet Minister for Education and Welsh Language / Improving Educational Standards
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771554](https://record.senedd.wales/Plenary/16263#C771554)
+
+4. What is the Welsh Government doing to improve educational standards in Pontypridd Cynon Merthyr? OQ64522
+
+## 2026-09-23 — 2. Questions to the Cabinet Minister for Education and Welsh Language / Improving Educational Standards
+
+*Speech* · [https://record.senedd.wales/Plenary/16263#C771558](https://record.senedd.wales/Plenary/16263#C771558)
+
+Thank you, Cabinet Minister. We can't ignore the clear link between social deprivation, child poverty and educational attainment, which I think are all areas that successive Governments have failed to address. The latest PISA results should be a wake-up call for this Government. Wales is bottom of the UK in maths, reading and science. Maths has fallen significantly, and your own Government acknowledges that Wales has constantly lagged behind other UK nations. But nowhere should that failure concern us more than in communities such as the one I represent in Pontypridd Cynon Merthyr. Your own deprivation figures show that 83 per cent of areas in Merthyr Tydfil are among the most educationally deprived areas of Wales. So, Cabinet Minister, those statistics aren't just something to read on a Government spreadsheet; they represent children whose future opportunities depend upon the education they receive today.
+
+Now, I appreciate the PISA records aren't yours to own, as they're based on 2025 results, and Labour spent years reforming the curriculum, changing qualifications and moving away. However, it's not lost on anyone on this side of the Chamber that Plaid Cymru supported that, so you can no longer blame the system you inherited. So, the question is: do you commit to working across Government departments to ensure that socially deprived areas in Wales are prioritised to make sure that we close the gap between those and any educational achievements for PISA? Thank you.
+
+## 2026-09-30 — 3. Topical Questions / Proposed Job Losses at Admiral and Legal & General
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773672](https://record.senedd.wales/Plenary/16265#C773672)
+
+Minister, hundreds of jobs are at risk between Admiral and Legal & General. This is devastating news for the entire Welsh economy, but especially for those who are losing their livelihoods. While artificial intelligence was not the sole reason for these job cuts, those losses are a sign of what's to come. Now, across the UK, businesses are cutting jobs, with a focus on becoming leaner and more efficient. Often, though, the use of artificial intelligence is the core behind those losses. Now, what conversations have you had with these companies about the role that AI has played in these job losses? What conversations have you had with other Ministers about creating a more futureproofed workforce that's safer from redundancies that AI that could cause to our economy? Diolch.
+
+## 2026-09-30 — 3. Topical Questions / Fuel Prices
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773681](https://record.senedd.wales/Plenary/16265#C773681)
+
+Thank you to the Minister for the previous answer. I think a lot of what I'm about to say has been touched upon. We recognise that rising fuel prices are putting growing pressure on Welsh businesses, driving up the cost of deliveries, transport and everyday operations. For businesses already struggling with rising costs, Wales's 20 mph default limit adds further concerns about journey times and operating costs. Just days ago, a family-run haulage firm, CVH Transport Services in Caerphilly, went bust. Will you acknowledge the cumulative pressure these rising costs and Welsh Government policies are placing on Welsh businesses, and commit to working across the industry to ease the pain that these businesses are feeling? Diolch.
+
+## 2026-09-30 — 6. Reform UK Debate: Default 20 mph speed limit
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773761](https://record.senedd.wales/Plenary/16265#C773761)
+
+Diolch, Lywydd. I move this motion, submitted in the name of my colleague Llŷr Powell.
+
+Three years ago, Labour imposed the default 20 mph limit across Wales. They told motorists that it was necessary. They told communities it would make them safer and then, after fierce public backlash, they promised to listen. So, let's examine what listening actually meant. In Monmouthshire, residents identified 143 roads that they believed should return to 30 mph. Four were reassessed. How many changed? None. In Denbighshire, more than 300 submissions were received covering 202 roads. How many changed? None. Cardiff reviewed 192 roads, following 933 requests, and only four routes have returned to 30 mph. This is what Government calls progress in their amendment today. An empty reset, once again ignoring cries from the Welsh public, tinkering around the edges, as is becoming common with this Government, afraid to tackle the big issues head on.
+
+This isn't just about frustration for motorists. This policy comes at a real cost for our economy. One billion extra minutes of travel time wasted every year; £38.3 million wasted to implement this policy; and up to £8.9 billion in an act of economic self-harm. That's the price of Plaid and Labour's 20 mph policy. But there's an even bigger issue: road safety.
+
+The inescapable fact is that Welsh road deaths are rising. In 2025, 91 people were killed on Welsh roads. Each one of those is a tragedy. Plaid's argument today will say that, by opposing default limits, Reform want more deaths on our roads; that we want children to die. The transport Minister said the same in this Chamber last week on the record. Think about that for a second. Plaid would have you believe that the mothers and fathers on this side of the Chamber are pushing for the deaths of children, just so that they can claim a warped sense of superiority in a policy debate. That's a contemptible position to take. We should all expect better of each other in this place and I have absolutely no time for it.
+
+So, let me be absolutely clear: we want our roads to be as safe as possible. Plaid blindly pursues 20 mph limits as a fix-all solution to road safety. But 20 mph limits will not stop a drink driver. They won't stop an uninsured driver. And they certainly won't redesign a dangerous junction or fix a collision black spot. Take the Raglan A40 bypass, named Wales's most dangerous junction. Despite years of collisions and a young man sadly losing his life just last year, the only outcome of that tragedy is that the speed limit has been dropped, leaving residents still waiting for real junction safety improvements.
+
+After months in power, has Plaid sped up action on this? No, they haven't. And this is the type of single-minded approach that Reform is fighting against: the idea that lowering speed limits will fix everything, while Welsh families are grieving the loss of loved ones. Ninety-one people have lost their lives and Plaid has been focused instead on breaking up the United Kingdom, plotting with Sinn Féin and making us weaker as a result. They've been big on independence, but silent on road safety.
+
+We all know where this Government's priorities lie, and it's not in improving road safety for our communities. We need a practical, forward-looking road safety strategy that tackles the real dangers on our roads, targeting dangerous junctions, improving road design, investing in safer crossings and road infrastructure, and above all, a strategy that listens and acts upon the local residents' concerns. Because the people who live on these roads know the dangers much better than anyone sitting in this Chamber today. We need a Government that listens and delivers real improvements, not one that hides behind slogans. I'm calling on this Senedd to back our motion today, end the war on motorists, scrap the 20 mph default limits, and let's get our country motoring again. Diolch.
+
+## 2026-09-30 — 7. Welsh Conservatives Debate: The defence sector
+
+*Speech* · [https://record.senedd.wales/Plenary/16265#C773918](https://record.senedd.wales/Plenary/16265#C773918)
+
+Reform heartily supports today's motion that's before us today. Wales has a proud defence tradition, and our aerospace and defence sector directly employs 16,000 people. The UK defence investment plan commits £298 billion over the next four years, with almost 60,000 industry jobs created. The investment is coming, the jobs are coming, the contracts are coming, and thank God we are part of our United Kingdom, so we can access these opportunities. The question for this Government is simple: how many of these opportunities are coming to Wales? Because Wales must not simply watch this investment happen elsewhere. We have to fight for our share of it.
+
+I know personally what this industry can offer. I started my career with a three-year apprenticeship at the Ministry of Defence at St Athan. It was one of the best decisions I ever made. I earned while I learnt, I gained skills, experience, and it became the foundation of a 30-year career in aerospace and defence. I later joined General Dynamics, where I had technical teams that led the installation of complex communication systems in military platforms. And that's the power of what a good apprenticeship can do. It doesn't simply give somebody their first job, it can give them a career. It's a foundation for success, it can transform their prospects, and when we get it right, it can transform whole communities as well.
+
+That's why Wales needs an ambitious defence industrial strategy. We have the workforce, we have world-class companies, we have universities, engineers, manufacturers, and the supply chains. What we need is a Government determined to bring those strengths together and compete relentlessly for investment. And that means stronger relationships with the MOD and industry, closer ties with decision makers in Westminster, not ideological division or the pursuit of independence. More apprenticeships, more technical skills, and fighting for every factory, every contract and every skilled job that Wales can secure.
+
+Look at Merthyr Tydfil: General Dynamics has already demonstrated what high-quality defence manufacturing can bring to the heart of the Valleys. We're thrilled that Marshall Land Systems has seen the potential that Merthyr holds and is establishing its new facility there, employing hundreds, and that's exactly the sort of investment Wales should be pursuing. We should make sure that Welsh SMEs and supply chains benefit from this investment too. But this is where the Government needs to answer a very serious question. At the precise moment Britain is embarking upon one of the biggest periods of defence investment in generations, this Government is developing an additional bureaucratic Welsh ethical framework for defence investment—more unnecessary red tape.
+
+Now, we are told, of course, that this will not create more barriers to defence investment, but this claim doesn't pass the commonsense sniff test. And here's the contradiction: this Government says Wales needs defence investment, they say they want the jobs. Yet instead of focusing on how Wales can attract that investment, Plaid wants to put an ethical defence framework at the centre of its approach to this crucial industry. We all want responsible investment, but Plaid's framework is an ideological purity test, putting political conditions ahead of jobs, growth and the economic opportunities Wales desperately needs.
+
+And while this Government is busy putting barriers on defence investment, Russia's foreign Minister, Sergey Lavrov, is openly questioning the future of the United Kingdom, seeking to divide, weaken, disrupt, just as Plaid are trying to do for our union. Now let that sink in: a country that poses a direct threat to our national security sees the break-up of the United Kingdom as an opportunity. And yet Plaid is determined to pursue the very ambitions that Russia sees as being in its interests.
+
+Now, this motion today should be a wake-up call for Plaid Cymru. Wales should be leading the way in strengthening Britain's defence, not undermining the very country that protects us. Plaid needs to stop putting ideology before our national interests and start putting Welsh workers first. Back this motion today, back our national defence, and let's get these defence jobs into Wales and back our communities. Diolch.
+
+## 2026-10-07 — 2. Questions to the Cabinet Minister for Local Government, Housing and Planning / Improving the Energy Efficiency of Homes
+
+*Speech* · [https://record.senedd.wales/Plenary/16314#C776716](https://record.senedd.wales/Plenary/16314#C776716)
+
+I don't wish to speak, Llywydd.
+
+## 2026-10-13 — 6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network
+
+*Speech* · [https://record.senedd.wales/Plenary/16315#C778720](https://record.senedd.wales/Plenary/16315#C778720)
+
+Minister, I've listened very carefully to the statement, and I remain concerned that we are hearing far more about the challenges facing our transport network than the actual action being taken to address them. The reality is that passengers across Wales have been putting up with an unreliable railway for far too long. Last year, Transport for Wales was amongst the worst-performing rail operators in Britain for cancellations. Passengers are paying substantial fares for services that are too often delayed, disrupted or cancelled altogether.
+
+Whilst extreme weather presents a genuine challenge, as it does every single year, it can't become a convenient explanation for every failure. The Government is responsible for ensuring our transport network is fit for purpose, whatever the season. So, Minister, what specific improvements are being made to the reliability of services, particularly across the core Valleys lines, and when can passengers expect to see those benefits?
+
+I'd also like to raise the serious issue of air conditioning on our trains. Since April, there have been approximately 1,000 reported air conditioning faults, with 350 recorded in June alone. Those figures are unacceptable for a modern railway. We cannot expect passengers to travel in excessive heat, nor should we expect drivers, conductors and other railway staff to work in those conditions. I would therefore welcome confirmation of what action has been agreed with Transport for Wales, what timetables have been established and how staff and passenger safety will be protected.
+
+Minister, if I could turn to flooding now, communities such as Pontypridd have experienced repeated devastating disruption, and I pay tribute to constituency Members across all parties for their work on this. We have seen roads closed, rail services suspended and businesses affected, sometimes for considerable periods. Yet there's very little in today's statement about the funding being made available to protect those vulnerable routes. What additional investment is being committed, and what practical measures are being taken alongside the Minister responsible for flood prevention?
+
+I also want to address the resilience of our ports and the strategic roads serving them. Holyhead, Fishguard and Pembroke are essential to the Welsh economy and our trading relationship with Ireland. The closure of Holyhead in December 2024 demonstrated how vulnerable those connections can be. The A55 Menai crossings, the A40 and the A477 are vital routes for businesses, freight operators and communities that depend on them. Any prolonged disruption has serious economic consequences. Your Irish sea taskforce has already recognised these concerns, and an update has already been promised this autumn. So, Minister, can you confirm if that update will include firm commitments, allocated funding and delivery dates, or are we facing another round of recommendations without any certainty of action?
+
+Minister, I recognise that protecting our transport infrastructure against extreme weather is not straightforward. Plaid has had years in opposition to identify these problems and develop solutions hand-in-hand with your bedfellows of Labour. The issue is no longer whether the Government understands those problems—it's whether it has the determination to resolve them. Passengers need reliable trains, businesses need dependable roads, and communities need proper protection against flooding. These are not unreasonable expectations. They are the basic responsibilities of Government. After years of promises, reviews and strategies, the people of Wales are entitled to expect something more substantial. They are entitled to see results. Diolch.
+
+## 2026-10-20 — 4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C779991](https://record.senedd.wales/Plenary/16317#C779991)
+
+First Minister, 60 years ago, we know that 144 lives were lost in Aberfan, and 116 of those were children. Now, I cannot comprehend what it must be like to send your child off to school and not have them return. For the families, the survivors and the community of Aberfan, the pain of that day will never go away.
+
+Now, as one of the Members representing this community in this Chamber, I know that Aberfan is not simply a tragedy recorded in our history books. It's a community that carries the scars of what happened that day, and will do so for the rest of time. I had the honour yesterday of attending the University of South Wales, where the last remaining survivor, Jeff Edwards, gave a talk—a powerful account of loss, of grief, but also the fight for justice after the event itself, and the events that the community had to go through to get that justice.
+
+First Minister, remembrance must be about more than words. It must also be about responsibility and ensuring that those lessons are never forgotten. So, 60 years on, what assurances can you give the families of Aberfan that the lessons of that terrible day remain at the heart of how we protect our Valleys communities today? And can I have your assurance that the physical coal tip remediation will receive priority, and can you please outline how the remainder of coal tips at risk across Wales are to be made safe? We owe those 144 souls and the families nothing less. Diolch.
+
+## 2026-10-20 — 8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C780084](https://record.senedd.wales/Plenary/16317#C780084)
+
+Thank you for your statement, Minister. Across Wales, families have faced and continue to face some of the largest energy price increases anywhere in the developed world. Yet the statement today makes it clear that this Government is committed to one thing, and that's more bureaucracy. Minister, your new publicly owned energy company is no doubt in your mind a key tenet of your energy strategy, but it's just not needed. It's a waste of taxpayers' money, and just like the Welsh Development Agency 2.0, it's an exercise in Government by quango, committee, council, advisory body and any other bureaucratic body to avoid actually taking responsibility. Now, when this inevitably goes wrong, there will be a plethora of other agencies to take the burden of blame in your place. So, what are you doing? To transfer functions from public bodies that already exist and calling it progression—why should the public of Wales stand for that?
+
+Yet again, and as usual, we have little detail on cost, nothing on timelines and nothing on actual delivery. Now, I understand that the consultation is still under way, but why shy away from letting the public know exactly how much of their money you intend to waste? And when do you plan to update the Chamber on the details? Now, this isn't the first time I've made these comments, and I would have hoped that these details would be available for us as opposition Members to scrutinise effectively.
+
+Minister, we welcome offshore windfarms. We welcome solar panels on school roofs, warehouses, factories and on car parks. But we do not support renewable projects that ruin the Welsh countryside and the outstanding natural beauty of Wales. We are the custodians of this land, and we must take that responsibility seriously. We, in Reform, we certainly do.
+
+Yesterday, travelling through Merthyr and the Cynon valley, I saw multiple wind turbines on green land and across our mountainside. They are an eyesore to local residents, and I've had many constituents raise that with me. In Newport, Candwr Solar Farm is proposed to be built on 300 acres of prime agricultural land. Plaid claim to support the countryside, to protect our environment, but you can't do that without protecting green spaces from windfarms and excessive pylons. Minister, in your statement, you mentioned working across departments. How will you work with the Minister for rural resilience to make sure that these spaces are protected?
+
+While the statement offers warm words, it will not lower energy bills for Welsh people at a time when a staggering one in four are in fuel poverty. It says nothing about working with the housing Minister, about making homes more insulated in a nation with some of the oldest homes in the UK. It says nothing about the potential that nuclear solutions have to offer. And as I've already stated, it lacks the detail and accountability that leads to meaningful change for the Welsh people.
+
+Now, Minister, in your statement, you mention changing targets on sources of renewable energy to emissions-based targets. But you haven't mentioned how you're working with the UK Government to make energy more affordable for Welsh people. How exactly are you doing that, what conversations are you having with the UK Government, and what actions are you taking towards this? And how can you call this a serious update on the national energy strategy for Wales without mentioning nuclear energy once? What is Plaid's attitude towards the nuclear industry? Diolch.
+
+## 2026-10-20 — 9. Legislative Consent Motion: The Cyber Security and Resilience (Network Information Systems) Bill
+
+*Speech* · [https://record.senedd.wales/Plenary/16317#C780135](https://record.senedd.wales/Plenary/16317#C780135)
+
+Thank you, Presiding Officer. Now, at a time when threats to our national security are growing, protecting Britain and Wales from cyber attacks has never been more important. We live in a world where a single cyber attack can bring businesses to its knees and cripple essential, life-sustaining services. Having spent over 30 years working across aerospace and in the defence industry, I fully understand the importance of national security. National security isn't something we can afford to get wrong. Now, Reform UK will always put the security of our country and its people first and foremost, and that is why we support this legislative consent motion. Thank you.
+
+## 2026-10-21 — 10. Short Debate: Full-face coverings are against British values
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780852](https://record.senedd.wales/Plenary/16318#C780852)
+
+Face coverings have no place in British and Welsh society. Let's take a look at the city of Newport, the city that holds the unenviable title of the worst high street in Britain. Disaffected young people have run through businesses, causing a decimated high street and rundown shopfronts, leading to a loss of inward investment and hope for the future deserted, thanks, in part, to balaclava-covered youths running riot over those that are just trying to make a living—people who've worked hard, paid their taxes, and contributed to their communities. But this is not just about one Welsh city; this is a Wales-wide issue.
+
+Plaid will say this is a pointless debate because it's a non-devolved matter reserved to Westminster. But that doesn't mean UK councils are powerless. Look at what Nottingham has achieved as an example. They introduced a targeted restriction against face coverings, and they've seen a 40 per cent reduction in city-centre anti-social behaviour. Newport City Council has voted to explore similar options, and I, alongside every Reform MS, will be encouraging all Welsh councils to do the same.
+
+Adam Price disappointed me today with his response to spokespersons' questions. Imagine being a victim of crime, of violent theft or some kind of violent robbery, only to listen to Plaid's economy minister today saying balaclava bans are a gimmick, that businesses don't care. But the reality is that Plaid doesn't care. Plaid cares more about promoting foreign cultures than our own. They clearly don't care about keeping Welsh people and businesses safe.
+
+When a Welsh person supports Reform, Plaid often accuses them of questioning their loyalty to Wales. But when foreign people who can't speak any British language enter Wales for a life on the welfare system, they are celebrated as trophies of the benefits of mass migration. They don't care about how a lack of integration by face-clad unknown people impacts Wales, our working-class communities. All they care about is supporting mass migration in all its forms, no matter the cost to our communities. We see this today. They defend balaclavas, all because they want some in our society to be able to hide their faces. Some will lazily say we're being Islamophobic, whatever that means. Some, no doubt, will roll out the old classic and shriek, 'Racists!' These tropes are tired, ineffective, and clearly wildly inaccurate, but I will address them.
+
+Reform supports freedom of religion in all its forms. But where that freedom oppresses women and damages assimilation into Welsh communities, a line must be drawn. In Afghanistan, under Taliban rule, women are under a system of gender apartheid. They can't study above the age of 12, they can't speak loudly in public, and they're forced, by law, to wear the burqa. If they don't, they could be denied healthcare, they could be beaten, or even worse. For these women, raised under an extremist form of Islam, the burqa is a symbol of oppression. This symbol is what Plaid Members are attempting to back today: an extreme ideology that is anti British, anti women and against assimilation, forced on young girls and carried on into adulthood.
+
+In numerous countries, the burqa is already banned. But we cannot allow this form of oppression to become the norm in Wales. Walk through any areas across Wales, and you will see it for yourself. The Muslim Council of Wales has tried to silence this debate today, saying we are hateful and divisive. So, I say again, and let me be very clear: Reform has no issue with the hijab, we have no issue or problem with Islam or Muslims, but we do have an issue with people living in our communities hiding their identities. We say the same thing to protesters that cover their faces, whatever their political persuasion. In modern Britain, we are polite people. We say 'hello' to our neighbours, and we do not hide our faces. That is our culture, that is our way, regardless of race, creed or religion. Reform wants safer streets and strong communities for our families to live, work and thrive. Diolch.
+
+## 2026-10-21 — 10. Short Debate: Full-face coverings are against British values
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780883](https://record.senedd.wales/Plenary/16318#C780883)
+
+Diolch, Lywydd. It's good to see the Chamber so full for a short debate. I had no idea I was so popular. I'd like to give a minute's time in this debate to Joe Martin, Sarah Cooper-Lesadd, Francesca O'Brien, Carrie Harper, Steven Rodaway and Kiera Marshall.
+
+Llywydd, our town centres were once the bright and beating heart of our communities, where businesses thrived and families felt safe. But years of economic decline and political failure have let our town centres, sadly, rot. As a result, a new dangerous culture has emerged. From Newport to Rhyl, balaclava-clad young men, often dangerously riding illegal e-bikes, have been fuelling anti-social behaviour and making our streets feel unsafe. For these individuals, face coverings are a way to conceal their identity, to make it harder for authorities to hold them accountable. And while Governments across the UK turn a blind eye to this, Reform says, 'Enough is enough'.
+
+## 2026-10-21 — 10. Short Debate: Full-face coverings are against British values
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C781068](https://record.senedd.wales/Plenary/16318#C781068)
+
+Carrie Harper, Joe Martin, Steven Rodaway—
+
+## 2026-10-21 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780460](https://record.senedd.wales/Plenary/16318#C780460)
+
+Thank you, Deputy Presiding Officer. Minister, as discussed recently in this Chamber, 500 jobs in Admiral are at risk of redundancy. These are real Welsh people, real Welsh families and actual livelihoods that are now facing uncertainty. Many of those jobs are based across our constituencies in Swansea, Cardiff and Newport. And now we learn that, while Welsh workers face the prospect of losing their jobs, some roles—the majority of those 500 jobs—are going to be outsourced to India. Now, this is a massive slap in the face to all those men and women that have worked hard, paid their taxes, only for their jobs to be sent abroad, and is a firm rebuke to this Government's economic credentials. This should be a massive wake-up call for this Welsh Government. So, Minister, what direct action are you taking to stop skilled Welsh jobs being shipped overseas, to protect workers here in Wales, and to ensure that companies benefiting from operating in this country have a genuine incentive to keep those jobs here? Diolch.
+
+## 2026-10-21 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780461](https://record.senedd.wales/Plenary/16318#C780461)
+
+Thank you, Minister. The biggest word in that statement I picked up on was 'if' we get this right. That's a very big 'if' indeed.
+
+But, moving on, today, Reform UK will lead a debate calling for a ban on face coverings used to conceal identities and intimidate the public. Wales has become a country where criminals can hide their faces while law-abiding citizens are frightened to walk down their own high streets. Across Wales, hard-working businesses are struggling, shopkeepers face intimidation and theft, customers are being driven away, and once-thriving town centres are suffering, leading to damage to our economic outlook. All too often, those responsible are hiding behind balaclavas, riding illegal e-bikes, making it harder for the police to identify them. Minister, we both know that enough is enough. Our high streets belong to families, shoppers and hard-working businesses, not masked thugs. We know this matter is reserved to the police, but councils across Wales are considering using their powers to ban face coverings, including balaclavas. We in Reform will do everything we can to support them. Minister, do you agree that Reform UK's face coverings ban would curb anti-social behaviour and help protect Welsh town centres?
+
+## 2026-10-21 — 1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy / Questions Without Notice from Party Spokespeople
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780467](https://record.senedd.wales/Plenary/16318#C780467)
+
+Thank you. I thought I was going to get called—excuse me.
+
+Minister, thank you for that, but, as we move on, unlike Plaid's new energy quango, North sea drilling could unlock billions for the UK economy, support thousands of jobs and strengthen our energy security. As Reform UK's Richard Tice has been calling for for years, the Jackdaw project has now been given the green light, and, as we know on this side of the Chamber, that's nowhere near enough. Now, Reform believes the United Kingdom should extract every last drop of oil out of the North sea—and gas—to support our economy, protect jobs and reduce our reliance on imports. Instead, Plaid wants to waste taxpayers' money on another quango and renewable energy schemes that offer absolutely no guarantee of cheaper bills to the men and women of our country. Minister, let's get real for a moment and focus on the action that will actually make a difference to people's pockets here in Wales. What steps are you taking to press Westminster to issue new exploration licences, unlock our North sea resources, boost our economy and bring down household bills for people across Wales?
+
+## 2026-10-21 — 8. Welsh Labour Debate: The M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780782](https://record.senedd.wales/Plenary/16318#C780782)
+
+Oh, have I waited for this one. [Laughter.] Now, we, Reform, will of course support the motion today. It's pretty clear, though, that it's an obvious attempt to cut the strings of Labour's puppet master, Mark Drakeford. Now, we welcome the decision and we congratulate Welsh Labour on taking 27 years to come to the same conclusion that it took us exactly one minute to make. And that one minute was 59 seconds too long, in my opinion.
+
+Now, every day, tens of thousands of motorists sit in queues on the M4. Businesses lose money, workers lose time and families spend more of their lives sitting in traffic than sitting at home with loved ones. And after literally decades of promises, what have they been given? More congestion, more excuses and absolutely no solution. The very politicians responsible for this failure are trying to convince the people of Wales that they have the answer.
+
+Let's start with Labour. Twenty-seven years in Government. Twenty-seven years to deliver a solution to the most important transport problem in recent Welsh history. One hundred and fifty million pounds of taxpayers' money spent on plans, consultations and reviews. And what did the people of Wales receive for that substantial investment? Nothing. Perhaps a few sheets of paper. Mark Drakeford cancelled the M4 relief road, abandoning a project that would have made a real difference. And who was the Government Minister at the time? A gentleman called Ken Skates. [Interruption.] Good timing, sir.
+
+## 2026-10-21 — 8. Welsh Labour Debate: The M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780800](https://record.senedd.wales/Plenary/16318#C780800)
+
+Well, good news, Ken: I can see straight through you, so no problem there. [Laughter.]
+
+## 2026-10-21 — 8. Welsh Labour Debate: The M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780804](https://record.senedd.wales/Plenary/16318#C780804)
+
+Didn't know it was coming.
+
+## 2026-10-21 — 8. Welsh Labour Debate: The M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780813](https://record.senedd.wales/Plenary/16318#C780813)
+
+Not at all. Reform has been very clear: we will build the M4 relief road. So, that's our position. That's the one we're currently going down, and it will not be a toll road. It will be paid for out of the sovereign wealth fund from the UK Government. Thank you very much.
+
+But continuing, did you stand up and challenge the decision? No. Did you stand up and fight for businesses, commuters and families who desperately need that road? No. You defended the very Government that cancelled it. Now Labour wants to lecture this Chamber about the importance of building a relief road. It is quite funny. The same party that killed the project want to take credit for bringing it back to life. So, here's my question to Labour: if the M4 relief road is so desperately needed today, why didn't you build it when you were in power? The truth is, Labour hasn't changed. They've discovered the political consequences of ignoring it. And now, frightened of losing even more support to Reform UK, they're desperately trying to distance themselves from the anti-motorist legacy of Mark Drakeford and Lee Waters. But the people of Wales won't forget, and neither will we.
+
+So, let me now turn to Plaid Cymru, a party that promised change but are determined to continue the same failed approach. The black route has apparently been ruled out. But good news, stranded motorists, we've been offered more studies, more assessments and even more delays, and astonishingly, proposals to close motorway junctions and divert traffic onto local roads in Newport and the surrounding towns. Now, think about that for a moment. Their answer to congestion on the M4 is to move that congestion into the communities of Newport. How on earth is that supposed to improve the lives of the people we represent?
+
+Now, thanks to resurfaced tweets, we have greater clarity on the mind behind the junction closures. In 2019, the Minister stated he wanted to discourage car use on the M4 because of the climate emergency, and even went so far as to seriously suggest that the way to solve the M4 issue was that workers in Wales, in the public sector, should work a day fewer a week. Now, they call us climate conspiracy theorists, of course, yet they're the ones blocking the relief road as part of their net-zero agenda. That is their design: punish motorists and push them onto public transport. And if you don't believe me, just take a look at the transport Minister's own words for it.
+
+Today is about setting the record straight. Labour had the opportunity to build the road and cancelled it. Plaid Cymru had the opportunity to deliver a solution and is ruling out the very project that would provide one. Now, one party cancelled it, the other refuses to build it, but we all know it was the constant pressure of Reform, our historic election result and our grass-roots campaign that has got us here today. The people of Wales already know how they're going to get this M4 road delivered, and that is with a Reform UK Government.
+
+## 2026-10-21 — 8. Welsh Labour Debate: The M4 around Newport
+
+*Speech* · [https://record.senedd.wales/Plenary/16318#C780848](https://record.senedd.wales/Plenary/16318#C780848)
+
+Didn't know it was coming.
+
+## 2026-11-03 — 2. Business Statement and Announcement
+
+*Speech* · [https://record.senedd.wales/Plenary/16420#C782393](https://record.senedd.wales/Plenary/16420#C782393)
+
+Trefnydd, can I have a statement from the health Minister outlining how the watered-down COVID review will deliver justice for COVID-bereaved families? I'd like to read a quote.
+
+'The Government has chosen not to subject its pandemic record to full, Wales-specific scrutiny, unlike the approach taken in Scotland. If we are given the opportunity to lead the next Welsh Government, we'll take a different path.'
+
+Now, those aren't my words, they are the words of your health Minister. Just weeks before the election, your health Minister assured bereaved families that the review would have statutory powers. Those families believed in Plaid Cymru. They believed in you. Trefnydd, bereaved families are watching today—some are here in the gallery, some are watching from home—and after years of fighting for answers, they deserve more than another political explanation. They deserve to know why the commitment has changed. They deserve to know why the statutory inquiry that they painstakingly handcrafted with Plaid Cymru has been abandoned.
+
+Now, you yourself said we need a statutory inquiry just like they have in Scotland, in this very Chamber, 11 months ago. It's clear that this can only be called a shameful betrayal from Plaid Cymru of these families, and they deserve answers. Diolch.
+
