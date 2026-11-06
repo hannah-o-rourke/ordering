@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>Electoral Calculus</TITLE>
+<META name="elcalc:shorttitle" content="Home">
+<META name="elcalc:parent" content="">
+<META name="date" content="2026-10-27T00:00:00Z">
+<SCRIPT> var breadcrumbs=[["Home", "homepage.html"]]; </SCRIPT>
+<LINK REL=STYLESHEET TYPE="text/css" href="elcalc.css" TITLE="Style">
+<SCRIPT src="jsroutines.js"></SCRIPT>
+<script>
+
+	function showhide_toggle()
+	{
+		var elts_to_hide = document.querySelectorAll('.showhide');
+		var elts_to_show = document.querySelectorAll('.hideshow');
+		for (var i=0;i<elts_to_hide.length;i++)
+		{
+			elts_to_hide[i].classList.add('hideshow');
+			elts_to_hide[i].classList.remove('showhide');
+		}
+		for (var i=0;i<elts_to_show.length;i++)
+		{
+			elts_to_show[i].classList.add('showhide');
+			elts_to_show[i].classList.remove('hideshow');
+		}
+		return;
+	}
+	
+</script>
+</HEAD>
+<BODY>
+<SCRIPT>PageStart()</SCRIPT>
+<!-- start of custom content -->
+<DIV class="flexcol">
+	<DIV class="brick topleft" onclick="gourl('prediction_main.html');">
+		<DIV>
+			<P class="strap">CURRENT PREDICTION<SPAN id="preddate"></SPAN></P>
+			<H2><A href="prediction_main.html" class="onpurple">UK General Election Prediction</A></H2>
+			<P>Our current poll-of-polls predicts what would happen if there
+			were a general election tomorrow.
+			</P>
+			<A href="prediction_main.html" class="onpurple">Full details</A> of our current prediction.
+		</DIV>
+		<DIV>
+<!-- DATA1 -->
+<SCRIPT> document.getElementById('preddate').innerHTML = ' &ndash; November 2026'; </SCRIPT>
+<TABLE class="homepage center">
+	<TR class=theme><TH>Party</TH><TH>2024 Votes</TH><TH>2024 Seats</TH><TH>Pred Votes</TH><TH>Pred Seats</TH></TR>
+	<TR class=con><TD>CON</TD><TD> 24.4%</TD><TD>121</TD><TD> 21.4%</TD><TD><B>128</B></TD></TR>
+	<TR class=lab><TD>LAB</TD><TD> 34.7%</TD><TD>412</TD><TD> 28.1%</TD><TD><B>365</B></TD></TR>
+	<TR class=lib><TD>LIB</TD><TD> 12.6%</TD><TD>72</TD><TD>  9.4%</TD><TD><B>60</B></TD></TR>
+	<TR class=reform><TD>Reform</TD><TD> 14.7%</TD><TD>5</TD><TD> 21.3%</TD><TD><B>57</B></TD></TR>
+	<TR class=green><TD>Green</TD><TD>  6.9%</TD><TD>4</TD><TD>  8.9%</TD><TD><B>2</B></TD></TR>
+	<TR class=nat><TD>SNP</TD><TD>  2.6%</TD><TD>9</TD><TD>  3.0%</TD><TD><B>16</B></TD></TR>
+	<TR class=nat><TD>PlaidC</TD><TD>  0.7%</TD><TD>4</TD><TD>  0.6%</TD><TD><B>3</B></TD></TR>
+</TABLE>
+<!-- END1 -->
+		</DIV>
+	</DIV> <!-- topleft brick -->
+
+	<!-- start of standard bricks -->
+	<DIV class="brick_container">
+		<!-- start of left hand brick column -->
+		<DIV class="brick_column">
+		
+			<div class="brick" onclick="gourl('services_lsdm.html');" >
+				<P class="strap">LOCAL INSIGHT</P>
+				<A href="services_lsdm.html"><IMG src="imagesprivate/lsdm_burynorth_detail.png" title="Live Seat Data Map: Bury North" alt="Live Seat Data Map: Bury North"></A>
+				<H3><A href="services_lsdm.html">Live Seat Data Maps</A></H3>
+				<P>Ideal for local parties, candidates, and campaigners, our new   
+				   Live Seat Data Maps deliver live maps and data 
+				   with predicted election results, vote shares and swings
+				   across UK constituencies.
+				</P>
+				<P>Dive into detailed, seat-level data to sharpen your strategy
+				   and help to campaign smarter.
+				</P>
+			<P><A href="services_lsdm.html">Find out more</A>
+			</div> <!-- brick -->
+			
+			<div class="brick" onclick="gourl('https://www.youtube.com/watch?v=1dZyQpaFwUg');" >
+				<P class="strap">PODCAST</P>
+				<A href="https://www.youtube.com/watch?v=1dZyQpaFwUg"><IMG src="blogs/pseph_tactical_prmap_ad_20261021.png" title="Predicted PR Election Result" alt="Predicted PR Election Result"></A>
+				<H3><A href="https://www.youtube.com/watch?v=1dZyQpaFwUg">Who Wins and Who Loses if Burnham Scraps First Past the Post</A></H3>
+
+				<P>Our latest episode of Politics by Numbers, looks at our major new poll on tactical voting and how parties would fare under different voting systems.
+				</P>
+				<P>
+				Andy Burnham has expressed his support for proportional representation but our numbers suggest it might not be in his favour.</P>
+				<P>Watch on <A href="https://www.youtube.com/watch?v=1dZyQpaFwUg">YouTube</A>
+				or <A href="https://open.spotify.com/episode/2Ab5jUpE7S1Dv4K7ZEG999?si=xwkA_xK1SKybqfCDik7_GQ">Spotify</A>.
+			</div> <!-- brick -->
+			
+			<div class="brick" onclick="gourl('blogs/pseph_tactical_2026.html');" >
+				<P class="strap">TACTICAL + PR POLL</P>
+				<A href="blogs/pseph_tactical_2026.html"><IMG src="blogs/pseph_tactical_ad_20261021.png" title="Predicted Seats for various electoral systems" alt="Predicted Seats for various electoral systems"></A>
+				<H3><A href="blogs/pseph_tactical_2026.html">Tactical Voting + PR Poll October 2026</A></H3>
+				<P>Our new poll on tactical voting and proportional representation shows that tactical voting
+				favours the left, and PR favours the right.
+				</P>
+			</div> <!-- brick -->
+			
+			<div class="brick" onclick="gourl('blogs/ec_rrose_20261001.html');" >
+				<P class="strap">COMMENTARY</P>
+				<A href="blogs/ec_rrose_20261001.html"><IMG src="blogs/ec_rrose_ad_20261001.png" title="Probability of Parliamentary outcomes October 2026" alt="Probability of Parliamentary outcomes October 2026"></A>
+				<H3><A href="blogs/ec_rrose_20261001.html">Commentary October 2026</A></H3>
+				<P>Burnham Bounce Builds on a Divided Right-wing Bloc</P>
+				<P>Richard Rose looks at Labour's success in unifying the left.
+				</P>
+			</div> <!-- brick -->
+			
+			<div class="brick" onclick="gourl('blogs/ec_vipoll_20260924.html');" >
+				<P class="strap">MRP POLL</P>
+				<A href="blogs/ec_vipoll_20260924.html"><IMG src="blogs/ec_vipoll_ad_20260924.png" title="MRP Poll Sep 2026 image" alt="MRP Poll Sep 2026 image"></A>
+				<H3><A href="blogs/ec_vipoll_20260924.html">MRP Poll September 2026</A></H3>
+				<P>A new MRP poll for Restore Britain shows Labour in first place but short
+				of an overall majority.
+				</P>
+			</div> <!-- brick -->
+			
+
+			<div class="brick" onclick="gourl('blogs/pseph_transition2026aug.html');" >
+				<P class="strap">PSEPHOLOGY</P>
+				<A href="blogs/pseph_transition2026aug.html"><IMG src="blogs/transition_ad_2026aug.png" title="Voter Transitions 2024-Aug 2026" alt="Voter Transitions 2024-Aug 2026"></A>
+				<H3><A href="blogs/pseph_transition2026aug.html">Voter Transition from 2024 to 2026</A></H3>
+				<P>Our voter migration graphic is updated to show the changes 
+				in party support since the last general election in 2024.</P>
+				<P>
+				The established parties continue to lose voters, while the insurgent
+				parties gain, but few voters cross-over between left and right.</P>
+			</div> <!-- brick -->
+
+			
+			<div class="brick" onclick="gourl('blogs/ec_rrose_20260730.html');" >
+				<P class="strap">COMMENTARY</P>
+				<A href="blogs/ec_rrose_20260730.html"><IMG src="blogs/ec_rrose_ad_20260730.png" title="Probability of Parliamentary outcomes August 2026" alt="Probability of Parliamentary outcomes August 2026"></A>
+				<H3><A href="blogs/ec_rrose_20260730.html">Commentary August 2026</A></H3>
+				<P>Burnham Bowls a Googly to Reform UK</P>
+				<P>Richard Rose looks at the Burnham bounce and what might happen next.
+				</P>
+			</div> <!-- brick -->
+			
+			
+			<div class="brick" onclick="gourl('blogs/ec_vipoll_20260708.html');" >
+				<P class="strap">MRP POLL</P>
+				<A href="blogs/ec_vipoll_20260708.html"><IMG src="blogs/ec_vipoll_ad_20260708.png" title="MRP Poll Jul 2026 image" alt="MRP Poll Jul 2026 image"></A>
+				<H3><A href="blogs/ec_vipoll_20260708.html">MRP Poll July 2026</A></H3>
+				<P>Our new MRP poll for PLMR shows Labour in first place with a Burnham bounce, 
+				and Reform losing support to Restore Britain.
+				</P>
+			</div> <!-- brick -->
+			
+			
+			<div class="brick" onclick="gourl('blogs/ec_rrose_20260701.html');" >
+				<P class="strap">COMMENTARY</P>
+				<A href="blogs/ec_rrose_20260701.html"><IMG src="blogs/ec_rrose_ad_20260701.png" title="Probability of Parliamentary outcomes July 2026" alt="Probability of Parliamentary outcomes July 2026"></A>
+				<H3><A href="blogs/ec_rrose_20260701.html">Commentary July 2026</A></H3>
+				<P>Restore Britain's Threat to Reform</P>
+				<P>Richard Rose looks at danger to Reform from a divided right-wing vote.
+				</P>
+			</div> <!-- brick -->
+			
+			<div class="brick" >
+				<P class="strap">IMMIGRATION POLL</P>
+				<H3><A>Immigration Poll</A></H3>
+				<P>Our exclusive poll for GB News shows most people disapprove of the government's
+				handling of immigration, but blame for small boats is shared across the gangs
+				and the British and French governments.
+				</P>
+				<A href="blogs/DataTables_Immigration_20260527.pdf">Data Tables</A>
+			</div> <!-- brick -->
+			
+			<div class="brick" onclick="gourl('blogs/ec_wales_20260506.html');" >
+				<P class="strap">WELSH ELECTION</P>
+				<A href="blogs/ec_wales_20260506.html"><IMG src="blogs/ec_news_wales_ad_20260506.png" title="Menai Suspension Bridge. Credit: Nilfanion" alt="Menai Suspension Bridge. Credit: Nilfanion"></A>
+				<H3><A href="blogs/ec_wales_20260506.html">Welsh Senedd Election</A></H3>
+				<P>Our exclusive analyst forecast for the Senedd Election on 7&nbsp;May.
+				</P>
+			</div> <!-- brick -->
+			
+			<div class="brick" onclick="gourl('blogs/ec_rrose_20260501.html');" >
+				<P class="strap">COMMENTARY</P>
+				<A href="blogs/ec_rrose_20260501.html"><IMG src="blogs/ec_rrose_ad_20260501.png" title="Probability of Parliamentary outcomes May 2026" alt="Probability of Parliamentary outcomes May 2026"></A>
+				<H3><A href="blogs/ec_rrose_20260501.html">Commentary May 2026</A></H3>
+				<P>What can Westminster learn from Local Elections?</P>
+				<P>Richard Rose looks at what the real message of the local elections 
+				is likely to be.
+				</P>
+			</div> <!-- brick -->
+			
+			<div class="brick" onclick="gourl('blogs/ec_scotmrp_20260407.html');" >
+				<P class="strap">HOLYROOD MRP POLL</P>
+				<A href="blogs/ec_scotmrp_20260407.html"><IMG src="blogs/ec_scotmrp_ad_20260407.png" title="Holyrood MRP Poll Prediction" alt="Holyrood MRP Poll Prediction"></A>
+				<H3><A href="blogs/ec_scotmrp_20260407.html">Holyrood MRP Poll</A></H3>
+				<P>A new MRP poll for the National, shows the SNP likely to retain power at Holyrood,
+				with Labour in a distant second place. 
+				</P>
+			</div> <!-- brick -->
+			
+			<div class="brick" onclick="gourl('blogs/ec_rrose_20260403.html');" >
+				<P class="strap">COMMENTARY</P>
+				<A href="blogs/ec_rrose_20260403.html"><IMG src="blogs/ec_rrose_ad_20260403.png" title="Probability of Parliamentary outcomes April 2026" alt="Probability of Parliamentary outcomes April 2026"></A>
+				<H3><A href="blogs/ec_rrose_20260403.html">Commentary April 2026</A></H3>
+				<P>Reform Well Ahead in Seats though Vote Drops</P>
+				<P>Richard Rose looks at the peak in Reform's vote and the rise of the Greens.
+				</P>
+			</div> <!-- brick -->
+			
+		
+			<div class="brick" onclick="gourl('blogs/pseph_tactical_2025.html');" >
+				<P class="strap">PSEPHOLOGY</P>
+				<A href="blogs/pseph_tactical_2025.html"><IMG src="blogs/pseph_tactical_ad_20250924.png" title="Ballot box image" alt="Ballot box image"></A>
+				<H3><A href="blogs/pseph_tactical_2025.html">Tactical Voting Analysis</A></H3>
+				<P>Our major new poll with Find Out Now shows that anti-Reform tactical 
+				voting could cost Reform around 60 seats, with one-third of Labour voters
+				prepared to vote Conservative to keep Farage out.
+				</P>
+			</div> <!-- brick -->
+			
+	
+			
+			<div class="brick" onclick="gourl('blogs/ec_polls2024_20241028.html');" >
+				<P class="strap">POLL ERROR</P>
+				<A href="blogs/ec_polls2024_20241028.html"><IMG src="blogs/ec_polls2024_ad_20241028.png" title="Classic Vote Shares, Raw and Adjusted" alt="Classic Vote Shares, Raw and Adjusted"></A>
+				<H3><A href="blogs/ec_polls2024_20241028.html">Polling errors in 2024</A></H3>
+				<P>An analysis of polls for the 2024 election looks at possible causes
+				of the polling error, and identifies a possible combination of two factors
+				as potentially interesting. 
+				</P>
+				</P>
+			</div> <!-- brick -->
+			
+			<DIV class="brick" onclick="gourl('datamap.html');">
+				<P class="strap">POLITICAL MAPS</P>
+				<A href="datamap.html"><IMG src="datamap_ad.jpg" title="Norwich South: localities by EU Ref" alt="Norwich South: localities by EU Ref" width="100%"></A>
+				<H3><A href="datamap.html">Data Map</A></H3>
+				<P>
+				Our uniquely detailed Data Map of Britain shows
+				twelve political and social measures including past votes and political attitudes.
+				</P><P>
+				All available at various geographic levels of detail including parliamentary seats,
+				district wards, and individual neighbourhood localities.
+				</P>
+			</DIV>
+			
+			
+			<div class="brick" onclick="gourl('blogs/ec_mrpinfo_20240604.html');" >
+				<P class="strap">POLLING</P>
+				<A href="blogs/ec_mrpinfo_20240604.html"><IMG src="blogs/ec_mrpinfo_ad_20240604.png" title="House of Commons 2019" alt="House of Commons 2019"></A>
+				<H3><A href="blogs/ec_mrpinfo_20240604.html">A Voter's Guide to MRP</A></H3>
+				<P>Our helpful introduction to MRP polling, how it works, and whether Labour will really win nearly 500 seats.
+				</P>
+			</div> <!-- brick -->
+			
+	
+
+		</DIV> <!-- end of left brick_column -->
+<!-- -------------------------------------------------------------------------------------------------- -->
+		<!-- start of second brick_column -->
+		<DIV class="brick_column">
+			
+			<DIV class="brick" onclick="gourl('services_polling.html');">
+				<P class="strap">POLLING ANALYSIS</P>
+				<A href="services_polling.html"><IMG src="home_regression.png" class="fullwidth"></A>
+				<H3><A href="services_polling.html">Low Cost MRP Regression</A></H3>
+				<P>
+				Electoral Calculus has pioneered low-cost MRP regression techniques
+				for high-quality and insightful analysis of polling data.
+				</P>
+				<A href="services_polling.html">More details</A>
+			</DIV>
+			
+			<div class="brick" onclick="gourl('blogs/ec_usa_20261101.html');" >
+				<P class="strap">US MIDTERM ELECTIONS</P>
+				<A href="blogs/ec_usa_20261101.html"><IMG src="blogs/ec_usa_ad_20261101.png" title="US Capital West Side. Credit: Martin Falbisoner, CC BY-SA 3.0, via Wikimedia Commons" alt="US Capital West Side. Credit: Martin Falbisoner, CC BY-SA 3.0, via Wikimedia Commons"></A>
+				<H3><A href="blogs/ec_usa_20261101.html">US Midterm Elections</A></H3>
+				<P>Our exclusive analyst forecast on the upcoming US Midterm Elections for the House and Senate
+				on 3&nbsp;November.
+				</P>
+			</div> <!-- brick -->
+			
+			<div class="brick" onclick="gourl('blogs/ec_rrose_20261030.html');" >
+				<P class="strap">COMMENTARY</P>
+				<A href="blogs/ec_rrose_20261030.html"><IMG src="blogs/ec_rrose_ad_20261030.png" title="Probability of Parliamentary outcomes November 2026" alt="Probability of Parliamentary outcomes November 2026"></A>
+				<H3><A href="ec_rrose_20261030.html">Commentary November 2026</A></H3>
+				<P>Can Andy Burnham's View of Electoral Reform Survive a Majority?</P>
+				<P>Richard Rose looks at whether Labour's appetite for electoral change could
+				be dampened by the Burnham bounce.
+				</P>
+			</div> <!-- brick -->
+
+			<div class="brick" onclick="gourl('blogs/ec_vipoll_20261016.html');" >
+				<P class="strap">MRP POLL</P>
+				<A href="blogs/ec_vipoll_20261016.html"><IMG src="blogs/ec_vipoll_ad_20261016.png" title="MRP Poll Oct 2026 image" alt="MRP Poll Oct 2026 image"></A>
+				<H3><A href="blogs/ec_vipoll_20261016.html">MRP Poll October 2026</A></H3>
+				<P>Our new MRP poll for PLMR shows Labour set for an overall majority
+				if there were an election now.
+				</P>
+			</div> <!-- brick -->
+
+			<div class="brick" onclick="gourl('https://www.youtube.com/watch?v=c70P1uS50j0');" ">
+				<P class="strap">PODCAST</P>
+				<A href="https://www.youtube.com/watch?v=c70P1uS50j0"><IMG src="blogs/ec_news_mrp_ad_20261001.png" title="Podcast on MRP" alt="Podcast on MRP"></A>
+				<H3><A href="https://www.youtube.com/watch?v=c70P1uS50j0">How MRP Polling Works: The Maths Behind the Map</A></H3>
+				<P>In the latest episode of Politics by Numbers, we lift the lid on MRP, the model that turns a poll of a few thousand people into a seat-by-seat picture of the whole country. We walk through how our predictions actually come together step by step, using a few clear graphics and equations.</P>
+				<P>MRP is not just for Westminster. For political campaigns, businesses and corporates alike, it delivers a detailed picture of small areas across the country.</P>
+				<P>Watch on <A href="https://www.youtube.com/watch?v=c70P1uS50j0">YouTube</A>
+				or <A href="https://open.spotify.com/episode/0HcXSTPlzijHblIH2ekgu9?si=AACFqZiRT4G0QbsHb7-KYw">Spotify</A>.
+				</P>
+			</div> <!-- brick -->
+
+
+			<div class="brick" onclick="gourl('https://www.youtube.com/watch?v=-gELFgHB5eg');" ">
+				<P class="strap">PODCAST</P>
+				<A href="https://www.youtube.com/watch?v=-gELFgHB5eg"><IMG src="images/podcast_peterkellner.png" title="Podcast on Voter Transitions" alt="Podcast on Voter Transitions"></A>
+				<H3><A href="https://www.youtube.com/watch?v=-gELFgHB5eg">Podcast: Peter Kellner talks Polling Errors</A></H3>
+				<P>In this episode, Electoral Calculus is joined by award-winning journalist and pollster, Peter Kellner.
+				Peter draws on his decades of experience in polling and shares how polling errors can affect Classic and MRP methods in very different ways, and the strengths and weaknesses of each approach.</P>
+				<P>We chat about the challenges of capturing voter behaviour accurately and why an increasingly fragmented UK political landscape is making polling more challenging.</P>
+				<P>Watch on <A href="https://www.youtube.com/watch?v=-gELFgHB5eg">YouTube</A>
+				or <A href="https://open.spotify.com/episode/3Laq9IPna2JgmA2FLg81c9?si=SIedzPZPSfitnvayP1v8ng">Spotify</A>.
+				</P>
+			</div> <!-- brick -->
+
+
+			
+			<div class="brick" onclick="gourl('https://www.youtube.com/watch?v=qF0aOxDqlYA');" ">
+				<P class="strap">PODCAST</P>
+				<A href="https://www.youtube.com/watch?v=qF0aOxDqlYA"><IMG src="images/podcast_transitions_20260827.png" title="Podcast on Voter Transitions" alt="Podcast on Voter Transitions"></A>
+				<H3><A href="https://www.youtube.com/watch?v=qF0aOxDqlYA">Podcast: How to win the next General Election</A></H3>
+				<P>In this episode, we explore voter transitions before and after the 2024 General Election, and how those patterns have evolved. We look at how many voters are crossing over between the left and the right, the rise of insurgent parties, and what each political party needs to do to win the next General Election.</P>
+				<P>Watch on <A href="https://www.youtube.com/watch?v=qF0aOxDqlYA">YouTube</A>
+				or <A href="https://open.spotify.com/episode/4QQwokjZ5oyeaH2HhubVg4?si=8gTMvY1ASemycQHOi7VNKw">Spotify</A>.
+				</P>
+			</div> <!-- brick -->
+			
+			
+			<div class="brick" onclick="gourl('blogs/ec_rrose_20260901.html');" >
+				<P class="strap">COMMENTARY</P>
+				<A href="blogs/ec_rrose_20260901.html"><IMG src="blogs/ec_rrose_ad_20260901.png" title="Probability of Parliamentary outcomes September 2026" alt="Probability of Parliamentary outcomes September 2026"></A>
+				<H3><A href="blogs/ec_rrose_20260901.html">Commentary September 2026</A></H3>
+				<P>How high does Andy Burnham need to bounce?</P>
+				<P>Richard Rose looks at what Labour needs to do keep power at the next election.
+				</P>
+			</div> <!-- brick -->
+
+			
+			<div class="brick" onclick="gourl('https://www.youtube.com/watch?v=RDJPvhXMSJk');" ">
+				<P class="strap">PODCAST</P>
+				<A href="https://www.youtube.com/watch?v=RDJPvhXMSJk"><IMG src="blogs/ec_news_rrose_ad_20260814.jpg" title="The Disruption of the British Party System" alt="The Disruption of the British Party System"></A>
+				<H3><A href="https://www.youtube.com/watch?v=RDJPvhXMSJk">Podcast: When General Elections stop being General</A></H3>
+				<P>In this episode of Politics by Numbers, we speak with Professor Richard Rose about his new book, <I>The Disruption of the British Party System</I>. Drawing on more than six decades of analysing British general elections, Rose argues that general elections are no longer general, as fragmentation and coalition politics continue to disrupt the electoral landscape.</P>
+				<P>Watch on <A href="https://www.youtube.com/watch?v=RDJPvhXMSJk">YouTube</A>
+				or <A href="https://open.spotify.com/episode/2GAFpO4NBOyCCAQ8CHbKW0?si=dl5cMlgBRGO4BwesD9437g">Spotify</A>.
+				</P>
+			</div> <!-- brick -->
+
+
+			<div class="brick" onclick="gourl('https://www.youtube.com/watch?v=iXkk-bbpcRY');">
+				<P class="strap">PODCAST</P>
+				<A href="https://www.youtube.com/watch?v=iXkk-bbpcRY"><IMG src="images/podcast_pmhistory.png" title="Podcast on Election Outcomes" alt="Podcast on Election Outcomes"></A>
+				<H3><A href="https://www.youtube.com/watch?v=iXkk-bbpcRY">Podcast: Should Andy Burnham call a Snap General Election?</A></H3>
+				<P>Now that Andy Burnham is Prime Minister, should he call an early election or govern with
+				Labour's 2024 majority? In the latest episode of <I>Politics By Numbers</I>, Electoral Calculus
+				examines every Prime Minister since 1900 to see how past leaders handled the transition into office.</P>
+				<P>Watch on <A href="https://www.youtube.com/watch?v=iXkk-bbpcRY">YouTube</A>
+					or <A href="https://open.spotify.com/episode/0WA9nX9Dp0QLi76OcpaMAM?si=d2b1d2a149bd420d">Spotify</A>.
+				</P>
+			</div> <!-- brick -->
+
+		
+			
+			<div class="brick" onclick="gourl('blogs/ec_staepoll_20260630.html');" >
+				<P class="strap">ANIMAL WELFARE POLL</P>
+				<A href="blogs/ec_staepoll_20260630.html"><IMG src="blogs/ec_staepoll_ad_20260630.png" title="Duncan McNair, STAE CEO, and Elephant. Credit: STAE" alt="Duncan McNair, STAE CEO, and Elephant. Credit: STAE"></A>
+				<H3><A>Elephant Welfare Poll</A></H3>
+				<P>A poll, on hehalf of Save the Asian Elephants, shows the public concerned about
+				animal welfare abroad and keen for the government to use its existing powers
+				to make things better.
+			</div> <!-- brick -->
+
+
+
+			<div class="brick" onclick="gourl('https://www.youtube.com/watch?v=WO5RWND9evg');">
+			<P class="strap">PODCAST</P>
+			<A href="https://www.youtube.com/watch?v=WO5RWND9evg"><IMG src="images/podcast_pollingerrors.png" 						title="Podcast on Polling Errors" alt="Podcast on Polling Errors"></A>
+			<H3><A href="https://www.youtube.com/watch?v=WO5RWND9evg">Podcast: Types of Polling Error</A></H3>
+			<P>In the latest episode of Politics By Numbers, Electoral Calculus takes a look back at the 2024 general 					election and how the polling industry performed. While pollsters successfully predicted the first Labour 				victory in 19 years and a large majority, the final Labour lead over the Conservatives was overestimated 				by about 7pc.</P>
+
+			<P>Watch on <A href="https://www.youtube.com/watch?v=WO5RWND9evg">YouTube</A>
+				or <A href="https://open.spotify.com/episode/2PmUUIx4gmbY3iJvTxzAu4?si=1be9109ea6f44c1d">Spotify</A>.
+			</P>
+			</div> <!-- brick -->
+
+
+
+	
+			<div class="brick" onclick="gourl('blogs/ec_rrose_20260529.html');" >
+				<P class="strap">COMMENTARY</P>
+				<A href="blogs/ec_rrose_20260529.html"><IMG src="blogs/ec_rrose_ad_20260529.png" title="Probability of Parliamentary outcomes June 2026" alt="Probability of Parliamentary outcomes June 2026"></A>
+				<H3><A href="blogs/ec_rrose_20260529.html">Commentary June 2026</A></H3>
+				<P>Blocs of Parties Don't Win Seats</P>
+				<P>Richard Rose looks at the electoral chances of the left and the right overall, and
+				why party divisions don't help the left.
+				</P>
+			</div> <!-- brick -->
+			
+		
+			
+			<div class="brick" onclick="gourl('blogs/ec_scot_20260506.html');" >
+				<P class="strap">HOLYROOD ELECTION</P>
+				<A href="blogs/ec_scot_20260506.html"><IMG src="blogs/ec_news_scot_ad_20260417.png" title="Scottish Parliament. Credit: Morgens Engelund" alt="Scottish Parliament. Credit: Morgens Engelund"></A>
+				<H3><A href="ec_scot_20260506.html">Scottish Parliament Election</A></H3>
+				<P>Our exclusive analyst forecast for the Holyrood Election on 7&nbsp;May.
+				</P>
+			</div> <!-- brick -->
+			
+
+			<div class="brick" onclick="gourl('https://www.youtube.com/watch?v=po8gWzFFoWk');" >
+				<P class="strap">PODCAST</P>
+				<A href="https://www.youtube.com/watch?v=po8gWzFFoWk"><IMG src="images/podcast_pol3d.png" title="Podcast on Politics 3D" alt="Podcast on Politics 3D"></A>
+				<H3><A href="https://www.youtube.com/watch?v=po8gWzFFoWk">Podcast: Politics 3D</A></H3>
+				<P>Electoral Calculus discusses its new Politics 3D research,
+				exploring how British public opinion is evolving beyond the traditional left-right spectrum.
+				</P>
+				<P>The conversation looks at the emergence of distinct political "tribes", the fragmentation of the right, the cohesion of the left, and the group of people who are just fed up with politics.</P>
+				<P>Watch on <A href="https://www.youtube.com/watch?v=po8gWzFFoWk">YouTube</A>
+				or <A href="https://open.spotify.com/episode/1UqAn2DI9w6YjPzVkBYH2O?si=c2502810ec1c45e4">Spotify</A>.
+				</P>
+			</div> <!-- brick -->
+
+			
+			<div class="brick" onclick="gourl('pol3d_2026.html');">
+				<P class="strap">Segmentation</P>
+				<A href="pol3d_2026.html">
+				<img src="images/pol3d_2026_parties_ad_ellipse.png"></A>
+				<H3><A href="pol3d_2026.html">Three-D Politics 2026</A></H3>
+				<P>Major new update of our periodic survey of political
+				attitudes and the seven political tribes.</P>
+				<P>See how economic, cultural and liberty attitudes are spread
+				across party supporters and the country.</P>
+			</div>
+			
+			<div class="brick" onclick="gourl('blogs/ec_vipoll_20260423.html');" data-date="20260423" data-tags="polls">
+				<P class="strap">MRP POLL</P>
+				<A href="blogs/ec_vipoll_20260423.html"><IMG src="blogs/ec_vipoll_ad_20260423.png" title="MRP Poll Apr 2026 image" alt="MRP Poll Apr 2026 image"></A>
+				<H3><A href="blogs/ec_vipoll_20260423.html">MRP Poll April 2026</A></H3>
+				<P>Our new MRP poll for PLMR shows Reform down from their peak with Conservatives,
+				Labour and Greens gaining ground.
+				</P>
+			</div> <!-- brick -->
+			
+
+			
+			
+					
+			<DIV class="brick" onclick="gourl('polls.html');">
+				<P class="strap">LIVE UPDATES</P>
+				<A href="polls.html"><IMG src="pollgraph.png" width="100%"></A>
+				<H3><A href="polls.html">Recent national opinion polls</A></H3>
+				<P>
+				Current state of party support nationally as measured by the opinion pollsters.
+				Data are shown in both graphical and tabular form for national polls taken over the last month or so.
+				</P>
+			</DIV>
+			
+
+			
+			<DIV class="brick" onclick="gourl('flatfile.html');">
+				<P class="strap">HISTORICAL DATA</P>
+				<H3><A href="flatfile.html">A unique electoral data archive from 1955</A></H3>
+				<P>
+				Data includes historical data flat files of UK elections from 1955 to date plus our track
+				record of predictions and much more.
+				</P>
+			</DIV>
+			
+
+
+		</DIV> <!-- end of second brick_column -->
+	</DIV> <!-- end of brick_container -->
+	<DIV class="showhide"><DIV class="button" onclick="showhide_toggle();">Load more articles</DIV></DIV>
+	<DIV class="hideshow"><DIV class="button" onclick="gourl('blogs/index.html');">See all articles</DIV></DIV>
+</DIV> <!-- end of flexcol -->
+<SCRIPT>PageEnd()</SCRIPT>
+</BODY>
+</HTML>

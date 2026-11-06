@@ -1,0 +1,282 @@
+YouGov Survey Results
+Sample Size: 2102 Adults in GB / 1047 Adults in France / 2332
+Adults in Germany / 1011 Adults in Denmark / 1048 Adults in Spain /
+1025 Adults in Italy
+Fieldwork: 9th - 22nd June 2026
+                                                                                                                                   Country
+                                                                               GB       GB      France    France    Germany   Germany Denmark     Denmark    Spain     Spain      Italy    Italy
+                                                     Weighted Sample          2102     2102      1034      1047      2420      2332      1029      1011      1068      1048      1016      1025
+                                                   Unweighted Sample          2102     2102      1034      1047      2420      2332      1029      1011      1068      1048      1016      1025
+                                                                               %        %         %         %          %         %         %         %        %         %          %         %
+
+                                                                             19 - 20   9 - 10   7 - 18    10 - 18   8 - 11    12 - 15   20 - 31   12 - 22   6 - 18    10 - 22   7 - 17    12 - 22
+                                                                              May       Jun      May       Jun       May       Jun       May       Jun       May       Jun       May       Jun
+Do you approve or disapprove of the Government's record to date?
+                                                                 Approve       15       14        11        12        12        11        28        28        33        31        28        29
+                                                              Disapprove       68       66        78        78        82        83        52        41        55        58        53        51
+                                                              Don't know       18       20        11        10        6          6        20        31        12        11        20        21
+
+                                                                             12 - 13   9 - 10   16 - 25   10 - 18   13 - 16   12 - 15   16 - 25   12 - 22   11 - 23   10 - 22   12 - 19   12 - 22
+                                                                             Mar '26    Jun      Mar       Jun       Mar       Jun       Mar       Jun       Mar       Jun       Mar       Jun
+Which two of these problems are most important issue facing
+COUNTRY just now?
+                                                 The level of immigration      35       38        27        28        26        25        24        24        27        31        19        23
+                      The threat of international terrorism or aggression      16        9        14         8        13         9        27        22         6         2        12         3
+                                       Health and the healthcare system        24       20        22        23        13        24        23        26        25        27        43        42
+                             The general state of [COUNTRY] economy            35       37        47        46        44        41        13        16        25        22        31        30
+                                      The current level of unemployment         6        8         6         9        3          3         1        1          6         7        13        13
+                                          The gap between rich and poor        17       18        19        15        19        21        16        15         8        11        16        17
+                                                                  Housing       7        7         5         6        12        12         4        5         49        52         2         2
+        The future of [COUNTRY] relationship with the European Union            7        6         5         3        2          3         5        4          5         2         5         4
+  [COUNTRY] infrastructure – roads, railways, bridges, public buildings,
+                                                                               9         7         2         4        15        16         5         8        10         6         7         6
+                                                       flood defences etc
+                             The future of [COUNTRY] energy supplies           11        9         7         4        16         9        17        14        10         2         9         8
+                         Pollution, the environment and climate change          9        9        14        13        10        10        27        24         5         5         9        11
+                                                        The level of crime      9       15        15        22        10         8         7        13         7        10        21        23
+                                     Education, schools and universities        3        3        10         9        7          8         9        8          5         8         6         8
+                                                          Something else        3        4         1         1        2          2         4        4          2         4         1         1
+                                                               Don’t know       2        2         1         2        2          2         4        4          2         2         2         4
+
+
+
+
+1                                                                                            © 2025 YouGov plc. All Rights Reserved                                                                 www.yougov.co.uk
+Sample Size: 2102 Adults in GB / 1047 Adults in France / 2332
+Adults in Germany / 1011 Adults in Denmark / 1048 Adults in Spain /
+1025 Adults in Italy
+Fieldwork: 9th - 22nd June 2026
+                                                                                                                           Country
+                                                                        GB       GB      France   France    Germany   Germany Denmark     Denmark   Spain     Spain     Italy    Italy
+                                                 Weighted Sample       2102     2102      1034     1047      2420      2332      1029      1011     1068      1048     1016      1025
+                                               Unweighted Sample       2102     2102      1034     1047      2420      2332      1029      1011     1068      1048     1016      1025
+                                                                        %        %         %        %          %         %         %         %       %         %         %         %
+
+                                                                      19 - 20   9 - 10   7 - 18   10 - 18   8 - 11    12 - 15   20 - 31   12 - 22   6 - 18   10 - 22   7 - 17   12 - 22
+                                                                       May       Jun      May      Jun       May       Jun       May       Jun       May      Jun       May      Jun
+Do you have a favourable or unfavourable opinion of the following?
+
+[NATIONAL LEADER: Keir Starmer / Emmanuel Macron / Friedrich
+Merz / Mette Frederiksen / Pedro Sánchez / Giorgia Meloni]
+                                                  Very favourable        3        3       5          6         3         2        11        10       14        11       14        12
+                                              Somewhat favourable       18       20       13        13        13        13        32        34       24        22       24        26
+                                            TOTAL FAVOURABLE            21       23       18        19        16        15        43        44       38        33       38        38
+                                            Somewhat unfavourable       25       23       27        25        26        25        26        25       12        15       19        16
+                                                Very unfavourable       47       46       51        50        54        54        27        28       48        48       36        36
+                                          TOTAL UNFAVOURABLE            72       69       78        75        80        79        53        53       60        63       55        52
+                                                       Don't know        7        8       5          6         3         5        4         4         3         4        7        11
+Donald Trump
+                                                  Very favourable        3        4       4          4         2         1        1         1         3         3        1         1
+                                              Somewhat favourable        9        9       11         9         7         7        4         3         8        10        6         8
+                                            TOTAL FAVOURABLE            12       13       15        13         9         8         5        4        11        13        7         9
+                                            Somewhat unfavourable       13       14       16        18        15        16        8         8        15        15       17        17
+                                                Very unfavourable       72       69       65        62        72        70        85        86       70        68       69        64
+                                          TOTAL UNFAVOURABLE            85       83       81        80        87        86        93        94       85        83       86        81
+                                                       Don't know        4        5       5          6         4         6        2         2         4         4        7         9
+Mark Rutte
+                                                  Very favourable       x         1        x         1        x          1        x         3         x         1        x         0
+                                              Somewhat favourable       x         7        x         6        x         16        x         18        x         6        x         7
+                                            TOTAL FAVOURABLE            x         8        x         7        x         17        x         21        x         7        x         7
+                                            Somewhat unfavourable       x         8        x        10        x         16        x         20        x        16        x        14
+                                                Very unfavourable       x         7        x        16        x         13        x         10        x        21        x        19
+                                          TOTAL UNFAVOURABLE            x        15        x        26        x         29        x         30        x        37        x        33
+                                                       Don't know       x        77        x        67        x         53        x         49        x        56        x        60
+Pope Leo
+                                                  Very favourable       10        x       9          9        13        11        13        10       14        23       17        13
+                                              Somewhat favourable       30        x       35        38        39        36        32        28       35        34       33        36
+                                            TOTAL FAVOURABLE            40        x       44        47        52        47        45        38       49        57       50        49
+                                            Somewhat unfavourable       10        x       9          9        11        11        8         8        15        16       15        15
+                                                Very unfavourable        8        x       9         10         7         7        4         5         8        12       10        11
+                                          TOTAL UNFAVOURABLE            18        x       18        19        18        18        12        13       23        28       25        26
+                                                       Don't know       42        x       37        34        29        34        43        50       28        15       24        24
+
+
+
+
+2                                                                                     © 2025 YouGov plc. All Rights Reserved                                                              www.yougov.co.uk
+Sample Size: 2102 Adults in GB / 1047 Adults in France / 2332
+Adults in Germany / 1011 Adults in Denmark / 1048 Adults in Spain /
+1025 Adults in Italy
+Fieldwork: 9th - 22nd June 2026
+                                                                                                                                    Country
+                                                                                GB       GB      France    France    Germany   Germany Denmark     Denmark    Spain     Spain      Italy    Italy
+                                                      Weighted Sample          2102     2102      1034      1047      2420      2332      1029      1011      1068      1048      1016      1025
+                                                    Unweighted Sample          2102     2102      1034      1047      2420      2332      1029      1011      1068      1048      1016      1025
+                                                                                %        %         %         %          %         %         %         %        %         %          %         %
+
+If there was a referendum on the [COUNTRY'S] membership of the
+European Union, how would you vote?
+                      I would vote to remain in / join the European Union       51       50        48        46        63        65        75        77        71        70        48        48
+                   I would vote to stay out of / leave the European Union       31       30        27        29        19        19        13        12        10        11        25        25
+                                                           I would not vote      6        7         8         7        5          5         2        3          8         7        11        12
+                                                               Don’t know       10       10        14        15        9          9         9        7          9         9        14        13
+                                                                  Refused        3        4         2         3        4          3         2        2          2         2         3         3
+
+                                                                              12 - 13   9 - 10   16 - 25   10 - 18   13 - 16   12 - 15   16 - 25   12 - 22   11 - 23   10 - 22   12 - 19   12 - 22
+                                                                              Mar '26    Jun     Mar '26    Jun      Mar '26    Jun      Mar '26    Jun      Mar '26    Jun      Mar '26    Jun
+How well or badly do you think the government is handling the
+following issues?
+Health
+                                                         Very well               2        2         3         3        2          2         6        4          2         2         1         2
+                                                        Fairly well             21       22        19        18        21        14        39        37        24        19        16        14
+                                                    TOTAL WELL                  23       24        22        21        23        16        45        41        26        21        17        16
+                                                       Fairly badly             34       34        36        35        42        39        34        32        37        34        30        30
+                                                        Very badly              34       32        38        41        30        41        15        14        32        38        45        45
+                                                   TOTAL BADLY                  68       66        74        76        72        80        49        46        69        72        75        75
+                                                        Don't know               9       10         4         3        6          4         7        13         5         6         8         9
+Immigration
+                                                         Very well               1        3         2         3        2          2         4        3          4         4         2         2
+                                                        Fairly well             14       17        12        12        19        18        25        20        22        23        14        14
+                                                    TOTAL WELL                  15       20        14        15        21        20        29        23        26        27        16        16
+                                                       Fairly badly             25       21        28        26        30        29        31        30        21        20        30        26
+                                                        Very badly              52       51        50        51        41        44        31        30        47        47        45        46
+                                                   TOTAL BADLY                  77       72        78        77        71        73        62        60        68        67        75        72
+                                                        Don't know               8        9         8         9        8          7         9        17         6         7         9        12
+Crime
+                                                         Very well               1        1         1         2        2          2         3        3          3         3         1         2
+                                                        Fairly well             21       19        15         8        22        22        33        25        24        21        12        12
+                                                    TOTAL WELL                  22       20        16        10        24        24        36        28        27        24        13        14
+                                                       Fairly badly             30       27        30        28        34        31        34        32        30        28        33        32
+                                                        Very badly              34       41        48        56        32        32        20        24        34        39        44        43
+                                                   TOTAL BADLY                  64       68        78        84        66        63        54        56        64        67        77        75
+                                                        Don't know              15       12         7         6        10        13        10        16        10         8        10        11
+
+
+
+
+3                                                                                             © 2025 YouGov plc. All Rights Reserved                                                                 www.yougov.co.uk
+Sample Size: 2102 Adults in GB / 1047 Adults in France / 2332
+Adults in Germany / 1011 Adults in Denmark / 1048 Adults in Spain /
+1025 Adults in Italy
+Fieldwork: 9th - 22nd June 2026
+                                                                                                                      Country
+                                                                       GB     GB     France   France   Germany   Germany Denmark   Denmark   Spain   Spain    Italy   Italy
+                                                 Weighted Sample      2102   2102     1034     1047     2420      2332      1029    1011     1068    1048    1016     1025
+                                               Unweighted Sample      2102   2102     1034     1047     2420      2332      1029    1011     1068    1048    1016     1025
+                                                                       %      %        %        %         %         %         %       %       %       %        %        %
+Education
+                                                         Very well     2      2        2        3        2          3       5        6         3       3       2        3
+                                                        Fairly well   23     23       17       13        19        16      39        40       28      23      25       24
+                                                     TOTAL WELL       25     25       19       16        21        19      44        46       31      26      27       27
+                                                       Fairly badly   33     31       38       36        41        39      29        25       31      35      26       27
+                                                        Very badly    24     25       39       42        29        33      11        9        32      32      33       32
+                                                    TOTAL BADLY       57     56       77       78        70        72      40        34       63      67      59       59
+                                                       Don't know     18     19        4        6        9         10      16        20        6       7      13       15
+Taxation
+                                                         Very well     1      1        2        4        1          1       4        3         3       3       1        1
+                                                        Fairly well   12     12       14       16        13         9      34        26       19      20      13       14
+                                                     TOTAL WELL       13     13       16       20        14        10      38        29       22      23      14       15
+                                                       Fairly badly   30     29       34       30        38        39      28        29       27      30      26       27
+                                                        Very badly    46     45       42       40        40        44      23        25       44      40      53       47
+                                                    TOTAL BADLY       76     74       76       70        78        83      51        54       71      70      79       74
+                                                       Don't know     12     12        7        9        8          6      10        16        6       7       7       10
+Unemployment
+                                                         Very well     0      1        1        2        1          2      13        8         4       5       3        4
+                                                        Fairly well   13     11       16       14        20        17      48        40       25      25      21       21
+                                                     TOTAL WELL       13     12       17       16        21        19      61        48       29      30      24       25
+                                                       Fairly badly   35     35       41       37        42        40      17        19       31      30      29       28
+                                                        Very badly    35     38       36       39        26        28       7        10       33      34      36       35
+                                                    TOTAL BADLY       70     73       77       76        68        68      24        29       64      64      65       63
+                                                       Don't know     16     15        6        7        10        13      16        24        6       5      11       12
+Defence
+                                                         Very well     3      3        5        6        5          4      10        7         6       5       3        4
+                                                        Fairly well   24     24       39       35        34        32      46        40       32      30      25       28
+                                                     TOTAL WELL       27     27       44       41        39        36      56        47       38      35      28       32
+                                                       Fairly badly   24     21       25       22        32        30      23        24       24      24      23       23
+                                                        Very badly    33     32       19       24        18        20      10        12       26      27      31       24
+                                                    TOTAL BADLY       57     53       44       46        50        50      33        36       50      51      54       47
+                                                       Don't know     16     20       11       12        11        13      10        18       11      14      18       21
+The economy
+                                                         Very well     1      1        1        2        2          1      11        7         4       6       2        3
+                                                        Fairly well   13     15        9        9        16        14      41        35       24      23      18       19
+                                                     TOTAL WELL       14     16       10       11        18        15      52        42       28      29      20       22
+                                                       Fairly badly   32     29       34       32        40        38      25        27       27      28      30       29
+                                                        Very badly    47     47       52       52        34        40      15        14       39      37      39       38
+                                                    TOTAL BADLY       79     76       86       84        74        78      40        41       66      65      69       67
+                                                       Don't know      8      8        4        5        8          8       7        16        6       6      10       10
+
+
+
+
+4                                                                                 © 2025 YouGov plc. All Rights Reserved                                                      www.yougov.co.uk
+Sample Size: 2102 Adults in GB / 1047 Adults in France / 2332
+Adults in Germany / 1011 Adults in Denmark / 1048 Adults in Spain /
+1025 Adults in Italy
+Fieldwork: 9th - 22nd June 2026
+                                                                                                                          Country
+                                                                           GB     GB     France   France   Germany   Germany Denmark   Denmark   Spain   Spain    Italy   Italy
+                                                   Weighted Sample        2102   2102     1034     1047     2420      2332      1029    1011     1068    1048    1016     1025
+                                                 Unweighted Sample        2102   2102     1034     1047     2420      2332      1029    1011     1068    1048    1016     1025
+                                                                           %      %        %        %         %         %         %       %       %       %        %        %
+Environment
+                                                            Very well      2      2        2        3        3          3       5        4         4       3       2        1
+                                                           Fairly well    23     24       23       20        31        24      31        36       35      30      26       23
+                                                        TOTAL WELL        25     26       25       23        34        27      36        40       39      33      28       24
+                                                          Fairly badly    32     32       40       37        34        35      35        28       27      32      27       29
+                                                           Very badly     24     24       26       28        21        25      22        15       21      22      30       29
+                                                       TOTAL BADLY        56     56       66       65        55        60      57        43       48      54      57       58
+                                                          Don't know      19     19        9       12        11        13       8        16       13      14      15       17
+
+How do you think the financial situation of your household will
+change over the NEXT 12 months?
+                                                      Get a lot better     2      2        3        3        2          2       3        3         3       3       1        1
+                                                    Get a little better    9     10        9        9        9         11      19        17       14      16       7       10
+                                                    TOTAL BETTER          11     12       12       12        11        13      22        20       17      19       8       11
+                                                 Stay about the same      31     35       35       36        41        43      44        51       40      44      41       43
+                                                    Get a little worse    31     30       24       23        27        24      22        18       23      20      26       24
+                                                      Get a lot worse     19     16       23       20        16        14       8        7        12      10      18       13
+                                                     TOTAL WORSE          50     46       47       43        43        38      30        25       35      30      44       37
+                                                          Don't know       7      7        6        8        5          6       4        4         8       8       7        9
+
+How do you think the financial situation of your household has
+changed over the LAST 12 months?
+                                                      Got a lot better     1      1        2        2        1          1       3        3         3       3       1        1
+                                                    Got a little better   10      9        7        8        9         10      15        17       14      17       8        9
+                                                    TOTAL BETTER          11     10        9       10        10        11      18        20       17      20       9       10
+                                                 Stay about the same      37     34       37       39        47        44      48        53       44      42      44       45
+                                                    Got a little worse    33     34       28       28        26        28      23        19       24      24      29       27
+                                                      Got a lot worse     17     20       24       19        13        14       8        6        13      12      15       15
+                                                     TOTAL WORSE          50     54       52       47        39        42      31        25       37      36      44       42
+                                                          Don't know       2      3        3        3        3          3       2        2         2       2       3        4
+
+How do you think the COUNTRY economy has changed over the
+LAST 12 months?
+                                               Got a lot better            0      0        0        1        1          1       2        1         4       4       1        1
+                                             Got a little better           7      7        4        4        6          4      11        10       15      15       8       10
+                                             TOTAL BETTER                  7      7        4        5        7          5      13        11       19      19       9       11
+                                          Stay about the same             18     17       16       15        23        22      38        42       20      22      25       28
+                                             Got a little worse           36     35       31       30        37        37      30        28       29      26      32       29
+                                               Got a lot worse            33     36       44       43        28        30      10        10       27      28      27       25
+                                              TOTAL WORSE                 69     71       75       73        65        67      40        38       56      54      59       54
+                                                   Don't know              6      5        5        6        5          6       8        8         5       4       6        7
+
+
+
+
+5                                                                                     © 2025 YouGov plc. All Rights Reserved                                                      www.yougov.co.uk
+Sample Size: 2102 Adults in GB / 1047 Adults in France / 2332
+Adults in Germany / 1011 Adults in Denmark / 1048 Adults in Spain /
+1025 Adults in Italy
+Fieldwork: 9th - 22nd June 2026
+                                                                                                                      Country
+                                                                       GB     GB     France   France   Germany   Germany Denmark   Denmark   Spain   Spain    Italy   Italy
+                                                 Weighted Sample      2102   2102     1034     1047     2420      2332      1029    1011     1068    1048    1016     1025
+                                               Unweighted Sample      2102   2102     1034     1047     2420      2332      1029    1011     1068    1048    1016     1025
+                                                                       %      %        %        %         %         %         %       %       %       %        %        %
+
+How do you think the COUNTRY economy will change over the
+NEXT 12 months?
+                                                Get a lot better       0      0        1        2        1          1       1        1         2       3       1        1
+                                              Get a little better      6      7        4        5        8          9      10        11       11      12       7       10
+                                              TOTAL BETTER             6      7        5        7        9         10      11        12       13      15       8       11
+                                           Stay about the same        17     22       19       20        25        30      38        42       22      31      26       32
+                                              Get a little worse      33     32       27       26        33        29      32        26       29      26      28       26
+                                                Get a lot worse       34     28       41       37        25        22      12        12       26      19      30       20
+                                               TOTAL WORSE            67     60       68       63        58        51      44        38       55      45      58       46
+                                                    Don't know         9     10        8       10        8          8       8        8        10       9       8       10
+
+
+
+
+6                                                                                 © 2025 YouGov plc. All Rights Reserved                                                      www.yougov.co.uk
+

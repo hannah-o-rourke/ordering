@@ -1,0 +1,275 @@
+
+MRP Poll January 2026
+MRP Poll January 2026
+This page first posted 13 January 2026
+On behalf of PLMR, Electoral Calculus has conducted a new MRP poll.
+Polling using MRP, which stands for Multi-level Regression and Post-stratification, is a relatively recent innovation in polling science which have been used to successfully predict the last three British general elections,
+and gives the estimated result in each Westminster constituency.
+Fieldwork was conducted from 1-8 December 2025, with a sample size of over 5,500 people.
+More details at the 
+PLMR website
+.
+1. Headlines
+The poll places Reform UK on 31pc, ahead of the Conservatives on 21pc with Labour in third place on 17pc.
+On these figures, Reform is predicted to secure 335 seats with an outright majority of 20, leaving
+the Conservatives on 92 seats and the Liberal Democrats on 60. Labour would be in sixth place behind
+the Greens and the SNP.
+The table below gives the prediction in numerical form:
+Party
+GE 2024
+Predicted Election Result
+Votes
+Seats
+MRP Votes
+MRP Seats
+Reform
+15%
+5
+31%
+335
+CON
+24%
+121
+21%
+92
+LIB
+13%
+72
+11%
+60
+Green
+7%
+4
+12%
+52
+SNP
+3%
+9
+3%
+44
+LAB
+35%
+412
+17%
+41
+YP
+0%
+0
+2%
+4
+Plaid
+1%
+4
+1%
+4
+MIN
+3%
+5
+2%
+0
+Based on the numbers, if a general election were held now, Nigel Farage could enter Number 10 with a small overall majority.
+The Conservatives would be the official opposition, with the Liberal Democrats remaining as the third party.
+The new 'Your Party' would win 2pc of the votes and 4 seats, and acts to further fragment the left of British politics.
+Map: Predicted winners by seat
+MPs at risk
+The following Labour cabinet ministers are at risk of losing their seats
+under our calculations:
+(To Reform): Rachel Reeves, Yvette Cooper, Pat McFadden, John Healey, Wes Streeting, Bridget Phillipson, Ed Miliband, Liz Kendall, Heidi Alexander, Emma Reynolds, Lisa Nandy, Hilary Benn, Douglas Alexander, Jo Stevens, Jonathan Reynolds, James Murray
+(To Greens): Sir Keir Starmer, David Lammy, Shabana Mahmood, Darren Jones, Steve Reed, Peter Kyle
+And the following prominent Conservatives are also at risk (both to Reform):
+James Cleverly, Mel Stride
+2. Tactical Voting
+Following a major 
+polling project on tactical voting (TV)
+by Electoral Calculus and Find Out Now, we are able to estimate the effect of tactical voting on the
+predicted election result. Our TV analysis shows that:
+Strong anti-Reform tactical voting could cost Reform dozens of seats
+Over a third of Labour voters say they would vote Conservative to keep Reform out
+Otherwise voters on the left and right respectively support other candidates on the same side
+The table shows the predicted vote share and seats won both without tactical voting and with tactical voting.
+Party
+GE 2024
+Predicted Election
+Result (No TV)
+Predicted Election
+Result (With TV)
+Votes
+Seats
+MRP Votes
+MRP Seats
+MRP Votes
+MRP Seats
+Reform
+15%
+5
+30%
+398
+31%
+335
+CON
+24%
+121
+19%
+47
+21%
+92
+LIB
+13%
+72
+12%
+56
+11%
+60
+Green
+7%
+4
+13%
+52
+12%
+52
+SNP
+3%
+9
+3%
+41
+3%
+44
+LAB
+35%
+412
+18%
+30
+17%
+41
+YP
+0%
+0
+2%
+4
+2%
+4
+Plaid
+1%
+4
+1%
+4
+1%
+4
+MIN
+3%
+5
+2%
+0
+2%
+0
+Without tactical voting, Reform UK would gain a landslide majority of 146.
+When tactical voting is factored in, the picture tightens but the destination barely changes. Reform falls from 398 seats to 335, a loss of 63 seats, most of which would switch to the Conservatives. Yet even with tactical voting and a concerted effort to collaborate from parties on the left, Farage would still be likely to lead the next government.
+3. Cost of living
+We asked the public: Which cost of living pressure should be the Government's top priority in 2026? Respondents could pick up to three options.
+Response
+All Voters
+CON voters
+LAB voters
+Reform voters
+LIB voters
+Energy bills
+55%
+63%
+57%
+66%
+59%
+Food prices
+55%
+55%
+61%
+60%
+54%
+Taxation
+31%
+53%
+22%
+42%
+29%
+Rent and housing costs
+27%
+13%
+37%
+19%
+35%
+Wages and income support
+22%
+13%
+28%
+15%
+24%
+Fuel and transport costs
+17%
+25%
+15%
+22%
+23%
+Childcare costs
+6%
+3%
+9%
+2%
+12%
+Student loan repayments
+2%
+1%
+2%
+1%
+2%
+Other
+5%
+5%
+3%
+8%
+4%
+Don't know
+12%
+6%
+7%
+4%
+5%
+Asked to pick up to three priorities for easing the impact of cost of living, the public focused on the biggest household pressures. Energy bills and food prices share first place, each selected by 55pc of all voters. Beyond those two front runners, taxation is the next most common choice on 31pc, followed by rent and housing costs (27pc).
+There is broad agreement across party lines that energy bills should be the main priority, with 66pc of Reform supporters, 63pc of Conservatives, 59pc of Liberal Democrats and 57pc of Labour voters agreeing. Party divisions show up further down the table. Prioritising taxation is far more important among Conservatives (53pc) and Reform supporters (42pc), while rent and housing costs are a clearer priority for Labour voters (37pc) and Liberal Democrats (35pc).
+It's clear that voters see energy bills and food prices as the pinch points of cost-of-living pain, forging rare consensus across party lines.
+4. Treatment of "Don't Knows"
+Following polling errors in 2024, Electoral Calculus took part in investigations into possible causes,
+co-ordinated by the British Polling Council. Our findings are available
+here
+. In summary,
+Centre-left voters were more likely to over-estimate their likelihood to turnout
+Those who didn't know or refused to answer might have voted according to their GE 2019 preference
+To incorporate these findings into our post-election polling, we have made two assumptions
+about those who answer "don't know" to either the turnout or voting intention questions.
+Those who say "don't know" to the turnout question are assumed to be unlikely to vote
+Those who say "don't know" to the voting intention question are assumed to vote in the same way as GE 2024
+Quotes
+Martin Baxter
+, founder of Electoral Calculus, said
+"Labour are suffering double trouble from the rise
+of Reform on the right, and the growth of the Greens on the left.
+Our figures suggest a near-catastrophic wipe-out for Labour which would be the
+party's worst result since February 1910 under Arthur Henderson."
+"But there is still some hope for Labour. The newly-launched Your Party is not polling as
+well as it did in our previous poll just three months ago, and is now down to around 2pc
+and about four seats. As economic issues, like the cost-of-living, are very important to voters,
+Labour might also capitalise on the sketchiness of Reform and Green economic plans." 
+Technical Details
+Find Out Now polled 5,596 GB adults online between 1-8 December 2025. The sample was weighted to be representative by gender, age, social grade, other demographics and past voting patterns. Regression techniques were used to infer projected seat results.
+Find Out Now and Electoral Calculus are both members of the British Polling Council and abide by its rules.
+Data tables
+ are available here, including full list of seats.
+About Us
+PLMR
+PLMR is an award-winning integrated communications agency founded in 2006, ranked in the Top 50 PR Firms in the UK by PR Week. Our purpose is to make a positive and sustainable difference for our clients, our people and society. Our services include PR, strategic communications, corporate communications, crisis communications and reputation management, public affairs, film and digital, social media, design, media training and more. We are proud to work with organisations across a range of sectors such as technology, health and social care, education and training, energy and sustainability, the built environment and the third sector. 
+Electoral Calculus
+Electoral Calculus is a pollster and political consultancy specialising in quantitative analysis and modelling for electoral and other market research projects. Its pre-poll prediction for the 2019 general election was the most accurate published forecast. It was founded by Martin Baxter, its CEO.
+Electoral Calculus is a member of the British Polling Council and abides by its rules.
+Find Out Now
+Find Out Now is a polling and market research panel with 2.8 million members. Highly profiled respondents can be targeted instantly, with over 100,000 daily responses allowing the delivery of same-day nationally representative sampling. 
+Find Out Now are members of the British Polling Council and Market Research Society, and abide by their rules.
+Regression Polling
+Modern polling analysis often uses statistical regression techniques to get more accurate and geographically detailed results. Also called MRP (multi-level regression and post stratification) they have been used successfully by Electoral Calculus and other pollsters to predict general elections, local elections and the 2019 European elections.

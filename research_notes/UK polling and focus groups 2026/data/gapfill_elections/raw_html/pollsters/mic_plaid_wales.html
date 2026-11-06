@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html id="BTT" class="no-js" lang="en">
+
+<script async>
+	// internal-loaded: skip the first-paint transition when navigating within the
+	// site. Was server-side (HTTP_REFERER) in the old theme, which broke page
+	// caching — same rules, now client-side.
+	(function () {
+		try {
+			var ref = document.referrer;
+			if (!ref || ref.indexOf(location.origin) !== 0) return;
+
+			var path = location.pathname;
+			var segments = path.split('/').filter(Boolean);
+			var isEventsListing = segments.length && segments[segments.length - 1] === 'events';
+			var hasEventsSubpath = /\/events\/.+/.test(path);
+			if (!isEventsListing && hasEventsSubpath) isEventsListing = true;
+			var eventsUrlHasExtras = isEventsListing && (location.search !== '' || hasEventsSubpath);
+
+			if (!isEventsListing || !eventsUrlHasExtras) {
+				document.documentElement.classList.add('internal-loaded');
+			}
+		} catch (e) {}
+	})();
+
+	// Detect if page was reloaded (not navigated to)
+	if (performance.navigation.type === performance.navigation.TYPE_RELOAD ||
+		performance.getEntriesByType('navigation')[0]?.type === 'reload') {
+		document.documentElement.classList.remove('internal-loaded');
+	}
+</script>
+
+<head>
+	<meta charset="utf-8">
+<script>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+</script>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="https://www.moreincommon.org.uk/wp-content/themes/chd/css/fontawesome/css/all.min.css?ver=1791302049" />
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+						<script>
+				// Define dataLayer and the gtag function.
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				(function(){
+					var _gdpr_c = {}, _gdpr_m = null, _gdpr_has = false;
+				try { _gdpr_m = document.cookie.match(/(?:^|;\s*)moove_gdpr_popup=([^;]*)/); _gdpr_has = !! _gdpr_m; } catch ( e ) {}
+				if ( _gdpr_m ) { try { _gdpr_c = JSON.parse( decodeURIComponent( _gdpr_m[1] ) ) || {}; } catch ( e ) { _gdpr_c = {}; } }
+				var _gdpr_state = function( k ) { return _gdpr_has && parseInt( _gdpr_c[ k ], 10 ) === 1 ? 'granted' : 'denied'; };
+					var _gdpr_ads = _gdpr_state('advanced'), _gdpr_strict = _gdpr_state('strict');
+					var _gdpr_consent = {
+						'ad_storage': _gdpr_ads,
+						'ad_user_data': _gdpr_ads,
+						'ad_personalization': _gdpr_ads,
+						'analytics_storage': _gdpr_state('thirdparty'),
+						'personalization_storage': _gdpr_state('preference'),
+						'security_storage': _gdpr_strict,
+						'functionality_storage': _gdpr_strict
+					};
+										gtag('consent', 'default', _gdpr_consent);
+				})();
+			</script>
+														<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-KFCBPGHH6W"></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'G-KFCBPGHH6W');
+			</script>
+			<!-- End Google tag (gtag.js) -->
+								
+	<!-- This site is optimized with the Yoast SEO plugin v28.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Plaid Cymru: Governing a Fragmented Wales - More In Common</title>
+	<link rel="canonical" href="https://www.moreincommon.org.uk/research/plaid-cymru-governing-a-fragmented-wales/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Plaid Cymru: Governing a Fragmented Wales - More In Common" />
+	<meta property="og:description" content="More in Common&#8217;s first poll of Wales since the 2026 Senedd election, sponsored by Cavendish..." />
+	<meta property="og:url" content="https://www.moreincommon.org.uk/research/plaid-cymru-governing-a-fragmented-wales/" />
+	<meta property="og:site_name" content="More In Common" />
+	<meta property="article:modified_time" content="2026-10-03T18:15:59+00:00" />
+	<meta property="og:image" content="https://www.moreincommon.org.uk/wp-content/themes/chd/assets/social-card.png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@Moreincommon_" />
+	<meta name="twitter:label1" content="Estimated reading time" />
+	<meta name="twitter:data1" content="2 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/www.moreincommon.org.uk\/research\/plaid-cymru-governing-a-fragmented-wales\/","url":"https:\/\/www.moreincommon.org.uk\/research\/plaid-cymru-governing-a-fragmented-wales\/","name":"Plaid Cymru: Governing a Fragmented Wales - More In Common","isPartOf":{"@id":"https:\/\/www.moreincommon.org.uk\/#website"},"datePublished":"2026-10-02T15:27:35+00:00","dateModified":"2026-10-03T18:15:59+00:00","breadcrumb":{"@id":"https:\/\/www.moreincommon.org.uk\/research\/plaid-cymru-governing-a-fragmented-wales\/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.moreincommon.org.uk\/research\/plaid-cymru-governing-a-fragmented-wales\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/www.moreincommon.org.uk\/research\/plaid-cymru-governing-a-fragmented-wales\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/www.moreincommon.org.uk\/"},{"@type":"ListItem","position":2,"name":"Research","item":"https:\/\/www.moreincommon.org.uk\/research\/"},{"@type":"ListItem","position":3,"name":"Plaid Cymru: Governing a Fragmented Wales"}]},{"@type":"WebSite","@id":"https:\/\/www.moreincommon.org.uk\/#website","url":"https:\/\/www.moreincommon.org.uk\/","name":"More In Common","description":"","publisher":{"@id":"https:\/\/www.moreincommon.org.uk\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.moreincommon.org.uk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https:\/\/www.moreincommon.org.uk\/#organization","name":"More In Common UK","url":"https:\/\/www.moreincommon.org.uk\/","logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https:\/\/www.moreincommon.org.uk\/#\/schema\/logo\/image\/","url":"https:\/\/www.moreincommon.org.uk\/wp-content\/uploads\/2026\/04\/more-in-common-logo.png","contentUrl":"https:\/\/www.moreincommon.org.uk\/wp-content\/uploads\/2026\/04\/more-in-common-logo.png","width":260,"height":80,"caption":"More In Common UK"},"image":{"@id":"https:\/\/www.moreincommon.org.uk\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/x.com\/Moreincommon_","https:\/\/uk.linkedin.com\/company\/more-in-common-uk"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.moreincommon.org.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.moreincommon.org.uk%2Fresearch%2Fplaid-cymru-governing-a-fragmented-wales%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.moreincommon.org.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.moreincommon.org.uk%2Fresearch%2Fplaid-cymru-governing-a-fragmented-wales%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+ 
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='chd-style-css' href='https://www.moreincommon.org.uk/wp-content/themes/chd/style.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='global-css' href='https://www.moreincommon.org.uk/wp-content/themes/chd/css/global.css?ver=1791302049' media='all' />
+<link rel='stylesheet' id='moove_gdpr_frontend-css' href='https://www.moreincommon.org.uk/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main-nf.css?ver=5.2.2' media='all' />
+<style id="moove_gdpr_frontend-inline-css">
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn {
+					background-color: transparent;
+					box-shadow: inset 0 0 0 1px currentColor;
+					opacity: .7;
+					color: #202020;
+				}
+
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn:hover,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn:hover {
+					background-color: #202020;
+					box-shadow: none;
+					color: #fff;
+					opacity: 1;
+				}
+
+				#moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn, #moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn {
+					background-color: transparent;
+					box-shadow: inset 0 0 0 1px currentColor;
+					opacity: .7;
+					color: #fff;
+				}
+
+				#moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn:hover, #moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn:hover {
+					box-shadow: none;
+					opacity: 1;
+					color: #202020;
+					background-color: #fff;
+				}
+							#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main div.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main h2.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content .moove-gdpr-branding-cnt a,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,
+				#moove_gdpr_cookie_modal .cookie-switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .cookie-switch .slider:after, 
+				#moove_gdpr_cookie_modal .switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .switch .slider:after,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p a,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h1, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h2, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h3, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h4, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h5, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h6,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-modal-title .tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main div.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main h2.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-branding-cnt a {
+					font-weight: inherit				}
+			#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:inherit}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#295bff}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green,.gdpr-blocked-recaptcha .gdpr-shr-button.button-green{background-color:#295bff;border-color:#295bff}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover,.gdpr-blocked-recaptcha .gdpr-shr-button.button-green:hover{background-color:#fff;color:#295bff}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#295bff;border:1px solid #295bff}#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar span.change-settings-button:focus,#moove_gdpr_cookie_info_bar button.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar button.change-settings-button:focus{-webkit-box-shadow:0 0 1px 3px #295bff;-moz-box-shadow:0 0 1px 3px #295bff;box-shadow:0 0 1px 3px #295bff}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#295bff}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,span.change-settings-button:focus,button.change-settings-button.focus-g,button.change-settings-button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:focus{color:#295bff}#moove_gdpr_cookie_modal .moove-gdpr-branding.focus-g span,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main a.focus-g,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .gdpr-cd-details-toggle.focus-g{color:#295bff}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}
+/*# sourceURL=moove_gdpr_frontend-inline-css */
+</style>
+<script id="jquery-core-js" src="https://www.moreincommon.org.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.moreincommon.org.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="jquery-js-after">
+window.$ = window.jQuery;
+//# sourceURL=jquery-js-after
+</script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=GT-NCTBKHCC" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["www.moreincommon.org.uk"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-NCTBKHCC", {"googlesitekit_post_type":"research"});
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit", ...( data && data.user_data ? {"developer_id.dZjRkOT":true} : {} ) } ); }; 
+//# sourceURL=google_gtagjs-js-after
+</script>
+<link rel="https://api.w.org/" href="https://www.moreincommon.org.uk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.moreincommon.org.uk/wp-json/wp/v2/research/8228" /><link rel='shortlink' href='https://www.moreincommon.org.uk/?p=8228' />
+<meta name="generator" content="Site Kit by Google 1.191.0" /><link rel="icon" href="https://www.moreincommon.org.uk/wp-content/uploads/2026/04/cropped-more_in_common_logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.moreincommon.org.uk/wp-content/uploads/2026/04/cropped-more_in_common_logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.moreincommon.org.uk/wp-content/uploads/2026/04/cropped-more_in_common_logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.moreincommon.org.uk/wp-content/uploads/2026/04/cropped-more_in_common_logo-270x270.png" />
+
+</head>
+<body class="wp-singular research-template-default single single-research postid-8228 wp-theme-chd group-blog postname-plaid-cymru-governing-a-fragmented-wales">
+<div class="loading-block"></div>
+
+
+<header role="banner">
+	<div class="menu-top-outer">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-12">
+					<div class="left">
+						<a id="site-logo" href="https://www.moreincommon.org.uk/" title="home link">
+							<img src="https://www.moreincommon.org.uk/wp-content/themes/chd/images/logo.svg" alt="site logo"/>
+						</a>
+					</div>
+
+					<div class="right">
+
+						<nav id="mainMenu" class="main-menu-con">
+							<ul class="main-menu" data-lenis-prevent><li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children first menu-item-7"><a href="#" aria-haspopup="true" aria-expanded="false">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://www.moreincommon.org.uk/consultancy/">Consultancy</a></li>
+	<li id="menu-item-4605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4605"><a href="https://www.moreincommon.org.uk/focus-groups/">Focus Groups</a></li>
+	<li id="menu-item-4599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4599"><a href="https://www.moreincommon.org.uk/polling-services/">Polling Services</a></li>
+</ul>
+</li>
+<li id="menu-item-7282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7282"><a href="https://www.moreincommon.org.uk/training-programme/" aria-haspopup="true" aria-expanded="false">Training</a>
+<ul class="sub-menu">
+	<li id="menu-item-7280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7280"><a href="https://www.moreincommon.org.uk/navigating-public-opinion-for-leaders/">Navigating public opinion for leaders</a></li>
+	<li id="menu-item-7279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7279"><a href="https://www.moreincommon.org.uk/managing-progressive-workforces/">Managing progressive workforces</a></li>
+	<li id="menu-item-7281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7281"><a href="https://www.moreincommon.org.uk/building-broader-campaigns/">Building broader campaigns</a></li>
+</ul>
+</li>
+<li id="menu-item-3648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3648"><a href="#" aria-haspopup="true" aria-expanded="false">Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-472" class="current-menu-item menu-item menu-item-type-post_type_archive menu-item-object-research menu-item-472"><a href="https://www.moreincommon.org.uk/research/">Reports &#038; Insights</a></li>
+	<li id="menu-item-706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-706"><a href="https://www.moreincommon.org.uk/voting-intention-trackers/">Weekly opinion trackers</a></li>
+	<li id="menu-item-2894" class="menu-item menu-item-type-post_type_archive menu-item-object-polling-tables menu-item-2894"><a href="https://www.moreincommon.org.uk/polling-tables/">Polling Table Archives</a></li>
+</ul>
+</li>
+<li id="menu-item-2034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2034"><a href="https://www.moreincommon.org.uk/opinion-brief/" aria-haspopup="true" aria-expanded="false">The Opinion Brief</a>
+<ul class="sub-menu">
+	<li id="menu-item-2837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2837"><a href="https://www.moreincommon.org.uk/newsletter/">Newsletter</a></li>
+	<li id="menu-item-2836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2836"><a href="https://www.moreincommon.org.uk/podcast/">Podcast</a></li>
+</ul>
+</li>
+<li id="menu-item-671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-671"><a href="https://www.moreincommon.org.uk/seven-segments/">Seven Segments</a></li>
+<li id="menu-item-469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-469"><a href="https://www.moreincommon.org.uk/events/">Events</a></li>
+<li id="menu-item-3650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3650"><a href="#" aria-haspopup="true" aria-expanded="false">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-470"><a href="https://www.moreincommon.org.uk/about-us/">Our story</a></li>
+	<li id="menu-item-2062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2062"><a href="https://www.moreincommon.org.uk/about-us/our-team/">Our team</a></li>
+	<li id="menu-item-5076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5076"><a href="https://www.moreincommon.org.uk/news-archive/">In the news</a></li>
+	<li id="menu-item-2065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2065"><a href="https://www.moreincommon.org.uk/careers/">Careers</a></li>
+	<li id="menu-item-2063" class="menu-item menu-item-type-post_type menu-item-object-page last menu-item-2063"><a href="https://www.moreincommon.org.uk/contact-us/">Contact us</a></li>
+</ul>
+</li>
+</ul>
+																<a class="btn blue-arrow" href="/contact-us/" target="_self">
+		Work with us				<i>
+			<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M1.293 5.49998H8.586L5.9395 2.85348L6.6465 2.14648L10.5 5.99998L6.6465 9.85348L5.9395 9.14648L8.586 6.49998H1.293V5.49998Z" fill="#FAFAF8"/>
+							</svg>		</i>
+			</a>
+													</nav>
+
+						<button id="searchToggle" class="search-toggle" aria-expanded="false" aria-controls="micSearchPanel" aria-label="Search the site">
+							<i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+						</button>
+
+						<div id="burger" class="burger clearfix">
+							<div class="line1"></div>
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<div id="micSearchPanel" class="mic-search-panel" hidden>
+		<div class="container">
+			<form role="search" method="get" action="https://www.moreincommon.org.uk/">
+				<input type="search" name="s" placeholder="Search research, polling, podcasts…" value="" aria-label="Search" />
+				<button type="submit" class="btn blue-arrow">
+					Search
+					<i><svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M1.293 5.49998H8.586L5.9395 2.85348L6.6465 2.14648L10.5 5.99998L6.6465 9.85348L5.9395 9.14648L8.586 6.49998H1.293V5.49998Z" fill="#FAFAF8"/>
+							</svg></i>
+				</button>
+			</form>
+		</div>
+	</div>
+</header>
+
+<main class="main-wrapper">
+
+
+
+<section class="hero-3-section full-bg gradient-1">
+	<div class="container">
+		<div class="row">
+
+		</div>
+	</div>
+</section>
+
+<section class="info-top-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 back-con waypoint animate">
+				<div class="btn-con">
+					<a href="/research/" class="btn blue-arrow back">
+						<i>
+							<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M10.707 6.50002L3.414 6.50002L6.0605 9.14652L5.3535 9.85352L1.5 6.00002L5.3535 2.14652L6.0605 2.85352L3.414 5.50002L10.707 5.50002L10.707 6.50002Z" fill="#F5F4F0"/>
+							</svg>
+						</i>
+						Back to Research
+					</a>
+				</div>
+			</div>
+
+			<div class="col-12 col-lg-7 cat-side waypoint animate">
+				
+							</div>
+
+			<div class="col-12 col-lg-5 by-side waypoint animate">
+				<div class="info">
+					<div class="meta">
+		<div class="meta-authors"><a href="https://www.moreincommon.org.uk/author/more-in-common/">More in Common</a></div>
+		<time class="info-date" datetime="2026-10-02T16:27:35+01:00">
+				<span class="meta-sep" aria-hidden="true">•</span>
+				2 Oct 2026	</time>
+</div>
+				</div>
+			</div>
+
+			<div class="col-12 title-con waypoint animate">
+				<h3>Plaid Cymru: Governing a Fragmented Wales</h3>
+								<h5>More in Common&#8217;s first poll of Wales since the 2026 Senedd election, sponsored by Cavendish...</h5>
+							</div>
+
+						<div class="col-12 links-con waypoint animate">
+				<div class="btn-con">
+										<a href="https://www.moreincommon.org.uk/wp-content/uploads/2026/10/PC-Coalition-Deck-2.pdf" class="btn blue-arrow" target="_blank" rel="noopener noreferrer">
+						View report
+						<i>
+							<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M6.49806 1.293L6.49806 8.586L9.14456 5.9395L9.85156 6.6465L5.99806 10.5L2.14456 6.6465L2.85156 5.9395L5.49806 8.586L5.49806 1.293L6.49806 1.293Z" fill="#FAFAF8"/>
+							</svg>
+						</i>
+					</a>
+					
+					
+									</div>
+
+							</div>
+			
+		</div>
+	</div>
+</section>
+
+	<section class="post-text-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 waypoint">
+				<p><span style="font-weight: 400;">More in Common&#8217;s first poll of Wales since the 2026 Senedd election, sponsored by Cavendish Cymru and Senedd Sources, finds Plaid Cymru&#8217;s lead in the Senedd holding firm &#8211; but the ‘Burnham Bounce’ has hit Wales as Labour recovers by seven points since the May elections.</span></p>
+<p><span style="font-weight: 400;">Luke Tryl, UK Director at More in Common, said: </span><i><span style="font-weight: 400;">&#8220;We called the 2026 Senedd election the &#8216;change election&#8217;, because we found that most Welsh voters &#8211; whether they backed Plaid Cymru or Reform UK &#8211; felt it was time for radical change in how Wales is governed. As Wales&#8217;s new governing party gathers for its first conference in government, our latest polling shows how that appetite for change is playing out.</span></i></p>
+<p><i><span style="font-weight: 400;">Plaid Cymru have held on to their lead, but the &#8216;Burnham bounce&#8217; appears to have reached Wales. From their historic low in May, Labour are up seven points in our Senedd voting intention, and Andy Burnham is now the most popular leader in Wales. And while Reform UK have slipped back in the Senedd, our polling suggests they would be the largest party in Wales at a general election. The appetite for radical change that fuelled Reform&#8217;s rise this year clearly hasn&#8217;t gone away.</span></i></p>
+<p><i><span style="font-weight: 400;">So how does the Welsh public feel about Plaid Cymru&#8217;s start in government? Its policies are popular &#8211; particularly its interventions on the cost of living &#8211; but they are struggling to cut through. The best-known moments of this government have been on constitutional issues, above all the independence pact with Scotland and Northern Ireland, and those split voters. What&#8217;s clear is that voters across the political spectrum will judge the new Welsh Government on two key tests: the cost of living and the NHS.&#8221;</span></i></p>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="subscribe-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-12 col-lg-6 image-side waypoint">
+				<img loading="lazy" width="846" height="429" src="https://www.moreincommon.org.uk/wp-content/uploads/2026/05/the-opinion-brief-5-846x429.png" alt="">			</div>
+
+			<div class="col-12 col-lg-6 form-side waypoint">
+				<div class="text">
+					<h2>Subscribe to<br />
+our newsletter</h2>
+<p class="large"><strong>Get the latest polling data, insights, and analysis delivered to your inbox.</strong></p>
+				</div>
+
+				
+                <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' ><div id='gf_1' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+                            <p class='gform_description'>We’ll never share your details. By signing up you agree to receive communications from More in Common. <a href="https://moreincommon.devchd.com/privacy-policy/" target="_blank" rel="noopener noreferrer">Read our Privacy Policy.</a></p>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/research/plaid-cymru-governing-a-fragmented-wales/#gf_1' data-formid='1' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below' data-column-layout='fill'><div id="field_1_1" class="gfield gfield--type-email gfield--input-type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" data-group-id="5783920d" data-field-span="12"><label id='gfield_label_1_1' class='gfield_label gform-field-label' for='input_1_1'><span class='gform-field-label__text'>Email</span><span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_1_1' type='email' value='' class='large'   placeholder='Enter email' aria-required="true" aria-invalid="false"  />
+                        </div></div></div></div>
+        <div class='gform-footer gform_footer top_label'> <button type='submit' id='gform_submit_button_1' class='gform_button button' onclick='gform.submission.handleButtonClick(this);' data-submission-type='submit' >Submit</button> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=1&amp;tabindex=0&amp;theme=gravity-theme&amp;styles=[]&amp;hash=bcbd2b59ffd2da2d343d195138625092' />
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_1' value='iframe' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_1' id='gform_theme_1' value='gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_1' id='gform_style_settings_1' value='[]' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='GBP' value='FlPnZmv70wlHCs33aZmQ+I7HM/g1yTkrpkQqgg3dsrXnX7RIStklUggTArT6Sf1pzQRMaHf4Fs8dGPSONVlDFQiMaqXPCYP37mcsznwCPsWzG64=' />
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJ7XCJnZm9ybV9zdWJtaXNzaW9uX21ldGhvZFwiOltcIjdjYzc3YjljYjg1MzY4YTkyNjg0MjljZWM0N2FiZGQ4XCIsXCI0MjBmOGM4MDUwZGI3NGU1NDE5YzFhYWQ5ZGYzMTc0YlwiLFwiNTVkYzAxZGI4YjRmOTM5ZmYxOTlhMTJmMGIwYmVkZDdcIl0sXCJnZm9ybV90aGVtZVwiOlwiMmQ2OTRiZDNmZjZiOWI4OTFmZDUwZGIzMTg3ZWFjOTFcIixcImdmb3JtX3N0eWxlX3NldHRpbmdzXCI6XCIzZGIwOGY0OGYxYWZmZmZhYzYxYmRhNDQ3NmQ3MTQ3OVwiLFwiZm9ybV9pZFwiOlwiNmU5YzEyMjlmMmNmY2RhMTI3NWEyMTJmYTY5ZmQzNzNcIixcInVybFwiOlwiMWJmNzYzMWEyMDllNzZiOTFmZmU1YWFmMTQyNDEyODJcIixcInN0YXRlX3RpbWVzdGFtcFwiOlwiNjVjYTNmMDllMGRjYjczYzMxNjhmZDBmN2JlY2IxMWFcIn0iLCIyMmI5YmIxOGU3OGZkZjRjOGQ0ZDg5ZmJjMDQ2MmQ1MCIsMTc5Mzc4OTg4OF0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script>
+gform.initializeOnLoaded( function() {jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );var current_page = jQuery('#gform_source_page_number_1').val();jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);if(window.gform && gform.pagination && gform.pagination.removePageQueryArg){gform.pagination.removePageQueryArg(1);}window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 1, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+			</div>
+		</div>
+	</div>
+</section>
+
+</main>
+
+
+
+<footer role="contentinfo" class="footer-outer-wrapper">
+	<div class="footer-top-outer full-bg">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-12 title-con">
+					<h5>Latest Research</h5>
+				</div>
+
+				
+				
+								
+				<div class="col-12 col-lg-4 nf-item waypoint">
+					<div class="inner">
+						<a class="over" href="https://www.moreincommon.org.uk/research/more-in-commons-post-budget-debrief/">More in Common&#8217;s Post-Budget Debrief</a>
+
+						<div class="text-con">
+
+							
+							
+							<h5>More in Common&#8217;s Post-Budget Debrief</h5>
+						</div>
+					</div>
+				</div>
+
+								
+				<div class="col-12 col-lg-4 nf-item waypoint">
+					<div class="inner">
+						<a class="over" href="https://www.moreincommon.org.uk/research/drumcree-what-northern-ireland-thinks/">Drumcree: What Northern Ireland thinks</a>
+
+						<div class="text-con">
+
+							
+							
+							<h5>Drumcree: What Northern Ireland thinks</h5>
+						</div>
+					</div>
+				</div>
+
+								
+				<div class="col-12 col-lg-4 nf-item waypoint">
+					<div class="inner">
+						<a class="over" href="https://www.moreincommon.org.uk/research/more-in-commons-pre-budget-briefing/">More in Common&#8217;s Pre-Budget Briefing</a>
+
+						<div class="text-con">
+
+							
+							
+							<h5>More in Common&#8217;s Pre-Budget Briefing</h5>
+						</div>
+					</div>
+				</div>
+
+				
+								
+				<div class="col-12 col-lg-6 logo-side">
+					<a id="footer-logo" href="https://www.moreincommon.org.uk/" title="home link">
+						<img src="https://www.moreincommon.org.uk/wp-content/themes/chd/images/footer-logo.svg" alt="site logo"/>
+					</a>
+
+										<p>Rigorous research into what Britons think, what divides them, and what they have in common.</p>
+									</div>
+
+				<div class="col-12 col-lg-2 menu-side">
+					<p class="small">Our Services</p>
+
+					<ul class="footer-menu"><li id="menu-item-674" class="menu-item menu-item-type-post_type menu-item-object-page first menu-item-674"><a href="https://www.moreincommon.org.uk/consultancy/">Consultancy</a></li>
+<li id="menu-item-4606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4606"><a href="https://www.moreincommon.org.uk/focus-groups/">Focus Groups</a></li>
+<li id="menu-item-4607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4607"><a href="https://www.moreincommon.org.uk/polling-services/">Polling Services</a></li>
+<li id="menu-item-3653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3653"><a href="https://www.moreincommon.org.uk/speaking-requests/">Speaking requests</a></li>
+<li id="menu-item-678" class="menu-item menu-item-type-post_type_archive menu-item-object-case-studies last menu-item-678"><a href="https://www.moreincommon.org.uk/case-studies/">Case Study Archives</a></li>
+</ul>				</div>
+
+				<div class="col-12 col-lg-2 menu-side">
+					<p class="small">Quick Links</p>
+
+					<ul class="footer-menu"><li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page first menu-item-3652"><a href="https://www.moreincommon.org.uk/polling-tables/">Polling Tables</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://www.moreincommon.org.uk/events/">Events</a></li>
+<li id="menu-item-2397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2397"><a href="https://www.moreincommon.org.uk/about-us/funding/">Funding</a></li>
+<li id="menu-item-1329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1329"><a href="https://www.moreincommon.org.uk/careers/">Careers</a></li>
+<li id="menu-item-673" class="menu-item menu-item-type-post_type menu-item-object-page last menu-item-673"><a href="https://www.moreincommon.org.uk/contact-us/">Contact</a></li>
+</ul>				</div>
+
+				<div class="col-12 col-lg-2 social-side">
+					<p class="small">Our Socials</p>
+
+					<div class="social">
+
+												<a href="https://x.com/Moreincommon_" target="_blank">
+							<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M13.5217 10.478L19.4777 3.70312H18.066L12.8958 9.58541L8.76436 3.70312H4L10.2466 12.5991L4 19.7031H5.41166L10.8724 13.4906L15.2356 19.7031H20L13.5217 10.478ZM11.5889 12.6768L10.956 11.7911L5.91986 4.74312H8.08793L12.1512 10.4311L12.7841 11.3168L18.0672 18.7111H15.8991L11.5889 12.6768Z" fill="#F5F4F0"/>
+							</svg>
+							Twitter
+						</a>
+						
+												<a href="https://uk.linkedin.com/company/more-in-common-uk" target="_blank">
+							<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M4.98292 7.1968C6.19132 7.1968 7.17092 6.2172 7.17092 5.0088C7.17092 3.8004 6.19132 2.8208 4.98292 2.8208C3.77452 2.8208 2.79492 3.8004 2.79492 5.0088C2.79492 6.2172 3.77452 7.1968 4.98292 7.1968Z" fill="#F5F4F0"/>
+								<path d="M9.23722 8.85518V20.9942H13.0062V14.9912C13.0062 13.4072 13.3042 11.8732 15.2682 11.8732C17.2052 11.8732 17.2292 13.6842 17.2292 15.0912V20.9952H21.0002V14.3382C21.0002 11.0682 20.2962 8.55518 16.4742 8.55518C14.6392 8.55518 13.4092 9.56218 12.9062 10.5152H12.8552V8.85518H9.23722ZM3.09521 8.85518H6.87021V20.9942H3.09521V8.85518Z" fill="#F5F4F0"/>
+							</svg>
+							LinkedIn
+						</a>
+						
+					</div>
+				</div>
+
+				<div class="col-12 col-lg-6 copy-side">
+					<div class="copy">©2026 More in Common UK. All rights reserved.</div>
+				</div>
+
+				<div class="col-12 col-lg-6 copy-side">
+					<ul class="term-menu"><li id="menu-item-679" class="menu-item menu-item-type-post_type menu-item-object-page first menu-item-679"><a href="https://www.moreincommon.org.uk/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-1264" class="menu-item menu-item-type-post_type menu-item-object-page last menu-item-1264"><a href="https://www.moreincommon.org.uk/cookie-policy/">Cookie Policy</a></li>
+</ul>				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+	<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/chd/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<!--copyscapeskip-->
+	<aside id="moove_gdpr_cookie_info_bar" class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-light-scheme gdpr_infobar_postion_bottom_left" aria-labelledby="moove_gdpr_cookie_info_bar_title" tabindex="-1" style="display: none;">
+	<div class="moove-gdpr-info-bar-container">
+				<div id="moove_gdpr_cookie_info_bar_title" class="gdpr-sr-only" role="heading" aria-level="2">GDPR Cookie Banner</div>
+		<div class="moove-gdpr-info-bar-content">
+		
+<div class="moove-gdpr-cookie-notice">
+  <p>We are using cookies to give you the best experience on our website.</p>
+<p>You can find out more about which cookies we are using or switch them off in <button  aria-haspopup="dialog" data-href="#moove_gdpr_cookie_modal" class="change-settings-button gdpr-settings-btn-style-2">settings</button>.</p>
+</div>
+<!--  .moove-gdpr-cookie-notice -->
+		
+<div class="moove-gdpr-button-holder">
+			<button class="mgbutton moove-gdpr-infobar-allow-all gdpr-fbo-0" aria-label="Accept" >Accept</button>
+		</div>
+<!--  .button-container -->
+		</div>
+		<!-- moove-gdpr-info-bar-content -->
+	</div>
+	<!-- moove-gdpr-info-bar-container -->
+	</aside>
+	<!-- #moove_gdpr_cookie_info_bar -->
+	<!--/copyscapeskip-->
+<script id="chd-skip-link-focus-fix-js" src="https://www.moreincommon.org.uk/wp-content/themes/chd/js/skip-link-focus-fix.js?ver=20151215"></script>
+<script id="mic-vendor-js" defer src="https://www.moreincommon.org.uk/wp-content/themes/chd/js/mic-vendor.js?ver=1791302049"></script>
+<script id="mic-main-js-extra">
+var myTheme = {"theme_directory":"https://www.moreincommon.org.uk/wp-content/themes/chd","home_directory":"https://www.moreincommon.org.uk"};
+//# sourceURL=mic-main-js-extra
+</script>
+<script id="mic-main-js" defer src="https://www.moreincommon.org.uk/wp-content/themes/chd/js/mic-main.js?ver=1791302049"></script>
+<script id="mic-embeds-js" src="https://www.moreincommon.org.uk/wp-content/themes/chd/js/mic-embeds.js?ver=1791302049"></script>
+<script id="mic-search-js" src="https://www.moreincommon.org.uk/wp-content/themes/chd/js/mic-search.js?ver=1791302049"></script>
+<script id="googlesitekit-events-provider-content-events-js-before">
+window._googlesitekit = window._googlesitekit || {};
+window._googlesitekit.contentEvents = {"postID":8228,"isReadableSinglePost":false,"hasVimeoEmbed":false,"wordCount":0,"estimatedReadTimeSeconds":0,"isLastPageOfMultiPagePost":false,"readTimeThresholdPercent":85,"minimumReadTimeSeconds":5};
+//# sourceURL=googlesitekit-events-provider-content-events-js-before
+</script>
+<script id="googlesitekit-events-provider-content-events-js" src="https://www.moreincommon.org.uk/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-90bacb156ab34fa090db.js" defer></script>
+<script id="moove_gdpr_frontend-js-extra">
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https://www.moreincommon.org.uk/wp-admin/admin-ajax.php","post_id":"8228","plugin_dir":"https://www.moreincommon.org.uk/wp-content/plugins/gdpr-cookie-compliance","show_icons":"all","is_page":"","ajax_cookie_removal":"false","strict_init":"2","enabled_default":{"strict":1,"third_party":0,"advanced":0,"performance":0,"preference":0},"geo_location":"false","force_reload":"false","is_single":"1","hide_save_btn":"false","current_user":"0","cookie_expiration":"365","script_delay":"2000","close_btn_action":"1","close_btn_rdr":"","scripts_defined":"{\"cache\":true,\"header\":\"\",\"body\":\"\",\"footer\":\"\",\"thirdparty\":{\"header\":\"\\t\\t\\t\\t\\t\\t\\t\\t\u003C!-- Google tag (gtag.js) - Google Analytics 4 --\u003E\\n\\t\\t\\t\\t\u003Cscript data-gdpr src=\\\"https:\\/\\/www.googletagmanager.com\\/gtag\\/js?id=G-KFCBPGHH6W\\\" data-type=\\\"gdpr-integration\\\"\u003E\u003C\\/script\u003E\\n\\t\\t\\t\\t\u003Cscript data-gdpr data-type=\\\"gdpr-integration\\\"\u003E\\n\\t\\t\\t\\t\\twindow.dataLayer = window.dataLayer || [];\\n\\t\\t\\t\\t\\tfunction gtag(){dataLayer.push(arguments);}\\n\\t\\t\\t\\t\\tgtag('js', new Date());\\n\\n\\t\\t\\t\\t\\tgtag('config', 'G-KFCBPGHH6W');\\n\\t\\t\\t\\t\u003C\\/script\u003E\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\u003Cscript data-gdpr data-type=\\\"gdpr-integration\\\"\u003E\\n\\t\\t\\t(function(){\\n\\t\\t\\t\\t\\/\\/ gtag() is defined by the wp_head half; if that did not run there is\\n\\t\\t\\t\\t\\/\\/ no consent state to update. Bail before claiming the flag so a later\\n\\t\\t\\t\\t\\/\\/ copy can still succeed.\\n\\t\\t\\t\\tif ( window._gdpr_gtmc2_updated || typeof gtag !== 'function' ) { return; }\\n\\n\\t\\t\\t\\tvar _gdpr_c = {}, _gdpr_m = null, _gdpr_has = false;\\n\\t\\t\\t\\ttry { _gdpr_m = document.cookie.match(\\/(?:^|;\\\\s*)moove_gdpr_popup=([^;]*)\\/); _gdpr_has = !! _gdpr_m; } catch ( e ) {}\\n\\t\\t\\t\\tif ( _gdpr_m ) { try { _gdpr_c = JSON.parse( decodeURIComponent( _gdpr_m[1] ) ) || {}; } catch ( e ) { _gdpr_c = {}; } }\\n\\t\\t\\t\\tvar _gdpr_state = function( k ) { return _gdpr_has && parseInt( _gdpr_c[ k ], 10 ) === 1 ? 'granted' : 'denied'; };\\n\\t\\t\\t\\t\\/\\/ No stored decision means the banner has not been answered yet. Leave\\n\\t\\t\\t\\t\\/\\/ the wp_head defaults alone.\\n\\t\\t\\t\\tif ( ! _gdpr_has ) { return; }\\n\\n\\t\\t\\t\\twindow._gdpr_gtmc2_updated = true;\\n\\n\\t\\t\\t\\tvar _gdpr_ads = _gdpr_state('advanced'), _gdpr_strict = _gdpr_state('strict');\\n\\n\\t\\t\\t\\tgtag('consent', 'update', {\\n\\t\\t\\t\\t\\t'ad_storage': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_user_data': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_personalization': _gdpr_ads,\\n\\t\\t\\t\\t\\t'analytics_storage': _gdpr_state('thirdparty'),\\n\\t\\t\\t\\t\\t'personalization_storage': _gdpr_state('preference'),\\n\\t\\t\\t\\t\\t'security_storage': _gdpr_strict,\\n\\t\\t\\t\\t\\t'functionality_storage': _gdpr_strict\\n\\t\\t\\t\\t});\\n\\n\\t\\t\\t\\twindow.dataLayer = window.dataLayer || [];\\n\\t\\t\\t\\twindow.dataLayer.push({\\n\\t\\t\\t\\t\\t'event': 'cookie_consent_update'\\n\\t\\t\\t\\t});\\n\\t\\t\\t})();\\n\\t\\t\u003C\\/script\u003E\\n\\t\\t\\t\\t\",\"body\":\"\",\"footer\":\"\"},\"strict\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"advanced\":{\"header\":\"\\t\\t\\t\\t\u003Cscript data-gdpr data-type=\\\"gdpr-integration\\\"\u003E\\n\\t\\t\\t(function(){\\n\\t\\t\\t\\t\\/\\/ gtag() is defined by the wp_head half; if that did not run there is\\n\\t\\t\\t\\t\\/\\/ no consent state to update. Bail before claiming the flag so a later\\n\\t\\t\\t\\t\\/\\/ copy can still succeed.\\n\\t\\t\\t\\tif ( window._gdpr_gtmc2_updated || typeof gtag !== 'function' ) { return; }\\n\\n\\t\\t\\t\\tvar _gdpr_c = {}, _gdpr_m = null, _gdpr_has = false;\\n\\t\\t\\t\\ttry { _gdpr_m = document.cookie.match(\\/(?:^|;\\\\s*)moove_gdpr_popup=([^;]*)\\/); _gdpr_has = !! _gdpr_m; } catch ( e ) {}\\n\\t\\t\\t\\tif ( _gdpr_m ) { try { _gdpr_c = JSON.parse( decodeURIComponent( _gdpr_m[1] ) ) || {}; } catch ( e ) { _gdpr_c = {}; } }\\n\\t\\t\\t\\tvar _gdpr_state = function( k ) { return _gdpr_has && parseInt( _gdpr_c[ k ], 10 ) === 1 ? 'granted' : 'denied'; };\\n\\t\\t\\t\\t\\/\\/ No stored decision means the banner has not been answered yet. Leave\\n\\t\\t\\t\\t\\/\\/ the wp_head defaults alone.\\n\\t\\t\\t\\tif ( ! _gdpr_has ) { return; }\\n\\n\\t\\t\\t\\twindow._gdpr_gtmc2_updated = true;\\n\\n\\t\\t\\t\\tvar _gdpr_ads = _gdpr_state('advanced'), _gdpr_strict = _gdpr_state('strict');\\n\\n\\t\\t\\t\\tgtag('consent', 'update', {\\n\\t\\t\\t\\t\\t'ad_storage': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_user_data': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_personalization': _gdpr_ads,\\n\\t\\t\\t\\t\\t'analytics_storage': _gdpr_state('thirdparty'),\\n\\t\\t\\t\\t\\t'personalization_storage': _gdpr_state('preference'),\\n\\t\\t\\t\\t\\t'security_storage': _gdpr_strict,\\n\\t\\t\\t\\t\\t'functionality_storage': _gdpr_strict\\n\\t\\t\\t\\t});\\n\\n\\t\\t\\t\\twindow.dataLayer = window.dataLayer || [];\\n\\t\\t\\t\\twindow.dataLayer.push({\\n\\t\\t\\t\\t\\t'event': 'cookie_consent_update'\\n\\t\\t\\t\\t});\\n\\t\\t\\t})();\\n\\t\\t\u003C\\/script\u003E\\n\\t\\t\\t\\t\",\"body\":\"\",\"footer\":\"\"}}","gdpr_scor":"true","wp_lang":"","parent_domain_cookies":["_ga","_fbp","_gid","_gat","__utma","__utmb","__utmc","__utmt","__utmz","_gcl_","_gac_","_fbc"],"wp_consent_api":"false","gdpr_nonce":"bd9f216a94","gdpr_focus_cb":"false","gdpr_a11y_strict_first":"Turn on %s first to change this setting."};
+//# sourceURL=moove_gdpr_frontend-js-extra
+</script>
+<script id="moove_gdpr_frontend-js" src="https://www.moreincommon.org.uk/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=5.2.2"></script>
+<script id="moove_gdpr_frontend-js-after">
+var gdpr_c=document.cookie.match(/(?:^|;\s*)moove_gdpr_popup=([^;]*)/);var gdpr_d=gdpr_c?JSON.parse(decodeURIComponent(gdpr_c[1])):{};var gdpr_consent__strict=gdpr_d.strict==="1"?"true":"false";var gdpr_consent__thirdparty=gdpr_d.thirdparty==="1"?"true":"false";var gdpr_consent__advanced=gdpr_d.advanced==="1"?"true":"false";var gdpr_consent__performance=gdpr_d.performance==="1"?"true":"false";var gdpr_consent__preference=gdpr_d.preference==="1"?"true":"false";var _cc=[];if(gdpr_d.strict==="1")_cc.push("strict");if(gdpr_d.thirdparty==="1")_cc.push("thirdparty");if(gdpr_d.advanced==="1")_cc.push("advanced");if(gdpr_d.performance==="1")_cc.push("performance");if(gdpr_d.preference==="1")_cc.push("preference");var gdpr_consent__cookies=_cc.join("|");
+//# sourceURL=moove_gdpr_frontend-js-after
+</script>
+<script id="wp-dom-ready-js" src="https://www.moreincommon.org.uk/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23"></script>
+<script id="wp-hooks-js" src="https://www.moreincommon.org.uk/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://www.moreincommon.org.uk/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="wp-a11y-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2026-10-28 19:33:54+0000","generator":"GlotPress\/4.1.0","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_GB"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+//# sourceURL=wp-a11y-js-translations
+</script>
+<script id="wp-a11y-js" src="https://www.moreincommon.org.uk/wp-includes/js/dist/a11y.min.js?ver=31c6cec5a4ff7aff483d"></script>
+<script id="gform_json-js" defer='defer' src="https://www.moreincommon.org.uk/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=3.2.1"></script>
+<script id="gform_gravityforms-js-extra">
+var gform_i18n = {"datepicker":{"wdOffset":1,"helpTextShort":"Press F1 for help","helpText":"Press the arrow keys to navigate by day, PageUp and PageDown to navigate by month, Alt+PageUp and Alt+PageDown to navigate by year, or Escape to cancel.","openOnFocusHelpText":"Press Down arrow to browse the calendar, or Escape to close.","tooltipTxt":"Press Escape to cancel","disabledTxt":"Disabled","markedTxt":"Selected","prevTxt":"Previous","nextTxt":"Next","monthTxt":"Month","yearTxt":"Year","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"days":[{"s":"S","l":"Sunday"},{"s":"M","l":"Monday"},{"s":"T","l":"Tuesday"},{"s":"W","l":"Wednesday"},{"s":"T","l":"Thursday"},{"s":"F","l":"Friday"},{"s":"S","l":"Saturday"}]}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","file_uploaded":"File uploaded","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled","error":"Error","message":"Message"},"vars":{"images_url":"https://www.moreincommon.org.uk/wp-content/plugins/gravityforms/images"}};
+var gf_global = {"gf_currency_config":{"name":"Pound Sterling","symbol_left":"&#163;","symbol_right":"","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2,"code":"GBP"},"base_url":"https://www.moreincommon.org.uk/wp-content/plugins/gravityforms","number_formats":[],"version_hash":"9c2939dbb6db17de7b160818433cc239","countries":{"AF":"Afghanistan","AX":"\u00c5land Islands","AL":"Albania","DZ":"Algeria","AS":"American Samoa","AD":"Andorra","AO":"Angola","AI":"Anguilla","AQ":"Antarctica","AG":"Antigua and Barbuda","AR":"Argentina","AM":"Armenia","AW":"Aruba","AU":"Australia","AT":"Austria","AZ":"Azerbaijan","BS":"Bahamas","BH":"Bahrain","BD":"Bangladesh","BB":"Barbados","BY":"Belarus","BE":"Belgium","BZ":"Belize","BJ":"Benin","BM":"Bermuda","BT":"Bhutan","BO":"Bolivia","BQ":"Bonaire, Sint Eustatius and Saba","BA":"Bosnia and Herzegovina","BW":"Botswana","BV":"Bouvet Island","BR":"Brazil","IO":"British Indian Ocean Territory","BN":"Brunei Darussalam","BG":"Bulgaria","BF":"Burkina Faso","BI":"Burundi","CV":"Cape Verde","KH":"Cambodia","CM":"Cameroon","CA":"Canada","KY":"Cayman Islands","CF":"Central African Republic","TD":"Chad","CL":"Chile","CN":"China","CX":"Christmas Island","CC":"Cocos Islands","CO":"Colombia","KM":"Comoros","CD":"Congo, Democratic Republic of the","CG":"Congo","CK":"Cook Islands","CR":"Costa Rica","CI":"C\u00f4te d'Ivoire","HR":"Croatia","CU":"Cuba","CW":"Cura\u00e7ao","CY":"Cyprus","CZ":"Czechia","DK":"Denmark","DJ":"Djibouti","DM":"Dominica","DO":"Dominican Republic","EC":"Ecuador","EG":"Egypt","SV":"El Salvador","GQ":"Equatorial Guinea","ER":"Eritrea","EE":"Estonia","SZ":"Eswatini","ET":"Ethiopia","FK":"Falkland Islands","FO":"Faroe Islands","FJ":"Fiji","FI":"Finland","FR":"France","GF":"French Guiana","PF":"French Polynesia","TF":"French Southern Territories","GA":"Gabon","GM":"Gambia","GE":"Georgia","DE":"Germany","GH":"Ghana","GI":"Gibraltar","GR":"Greece","GL":"Greenland","GD":"Grenada","GP":"Guadeloupe","GU":"Guam","GT":"Guatemala","GG":"Guernsey","GN":"Guinea","GW":"Guinea-Bissau","GY":"Guyana","HT":"Haiti","HM":"Heard Island and McDonald Islands","VA":"Holy See","HN":"Honduras","HK":"Hong Kong","HU":"Hungary","IS":"Iceland","IN":"India","ID":"Indonesia","IR":"Iran","IQ":"Iraq","IE":"Ireland","IM":"Isle of Man","IL":"Israel","IT":"Italy","JM":"Jamaica","JP":"Japan","JE":"Jersey","JO":"Jordan","KZ":"Kazakhstan","KE":"Kenya","KI":"Kiribati","KP":"Korea, Democratic People's Republic of","KR":"Korea, Republic of","KW":"Kuwait","KG":"Kyrgyzstan","LA":"Lao People's Democratic Republic","LV":"Latvia","LB":"Lebanon","LS":"Lesotho","LR":"Liberia","LY":"Libya","LI":"Liechtenstein","LT":"Lithuania","LU":"Luxembourg","MO":"Macao","MG":"Madagascar","MW":"Malawi","MY":"Malaysia","MV":"Maldives","ML":"Mali","MT":"Malta","MH":"Marshall Islands","MQ":"Martinique","MR":"Mauritania","MU":"Mauritius","YT":"Mayotte","MX":"Mexico","FM":"Micronesia","MD":"Moldova","MC":"Monaco","MN":"Mongolia","ME":"Montenegro","MS":"Montserrat","MA":"Morocco","MZ":"Mozambique","MM":"Myanmar","NA":"Namibia","NR":"Nauru","NP":"Nepal","NL":"Netherlands","NC":"New Caledonia","NZ":"New Zealand","NI":"Nicaragua","NE":"Niger","NG":"Nigeria","NU":"Niue","NF":"Norfolk Island","MK":"North Macedonia","MP":"Northern Mariana Islands","NO":"Norway","OM":"Oman","PK":"Pakistan","PW":"Palau","PS":"Palestine, State of","PA":"Panama","PG":"Papua New Guinea","PY":"Paraguay","PE":"Peru","PH":"Philippines","PN":"Pitcairn","PL":"Poland","PT":"Portugal","PR":"Puerto Rico","QA":"Qatar","RE":"R\u00e9union","RO":"Romania","RU":"Russian Federation","RW":"Rwanda","BL":"Saint Barth\u00e9lemy","SH":"Saint Helena, Ascension and Tristan da Cunha","KN":"Saint Kitts and Nevis","LC":"Saint Lucia","MF":"Saint Martin","PM":"Saint Pierre and Miquelon","VC":"Saint Vincent and the Grenadines","WS":"Samoa","SM":"San Marino","ST":"Sao Tome and Principe","SA":"Saudi Arabia","SN":"Senegal","RS":"Serbia","SC":"Seychelles","SL":"Sierra Leone","SG":"Singapore","SX":"Sint Maarten","SK":"Slovakia","SI":"Slovenia","SB":"Solomon Islands","SO":"Somalia","ZA":"South Africa","GS":"South Georgia and the South Sandwich Islands","SS":"South Sudan","ES":"Spain","LK":"Sri Lanka","SD":"Sudan","SR":"Suriname","SJ":"Svalbard and Jan Mayen","SE":"Sweden","CH":"Switzerland","SY":"Syria Arab Republic","TW":"Taiwan","TJ":"Tajikistan","TZ":"Tanzania, the United Republic of","TH":"Thailand","TL":"Timor-Leste","TG":"Togo","TK":"Tokelau","TO":"Tonga","TT":"Trinidad and Tobago","TN":"Tunisia","TR":"T\u00fcrkiye","TM":"Turkmenistan","TC":"Turks and Caicos Islands","TV":"Tuvalu","UG":"Uganda","UA":"Ukraine","AE":"United Arab Emirates","GB":"United Kingdom","US":"United States","UY":"Uruguay","UM":"US Minor Outlying Islands","UZ":"Uzbekistan","VU":"Vanuatu","VE":"Venezuela","VN":"Viet Nam","VG":"Virgin Islands, British","VI":"Virgin Islands, U.S.","WF":"Wallis and Futuna","EH":"Western Sahara","YE":"Yemen","ZM":"Zambia","ZW":"Zimbabwe"},"strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+//# sourceURL=gform_gravityforms-js-extra
+</script>
+<script id="gform_gravityforms-js" defer='defer' src="https://www.moreincommon.org.uk/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=3.2.1"></script>
+<script id="gform_placeholder-js" defer='defer' src="https://www.moreincommon.org.uk/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=3.2.1"></script>
+<script id="gform_gravityforms_utils-js" defer='defer' src="https://www.moreincommon.org.uk/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=d7e103405223e60d2719f4c330fd11cf"></script>
+<script id="gform_gravityforms_theme_vendors-js" defer='defer' src="https://www.moreincommon.org.uk/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=ddae8d403393f0e5eaeedeb511ce46e0"></script>
+<script id="gform_gravityforms_theme-js-extra">
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"9c2939dbb6db17de7b160818433cc239"},"ajax":{"ajaxurl":"https://www.moreincommon.org.uk/wp-admin/admin-ajax.php","ajax_submission_nonce":"0c54332171","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again.","error_403":"The request was blocked (403 error) for unknown security reasons. Remove any code-like text (scripts or DB queries) and try again."}}}},"fields":{"repeater":{"strings":{"item_added":"added.","item_removed":"removed.","renumbered":"and above renumbered.","max_items":"You have reached the maximum number of repeated items.","confirm_delete":"Are you sure you want to remove {label} {number}?"}}},"hmr_dev":"","public_path":"https://www.moreincommon.org.uk/wp-content/plugins/gravityforms/assets/js/dist/","config_nonce":"b51e9094b8"};
+//# sourceURL=gform_gravityforms_theme-js-extra
+</script>
+<script id="gform_gravityforms_theme-js" defer='defer' src="https://www.moreincommon.org.uk/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=f7ff0a7a4cbd950275384188b97da558"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.moreincommon.org.uk/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://www.moreincommon.org.uk/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+	<!--copyscapeskip-->
+	<button data-href="#moove_gdpr_cookie_modal" aria-haspopup="dialog"  id="moove_gdpr_save_popup_settings_button" style='display: none;' class="" aria-label="Cookie settings">
+	<span class="moove_gdpr_icon">
+		<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" style="max-width: 30px; max-height: 30px;">
+		<g data-name="1">
+			<path d="M293.9,450H233.53a15,15,0,0,1-14.92-13.42l-4.47-42.09a152.77,152.77,0,0,1-18.25-7.56L163,413.53a15,15,0,0,1-20-1.06l-42.69-42.69a15,15,0,0,1-1.06-20l26.61-32.93a152.15,152.15,0,0,1-7.57-18.25L76.13,294.1a15,15,0,0,1-13.42-14.91V218.81A15,15,0,0,1,76.13,203.9l42.09-4.47a152.15,152.15,0,0,1,7.57-18.25L99.18,148.25a15,15,0,0,1,1.06-20l42.69-42.69a15,15,0,0,1,20-1.06l32.93,26.6a152.77,152.77,0,0,1,18.25-7.56l4.47-42.09A15,15,0,0,1,233.53,48H293.9a15,15,0,0,1,14.92,13.42l4.46,42.09a152.91,152.91,0,0,1,18.26,7.56l32.92-26.6a15,15,0,0,1,20,1.06l42.69,42.69a15,15,0,0,1,1.06,20l-26.61,32.93a153.8,153.8,0,0,1,7.57,18.25l42.09,4.47a15,15,0,0,1,13.41,14.91v60.38A15,15,0,0,1,451.3,294.1l-42.09,4.47a153.8,153.8,0,0,1-7.57,18.25l26.61,32.93a15,15,0,0,1-1.06,20L384.5,412.47a15,15,0,0,1-20,1.06l-32.92-26.6a152.91,152.91,0,0,1-18.26,7.56l-4.46,42.09A15,15,0,0,1,293.9,450ZM247,420h33.39l4.09-38.56a15,15,0,0,1,11.06-12.91A123,123,0,0,0,325.7,356a15,15,0,0,1,17,1.31l30.16,24.37,23.61-23.61L372.06,328a15,15,0,0,1-1.31-17,122.63,122.63,0,0,0,12.49-30.14,15,15,0,0,1,12.92-11.06l38.55-4.1V232.31l-38.55-4.1a15,15,0,0,1-12.92-11.06A122.63,122.63,0,0,0,370.75,187a15,15,0,0,1,1.31-17l24.37-30.16-23.61-23.61-30.16,24.37a15,15,0,0,1-17,1.31,123,123,0,0,0-30.14-12.49,15,15,0,0,1-11.06-12.91L280.41,78H247l-4.09,38.56a15,15,0,0,1-11.07,12.91A122.79,122.79,0,0,0,201.73,142a15,15,0,0,1-17-1.31L154.6,116.28,131,139.89l24.38,30.16a15,15,0,0,1,1.3,17,123.41,123.41,0,0,0-12.49,30.14,15,15,0,0,1-12.91,11.06l-38.56,4.1v33.38l38.56,4.1a15,15,0,0,1,12.91,11.06A123.41,123.41,0,0,0,156.67,311a15,15,0,0,1-1.3,17L131,358.11l23.61,23.61,30.17-24.37a15,15,0,0,1,17-1.31,122.79,122.79,0,0,0,30.13,12.49,15,15,0,0,1,11.07,12.91ZM449.71,279.19h0Z" fill="currentColor"/>
+			<path d="M263.71,340.36A91.36,91.36,0,1,1,355.08,249,91.46,91.46,0,0,1,263.71,340.36Zm0-152.72A61.36,61.36,0,1,0,325.08,249,61.43,61.43,0,0,0,263.71,187.64Z" fill="currentColor"/>
+		</g>
+		</svg>
+	</span>
+
+	<span class="moove_gdpr_text">Cookie settings</span>
+	</button>
+	<!--/copyscapeskip-->
+    
+	<!--copyscapeskip-->
+	<!-- V1 -->
+			<dialog id="moove_gdpr_cookie_modal" class="gdpr_lightbox-hide" open tabindex="-1" aria-modal="true" aria-label="GDPR Settings Screen">
+	<div class="moove-gdpr-modal-content moove-clearfix logo-position-left moove_gdpr_modal_theme_v1">
+				<button class="moove-gdpr-modal-close" aria-label="Close GDPR Cookie Settings">
+			<span class="gdpr-sr-only">Close GDPR Cookie Settings</span>
+			<span class="gdpr-icon moovegdpr-arrow-close"></span>
+		</button>
+				<div class="moove-gdpr-modal-left-content">
+		
+<div class="moove-gdpr-company-logo-holder">
+	<img src="https://www.moreincommon.org.uk/wp-content/uploads/2026/06/logo-300x94.jpg" alt=""   width="300"  height="94"  class="img-responsive" />
+</div>
+<!--  .moove-gdpr-company-logo-holder -->
+		<ul id="moove-gdpr-menu" role="tablist" aria-label="Cookie categories">
+			
+<li class="menu-item-on menu-item-privacy_overview menu-item-selected" role="presentation">
+	<button data-href="#privacy_overview" id="gdpr-tab-privacy_overview" class="moove-gdpr-tab-nav" role="tab" aria-selected="true" aria-controls="privacy_overview" aria-label="Privacy Overview">
+	<span class="gdpr-nav-tab-title">Privacy Overview</span>
+	</button>
+</li>
+
+	<li class="menu-item-strict-necessary-cookies menu-item-off" role="presentation">
+	<button data-href="#strict-necessary-cookies" id="gdpr-tab-strict-necessary-cookies" class="moove-gdpr-tab-nav" role="tab" aria-selected="false" aria-controls="strict-necessary-cookies" tabindex="-1" aria-label="Strictly Necessary Cookies">
+		<span class="gdpr-nav-tab-title">Strictly Necessary Cookies</span>
+	</button>
+	</li>
+
+
+	<li class="menu-item-off menu-item-third_party_cookies" role="presentation">
+	<button data-href="#third_party_cookies" id="gdpr-tab-third_party_cookies" class="moove-gdpr-tab-nav" role="tab" aria-selected="false" aria-controls="third_party_cookies" tabindex="-1" aria-label="Analytics">
+		<span class="gdpr-nav-tab-title">Analytics</span>
+	</button>
+	</li>
+
+
+
+		</ul>
+		
+<div class="moove-gdpr-branding-cnt">
+			<a href="https://wordpress.org/plugins/gdpr-cookie-compliance/" rel="noopener noreferrer" target="_blank" class='moove-gdpr-branding'>Powered by&nbsp; <span>GDPR Cookie Compliance</span><span class="gdpr-sr-only"> (opens in a new tab)</span></a>
+		</div>
+<!--  .moove-gdpr-branding -->
+		</div>
+		<!--  .moove-gdpr-modal-left-content -->
+		<div class="moove-gdpr-modal-right-content">
+		<div class="moove-gdpr-modal-title">
+			 
+		</div>
+		<!-- .moove-gdpr-modal-ritle -->
+		<div class="main-modal-content">
+
+			<div class="moove-gdpr-tab-content">
+			
+<div id="privacy_overview" class="moove-gdpr-tab-main">
+			<div class="tab-title" role="heading" aria-level="2"><span class="gdpr-tab-title-text">Privacy Overview</span></div>
+		<div class="moove-gdpr-tab-main-content">
+	<p>This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.</p>
+		</div>
+	<!--  .moove-gdpr-tab-main-content -->
+
+</div>
+<!-- #privacy_overview -->
+			
+  <div id="strict-necessary-cookies" class="moove-gdpr-tab-main" style="display:none">
+        <div class="tab-title" role="heading" aria-level="2"><span class="gdpr-tab-title-text">Strictly Necessary Cookies</span></div>
+    <div class="moove-gdpr-tab-main-content">
+      <p>Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.</p>
+      <div class="moove-gdpr-status-bar ">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_strict_cookies">    
+              <input type="checkbox" aria-label="Strictly Necessary Cookies"  value="check" name="moove_gdpr_strict_cookies" id="moove_gdpr_strict_cookies">
+              <span class="cookie-slider cookie-round gdpr-sr" aria-hidden="true" data-text-enable="Enabled" data-text-disabled="Disabled">
+                <span class="gdpr-sr-label">
+                  <span class="gdpr-sr-enable">Enabled</span>
+                  <span class="gdpr-sr-disable">Disabled</span>
+                </span>
+              </span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+                                              
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #strict-necesarry-cookies -->
+			
+  <div id="third_party_cookies" class="moove-gdpr-tab-main" style="display:none">
+        <div class="tab-title" role="heading" aria-level="2"><span class="gdpr-tab-title-text">Analytics</span></div>
+    <div class="moove-gdpr-tab-main-content">
+      <p>This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.</p>
+<p>Keeping this cookie enabled helps us to improve our website.</p>
+      <div class="moove-gdpr-status-bar">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_performance_cookies">    
+              <input type="checkbox" aria-label="Analytics" value="check" name="moove_gdpr_performance_cookies" id="moove_gdpr_performance_cookies" disabled>
+              <span class="cookie-slider cookie-round gdpr-sr" aria-hidden="true" data-text-enable="Enabled" data-text-disabled="Disabled">
+                <span class="gdpr-sr-label">
+                  <span class="gdpr-sr-enable">Enabled</span>
+                  <span class="gdpr-sr-disable">Disabled</span>
+                </span>
+              </span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+             
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #third_party_cookies -->
+			
+									
+			</div>
+			<!--  .moove-gdpr-tab-content -->
+		</div>
+		<!--  .main-modal-content -->
+		<div class="moove-gdpr-modal-footer-content">
+			<div class="moove-gdpr-button-holder">
+						<button class="mgbutton moove-gdpr-modal-allow-all button-visible" aria-label="Enable All">Enable All</button>
+								<button class="mgbutton moove-gdpr-modal-save-settings button-visible" aria-label="Save Settings">Save Settings</button>
+				</div>
+<!--  .moove-gdpr-button-holder -->
+		</div>
+		<!--  .moove-gdpr-modal-footer-content -->
+		</div>
+		<!--  .moove-gdpr-modal-right-content -->
+
+		<div class="moove-clearfix"></div>
+
+	</div>
+	<!--  .moove-gdpr-modal-content -->
+	</dialog>
+	<!-- #moove_gdpr_cookie_modal -->
+	<!--/copyscapeskip-->
+<script>
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script>
+gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "1", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 1, 1 );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );
+</script>
+
+	</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.9.3 on 2026-11-04 10:58:08 -->

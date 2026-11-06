@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Raptive Head Tag Manual -->
+    <script data-no-optimize="1" data-cfasync="false">
+    (function(w, d) {
+        w.adthrive = w.adthrive || {};
+        w.adthrive.cmd = w.adthrive.cmd || [];
+        w.adthrive.plugin = 'adthrive-ads-manual';
+        w.adthrive.host = 'ads.adthrive.com';
+        var s = d.createElement('script');
+        s.async = true;
+        s.referrerpolicy='no-referrer-when-downgrade';
+        s.src = 'https://' + w.adthrive.host + '/sites/69f39cb6d878fa1e763d54aa/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href) + '&cb=' + (Math.floor(Math.random() * 100) + 1);
+        var n = d.getElementsByTagName('script')[0];
+        n.parentNode.insertBefore(s, n);
+    })(window, document);
+    </script>
+    <!-- End of Raptive Head Tag -->
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JMS0915VXH"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-JMS0915VXH', { anonymize_ip: true });
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UK Polls Today: Election Poll of Polls &amp; Seats | PollCheck</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Labour 29%, Reform UK 22%, Conservatives 22%. UK polls today: poll of polls, latest election polls and who would win a general election now.">
+    <meta name="keywords" content="poll of polls, UK polls, polling average, political polling, Westminster elections, seat predictions, voting intentions, election analysis, UK poll tracker">
+    <meta name="author" content="PollCheck">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.pollcheck.co.uk/">
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="UK Polls Today: Election Poll of Polls &amp; Seats | PollCheck">
+    <meta property="og:description" content="Labour 29%, Reform UK 22%, Conservatives 22%. UK polls today: poll of polls, latest election polls and who would win a general election now.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.pollcheck.co.uk/">
+    <meta property="og:image" content="https://www.pollcheck.co.uk/images/og-pollcheck.png?v=9804e95e">
+    <meta property="og:site_name" content="PollCheck">
+
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@poll_checker">
+    <meta name="twitter:creator" content="@poll_checker">
+    <meta name="twitter:title" content="UK Polls Today: Election Poll of Polls &amp; Seats | PollCheck">
+    <meta name="twitter:description" content="Labour 29%, Reform UK 22%, Conservatives 22%. UK polls today: poll of polls, latest election polls and who would win a general election now.">
+    <meta name="twitter:image" content="https://www.pollcheck.co.uk/images/og-pollcheck.png?v=9804e95e">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/manifest.json">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css?v=20260525c">
+    <link rel="stylesheet" href="/css/pc-tokens.css?v=20261103b">
+    <link rel="stylesheet" href="/css/pc-components.css?v=20261103b">
+    <link rel="stylesheet" href="/css/poll-line-chart.css?v=20261103">
+    <link rel="stylesheet" href="/css/home.css?v=20261103i">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "PollCheck",
+      "alternateName": "Poll Check",
+      "url": "https://www.pollcheck.co.uk/",
+      "description": "Latest UK election polls & seat calculator. Track Reform UK, Labour, Conservative voting intentions with interactive maps.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "PollCheck",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.pollcheck.co.uk/images/logo.png"
+        },
+        "sameAs": ["https://x.com/poll_checker"]
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is PollCheck?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PollCheck is a UK political polling site. It tracks Westminster voting intention and projects the result in every GB constituency."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a 7-poll moving average?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 7-poll moving average, sometimes called a poll of polls, is the average of the seven most recent polls. It evens out the noise in individual polls."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- Shared utility functions for 7MA calculations -->
+    <script>
+        window.PollCheckUtils = window.PollCheckUtils || {};
+        window.PollCheckUtils.movingAverage = function(arr, windowSize) {
+            const n = Array.isArray(arr) ? arr.length : 0;
+            if (!n || !windowSize || windowSize <= 1) return arr.slice();
+            const out = new Array(n).fill(null);
+            for (let i = 0; i < n; i++) {
+                const start = Math.max(0, i - windowSize + 1);
+                const end = i + 1;
+                const slice = [];
+                for (let j = start; j < end; j++) {
+                    const value = arr[j];
+                    if (value != null && !isNaN(value)) slice.push(value);
+                }
+                out[i] = slice.length ? slice.reduce((sum, v) => sum + v, 0) / slice.length : null;
+            }
+            return out;
+        };
+    </script>
+</head>
+<body class="homepage">
+    <header class="header">
+        <div data-include="/partials/nav.html"></div>
+    </header>
+
+    <main>
+        <div class="pc-wrap hm-wrap">
+
+            <!-- Masthead -->
+            <div class="hm-mast">
+                <div class="hm-brand">POLLCHECK</div>
+                <div class="pc-kicker hm-kicker"><span>7-poll average &middot;</span>
+            <!-- HOMEPAGE-UPDATED-START -->
+            <div class="hp-updated" id="hp-updated">Updated 5 November 2026</div>
+            <!-- HOMEPAGE-UPDATED-END -->
+                </div>
+                <h1 class="hm-title" id="hp-headline">UK Polls Today</h1>
+            </div>
+
+            <!-- ============== LATEST POLL ============== -->
+            <section class="hm-sec hm-sec--first" id="hp-callout"><!-- HP-CALLOUT-START --><div class="hm-head"><h2 class="hm-h2">Latest poll: Find Out Now</h2><span class="hm-meta">5 November · N=2,406 · MoE ±2.0%</span></div><div class="hm-lp"><div class="hm-lp-c" style="--party-color:var(--pc-party-lab)"><span class="hm-lp-who">Labour</span><span class="hm-lp-n">28</span><span class="hm-chg">0</span></div><div class="hm-lp-c" style="--party-color:var(--pc-party-con)"><span class="hm-lp-who">Conservative</span><span class="hm-lp-n">21</span><span class="hm-chg">0</span></div><div class="hm-lp-c" style="--party-color:var(--pc-party-ref)"><span class="hm-lp-who">Reform UK</span><span class="hm-lp-n">20</span><span class="hm-chg">0</span></div><div class="hm-lp-c" style="--party-color:var(--pc-party-grn)"><span class="hm-lp-who">Greens</span><span class="hm-lp-n">13</span><span class="hm-chg is-pos">+2</span></div><div class="hm-lp-c" style="--party-color:var(--pc-party-ld)"><span class="hm-lp-who">Lib Dems</span><span class="hm-lp-n">8</span><span class="hm-chg is-neg">−2</span></div><div class="hm-lp-c is-dim-dark" style="--party-color:var(--pc-party-res)"><span class="hm-lp-who">Restore Britain</span><span class="hm-lp-n">-</span><span class="hm-chg">-</span></div><div class="hm-lp-c" style="--party-color:var(--pc-party-oth)"><span class="hm-lp-who">Others</span><span class="hm-lp-n">6</span><span class="hm-chg">0</span></div></div><p class="hm-sub">Change against the previous Find Out Now poll, 30 October. <a href="/gb-polls">All polls</a></p><!-- HP-CALLOUT-END --></section>
+
+            <!-- ============== POLLING AVERAGE ============== -->
+            <section class="hm-sec">
+                <div class="hm-head"><h2 class="hm-h2">Polling average</h2><span class="hm-meta">7-poll average &middot; change in 30 days</span></div>
+                <div class="hm-rows" id="hp-7ma"><!-- HP-7MA-START --><div class="hm-row" style="--party-color:var(--pc-party-lab)"><span class="hm-row-name"><i></i>Labour</span><span class="hm-row-track"><span style="width:100.0%"></span></span><span class="hm-row-val">29.1%</span><span class="hm-row-chg hm-chg is-pos">+1.7</span></div><div class="hm-row" style="--party-color:var(--pc-party-ref)"><span class="hm-row-name"><i></i>Reform UK</span><span class="hm-row-track"><span style="width:75.6%"></span></span><span class="hm-row-val">22.0%</span><span class="hm-row-chg hm-chg is-neg">−1.3</span></div><div class="hm-row" style="--party-color:var(--pc-party-con)"><span class="hm-row-name"><i></i>Conservative</span><span class="hm-row-track"><span style="width:75.6%"></span></span><span class="hm-row-val">22.0%</span><span class="hm-row-chg hm-chg is-pos">+3.3</span></div><div class="hm-row" style="--party-color:var(--pc-party-grn)"><span class="hm-row-name"><i></i>Greens</span><span class="hm-row-track"><span style="width:32.0%"></span></span><span class="hm-row-val">9.3%</span><span class="hm-row-chg hm-chg is-neg">−1.1</span></div><div class="hm-row" style="--party-color:var(--pc-party-ld)"><span class="hm-row-name"><i></i>Lib Dems</span><span class="hm-row-track"><span style="width:30.9%"></span></span><span class="hm-row-val">9.0%</span><span class="hm-row-chg hm-chg is-neg">−1.1</span></div><div class="hm-row is-dim-dark" style="--party-color:var(--pc-party-res)"><span class="hm-row-name"><i></i>Restore Britain</span><span class="hm-row-track"><span style="width:14.8%"></span></span><span class="hm-row-val">4.3%</span><span class="hm-row-chg hm-chg is-pos">+0.1</span></div><div class="hm-row" style="--party-color:var(--pc-party-oth)"><span class="hm-row-name"><i></i>Others</span><span class="hm-row-track"><span style="width:10.3%"></span></span><span class="hm-row-val">3.0%</span><span class="hm-row-chg hm-chg is-neg">−0.9</span></div><div class="hm-row" style="--party-color:var(--pc-party-snp)"><span class="hm-row-name"><i></i>SNP</span><span class="hm-row-track"><span style="width:8.2%"></span></span><span class="hm-row-val">2.4%</span><span class="hm-row-chg hm-chg is-neg">−0.3</span></div><div class="hm-row" style="--party-color:var(--pc-party-pc)"><span class="hm-row-name"><i></i>Plaid Cymru</span><span class="hm-row-track"><span style="width:3.8%"></span></span><span class="hm-row-val">1.1%</span><span class="hm-row-chg hm-chg is-neg">−0.1</span></div><!-- HP-7MA-END --></div>
+                <p class="hm-sub"><a href="/gb-polls">Full polling trends</a></p>
+            </section>
+
+            <!-- ============== PM APPROVAL ============== -->
+            <section class="hm-sec" id="hp-approval">
+                <div id="hp-ap-body"><!-- HP-APPROVAL-START --><div class="hm-head"><h2 class="hm-h2">Andy Burnham approval</h2><span class="hm-meta">7-poll average</span></div><div class="hm-ap"><div><div class="hm-ap-stats"><div><span class="hm-ap-l is-pos">Approve</span><span class="hm-ap-n">40.9%</span></div><div><span class="hm-ap-l">Net approval</span><span class="hm-ap-n">+7.1</span></div><div><span class="hm-ap-l is-neg">Disapprove</span><span class="hm-ap-n">33.6%</span></div></div><div class="hm-ap-bar" aria-hidden="true"><span class="a" style="width:40.9%"></span><span class="n" style="width:25.6%"></span><span class="d" style="width:33.6%"></span><i></i></div><div class="hm-ap-ax" aria-hidden="true"><span>0%</span><span>50%</span><span>100%</span></div></div><div class="hm-ap-side"><div class="hm-ap-kick">Other leaders, net rating, 7-poll average</div><div class="hm-ap-o"><span>Kemi Badenoch</span><b class="is-pos">+0.9</b></div><div class="hm-ap-o"><span>Ed Davey</span><b class="is-neg">−10.1</b></div><div class="hm-ap-o"><span>Rupert Lowe</span><b class="is-neg">−16.2</b></div><div class="hm-ap-o"><span>Nigel Farage</span><b class="is-neg">−28.3</b></div><div class="hm-ap-o"><span>Zack Polanski</span><b class="is-neg">−33.3</b></div><a class="hm-ap-link" href="/favourability-ratings">All approval ratings</a></div></div><div class="hm-ap-chart-h">Burnham approval average <span>7-poll average, dots are individual polls</span></div><div id="hp-ap-chart" class="gbp-chart-container hm-chart" role="img" aria-label="Andy Burnham approval, 7-poll average over time: approve 40.9%, disapprove 33.6% now"></div><!-- HP-APPROVAL-END --></div>
+            </section>
+
+            <!-- ============== SEATS ============== -->
+            <section class="hm-sec">
+                <div class="hm-head"><h2 class="hm-h2">Seats if an election were held today</h2><span class="hm-meta">326 for a majority</span></div>
+                <div id="hp-seat-body"><!-- HP-SEATS-START --><div class="hm-seat-nums"><div class="hm-seat-n" style="--party-color:var(--pc-party-lab)"><span class="hm-seat-big">329</span><span class="hm-seat-who">Labour seats <span class="hm-chg is-neg">−82 since 2024</span></span></div><div class="hm-seat-n" style="--party-color:var(--pc-party-lab)"><span class="hm-seat-big">8</span><span class="hm-seat-who">Labour majority</span></div></div><div class="pc-seatbar-track hm-seat-track"><div class="pc-seatbar" id="hp-seatbar" role="img" aria-label="Projected seats out of 650: Labour 329, Conservative 146, Lib Dems 54, Reform UK 47, SNP 37, Plaid Cymru 7, Others 6, Greens 5, Restore Britain 1, Northern Ireland 18 held at 2024. 326 needed for a majority."><div class="pc-seat-seg" style="width:50.62%;background:var(--pc-party-lab)" title="Labour: 329"><span class="pc-seat-lbl">329</span></div><div class="pc-seat-seg" style="width:22.46%;background:var(--pc-party-con)" title="Conservative: 146"><span class="pc-seat-lbl">146</span></div><div class="pc-seat-seg is-light" style="width:8.31%;background:var(--pc-party-ld)" title="Lib Dems: 54"><span class="pc-seat-lbl">54</span></div><div class="pc-seat-seg" style="width:7.23%;background:var(--pc-party-ref)" title="Reform UK: 47"><span class="pc-seat-lbl">47</span></div><div class="pc-seat-seg is-light" style="width:5.69%;background:var(--pc-party-snp)" title="SNP: 37"><span class="pc-seat-lbl">37</span></div><div class="pc-seat-seg" style="width:1.08%;background:var(--pc-party-pc)" title="Plaid Cymru: 7"><span class="pc-seat-lbl">7</span></div><div class="pc-seat-seg" style="width:0.92%;background:var(--pc-party-oth)" title="Others: 6"><span class="pc-seat-lbl">6</span></div><div class="pc-seat-seg" style="width:0.77%;background:var(--pc-party-grn)" title="Greens: 5"><span class="pc-seat-lbl">5</span></div><div class="pc-seat-seg is-dim-dark" style="width:0.15%;background:var(--pc-party-res)" title="Restore Britain: 1"><span class="pc-seat-lbl">1</span></div><div class="pc-seat-seg is-light hm-seg-ni" style="width:2.77%" title="Northern Ireland: 18, held at 2024 result"><span class="pc-seat-lbl">18</span></div></div><div class="pc-seat-majority" data-label="326" style="left:50.15%"></div></div><div class="pc-seat-legend"><span class="pc-seat-legend-item"><span class="pc-swatch" style="background:var(--pc-party-lab)"></span>Labour <b>329</b> <span class="hm-chg is-neg">−82</span></span><span class="pc-seat-legend-item"><span class="pc-swatch" style="background:var(--pc-party-con)"></span>Conservative <b>146</b> <span class="hm-chg is-pos">+25</span></span><span class="pc-seat-legend-item"><span class="pc-swatch" style="background:var(--pc-party-ld)"></span>Lib Dems <b>54</b> <span class="hm-chg is-neg">−18</span></span><span class="pc-seat-legend-item"><span class="pc-swatch" style="background:var(--pc-party-ref)"></span>Reform UK <b>47</b> <span class="hm-chg is-pos">+42</span></span><span class="pc-seat-legend-item"><span class="pc-swatch" style="background:var(--pc-party-snp)"></span>SNP <b>37</b> <span class="hm-chg is-pos">+28</span></span><span class="pc-seat-legend-item"><span class="pc-swatch" style="background:var(--pc-party-pc)"></span>Plaid Cymru <b>7</b> <span class="hm-chg is-pos">+3</span></span><span class="pc-seat-legend-item"><span class="pc-swatch" style="background:var(--pc-party-oth)"></span>Others <b>6</b> <span class="hm-chg">0</span></span><span class="pc-seat-legend-item"><span class="pc-swatch" style="background:var(--pc-party-grn)"></span>Greens <b>5</b> <span class="hm-chg is-pos">+1</span></span><span class="pc-seat-legend-item"><span class="pc-swatch is-dim-dark" style="background:var(--pc-party-res)"></span>Restore Britain <b>1</b> <span class="hm-chg is-pos">+1</span></span><span class="pc-seat-legend-item"><span class="pc-swatch hm-seg-ni"></span>Northern Ireland <b>18</b> <span class="hm-chg">held at 2024</span></span></div><p class="hm-sub">GB seats from the demographic model. Northern Ireland's 18 seats are held at their 2024 result. 326 of 650 for a majority. Change from the 2024 general election.</p><!-- HP-SEATS-END --></div>
+
+                <div class="hm-calc">
+                    <div class="hm-calc-head">
+                        <span class="hm-calc-title">Change the vote shares</span>
+                        <button type="button" class="pc-btn" id="hp-ep-reset">Reset</button>
+                    </div>
+                    <div class="hm-sliders" id="hp-sliders"></div>
+                </div>
+
+                <div class="hm-btns">
+                    <a class="pc-btn pc-btn-primary hm-btn" href="/demographic-swingometer/">Seat calculator</a>
+                    <a class="pc-btn hm-btn" href="/seat-tracker">Seat trends</a>
+                </div>
+            </section>
+
+            <!-- ============== PARTY TRENDS ============== -->
+            <section class="hm-sec">
+                <div class="hm-head"><h2 class="hm-h2">Party trends, last 12 months</h2><span class="hm-meta">7-poll average</span></div>
+                <div id="hp-trend-chart" class="gbp-chart-container hm-chart hm-chart--trend" role="img" aria-label="Line chart of the 7-poll average for each party over the last 12 months"></div>
+                <p class="hm-sub"><a href="/gb-polls">Full polling trends</a></p>
+            </section>
+
+            <!-- ============== RECENT POLLS ============== -->
+            <section class="hm-sec">
+                <div class="hm-head"><h2 class="hm-h2">Recent polls</h2><a class="hm-meta" href="/gb-polls">All pollsters</a></div>
+                <div class="pc-table-wrap">
+                    <table class="pc-table hm-polls">
+                        <thead><tr id="hp-poll-head"><!-- HP-POLLS-HEAD-START --><th>Date</th><th>Pollster</th><th>Lab</th><th>Ref</th><th>Con</th><th>Grn</th><th>LD</th><th>RB</th><th>Oth</th><!-- HP-POLLS-HEAD-END --></tr></thead>
+                        <tbody id="hp-poll-rows"><!-- HP-POLLS-START --><tr><td class="hm-when">5 Nov</td><td>Find Out Now</td><td class="is-lead">28</td><td>20</td><td>21</td><td>13</td><td>8</td><td>-</td><td>6</td></tr><tr><td class="hm-when">4 Nov</td><td>More in Common</td><td class="is-lead">29</td><td>22</td><td>23</td><td>8</td><td>9</td><td>5</td><td>1</td></tr><tr><td class="hm-when">3 Nov</td><td>Freshwater Strategy</td><td class="is-lead">30</td><td>22</td><td>22</td><td>10</td><td>10</td><td>-</td><td>3</td></tr><tr><td class="hm-when">3 Nov</td><td>YouGov</td><td class="is-lead">26</td><td>21</td><td>24</td><td>10</td><td>11</td><td>3</td><td>1</td></tr><tr><td class="hm-when">2 Nov</td><td>Deltapoll</td><td class="is-lead">30</td><td>25</td><td>23</td><td>8</td><td>7</td><td>-</td><td>4</td></tr><tr><td class="hm-when">31 Oct</td><td>Opinium</td><td class="is-lead">30</td><td>22</td><td>20</td><td>8</td><td>10</td><td>-</td><td>5</td></tr><tr><td class="hm-when">30 Oct</td><td>BMG Research</td><td class="is-lead">31</td><td>22</td><td>21</td><td>8</td><td>8</td><td>5</td><td>1</td></tr><!-- HP-POLLS-END --></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- ============== FIND YOUR SEAT ============== -->
+            <section class="hm-sec">
+                <div class="hm-head"><h2 class="hm-h2">Find your seat</h2><a class="hm-meta" href="/constituencies/">All 632 constituencies</a></div>
+                <div class="hp-seatfind">
+                    <div class="hp-seatfind-box">
+                        <input type="text" id="hp-seatfind-input" class="hp-seatfind-input"
+                               placeholder="Postcode, constituency or MP name"
+                               autocomplete="off" aria-label="Find your constituency by postcode, name or MP">
+                        <div id="hp-seatfind-results" class="hp-seatfind-results" hidden></div>
+                    </div>
+                    <p class="hm-sub">Current projection, 2024 result and MP for every seat in Great Britain.</p>
+                </div>
+            </section>
+
+            <!-- ============== THIS WEEK ==============
+                 Items written by byelection_projections/build_page.py (BYELECTION-WEEK)
+                 and us_midterms_2026/scripts/build_pages.py (US-MIDTERMS-CARD). -->
+            <section class="hm-sec">
+                <div class="hm-head"><h2 class="hm-h2">This week</h2></div>
+                <div class="hm-list">
+            <!-- BYELECTION-WEEK-START -->
+
+            <!-- BYELECTION-WEEK-END -->
+            <!-- US-MIDTERMS-CARD-START -->
+<a class="hm-item" href="/us-midterms-2026/results"><span class="hm-item-kick">US MIDTERMS RESULTS &middot; UPDATED 15:53 UK</span><span class="hm-item-title">US midterms results</span><span class="hm-item-desc">Senate races: 8 complete, 27 counting. Senate and governor results as counted, with the final pre-election averages.</span></a>
+<!-- US-MIDTERMS-CARD-END -->
+                </div>
+                <p class="hm-sub"><a href="/by-elections/council/">All council by-elections</a> &middot; <a href="/us-midterms-2026">All US polls</a></p>
+            </section>
+
+            <!-- ============== TOOLS ============== -->
+            <section class="hm-sec">
+                <div class="hm-head"><h2 class="hm-h2">Tools</h2></div>
+                <div class="hm-list">
+                    <a class="hm-item" href="/seat-tracker"><span class="hm-item-title">Seat tracker</span><span class="hm-item-desc">What each published poll implies for Westminster seats.</span></a>
+                    <a class="hm-item" href="/demographic-swingometer/"><span class="hm-item-title">Demographic swingometer</span><span class="hm-item-desc">Project seats from polls and Census demographics.</span></a>
+                    <a class="hm-item" href="/favourability-ratings"><span class="hm-item-title">Approval ratings</span><span class="hm-item-desc">Leader favourability and net approval.</span></a>
+                    <a class="hm-item" href="/council-control-map"><span class="hm-item-title">Council control map</span><span class="hm-item-desc">Political control of UK councils.</span></a>
+                    <a class="hm-item" href="/path-to-no10"><span class="hm-item-title">Path to No10</span><span class="hm-item-desc">Regional and demographic polling.</span></a>
+                    <a class="hm-item" href="/by-elections/holborn-and-st-pancras"><span class="hm-item-title">Holborn &amp; St Pancras by-election</span><span class="hm-item-desc">Labour hold on 45.2%, Green second on 32.8%, turnout 38.8%.</span></a>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <footer>
+        <div data-include="/partials/footer.html"></div>
+    </footer>
+
+    <script src="/js/includes.js?v=20260707"></script>
+    <script src="script.js?v=20250929"></script>
+    <script src="/js/party-colors.js?v=20260830"></script>
+    <script src="js/homepage.js?v=20261103i"></script>
+    <script src="/js/pc-postcode-seat.js?v=20260909"></script>
+    <script src="/js/homepage-seat-finder.js?v=20260909"></script>
+    <script src="js/tracking.js"></script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+Category,SNP,Ref,Lab,Grn,Con,LD,Others,Margin,source_url
+All,27,17,16,14,12,9,5,10,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Gender,Gender,Gender,Gender,Gender,Gender,Gender,Gender,Gender,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Female,29,14,15,13,12,13,4,14,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Male,25,19,17,15,11,7,6,6,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Age,Age,Age,Age,Age,Age,Age,Age,Age,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+16–29,19,9,16,36,6,11,3,17,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+30–39,33,12,16,19,8,7,5,14,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+40–49,28,16,16,15,8,12,6,12,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+50–59,28,21,16,8,10,7,8,7,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+60–69,29,21,16,6,16,7,5,8,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+70+,26,17,16,6,20,12,3,6,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Women by age,Women by age,Women by age,Women by age,Women by age,Women by age,Women by age,Women by age,Women by age,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+16–34,25,5,13,35,9,9,3,10,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+35–49,35,12,15,12,10,12,4,20,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+50–64,31,19,14,7,12,12,5,12,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+65+,27,16,17,5,19,13,3,8,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Men by age,Men by age,Men by age,Men by age,Men by age,Men by age,Men by age,Men by age,Men by age,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+16–34,18,14,19,31,3,10,5,12,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+35–49,26,17,17,16,7,10,6,9,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+50–64,30,24,18,8,11,3,7,6,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+65+,24,21,15,6,21,7,5,3,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Socio-economic Classification,Socio-economic Classification,Socio-economic Classification,Socio-economic Classification,Socio-economic Classification,Socio-economic Classification,Socio-economic Classification,Socio-economic Classification,Socio-economic Classification,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Higher,26,12,20,14,15,9,4,6,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Intermediate,29,19,13,9,12,12,6,10,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Routine,31,22,14,11,11,7,4,9,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Highest educational level,Highest educational level,Highest educational level,Highest educational level,Highest educational level,Highest educational level,Highest educational level,Highest educational level,Highest educational level,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Low,31,25,14,6,10,8,5,6,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Medium,26,17,15,14,14,9,4,9,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+High,26,11,18,19,10,10,6,7,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Work status,Work status,Work status,Work status,Work status,Work status,Work status,Work status,Work status,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Working,30,17,16,14,9,8,6,13,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Student,14,6,15,38,5,14,7,23,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Retired,26,19,16,5,20,10,3,6,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Not working,30,16,13,20,8,10,3,10,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Household earnings,Household earnings,Household earnings,Household earnings,Household earnings,Household earnings,Household earnings,Household earnings,Household earnings,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+"Under £25,000",31,17,14,14,11,9,4,14,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+"£25,000–39,999",33,17,14,14,10,8,4,16,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+"£40,000–69,999",28,16,17,15,11,7,6,11,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+"£70,000+",24,14,19,15,13,11,4,5,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Household tenure,Household tenure,Household tenure,Household tenure,Household tenure,Household tenure,Household tenure,Household tenure,Household tenure,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Own outright,25,18,17,7,18,9,6,7,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Mortgage,29,15,16,14,11,10,5,13,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Private rent,21,11,14,29,6,13,6,8,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Social rent,38,24,12,9,4,8,5,14,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Family or friends,21,15,14,31,9,10,1,10,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+By affiliation of constituency vote in 2021 Scottish Parliament election,By affiliation of constituency vote in 2021 Scottish Parliament election,By affiliation of constituency vote in 2021 Scottish Parliament election,By affiliation of constituency vote in 2021 Scottish Parliament election,By affiliation of constituency vote in 2021 Scottish Parliament election,By affiliation of constituency vote in 2021 Scottish Parliament election,By affiliation of constituency vote in 2021 Scottish Parliament election,By affiliation of constituency vote in 2021 Scottish Parliament election,By affiliation of constituency vote in 2021 Scottish Parliament election,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Conservative,2,38,9,0,42,6,3,4,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Labour,7,17,50,6,9,5,6,33,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Lib Dem,6,11,14,8,10,50,2,36,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+SNP,56,6,6,18,2,5,6,38,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+By affiliation of regional vote in 2021 Scottish Parliament election,By affiliation of regional vote in 2021 Scottish Parliament election,By affiliation of regional vote in 2021 Scottish Parliament election,By affiliation of regional vote in 2021 Scottish Parliament election,By affiliation of regional vote in 2021 Scottish Parliament election,By affiliation of regional vote in 2021 Scottish Parliament election,By affiliation of regional vote in 2021 Scottish Parliament election,By affiliation of regional vote in 2021 Scottish Parliament election,By affiliation of regional vote in 2021 Scottish Parliament election,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Conservative,1,40,8,0,41,8,2,1,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Labour,8,12,55,5,6,9,4,43,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Lib Dem,7,7,18,3,10,50,5,32,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+SNP,62,8,7,12,3,4,4,50,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Green,22,3,8,53,1,4,9,31,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+By affiliation of vote in 2024 United Kingdom general election,By affiliation of vote in 2024 United Kingdom general election,By affiliation of vote in 2024 United Kingdom general election,By affiliation of vote in 2024 United Kingdom general election,By affiliation of vote in 2024 United Kingdom general election,By affiliation of vote in 2024 United Kingdom general election,By affiliation of vote in 2024 United Kingdom general election,By affiliation of vote in 2024 United Kingdom general election,By affiliation of vote in 2024 United Kingdom general election,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Conservative,3,30,7,0,54,2,3,24,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Labour,14,13,42,8,10,9,4,28,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Lib Dem,9,8,12,7,9,52,2,40,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+SNP,65,4,2,19,1,2,7,46,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Reform UK,0,90,1,0,3,2,3,87,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Green,11,3,5,80,0,0,1,69,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+By affiliation of constituency vote in 2026 Scottish Parliament election,By affiliation of constituency vote in 2026 Scottish Parliament election,By affiliation of constituency vote in 2026 Scottish Parliament election,By affiliation of constituency vote in 2026 Scottish Parliament election,By affiliation of constituency vote in 2026 Scottish Parliament election,By affiliation of constituency vote in 2026 Scottish Parliament election,By affiliation of constituency vote in 2026 Scottish Parliament election,By affiliation of constituency vote in 2026 Scottish Parliament election,By affiliation of constituency vote in 2026 Scottish Parliament election,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Conservative,1,9,7,0,76,4,3,67,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Labour,3,5,70,5,8,5,3,62,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Lib Dem,6,5,10,11,6,60,2,49,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+SNP,65,0,2,26,0,2,4,39,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Reform UK,0,93,0,0,4,1,1,89,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+By affiliation of vote in 2014 Scottish independence referendum,By affiliation of vote in 2014 Scottish independence referendum,By affiliation of vote in 2014 Scottish independence referendum,By affiliation of vote in 2014 Scottish independence referendum,By affiliation of vote in 2014 Scottish independence referendum,By affiliation of vote in 2014 Scottish independence referendum,By affiliation of vote in 2014 Scottish independence referendum,By affiliation of vote in 2014 Scottish independence referendum,By affiliation of vote in 2014 Scottish independence referendum,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Yes,47,13,8,15,4,6,7,32,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+No,11,23,24,5,22,13,3,1,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+By affiliation of vote in 2016 EU membership referendum,By affiliation of vote in 2016 EU membership referendum,By affiliation of vote in 2016 EU membership referendum,By affiliation of vote in 2016 EU membership referendum,By affiliation of vote in 2016 EU membership referendum,By affiliation of vote in 2016 EU membership referendum,By affiliation of vote in 2016 EU membership referendum,By affiliation of vote in 2016 EU membership referendum,By affiliation of vote in 2016 EU membership referendum,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Remain,32,7,18,14,12,11,6,14,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election
+Leave,19,40,11,3,16,7,3,21,https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election

@@ -1,0 +1,175 @@
+CLIENT NAME
+PROJECT NAME
+Opinium / Observer
+VI 2026 07 29
+	Contents
+	V003	If there were a general election tomorrow, for which party would you vote?
+	V003B	You mentioned you would vote for another party if there was a general election tomorrow. Which of the below, if any, would you vote for?
+	HeadlineVI	Headline VI
+	Summary V006	To what extent do you approve or disapprove of…
+	V006	To what extent do you approve or disapprove of…
+ The way Andy Burnham is handling his job as Prime Minister
+	V006 (2)	To what extent do you approve or disapprove of…
+ The way Kemi Badenoch is handling her job as leader of the Conservative Party
+	V006 (3)	To what extent do you approve or disapprove of…
+ The way Ed Davey is handling his job as leader of the Liberal Democrats
+	V006 (4)	To what extent do you approve or disapprove of…
+ The way Nigel Farage is handling his job as leader of Reform UK
+	V006 (5)	To what extent do you approve or disapprove of…
+ The way John Healey is handling his job as Chancellor of the Exchequer
+	V006 (6)	To what extent do you approve or disapprove of…
+ The way Zack Polanski is handling his job as leader of the Green Party of England and Wales
+	V007	Which, if any, of the following people do you think would be the best prime minister?
+	V007_KF	Which, if any, of the following people do you think would be the best prime minister?
+	Summary V103	To what extent do you agree or disagree that Andy Burnham...
+	V103	To what extent do you agree or disagree that Andy Burnham...
+ …is decisive
+	V103 (2)	To what extent do you agree or disagree that Andy Burnham...
+ …is in touch with ordinary people
+	V103 (3)	To what extent do you agree or disagree that Andy Burnham...
+ …represents what most people think
+	V103 (4)	To what extent do you agree or disagree that Andy Burnham...
+ …has similar views to my own
+	V103 (5)	To what extent do you agree or disagree that Andy Burnham...
+ …has the nation’s best interests at heart
+	V103 (6)	To what extent do you agree or disagree that Andy Burnham...
+ …is a strong leader
+	V103 (7)	To what extent do you agree or disagree that Andy Burnham...
+ …is able to get things done
+	V103 (8)	To what extent do you agree or disagree that Andy Burnham...
+ …is able to stand up for Britain’s interests abroad
+	V103 (9)	To what extent do you agree or disagree that Andy Burnham...
+ …sticks to his principles rather than just saying what people want to hear
+	V103 (10)	To what extent do you agree or disagree that Andy Burnham...
+ …is trustworthy
+	V103 (11)	To what extent do you agree or disagree that Andy Burnham...
+ …is brave
+	V103 (12)	To what extent do you agree or disagree that Andy Burnham...
+ …can be trusted to take big decisions
+	V103 (13)	To what extent do you agree or disagree that Andy Burnham...
+ …is competent
+	V103 (14)	To what extent do you agree or disagree that Andy Burnham...
+ …is likeable
+	Summary V104	To what extent do you agree or disagree that Kemi Badenoch...
+	V104	To what extent do you agree or disagree that Kemi Badenoch...
+ …is decisive
+	V104 (2)	To what extent do you agree or disagree that Kemi Badenoch...
+ …is in touch with ordinary people
+	V104 (3)	To what extent do you agree or disagree that Kemi Badenoch...
+ …represents what most people think
+	V104 (4)	To what extent do you agree or disagree that Kemi Badenoch...
+ …has similar views to my own
+	V104 (5)	To what extent do you agree or disagree that Kemi Badenoch...
+ …has the nation’s best interests at heart
+	V104 (6)	To what extent do you agree or disagree that Kemi Badenoch...
+ …is a strong leader
+	V104 (7)	To what extent do you agree or disagree that Kemi Badenoch...
+ …is able to get things done
+	V104 (8)	To what extent do you agree or disagree that Kemi Badenoch...
+ …is able to stand up for Britain’s interests abroad
+	V104 (9)	To what extent do you agree or disagree that Kemi Badenoch...
+ …sticks to her principles rather than just saying what people want to hear
+	V104 (10)	To what extent do you agree or disagree that Kemi Badenoch...
+ …is trustworthy
+	V104 (11)	To what extent do you agree or disagree that Kemi Badenoch...
+ …is brave
+	V104 (12)	To what extent do you agree or disagree that Kemi Badenoch...
+ …can be trusted to take big decisions
+	V104 (13)	To what extent do you agree or disagree that Kemi Badenoch...
+ …is competent
+	V104 (14)	To what extent do you agree or disagree that Kemi Badenoch...
+ …is likeable
+	V104 (15)	To what extent do you agree or disagree that Kemi Badenoch...
+ …looks like a Prime Minister in waiting
+	Summary IMM3	And which government do you think would be best at handling…?
+	IMM3	And which government do you think would be best at handling…?
+ The numbers of people migrating to the UK
+	IMM3 (2)	And which government do you think would be best at handling…?
+ A fair process for immigration to the UK
+	IMM3 (3)	And which government do you think would be best at handling…?
+ A fair process for asylum seekers to the UK
+	IMM3 (4)	And which government do you think would be best at handling…?
+ The integration of different communities
+	BHM1	Thinking about his first period as Prime Minister, would you say your opinion of Andy Burham has become more positive or negative since he became Prime Minister?
+	BHM2	Would you say your opinion of the Labour Party has become more positive or negative since Andy Burnham became Prime Minister?
+	BHM3	Overall, would you say the government led by Andy Burnham and the Labour Party so far has been a success?
+	PM1	Would you say the current Labour government under Andy Burnham is better or worse than the last government under Keir Starmer?
+	PM2	Since Andy Burnham became Prime Minister, what policies or announcements, if any, do you remember him making? Please list as many as you can.
+	LAB5	Thinking about Andy Burnham becoming Prime Minister, what difference, if any, do you think this will make to how the country is run?
+	LAB6	Now that Andy Burnham has become Prime Minister, do you think things will...
+	LAB7	Thinking about Andy Burnham becoming Prime Minister, which of the following is closest to your view? “Andy Burnham becoming Prime Minister…
+	Summary POL1	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+	POL1	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Removing VAT from household electricity bills to reduce energy costs
+	POL1 (2)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Reinstating the £2 maximum bus fare in England
+	POL1 (3)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Build the largest programme of new council homes since the Second World War
+	POL1 (4)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ End rough sleeping across Britain by adopting a "Housing First" approach
+	POL1 (5)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Give more powers to local and regional mayors over transport, housing, economic development, education and skills
+	POL1 (6)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Create a "Number 10 North" based in Manchester to bring decision-making closer to communities outside London
+	POL1 (7)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Launch a major programme to rebuild British industry, supporting sectors such as steel, defence, energy, food and farming
+	POL1 (8)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Reform adult social care to provide better support for older and disabled people while reducing pressure on the NHS
+	POL1 (9)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Expand apprenticeships and technical education around local jobs alongside traditional university routes
+	POL1 (10)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Fully fund the UK's defence spending commitments while strengthening Britain's domestic defence industry
+	POL1 (11)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Reform business rates to reduce costs for pubs, shops and other high street businesses
+	POL1 (12)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Giving the public greater control over essential services such as water, transport and housing.
+	POL1 (13)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Increasing the income tax personal allowance by ending the current freeze
+	POL1 (14)	Thinking about Andy Burnham's government, how much, if anything, have you heard about each of the following potential policies or pledges that have been reported in the media?
+ Increase domestic oil and gas production in the North Sea to strengthen the UK's energy security and help reduce energy costs
+	Summary PC1	How much have you seen or heard about the following in the past week?
+	PC1	How much have you seen or heard about the following in the past week?
+ Andy Burnham becoming prime minister
+	PC1 (2)	How much have you seen or heard about the following in the past week?
+ The ongoing wildfires in France and Spain
+	PC1 (3)	How much have you seen or heard about the following in the past week?
+ The fourth UK heatwave of the summer, with temperatures forecast to reach 35°C
+	PC1 (4)	How much have you seen or heard about the following in the past week?
+ Chris Philp, shadow home secretary, says a French warship fired warning shots while he was filming migrant crossings in the English Channel
+	PC1 (5)	How much have you seen or heard about the following in the past week?
+ Reform UK reports Green Party leader Zack Polanski to police over a social media post featuring a guillotine image aimed at Nigel Farage
+	PC1 (6)	How much have you seen or heard about the following in the past week?
+ Andy Burnham meets Ukrainian President Volodymyr Zelensky and pledges continued UK support for Ukraine
+	PC1 (7)	How much have you seen or heard about the following in the past week?
+ Lando Norris wins the Hungarian Grand Prix
+	PC1 (8)	How much have you seen or heard about the following in the past week?
+ Christopher Nolan's film The Odyssey released
+	PC1 (9)	How much have you seen or heard about the following in the past week?
+ Love Island crowns the winners of its latest series
+	Summary TX1B	If the government were to introduce a wealth tax: a tax on the total value of a person’s assets minus their debts, as opposed to a tax on their income or specific transactions.What do you think should be included within a wealth tax?
+	TX1B	If the government were to introduce a wealth tax: a tax on the total value of a person’s assets minus their debts, as opposed to a tax on their income or specific transactions.What do you think should be included within a wealth tax?
+ Cash savings
+	TX1B (2)	If the government were to introduce a wealth tax: a tax on the total value of a person’s assets minus their debts, as opposed to a tax on their income or specific transactions.What do you think should be included within a wealth tax?
+ Investments (such as shares, bonds, mutual funds)
+	TX1B (3)	If the government were to introduce a wealth tax: a tax on the total value of a person’s assets minus their debts, as opposed to a tax on their income or specific transactions.What do you think should be included within a wealth tax?
+ Business ownership
+	TX1B (4)	If the government were to introduce a wealth tax: a tax on the total value of a person’s assets minus their debts, as opposed to a tax on their income or specific transactions.What do you think should be included within a wealth tax?
+ Cars and other vehicles
+	TX1B (5)	If the government were to introduce a wealth tax: a tax on the total value of a person’s assets minus their debts, as opposed to a tax on their income or specific transactions.What do you think should be included within a wealth tax?
+ Valuable personal property (such as art, jewellery)
+	TX1B (6)	If the government were to introduce a wealth tax: a tax on the total value of a person’s assets minus their debts, as opposed to a tax on their income or specific transactions.What do you think should be included within a wealth tax?
+ Pensions
+	TX1B (7)	If the government were to introduce a wealth tax: a tax on the total value of a person’s assets minus their debts, as opposed to a tax on their income or specific transactions.What do you think should be included within a wealth tax?
+ Main residence
+	TX1B (8)	If the government were to introduce a wealth tax: a tax on the total value of a person’s assets minus their debts, as opposed to a tax on their income or specific transactions.What do you think should be included within a wealth tax?
+ Second residence
+	TX1B (9)	If the government were to introduce a wealth tax: a tax on the total value of a person’s assets minus their debts, as opposed to a tax on their income or specific transactions.What do you think should be included within a wealth tax?
+ Buy-to-let properties
+	TX2	And if a tax on wealth were introduced, what do you think the threshold for a tax like this should be?By this we mean at what total value do you think a person’s assets need to reach before they start paying a wealth tax?
+	TX3	Some have suggested the introduction of a wealth tax in the UK. The latest proposal from some politicians and other groups is for a yearly 2% wealth tax on assets valued above £10 million.Would you support or oppose the introduction of a wealth tax such as this in the UK?
+	TX4_1	Still thinking about the introduction of a 2% wealth tax on assets valued over £10 million.Do you think the introduction of this policy would be…
+	TX4_2	Still thinking about the introduction of a 2% wealth tax on assets valued over £10 million.Do you think the introduction of this policy would be…
+	TX4_3	Still thinking about the introduction of a 2% wealth tax on assets valued over £10 million.Do you think the introduction of this policy would be…
+	TX4_4	Still thinking about the introduction of a 2% wealth tax on assets valued over £10 million.Do you think the introduction of this policy would be…
+	TX4_5	Still thinking about the introduction of a 2% wealth tax on assets valued over £10 million.Do you think the introduction of this policy would be…
+	TX4_6	Still thinking about the introduction of a 2% wealth tax on assets valued over £10 million.Do you think the introduction of this policy would be…

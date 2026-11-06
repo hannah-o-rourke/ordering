@@ -1,0 +1,169 @@
+
+Survation | First Past the Post, but only just: Reform’s marginal lead and our latest MRP findings | Survation
+Home
+About
+Services
+Our Work
+Clients
+Archive
+Blog
+Careers
+Contact
+Home
+About
+Services
+Our Work
+Clients
+Archive
+Blog
+Careers
+Contact
+Survation Panel
+Search for:
+Blog
+First Past the Post, but only just: Reform’s marginal lead and our latest MRP findings
+What Survation’s constituency MRP for HOPE not hate reveals about the next election’s tactical battleground
+In July 2026, Survation carried out an MRP analysis of Westminster voting intention on behalf of HOPE not hate, based on a poll of 10,014 GB adults carried out between 22 and 27 July.
+If an election had been held during our fieldwork, the result would have been a hung parliament: Reform the largest party on 227 seats and Labour on 197.  Reform, while the largest party, is still 99 seats short and it tops the projection on just 26.3% of the vote. What the model reveals is less clear-cut than the headlines might suggest, as we set out below. 
+Reform leads most seats, but with slim margins across all
+Reform’s lead is marginal – the median majority would be 7.6 points in seats Reform is likely to win, compared to a 18.9 points median majority for Labour in 2024. Just 100 of its seats would be safe, with a margin of 15 points or more, while 70 would be held by under 5 points. Across all 631 seats, 170 are decided by fewer than 5 points and 112 by fewer than 3. On these numbers, a national swing of just 6 points could flip around 95 seats. 
+Tactical voting at the next election
+Tactical voting was a defining feature of the 2024 General Election, as many voters of all stripes coordinated to remove Conservative incumbents. A shallow polling lead of 0.4% is exactly where tactical voting would become decisive for many seats, and there’s good reason to think the next election will see plenty of it. 
+With voters across the spectrum currently dissatisfied with their traditional parties and with political preferences more fragmented than ever, the incentive to vote for whoever is best placed to block an unwanted winner only grows. The target on this occasion could be Reform UK, the party seen as the biggest threat across the board, or Labour which has alienated a significant proportion of its 2024 electorate. Under first-past-the-post, an anti-Reform tactical vote would mean a voter abandoning their preferred party when it is likely to finish third or lower to back the strongest challenger to Reform in their constituency. 
+Recent by-elections bear out how decisive that can be: in Caerphilly as well as Gorton and Denton, a clear challenger emerged and the anti-Reform vote consolidated, behind Plaid Cymru and the Green Party respectively. Meanwhile, in contests where no obvious challenger crystallised, the anti-Reform vote split and Reform benefited, as we have observed in many local elections and by-elections over the past year. 
+Tactical voting tends to materialise when voters have all relevant information: the national picture and the specific dynamics of their own seat. They need to understand who has the best chances of overtaking Reform and whether they can do so in their specific seat. MRP is useful here as a national poll can tell you Reform and Labour are level on around 26%., but can’t tell you whether, in your constituency, the challenger to Reform is Labour, the Liberal Democrats, the SNP or Plaid Cymru. Tactical voting is an inherently local question, and MRP, which models every constituency individually, helps answer that.
+Where the votes came from and where Labour’s went
+Reform’s vote is largely made up of recent converts. 39% of its current support also voted Reform in 2024, but a quarter did not vote at all, and 19% came from the 2024 Conservatives. 
+Labour’s vote has the opposite makeup: they lose the most to abstention. Just under a fifth (18%) of Labour’s 2024 voters now say they will not vote, nearly twice the share going to Reform (10%) and almost three times the share going to the Greens (6%). Labour retains just 56% of its 2024 vote, which is the lowest of any major party, while Reform retains 78%.
+The progressive split
+Of the 227 seats Reform leads, Labour is second in 140, and in 134 of them the Green vote alone is larger than Reform’s winning margin. In many of these cases, Reform seems to be ahead only because the anti-Reform vote is divided between two or more challengers. 
+One might think that Labour has lost votes to the Greens, but most Green voters were never Labour voters, so simply folding the Green vote into Labour likely won’t happen. When we model how the election could play out if every 2024 Labour voter who now backs the Greens returned to Labour, it moves 30 seats and makes Labour the largest party (with 225 seats to Reform’s 210) yet still far short of a majority. There are more seats where a united right would overturn the winner (164) than where a united left would overturn Reform (96). On current numbers, splitting is costing the right more than it is costing the left.
+The top 10 constituencies with the closest three-way races where Reform UK leads
+A country divided four ways
+There are, however, different battles at play behind a national number:
+The 
+Red Wall
+ – 160 post-industrial seats across the North, Midlands and Wales – is Reform’s surge zone: Labour’s vote is down around 12 points on average, Reform’s up nearly 15%, and it now leads in 101 of them. It is also where the “Burnham bounce” is largest, with Labour recovering roughly 11 points here since the spring.
+Scotland and Wales
+ are Labour’s weakest regions, but not because of Reform: here the vote is being reclaimed by the SNP in Scotland, who are on course for as many as 46 seats, and by Plaid Cymru in Wales. Labour’s retention falls to 45% in Scotland and 48% in Wales.
+The 
+Blue Wall
+ – around 42 prosperous, graduate-heavy, Remain-voting seats in the South – remain the ideal ground for the Lib Dems. Labour’s vote is flat, the Liberal Democrats lead in 32, and Reform makes comparatively little headway.
+London
+ remains a Labour stronghold: the smallest Reform advance in the country at 6.5 points, the lowest Labour-to-Reform defection rate at 5%, and Labour still winning 52 of 75 seats.
+The education divide
+Education remains one of the strongest predictors of vote choice at both the individual and the constituency level. Reform’s share runs from 35% in the fifth of seats with the fewest graduates down to under 15% in the most graduate-heavy fifth. The correlation between a seat’s graduate share and its Reform vote is −0.78; against the 2016 Remain vote it is −0.86. The educational and Brexit fault lines of 2016 and 2019 are still structuring support for Reform in 2026. Meanwhile, the Conservative collapse is steepest in their traditional strongholds – seats with a higher share of the older population.
+The Labour–Reform battleground
+Most of the decisive contests are straight Labour–Reform fights: 259 of them in this polling, with Reform ahead in 140 and Labour in 119. Out of these contests, 79 are split by less than five points and 37 by less than two. In almost all of these seats our model puts each party’s win probability between 45% and 55% which is essentially a coin-flip based on current data.
+An MRP doesn’t forecast the next election, and is a snapshot in time – in this case Andy Burnham’s first week as PM. Importantly, seat totals should always be read with their ranges, which can be wide. However it does show seat by seat races: which contests are close, who the most likely local challenger is, and where a divided anti-Reform vote is handing Reform seats it would not otherwise win. That map is the starting point for any serious analysis of whether, and where, tactical voting could reshape the result.
+Survation conducted a multilevel regression and post-stratification (MRP) model of Westminster voting intention for HOPE not hate, based on 10,014 GB adults interviewed online between 22 and 27 July 2026, modelled to 631 constituencies.  
+Survation is an MRS company partner, a member of the British Polling Council and abides by their rules. To find out more about Survation’s services, and how you can conduct a telephone or online poll for your research needs, please visit our services page.
+If you are interested in commissioning research or to learn more about Survation’s research capabilities, please contact John Gibb on 020 3818 9661, email researchteam@survation.com, or visit our services page.
+For press enquiries, please call 0203 818 9661 or email media@survation.com
+< Back
+Authors
+Alina Vrabie
+Alina Vrabie is a Research and Data Analyst at Survation, specialising in experimental research design, causal inference, and large-scale field studies. She holds a Distinction-level MSc in Political Behaviour from LSE and brings hands-on campaign experience, including survey experiments, RCTs, conjoint designs and field testing of campaigns.
+PJ Stock
+PJ Stock is a Research and Data Analyst at Survation
+Published: 
+27/08/26
+Survation on X
+Posts by @Survation
+Survation
+Independent research, polling and insight
+For general enquiries, please call 0203 142 7640 or email 
+enquiry@survation.com
+.
+For press enquiries, please phone 0203 818 9664 or email 
+media@survation.com
+.
+For an immediate quote for a research project, call us on 0203 818 9661 or email 
+researchteam@survation.com
+ and we’ll call you right back.
+Log In to the Survation Panel here.
+Survation are an equal opportunities employer. Read our policy 
+here
+.
+Our Latest Polling News
+Subscribe
+Alternatively fill out your details
+below and we’ll come back to you
+Your Name*
+Your Email*
+Your Phone
+Comments
+Send
+Δ
+Survation.
+Contact
+For technical support about our panel:
+Contact our tech team 
+here
+For general enquiries:
+Please call 0203 142 7640 or email enquiry@survation.com
+For press enquiries:
+Please call 0203 818 9664 or email media@survation.com.
+For an immediate quote for a research project:
+Please call 0203 818 9661 or email researchteam@survation.com
+Survation is an MRS Company Partner and member of the British Polling Council
+Survation is proud to be an accredited London Living Wage employer
+© 2026 Survation
+Survation Pages
+Home
+About
+Services
+Our Work
+Clients
+Archive
+Blog
+Careers
+Contact
+Categories
+Blog
+Charities & Campaign Groups
+Consumer, Media & Technology
+Elections
+Europe
+Labour Members
+Misc
+Panel
+Politics, Government & Current Affairs
+Research services
+Social Media
+starmer
+Survation
+Recent Posts
+Survation is Hiring a Senior Research Manager
+Health Misinformation: Who Is Hit Hardest, and Where 
+What UK Teenagers think in 2026: AI, the social media ban and their job prospects
+Search for:
+GDPR Cookie Banner
+We are using cookies to give you the best experience on our website.
+You can find out more about which cookies we are using or switch them off in 
+settings
+.
+Accept
+Reject
+Settings
+Close GDPR Cookie Settings
+Privacy Overview
+Strictly Necessary Cookies
+Analytics
+Powered by  
+GDPR Cookie Compliance
+ (opens in a new tab)
+Privacy Overview
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+Strictly Necessary Cookies
+These are necessary for the core functionality of the site, such as logging in, remembering preferences, and providing access to secure areas.
+Enabled
+Disabled
+Analytics
+This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+Keeping this cookie enabled helps us to improve our website.
+Enabled
+Disabled
+Enable All
+Reject All
+Save Changes

@@ -1,0 +1,1326 @@
+
+Tactical Voting 2026
+Tactical Voting and PR 2026
+This page first posted 21 October 2026, reposted with corrections 22 October 2026
+Electoral Calculus and 
+Find Out Now
+ have run a
+major new poll of over 10,000 respondents
+looking at both tactical voting and proportional representation electoral systems.
+Which parties would benefit from these effects or changes?
+Summary headlines:
+Anti-Reform tactical voting is strong and could cost Reform around 20 seats.	
+A Party List PR system would benefit the right, with a likely three-way coalition of
+	Reform, Conservatives and Restore having a majority.
+The alternative vote (AV) system would benefit right-of-centre parties more compared with
+	FPTP and tactical voting.
+FPTP with tactical voting would benefit the left the most, with a coalition between Labour and the Lib Dems able to secure a majority.
+1. Introduction
+The 2024 election was highly disproportionate, with Labour taking a sweeping majority on just 35pc of the vote while Reform UK and the Greens won a fifth of the vote combined but barely won any seats. This was down to how 
+the first-past-the-post (FPTP) system works by rewarding large parties and those with geographically concentrated support, at a time when voters are spreading their votes across more parties than ever.
+Andy Burnham has promised that Labour will fight the next general election on changing the voting system, and he has backed proportional representation before. The Liberal Democrats and the Greens strongly support a change, but the right, especially the Conservatives, is likely to resist. The two alternatives analysed by this poll are closed party list proportional 
+representation (PR) and the alternative vote (AV) system.
+Tactical voting is becoming much more significant amongst voters, with more choice of parties shaping how many people vote, but which parties would actually gain or lose if either alternative replaced the current system of FPTP?
+To cast light on this, we have worked with Find Out Now to ask the 
+public about tactical voting and alternative voting methods. 
+We asked people if and how they might vote tactically, and how they would vote
+under alternative voting systems such as Party List and Alternative Vote (AV).
+Find Out Now interviewed 10,684 adults from 22 September to 12 October 2026.
+The questions asked were:
+Likelihood to vote, to focus on those voters likely to vote
+Current voting intention (benchmark)
+Hypothetical voting intention to discover true 'first preference' party
+Various hypothetical A/B scenarios about how people would vote if there were only two (specified)
+parties who are competitive in their seat.
+Hypothetical voting intention under a proportional representation system, where voters rank
+	parties
+The aim is to find out, for example, how many Labour supporters might vote in a seat which is a contest between
+the Conservatives and Reform. Would any Labour supporters vote Tory to keep Reform out? And what would
+the results be under a different electoral system?
+2. Summary voting intention and seat forecasts
+The first table shows how people said they would vote under three different scenarios:
+First-past-the-post (FPTP) voting system without tactical voting 
+FPTP with tactical Voting
+Party List (or AV first preference) chosen party
+The original result of the last general election in 2024 is also shown as the first numerical column.
+Party
+GE 2024
+FPTP No TV
+FPTP With TV
+PR First Pref
+CON
+24%
+19%
+19%
+18%
+LAB
+35%
+25%
+27%
+23%
+LIB
+13%
+11%
+9%
+10%
+Reform
+15%
+22%
+23%
+23%
+Green
+7%
+9%
+8%
+11%
+Restore
+0%
+8%
+6%
+10%
+SNP
+3%
+3%
+4%
+3%
+Plaid
+1%
+1%
+1%
+1%
+OTH
+3%
+3%
+3%
+2%
+We see that Labour performs best under FPTP with tactical voting at 27pc, keeping a lead over Reform on 23pc and the Conservatives on 19pc. Under this system, tactical voting pushes both the Liberal Democrats and the Greens below 10pc, while Restore sits on 6pc.
+Despite Andy Burnham pledging to change the UK voting system, PR wouldn't benefit Labour, dropping them to 23pc to tie with Reform for top spot. Meanwhile, the Greens and Liberal Democrats benefit slightly at 11pc and 10pc, while Restore increases to 10pc.
+We also used MRP analysis to convert vote shares into predicted seats won. The next table shows
+these predicted seat totals by party:
+Party
+GE 2024
+FPTP No TV
+FPTP With TV
+PR Party List
+AV System
+CON
+121
+125
+148
+126
+65
+LAB
+412
+252
+263
+182
+240
+LIB
+72
+70
+71
+38
+58
+Reform
+5
+127
+108
+180
+202
+Green
+4
+6
+5
+46
+3
+Restore
+0
+1
+1
+26
+0
+SNP
+9
+43
+27
+28
+49
+Plaid
+4
+7
+8
+9
+15
+OTH
+5
+1
+1
+0
+0
+Under FPTP with tactical voting, Labour's 263 seats alongside 71 for the Liberal Democrats could deliver a working majority, with Andy Burnham as PM and Ed Davey Deputy PM. Reform on the other hand suffers from tactical voting,
+dropping 19 seats to 108 and falling behind the Conservatives, who gain 23 seats from tactical voting.
+Reform fares far better under both PR and AV, taking 180 seats under the party list system and 202 seats with the
+Alternative Vote. Indeed, with PR, Reform plus the Conservatives and Restore Britain would have a majority in
+the House of Commons. That could make Nigel Farage Prime Minister, with both Kemi Badenoch and Rupert Lowe in
+senior cabinet positions. Under AV, the left-wing parties would have 34 more seats than the right-wing parties,
+but parliament would be hung.
+Neither AV nor PR systems give Labour either a working majority or a left-wing coalition. Labour falls to 182 seats under PR and 240 under AV. Under AV, Labour's least unlikely path to a majority would require a three-way deal
+with the Liberal Democrats and the Scottish National Party.
+The last table gives seats by political bloc: showing the left (Labour, Lib Dem, Green),
+the right (Conservative, Reform, Restore), nationalists, and others.
+Party
+GE 2024
+FPTP No TV
+FPTP With TV
+PR Party List
+AV System
+Left
+488
+328
+339
+266
+301
+Right
+126
+253
+257
+332
+267
+SNP/Plaid
+13
+50
+35
+37
+64
+Other/NI
+23
+19
+19
+15
+18
+Total
+650
+650
+650
+650
+650
+First-past-the-post with tactical voting gives the left its strongest result, bringing Labour, the Liberal Democrats, and the Greens to 339 seats. On the right, a PR party list system could deliver a majority of 332 seats across the Conservatives, Reform, and Restore, potentially making Nigel Farage PM and Rupert Lowe a cabinet minister.
+3. Tactical Voting
+We asked our respondents if and how they might vote tactically to help their favoured parties, and
+to hurt their disliked parties.
+We performed this tactical voting analysis in a similar way to 
+our 
+2025 tactical voting poll
+.
+Voters were initially asked "Q3. Suppose all of the following political parties were equally likely to win your seat at a general election. Which party would you most like to win?". This question tries to discover
+the voters true first preference choice party.
+Given that, we then ask a number of A/B scenario questions, such as "Q4. CON-Reform": 
+"Suppose your seat is a close contest between Conservative Party and Reform UK and no other party is likely to win. How would you vote in this case?"
+The pairs used for the A/B scenarios vary across England, Scotland and Wales. They are listed in 
+Appendix 2 for reference.
+Some interesting insights from these A/B scenarios:
+In Con-Reform seats, 50pc of Labour supporters will vote Tory to defeat Reform
+Fewer than half of Reform supporters would vote Conservative to defeat Labour
+Almost all Green supporters would vote Labour to defeat Reform
+In Scottish seats between the SNP and Conservatives, Labour and Liberal voters are evenly split on which to support
+In Welsh seats between Plaid and Reform, left-of-centre voters prefer to vote for Plaid
+Overall, tactical voting benefits Labour and the Conservatives at the expense of almost everyone else. Reform loses ground mostly to the Conservatives, with maybe a little going to Labour.
+The SNP also lose around 16 seats to tactical voting, but the other smaller parties are fairly stable.
+Comparison with 2025
+About a year ago, we conduced a similar 
+tactical voting poll
+.
+Since then, anti-Reform sentiment has kept fairly strong. For example, 38pc of Labour supporters in 2025
+said they would vote Conservative to stop Reform. This figure has risen to 50pc in this new poll.
+On the other hand, some Restore voters would vote tactically to help Reform.
+We can measure the size of these changes in seats, by running our MRP seat estimator
+on the current voting intentions from our new poll, but using the tactical voting parameters
+from respectively last year and this year.
+Overall, the change in tactical voting preferences since 2025 increases Reform's seat total by
+8 seats, while Labour loses 10 seats and the Conservatives gain 6 seats.
+Method
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+SNP
+Plaid
+OTH
+FPTP old TV
+142
+273
+72
+100
+6
+1
+30
+7
+1
+FPTP new TV
+148
+263
+71
+108
+5
+1
+27
+8
+1
+Change
+6
+−10
+−1
+8
+−1
+0
+−3
+1
+0
+Correction:
+ This table is a corrected version. The previous version showed that tactical voting was
+worse for Reform in 2026 compared with 2025, when the opposite is true. Our apologies for this error.
+4. Electoral System – Party List PR
+Proportional Representation aims to elect MPs so that a party's share of seats roughly matches its national vote share. For example, a party with 40pc of the vote should win around 40pc of the seats. This system makes single party majorities less likely and they usually result in coalition governments instead.
+Because most parties have a real chance of winning in each constituency,
+the need for tactical voting mostly disappears.
+As an example Proportional Representation system we looked at the closed Party List system.
+This is already used in Wales to elect the Welsh Senedd, and is also used in Scotland for Holyrood
+elections in conjunction with FPTP.
+It's not a highly democratic system, because parties have total control of the candidates
+and of the order they appear on the party list. Candidates higher up the list are more likely to
+be elected, and voters are not allowed to prefer one candidate over another. Voters only vote
+for their single most favoured party.
+We chose to have 130 big constituencies across the country, with each seat electing five members
+of parliament. Members are elected using the
+D'Hondt method
+ of proportional representation.
+The map shows the 130 big constituencies, with a 5-segment pie chart on each one showing the
+breakdown of the elected MPs. For example, the seat in the north of Scotland has two SNP members (yellow),
+and one each from the Conservatives (blue), Lib Dems (orange), and Reform (light blue).
+As a check, we also ran the Single Transferable Vote (STV) system on the same constituencies and 
+saw fairly similar answers (Con 124, Lab 168, Lib 58, Reform 161, Green 58, Restore 36, SNP 22, Plaid 7).
+Overall, right-of-centre parties win more seats than left-of-centre parties, because 51pc
+of people chose a right-of-centre party as their first preference, compared with 44pc for left-of-centre
+parties.
+5. Electoral System – Alternative Vote
+The Alternative Vote (AV) is similar to First-Past-the-Post. Like FPTP, it elects one MP for each constituency, but instead of marking a single 'X', voters can rank the candidates in order of preference, putting a '1' by their favourite, a '2' by their second choice, and so on. Each voter can rank as many parties as they wish.
+If a candidate gets more than half of the first-preference votes, they win. If not, the last-placed candidate is eliminated and their votes are passed on to the voters' next choices, and this repeats until someone passes 50pc. The UK voted on switching to AV in a referendum in 2011. The result was a firm 'No', with 68pc voting against and 32pc in favour.
+By applying the voters' ranks to each seat, we can predict the winner under AV.
+Reform are the big winners as they win more seats under AV than any other system.
+The Conservatives are the main loser.
+We can how this works by looking at the seat of Banbury in Oxfordshire. The Conservatives
+are predicted to win this seat under FPTP, but they come third under the AV system.
+The table shows the rounds of vote counting, with the smallest party eliminated each time
+and that party's vote redistributed according to the voters' ranked party preferences.
+Round
+Discard
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+OTH
+#1
+0
+10,546
+10,263
+3,800
+10,020
+4,672
+3,570
+639
+#2
+444
+10,563
+10,305
+3,863
+10,042
+4,713
+3,581
+0
+#3
+1,183
+10,911
+10,434
+3,901
+12,339
+4,743
+0
+0
+#4
+1,560
+11,576
+12,166
+0
+12,515
+5,694
+0
+0
+#5
+2,655
+11,753
+16,516
+0
+12,586
+0
+0
+0
+#6
+6,460
+0
+19,240
+0
+17,810
+0
+0
+0
+At the initial count, the Conservatives are on 10,546 votes, just ahead of Labour on 10,263 and
+Reform on 10,020. The 639 votes for other parties are then re-distributed, with most being discarded.
+At round #2, Restore Britain is eliminated, and its votes are re-distributed, mostly to Reform, which ends up
+in first place.
+Then Lib Dem and Green votes are re-distributed, mostly to Labour, which gains the lead.
+Finally the Conservatives are eliminated, and although their votes split 2:1 for Reform, Labour
+has enough votes to win the seat.
+We can also look at the first and second preferences of voters. The table below has first preferences
+going down the left-hand column, and second preferences going along the top row.
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+NAT
+OTH
+Discard
+CON
+0%
+16%
+20%
+33%
+5%
+6%
+1%
+2%
+17%
+LAB
+10%
+0%
+46%
+2%
+29%
+1%
+3%
+1%
+7%
+LIB
+17%
+45%
+0%
+2%
+23%
+3%
+3%
+0%
+8%
+Reform
+36%
+3%
+3%
+0%
+1%
+38%
+1%
+1%
+17%
+Green
+1%
+46%
+33%
+1%
+0%
+0%
+5%
+4%
+10%
+Restore
+9%
+3%
+1%
+62%
+1%
+0%
+1%
+3%
+20%
+NAT
+1%
+17%
+11%
+2%
+38%
+3%
+0%
+1%
+27%
+OTH
+5%
+6%
+9%
+3%
+6%
+1%
+0%
+0%
+70%
+We can see, for example, that 33pc of Conservative supports have Reform as their second preference,
+and 20pc have the Liberal Democrats.
+On the whole, not so many voters have the Conservatives as their second choice. Even Reform voters
+are evenly split between the Conservatives and Restore Britain.
+6. Quotes
+Martin Baxter, CEO of Electoral Calculus, said
+: "Electoral reform is hugely popular as a policy on the left, but our data shows it would work against them. First-Past-The-Post with tactical voting safeguards left-of-centre majorities, and would allow Labour to form a majority with the Liberal Democrats if an election were held today. Switch to PR, and the picture transforms entirely, putting Nigel Farage in Downing Street alongside Kemi Badenoch and Rupert Lowe in senior cabinet positions.
+"This creates a political tightrope for Andy Burnham. Touting proportional representation gives Labour a hook to unite the left, but actually delivering it could lock them out of power."
+Tyron Surmon, Head of Research of Find Out Now, said
+: "Britain now arguably has five major parties in a system only really designed for two. Against this backdrop, it is no surprise that the idea of electoral reform has again come into vogue. However, our polling shows that moving away from the current system could cost Labour over 100 seats and allow a right-wing government to take office. Whether this will dampen their enthusiasm for changing the voting system remains to be seen."
+Appendix 1: Technical Details
+Find Out Now polled 10,684 GB adults online between 22 September to 12 October 2026. The sample was weighted to be representative by gender, age, social grade, other demographics and past voting patterns. Regression techniques were used to infer projected seat results.
+Find Out Now and Electoral Calculus are both members of the British Polling Council and abide by its rules.
+Data tables
+ are available here.
+Appendix 2: Full text of questions
+Q1.
+ We know that many people in your area didn't vote in the last general election. How likely do you think you are to vote in the next general election on a scale from 0 to 10? (10 - certain to vote, 0 - certain not to vote)
+Q2.
+ If a general election was called tomorrow, how would you vote?
+Q3.
+ Suppose all of the following political parties were equally likely to win your seat at a general election. Which party would you most like to win?
+Q4.
+ [A-B template] Suppose your seat is a close contest between [A] and [B] and no other party is likely to win. How would you vote in this case?
+Question four was asked up to four times for each respondent, with different values for the two parties [A] and [B].
+The choice of parties used depended on whether the respondent lives in England, Scotland or Wales.
+The table below shows which combinations were asked in which area:
+Area
+Party combinations
+England
+Con-Lab
+Con-Lib
+Con-Reform
+Green-Lab
+Lab-Reform
+Lib-Reform
+Scotland
+Con-SNP
+Lab-SNP
+Lib-SNP
+Reform-SNP
+Wales
+Con-Lab
+Con-Reform
+Lab-Reform
+Plaid-Reform
+Respondents were not asked for combinations which included the first preference party they
+gave earlier in question three.
+Other possible combinations (eg Con-Green) were not asked, since they make up only a small proportion of seats.
+Q5.
+ "Suppose the next general election was run under a proportional representation (PR) system, where the number of seats a party wins broadly matches its share of votes.
+Under this system, you rank parties in order of preference, so if your first choice does not win, your vote can instead go to your second choice. 
+Please rank the parties in your order of preference (1, 2, 3, etc). Rank as many parties as you wish."
+Appendix 3: A/B question matrices
+The following matrices give more details of the respondents' views in all the various cases.
+Each matrix represents one A/B test. For example, table one refers to contests between the 
+Conservatives and Liberal Democrats in England. Each row of the matrix refers to the first preference
+party of respondents. Each column describes what they would do in this A/B scenario.
+For example, the first row of table one shows what Labour supporters would do in seats which 
+are Con-Lib contests. Of those whose first preference party is Labour, 7pc would tactically vote Conservative,
+72pc would tactically vote Lib Dem, 20pc would non-tactically vote Labour, and 1pc would vote for other parties.
+There is one for each relevant party. Note that, in table one, there are no rows for Conservative or Lib Dem supporters
+as they are all assumed to vote for their first preference party.
+England
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+OTH
+LIB
+18%
+62%
+20%
+-
+-
+-
+-
+Reform
+47%
+2%
+-
+51%
+-
+-
+-
+Table 1
+ Tactical preferences for CON-LAB contests in England
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+OTH
+LAB
+9%
+22%
+69%
+-
+-
+-
+0%
+Reform
+44%
+-
+5%
+51%
+-
+-
+0%
+Green
+2%
+-
+69%
+-
+29%
+-
+0%
+Restore
+30%
+-
+7%
+-
+-
+63%
+-
+OTH
+34%
+-
+17%
+-
+-
+-
+50%
+Table 2
+ Tactical preferences for CON-LIB contests in England
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+OTH
+LAB
+50%
+45%
+-
+4%
+-
+-
+1%
+LIB
+64%
+-
+31%
+3%
+-
+-
+1%
+Green
+38%
+-
+-
+1%
+61%
+-
+1%
+Restore
+9%
+-
+-
+56%
+-
+35%
+-
+OTH
+38%
+-
+-
+6%
+-
+-
+56%
+Table 3
+ Tactical preferences for CON-Reform contests in England
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+OTH
+CON
+59%
+28%
+-
+-
+12%
+-
+1%
+LIB
+-
+48%
+24%
+-
+28%
+-
+0%
+Reform
+-
+9%
+-
+80%
+10%
+-
+1%
+Restore
+-
+8%
+-
+-
+7%
+85%
+-
+OTH
+-
+17%
+-
+-
+11%
+-
+72%
+Table 4
+ Tactical preferences for Green-LAB contests in England
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+OTH
+CON
+36%
+21%
+-
+43%
+-
+-
+0%
+LIB
+-
+75%
+19%
+7%
+-
+-
+0%
+Green
+-
+84%
+-
+1%
+15%
+-
+0%
+Restore
+-
+3%
+-
+60%
+-
+37%
+-
+OTH
+-
+30%
+-
+29%
+-
+-
+42%
+Table 5
+ Tactical preferences for LAB-Reform contests in England
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+OTH
+CON
+40%
+-
+26%
+34%
+-
+-
+-
+LAB
+-
+20%
+77%
+3%
+-
+-
+-
+Table 6
+ Tactical preferences for LIB-Reform contests in England
+Scotland
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+SNP
+OTH
+LAB
+34%
+25%
+-
+-
+-
+-
+39%
+3%
+LIB
+36%
+-
+29%
+-
+-
+-
+34%
+1%
+Reform
+57%
+-
+-
+32%
+-
+-
+11%
+-
+Green
+-
+-
+-
+-
+21%
+-
+79%
+-
+Restore
+29%
+-
+-
+-
+-
+50%
+20%
+-
+OTH
+-
+-
+-
+-
+-
+-
+-
+100%
+Table 7
+ Tactical preferences for CON-SNP contests in Scotland
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+SNP
+OTH
+CON
+23%
+74%
+-
+-
+-
+-
+3%
+-
+LIB
+-
+49%
+26%
+-
+-
+-
+25%
+-
+Reform
+-
+30%
+-
+52%
+-
+-
+18%
+-
+Green
+-
+25%
+-
+-
+24%
+-
+50%
+-
+Restore
+-
+20%
+-
+-
+-
+59%
+21%
+-
+OTH
+-
+-
+-
+-
+-
+-
+-
+100%
+Table 8
+ Tactical preferences for LAB-SNP contests in Scotland
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+SNP
+OTH
+CON
+26%
+-
+61%
+-
+-
+-
+14%
+-
+LAB
+-
+18%
+58%
+-
+-
+-
+23%
+1%
+Reform
+-
+-
+29%
+58%
+-
+-
+13%
+-
+Green
+-
+-
+7%
+-
+28%
+-
+66%
+-
+Restore
+-
+-
+20%
+-
+-
+59%
+21%
+-
+OTH
+-
+-
+-
+-
+-
+-
+42%
+58%
+Table 9
+ Tactical preferences for LIB-SNP contests in Scotland
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+SNP
+OTH
+CON
+33%
+-
+-
+49%
+-
+-
+17%
+1%
+LAB
+-
+30%
+-
+15%
+-
+-
+52%
+2%
+LIB
+-
+-
+35%
+6%
+-
+-
+57%
+1%
+Green
+-
+-
+-
+-
+23%
+-
+77%
+-
+Restore
+-
+-
+-
+56%
+-
+32%
+12%
+-
+OTH
+-
+-
+-
+-
+-
+-
+60%
+40%
+Table 10
+ Tactical preferences for SNP-Reform contests in Scotland
+Wales
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+Plaid
+OTH
+LIB
+31%
+42%
+27%
+-
+-
+-
+-
+-
+Reform
+54%
+1%
+-
+45%
+-
+-
+-
+-
+Green
+2%
+71%
+-
+-
+27%
+-
+-
+-
+Restore
+32%
+3%
+-
+-
+-
+64%
+-
+-
+Plaid
+3%
+52%
+-
+-
+-
+-
+45%
+-
+OTH
+-
+6%
+-
+-
+-
+-
+-
+94%
+Table 11
+ Tactical preferences for CON-LAB contests in Wales
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+Plaid
+OTH
+LAB
+31%
+63%
+-
+-
+-
+-
+-
+6%
+LIB
+66%
+-
+27%
+7%
+-
+-
+-
+-
+Green
+40%
+-
+-
+2%
+58%
+-
+-
+0%
+Restore
+-
+-
+-
+55%
+-
+45%
+-
+-
+Plaid
+26%
+-
+-
+3%
+-
+-
+72%
+-
+OTH
+26%
+-
+-
+9%
+-
+-
+-
+65%
+Table 12
+ Tactical preferences for CON-Reform contests in Wales
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+Plaid
+OTH
+CON
+33%
+30%
+-
+37%
+-
+-
+-
+-
+LIB
+-
+82%
+11%
+7%
+-
+-
+-
+-
+Green
+-
+71%
+-
+3%
+26%
+-
+-
+-
+Restore
+-
+2%
+-
+67%
+-
+31%
+-
+-
+Plaid
+-
+53%
+-
+5%
+-
+-
+43%
+-
+OTH
+-
+26%
+-
+9%
+-
+-
+-
+65%
+Table 13
+ Tactical preferences for LAB-Reform contests in Wales
+First Pref
+CON
+LAB
+LIB
+Reform
+Green
+Restore
+Plaid
+OTH
+CON
+30%
+-
+-
+37%
+-
+-
+33%
+-
+LAB
+-
+33%
+-
+-
+-
+-
+67%
+-
+LIB
+-
+-
+38%
+6%
+-
+-
+56%
+-
+Green
+-
+-
+-
+1%
+21%
+-
+77%
+-
+Restore
+-
+-
+-
+65%
+-
+34%
+1%
+-
+OTH
+-
+-
+-
+10%
+-
+-
+6%
+84%
+Table 14
+ Tactical preferences for Plaid-Reform contests in Wales
+Tactical voting in three-way races
+We had to make assumptions about how voters would behave in three-way (or four-way)
+marginals. In these cases the seat is not a straight two-horse race and simple tactical voting
+models may be misleading. Our model assumptions are:
+If the gap between the second and third placed parties is at least 10pc, then tactical voting 
+	will operate in full. In this case the seat is a clear contest between two parties.
+If the gap between the second and third placed parties is less than 5pc, then there will be
+	no tactical voting. The seat is a contest between at least three parties, and tactical voting 
+	will be less applicable.
+If the gap is between 5pc and 10pc, then tactical voting will partially apply, since the
+	seat is in between the two clear cases.

@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Opinion Polls</TITLE>
+<META name="elcalc:shorttitle" content="Polls">
+<META name="elcalc:parent" content="resources_home.html">
+<META name="date" content="2026-10-27T00:00:00Z">
+<SCRIPT> var breadcrumbs=[["Home", "homepage.html"], ["Resources", "resources_home.html"], ["Polls", "polls.html"]]; </SCRIPT>
+<LINK REL=STYLESHEET TYPE="text/css" href="elcalc.css" TITLE="Style">
+<SCRIPT src="jsroutines.js"></SCRIPT>
+</HEAD>
+<BODY>
+<SCRIPT>PageStart()</SCRIPT>
+<STYLE>
+	#pollpills {
+		width: 290px;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+	}
+	#pollpills DIV { margin: 0 8px 8px 0; }
+</STYLE>
+
+<DIV class="flexrow aligntop">
+<DIV class="twocolwidth">
+<H1 id="title">Opinion Polls</H1>
+
+<H2>Recent opinion polls</H2>
+<P>
+<IMG SRC="pollgraph.png" ALT="Opinion Polls From Dec 2024" TITLE="Opinion Polls From Dec 2024" class="maxwidth">
+<P>
+Some of the most recent opinion polls are listed here
+<P>
+<SCRIPT>TableColumnFormat('llcccccccc')</SCRIPT>
+<TABLE class="llcccccccc">
+<COLGROUP span=3 class="faintgrey" /><COLGROUP class=con2 /><COLGROUP class=lab2 /><COLGROUP class=lib2 /><COLGROUP class=brexit2 /><COLGROUP class=green2 /><COLGROUP class=brexit2 />
+<TR><TH class="theme">Pollster<TH class="theme">Sample dates<TH class="theme">Sample size<TH>CON%<TH>LAB%<TH>LIB%<TH>Reform%<TH>Green%</TR>
+<TR><TD>ELECTION 2024<TD>04 Jul 2024<TD><TD>24.4<TD>34.7<TD>12.6<TD>14.7<TD>6.9</TR>
+<!-- DATA1 -->
+<TR><TD>Freshwater Strategy/City AM<TD>09 Oct 2026 - 11 Oct 2026<TD>1,235<TD>22<TD>29<TD>10<TD>23<TD>9</TR>
+<TR><TD>Trajectory Partnership<TD>05 Oct 2026 - 14 Oct 2026<TD>1,473<TD>21<TD>30<TD>10<TD>22<TD>8</TR>
+<TR><TD>Ipsos<TD>15 Oct 2026 - 22 Oct 2026<TD>1,100<TD>24<TD>32<TD>9<TD>20<TD>8</TR>
+<TR><TD>Find Out Now<TD>21 Oct 2026 - 22 Oct 2026<TD>2,381<TD>21<TD>26<TD>9<TD>20<TD>13</TR>
+<TR><TD>Opinium/The Observer<TD>21 Oct 2026 - 23 Oct 2026<TD>2,050<TD>20<TD>30<TD>9<TD>22<TD>10</TR>
+<TR><TD>Deltapoll<TD>23 Oct 2026 - 26 Oct 2026<TD>1,932<TD>21<TD>32<TD>7<TD>25<TD>8</TR>
+<TR><TD>More in Common<TD>23 Oct 2026 - 26 Oct 2026<TD>3,286<TD>24<TD>28<TD>11<TD>23<TD>7</TR>
+<TR><TD>YouGov/The Times;<BR>Sky News<TD>25 Oct 2026 - 26 Oct 2026<TD>2,271<TD>22<TD>27<TD>11<TD>20<TD>10</TR>
+<TR><TD>Poll Bias correction<TD>&nbsp;<TD>&nbsp;<TD>&nbsp;<TD>&nbsp;<TD>&nbsp;<TD>&nbsp;<TD>&nbsp;</TR>
+<TR><TD>AVERAGE<TD>05 Oct 2026 - 26 Oct 2026<TD><B>15,728</B><TD><B>21.4</B><TD><B>28.1</B><TD><B> 9.4</B><TD><B>21.3</B><TD><B> 8.9</B></TR>
+<!-- END1 -->
+</TABLE>
+<P>New opinion polls will be published here as they become available.
+
+</DIV> <!-- twocolwidth -->
+
+<div class="rhswidth brick_column">
+
+	<div class="brick" onclick="gourl('polls_full.html');">
+		<P class="strap">Poll History</P>
+		<H3><A href="polls_full.html">All national polls since 2024</A></H3>
+		<P>Complete record of national opinion polls since the last
+		general election in July 2024.</P>
+		<P class="dateline">Updated at least monthly</P>
+	</div>
+	
+	
+	<div class="brick" onclick="gourl('polls_scot.html');">
+		<P class="strap">Scotland</P>
+		<H3><A href="polls_scot.html">Scottish opinion polls</A></H3>
+		<P>Current state of party support in Scotland, along with a
+		record of Scottish opinion polls since July 2024.</P>
+		<P class="dateline">Updated when Scottish polls published</P>
+	</div>
+	
+	
+	<div class="brick" onclick="gourl('polls_ni.html');">
+		<P class="strap">Northern Ireland</P>
+		<H3><A href="polls_ni.html">Northern Ireland opinion polls</A></H3>
+		<P>Current state of party support in Northern Ireland, along with a
+		record of NI opinion polls since July 2024.</P>
+		<P class="dateline">Updated when NI polls published</P>
+	</div>
+	
+	
+	<div class="brick" onclick="gourl('polls_science.html');">
+	<P class="strap">Psephology</P>
+		<H3><A href="polls_science.html">Science of opinion polling</A></H3>
+		<P>Introductory article to the science of opinion polls,
+		describing the importance of sample size and quotas.</P>
+		<P class="dateline">31 July 2004</P>
+	</div>
+	
+	
+	<div class="brick">
+		<P class="strap">Campaign Polls</P>
+		<H3>Final Campaign Polls</H3>
+		<P>Historical record of polls published in the run-up to
+		recent general elections. Pick a year from:</P>
+		<DIV class="flexrow" id="pollpills">
+			<DIV class="radiosolo tint bluehover" onclick="gourl('polls24.html');">
+				<A href="polls24.html">2024</A>
+			</DIV>
+			<DIV class="radiosolo tint bluehover" onclick="gourl('polls19.html');">
+				<A href="polls19.html">2019</A>
+			</DIV>
+			<DIV class="radiosolo tint bluehover" onclick="gourl('polls17.html');">
+				<A href="polls17.html">2017</A>
+			</DIV>
+			<DIV class="radiosolo tint bluehover" onclick="gourl('polls15.html');">
+				<A href="polls15.html">2015</A>
+			</DIV>
+			<DIV class="radiosolo tint bluehover" onclick="gourl('polls10.html');">
+				<A href="polls10.html">2010</A>
+			</DIV>
+			<DIV class="radiosolo tint bluehover" onclick="gourl('polls05.html');">
+				<A href="polls05.html">2005</A>
+			</DIV>
+			<DIV class="radiosolo tint bluehover" onclick="gourl('polls01.html');">
+				<A href="polls01.html">2001</A>
+			</DIV>
+		</DIV>
+		<P class="dateline">8 October 2025</P>
+	</div>
+	
+	<div class="brick" onclick="gourl('links.html');">
+	<P class="strap">Pollsters</P>
+		<H3><A href="links.html">Links to pollsters</A></H3>
+		<P>Links to the major pollsters, political and electoral blogs,
+		and electoral data sources.</P>
+	</div>
+	
+</div>
+</div>
+
+
+<SCRIPT>PageEnd("", "hiderhs")</SCRIPT>
+</BODY>
+</HTML>

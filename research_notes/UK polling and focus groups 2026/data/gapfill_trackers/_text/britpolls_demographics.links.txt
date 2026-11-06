@@ -1,0 +1,168 @@
+BritPolls	/
+News	/news/
+Polls View all	/polls/
+VI Tracker Latest voting intention polls	/polls/voting-intention/
+Leader Approval PM & party leader ratings	/polls/leader-approval/
+MRP Constituency-level modelling	/polls/mrp/
+Party Favourability Net favourability by party	/polls/party-favourability/
+All Polls	/polls/all-polls/
+Weekly Tracker	/polls/weekly-tracker/
+Poll of Polls	/polls/poll-of-polls/
+By Region	/polls/by-region/
+Most Important Issues	/polls/most-important-issues/
+Demographics	/polls/demographics/
+Elections View all	/elections/
+General Election 2029 Forecast & seat projections	/elections/general-2029/
+Results 2024 Full GE2024 results	/elections/results-2024/
+By-Elections	/elections/by-elections/
+Local Elections 2026	/elections/local-2026/
+Holyrood 2026	/elections/scotland-holyrood-2026/
+Seats View all	/seats/
+House of Commons seats Current MPs by party vs 2024	/seats/
+MRP projections How polls could map to seats	/polls/mrp/
+Most marginal seats	/constituencies/most-marginal/
+Constituencies View all	/constituencies/
+Find your constituency Search by postcode	/constituencies/
+All 650 constituencies MPs and 2024 results	/constituencies/all/
+Most marginal	/constituencies/most-marginal/
+Reform UK targets	/constituencies/reform-uk-targets/
+Parties View all	/parties/
+All Parties	/parties/
+Labour	/parties/labour/
+Conservatives	/parties/conservatives/
+Reform UK	/parties/reform-uk/
+Lib Dems	/parties/lib-dems/
+SNP	/parties/snp/
+Greens	/parties/greens/
+Plaid Cymru	/parties/plaid-cymru/
+Leaders View all	/politicians/
+Leader approval Net ratings of all party leaders	/leaders/
+Keir Starmer Labour	/politicians/keir-starmer/
+Kemi Badenoch Conservative Leader	/politicians/kemi-badenoch/
+Nigel Farage Reform UK Leader	/politicians/nigel-farage/
+Rachel Reeves	/politicians/rachel-reeves/
+Ed Davey	/politicians/ed-davey/
+Leader approval	/polls/leader-approval/
+Nations View all	/nations/england/
+England	/nations/england/
+Scotland	/nations/scotland/
+Wales	/nations/wales/
+Northern Ireland	/nations/northern-ireland/
+Regions of England	/regions/
+World View all	/world/
+All Countries World polls & elections	/world/
+United States	/world/usa/
+Germany	/world/germany/
+Ireland	/world/ireland/
+Italy	/world/italy/
+Spain	/world/spain/
+Netherlands	/world/netherlands/
+Poland	/world/poland/
+Austria	/world/austria/
+More View all	/polls/politician-ranking/
+Politician Ranking	/polls/politician-ranking/
+Issues	/issues/
+Reader Polls	/polls/reader-polls/
+App	/pwa/
+BritPolls	/
+News	/news/
+Polls View all	/polls/
+VI Tracker Latest voting intention polls	/polls/voting-intention/
+Leader Approval PM & party leader ratings	/polls/leader-approval/
+MRP Constituency-level modelling	/polls/mrp/
+Party Favourability Net favourability by party	/polls/party-favourability/
+All Polls	/polls/all-polls/
+Weekly Tracker	/polls/weekly-tracker/
+Poll of Polls	/polls/poll-of-polls/
+By Region	/polls/by-region/
+Most Important Issues	/polls/most-important-issues/
+Demographics	/polls/demographics/
+Elections View all	/elections/
+General Election 2029 Forecast & seat projections	/elections/general-2029/
+Results 2024 Full GE2024 results	/elections/results-2024/
+By-Elections	/elections/by-elections/
+Local Elections 2026	/elections/local-2026/
+Holyrood 2026	/elections/scotland-holyrood-2026/
+Seats View all	/seats/
+House of Commons seats Current MPs by party vs 2024	/seats/
+MRP projections How polls could map to seats	/polls/mrp/
+Most marginal seats	/constituencies/most-marginal/
+Constituencies View all	/constituencies/
+Find your constituency Search by postcode	/constituencies/
+All 650 constituencies MPs and 2024 results	/constituencies/all/
+Most marginal	/constituencies/most-marginal/
+Reform UK targets	/constituencies/reform-uk-targets/
+Parties View all	/parties/
+All Parties	/parties/
+Labour	/parties/labour/
+Conservatives	/parties/conservatives/
+Reform UK	/parties/reform-uk/
+Lib Dems	/parties/lib-dems/
+SNP	/parties/snp/
+Greens	/parties/greens/
+Plaid Cymru	/parties/plaid-cymru/
+Leaders View all	/politicians/
+Leader approval Net ratings of all party leaders	/leaders/
+Keir Starmer Labour	/politicians/keir-starmer/
+Kemi Badenoch Conservative Leader	/politicians/kemi-badenoch/
+Nigel Farage Reform UK Leader	/politicians/nigel-farage/
+Rachel Reeves	/politicians/rachel-reeves/
+Ed Davey	/politicians/ed-davey/
+Leader approval	/polls/leader-approval/
+Nations View all	/nations/england/
+England	/nations/england/
+Scotland	/nations/scotland/
+Wales	/nations/wales/
+Northern Ireland	/nations/northern-ireland/
+Regions of England	/regions/
+World View all	/world/
+All Countries World polls & elections	/world/
+United States	/world/usa/
+Germany	/world/germany/
+Ireland	/world/ireland/
+Italy	/world/italy/
+Spain	/world/spain/
+Netherlands	/world/netherlands/
+Poland	/world/poland/
+Austria	/world/austria/
+More View all	/polls/politician-ranking/
+Politician Ranking	/polls/politician-ranking/
+Issues	/issues/
+Reader Polls	/polls/reader-polls/
+App	/pwa/
+	/polls/voting-intention/
+	/news/
+	/polls/reader-polls/
+Home	/
+Polls	/polls/
+Age Group Voting Intention by Age The starkest generational divide in modern Bri	/polls/by-age/
+Gender The Gender Chasm Men back Reform UK at 34%. Women back Reform at 22%, Lab	/polls/by-gender/
+Education Degree vs No Degree Degree holders split between Green (22%), Labour (	/polls/by-education/
+2016 Referendum Leave & Remain in 2026 Leave voters back Reform at 44%. Remain v	/polls/by-2016-vote/
+BritPolls	/
+	/feed/
+Voting Intention	/polls/voting-intention/
+Leader Approval	/polls/leader-approval/
+MRP Polls	/polls/mrp/
+Party Favourability	/polls/party-favourability/
+Labour	/parties/labour/
+Reform UK	/parties/reform-uk/
+Conservatives	/parties/conservatives/
+Lib Dems	/parties/lib-dems/
+Greens	/parties/greens/
+General Election 2029	/elections/general-2029/
+By-Elections	/elections/by-elections/
+Local Elections 2026	/elections/local-2026/
+Scotland	/scotland/
+Wales	/wales/
+World Polling	/world/
+CXMXO	https://cxmxo.com
+Privacy	/privacy/
+Imprint	/imprint/
+Contact	/contact/
+VI Tracker	/polls/voting-intention/
+Leader Approval	/polls/leader-approval/
+GE2029 Forecast	/elections/general-2029/
+Reform UK Rise	/parties/reform-uk/
+Latest Analysis	/news/
+Install	/pwa/

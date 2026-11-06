@@ -1,0 +1,258 @@
+
+MRP Poll October 2026
+MRP Poll October 2026
+This page first posted 16 October 2026
+On behalf of PLMR, Electoral Calculus has conducted a new MRP poll.
+Polling using MRP, which stands for Multi-level Regression and Post-stratification, is a relatively recent innovation in polling science which have been used to successfully predict the last three British general elections,
+and gives the estimated result in each Westminster constituency.
+Fieldwork was conducted from 25 September - 2 October 2026, with a sample size of over 6,600 people.
+More details at the 
+PLMR website
+.
+1. Headlines
+The poll places Labour on 28pc, ahead of Reform on 21pc and the Conservatives on 18pc.
+On these figures, Labour is predicted to win 353 seats, giving it a comfortable majority of 56 seats.
+The Conservatives are set to be the official opposition with 90 seats, with Reform as 
+the third-largest party with 81 seats. 
+The Liberal Democrats would win 70 seats, and the SNP 28 seats.
+Plaid Cymru would win 5 seats, and the Greens 4.
+The table below gives the prediction in numerical form:
+Party
+GE 2024
+Predicted Election Result
+Votes
+Seats
+MRP Votes
+MRP Seats
+LAB
+35%
+412
+28%
+353
+CON
+24%
+121
+18%
+90
+Reform
+15%
+5
+21%
+81
+LIB
+13%
+72
+10%
+70
+SNP
+3%
+9
+3%
+28
+Plaid
+1%
+4
+1%
+5
+Green
+7%
+4
+9%
+4
+Restore
+0%
+0
+8%
+1
+MIN
+3%
+5
+2%
+0
+Based on the numbers, if a general election were held now, the most likely outcome
+would be a Labour majority government. 
+Labour has increased its vote from 17pc to 28pc since
+our 
+January PLMR poll
+, as Labour takes votes 
+from the other left-of-centre parties, and the overall right-of-centre vote declines.
+Reform UK's vote has decreased from 31pc to 21pc over the same period, partly due to
+the growth in support for Restore Britain.
+Map: Predicted winners by seat
+MPs at risk
+The following Labour cabinet minister is at risk of losing their seats
+under our calculations:
+(To Green): Shabana Mahmood
+The following Conservative shadow cabinet ministers are at risk of losing their seats:
+(To Labour): Chris Philp, Rebecca Paul
+(To Reform): Victoria Atkins, Kevin Hollinrake
+2. Tactical Voting
+Following a major 
+polling project on tactical voting (TV)
+by Electoral Calculus and Find Out Now, we are able to estimate the effect of tactical voting on the
+predicted election result. Our TV analysis shows that:
+Strong anti-Reform tactical voting could cost Reform dozens of seats
+Over a third of Labour voters say they would vote Conservative to keep Reform out
+Otherwise voters on the left and right respectively support other candidates on the same side
+The table shows the predicted vote share and seats won both without tactical voting and with tactical voting.
+Party
+GE 2024
+Predicted Election
+Result (No TV)
+Predicted Election
+Result (With TV)
+Votes
+Seats
+MRP Votes
+MRP Seats
+MRP Votes
+MRP Seats
+LAB
+35%
+412
+27%
+344
+28%
+353
+CON
+24%
+121
+19%
+85
+18%
+90
+Reform
+15%
+5
+21%
+86
+21%
+81
+LIB
+13%
+72
+10%
+69
+10%
+70
+SNP
+3%
+9
+3%
+38
+3%
+28
+Plaid
+1%
+4
+1%
+5
+1%
+5
+Green
+7%
+4
+10%
+4
+9%
+4
+Restore
+0%
+0
+8%
+1
+8%
+1
+MIN
+3%
+5
+2%
+0
+2%
+0
+In the current electoral landscape, tactical voting is not playing a major part.
+Reform would get five more seats without tactical voting, and be the official opposition.
+But Labour would have a majority either way.
+3. Local Decisions
+With devolution in the air, we asked our respondents "Who do you think should have the most say over decisions about local services, such as transport, housing and schools, in your area?"
+Most people (52pc) said it should be their local council, with 25pc saying 'Don't know'. A further 12pc said it should be 'A regional mayor or combined authority',
+and only 7pc said it should be the UK Government.
+Response
+All voters
+England only
+Scotland
+Wales
+Your local council
+52%
+53%
+46%
+32%
+The UK Government
+7%
+7%
+5%
+11%
+A regional mayor or combined
+authority (if there is one)
+12%
+14%
+0%
+0%
+Scottish Government
+2%
+0%
+27%
+0%
+Welsh Government
+1%
+0%
+0%
+30%
+Don't know
+25%
+25%
+22%
+27%
+Respondents in Scotland and Wales, who do not have regional mayors or combined authorities,
+were offered the Scottish and Welsh Governments respectively as an option. In Scotland, 27pc
+think the Scottish government should control local services, but more people (46pc) think the local council 
+should be responsible. In Wales, the situation is more balanced with 32pc favouring local councils,
+and 30pc choosing the Welsh government.
+4. Treatment of "Don't Knows"
+Following polling errors in 2024, Electoral Calculus took part in investigations into possible causes,
+co-ordinated by the British Polling Council. Our findings are available
+here
+. In summary,
+Centre-left voters were more likely to over-estimate their likelihood to turnout
+Those who didn't know or refused to answer might have voted according to their GE 2019 preference
+To incorporate these findings into our post-election polling, we have made two assumptions
+about those who answer "don't know" to either the turnout or voting intention questions.
+Those who say "don't know" to the turnout question are assumed to be unlikely to vote
+Those who say "don't know" to the voting intention question are assumed to vote in the same way as GE 2024
+Quotes
+Kevin Craig
+, founder of PLMR, who commissioned the poll said: "Our polling shows Labour on course for a majority, a clear sign that Andy Burnham’s leadership is resonating with voters. Much of that comes down to how he communicates. He speaks in plain English and explains what the Government is doing simply and directly. People know what he is offering and who it is for, and his digital campaign is cutting through the noise.
+"There is still a long way to go before the next election, and this latest polling shows just how volatile British politics has become.
+"Voters are clearly giving Labour another hearing, but they will want to see delivery on the issues that matter most to them, from the cost of living to public services, before they fully buy into the party again. The coming months will be crucial in determining whether Burnham can sustain this shift in support."
+Martin Baxter
+, founder of Electoral Calculus, said
+"Our figures show a remarkable reversal of fortune for Labour under Andy Burnham, with the party now predicted to win 353 seats, an outright majority.
+Burnham has used clear left-of-centre rhetoric to win back those voters who drifted to the Liberal Democrats and the Greens when Keir Starmer was leader, rather than chasing Reform voters.
+"The right, by contrast, remains split. Restore Britain would win very few seats, but it is cutting into Reform's vote and leaving it with fewer than 100 seats and even less than the Conservatives.
+A pact between the Conservatives and Reform would give them just 171 seats, not even half of Labour's 353. Under the first-past-the-post system the side that unites first wins and Andy Burnham clearly understands that and is acting on it."
+Technical Details
+Find Out Now polled 6,699 GB adults online between 25 September and 2 October June 2026. The sample was weighted to be representative by gender, age, social grade, other demographics and past voting patterns. Regression techniques were used to infer projected seat results.
+Find Out Now and Electoral Calculus are both members of the British Polling Council and abide by its rules.
+Data tables
+ are available here, including full list of seats.
+About Us
+PLMR
+PLMR is an award-winning integrated communications agency founded in 2006, ranked in the Top 50 PR Firms in the UK by PR Week. Our purpose is to make a positive and sustainable difference for our clients, our people and society. Our services include PR, strategic communications, corporate communications, crisis communications and reputation management, public affairs, film and digital, social media, design, media training and more. We are proud to work with organisations across a range of sectors such as technology, health and social care, education and training, energy and sustainability, the built environment and the third sector. 
+Electoral Calculus
+Electoral Calculus is a pollster and political consultancy specialising in quantitative analysis and modelling for electoral and other market research projects. Its pre-poll prediction for the 2019 general election was the most accurate published forecast. It was founded by Martin Baxter, its CEO.
+Electoral Calculus is a member of the British Polling Council and abides by its rules.
+Find Out Now
+Find Out Now is a polling and market research panel with 2.8 million members. Highly profiled respondents can be targeted instantly, with over 100,000 daily responses allowing the delivery of same-day nationally representative sampling. 
+Find Out Now are members of the British Polling Council and Market Research Society, and abide by their rules.
+Regression Polling
+Modern polling analysis often uses statistical regression techniques to get more accurate and geographically detailed results. Also called MRP (multi-level regression and post stratification) they have been used successfully by Electoral Calculus and other pollsters to predict general elections, local elections and the 2019 European elections.

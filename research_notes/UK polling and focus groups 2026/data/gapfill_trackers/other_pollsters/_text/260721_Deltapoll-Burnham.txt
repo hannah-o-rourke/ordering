@@ -1,0 +1,311 @@
+Deltapoll Survey Results
+
+Sample size: 2,027 adults in Great Britain
+Fieldwork: 17th to 20th July 2026
+
+                                                                       Gender                              Age                                       Generation
+                                                      Total                            18 to     25 to    35 to    55 to                           Mille-                  Baby
+                                                                Male       Female        24       34       54       64       65+      Gen Z       nnials         Gen X   Boomers
+  All Adults in Great Britain Who Intend to Vote      1735       883          852       225       255      565      283      408        331         446           464       468
+                        Unweighted New Sample         1712       881          831       135       307      634      274      362        273         503           488       428
+General Election Voting Intention
+[Excluding 'Don't know' and 'Would not vote']
+                                                Con   18%        18%         19%        14%       8%      18%       20%      27%       12%          13%          22%        23%
+                                                Lab   28%        28%         28%        28%      32%      33%       27%      19%       28%          35%          29%        22%
+                                          Lib Dem     10%         9%         11%         8%      15%       7%       9%       11%        9%          9%            9%        10%
+                                             Reform   28%        30%         25%        15%      26%      30%       29%      32%       17%          28%          29%        33%
+                                                SNP    3%         4%            3%       3%       3%       4%       3%       4%         4%          3%            3%         4%
+                                                 PC    1%         0%            1%       0%       1%       0%       2%       0%         0%          1%            1%         1%
+                                              Green   10%         9%         11%        30%      14%       6%       5%       4%        28%          9%            4%         4%
+                                              Other    2%         3%            2%       2%       2%       2%       4%       3%         2%          1%            3%         3%
+
+
+
+                                                              All polls are subject to a wide range of potential sources of error. On the basis of the historical record of the
+                                                              polls at recent general elections, there is a 9 in 10 chance that the true value of a party’s support lies within 4
+                                                              points of the estimates provided by this poll, and a 2 in 3 chance that it lies within 2 points.
+
+
+                                                              For more information please see www.deltapoll.co.uk/methods
+                                                                      Gender                          Age                            Generation
+                                                        Total                        18 to   25 to   35 to   55 to                 Mille-            Baby
+                                                                Male      Female      24      34      54      64     65+   Gen Z   nnials   Gen X   Boomers
+                       All Adults in Great Britain      2027    981        1046      263     296     674     330     464    387     533      539      538
+                             Unweighted Sample          2027    985        1042      170     355     760     327     415    332     598      577      495
+For each of the following, do you think they are
+doing very well in their job, quite well, quite
+badly or very badly?
+The Prime Minister, Keir Starmer
+                                          Very well      8%     9%             6%    12%     13%      7%      5%     4%    11%      10%      7%       4%
+                                         Quite well     20%     20%        21%       28%     21%     23%     18%     14%   28%      22%     19%      15%
+                                       Quite badly      24%     24%        24%       30%     27%     19%     24%     25%   26%      23%     24%      23%
+                                        Very badly      42%     44%        40%       20%     30%     42%     51%     55%   27%      35%     46%      55%
+                                       Don't know        6%     3%             9%     9%      9%      8%      3%     3%     8%      9%       5%       3%
+                                          Well (All)    28%     29%        28%       40%     34%     30%     23%     18%   39%      32%     25%      19%
+                                         Badly (All)    66%     68%        64%       51%     57%     62%     74%     80%   52%      58%     70%      78%
+                                                  Net    -38    -39            -36    -11     -23     -32     -51    -62    -13     -26      -45      -59
+
+
+
+The Leader of the Conservative Party, Kemi Badenoch
+                                       Very well 12%            13%        12%        9%     11%     12%     14%     14%   11%      10%     14%      14%
+                                         Quite well     32%     35%        30%       22%     31%     30%     31%     43%   22%      33%     32%      38%
+                                       Quite badly      22%     22%        21%       27%     22%     23%     24%     15%   25%      22%     22%      19%
+                                        Very badly      18%     19%        17%       15%     16%     18%     20%     18%   17%      16%     19%      19%
+                                       Don't know       16%     12%        20%       27%     20%     17%     10%     10%   25%      19%     12%      10%
+                                          Well (All)    45%     47%        42%       31%     43%     42%     45%     57%   32%      43%     46%      52%
+                                         Badly (All)    39%     41%        38%       41%     38%     41%     44%     33%   42%      38%     42%      38%
+                                                  Net    +6      +6            +4     -10     +5      +1      +1     +24    -10     +5       +4       +14
+                                                                   Gender                          Age                            Generation
+                                                     Total                        18 to   25 to   35 to   55 to                 Mille-            Baby
+                                                             Male      Female      24      34      54      64     65+   Gen Z   nnials   Gen X   Boomers
+                      All Adults in Great Britain    2027    981        1046      263     296     674     330     464    387     533      539      538
+                           Unweighted Sample         2027    985        1042      170     355     760     327     415    332     598      577      495
+The Future Prime Minister, Andy Burnham
+                                        Very well    11%     13%            9%    14%     13%     11%     10%     7%    14%      12%      9%       8%
+                                       Quite well    27%     29%        25%       26%     31%     30%     28%     21%   30%      28%     30%      22%
+                                     Quite badly     13%     13%        13%       16%     19%     13%      9%     11%   17%      16%     11%      10%
+                                      Very badly     16%     19%        13%       10%     12%     16%     20%     18%   11%      15%     17%      19%
+                                     Don't know      33%     26%        40%       33%     25%     30%     34%     43%   29%      28%     33%      41%
+                                        Well (All)   38%     42%        34%       41%     44%     41%     37%     28%   43%      41%     39%      30%
+                                       Badly (All)   29%     32%        26%       26%     32%     29%     29%     29%   28%      31%     28%      29%
+                                               Net    +9     +10            +8    +15     +12     +12      +8     -1     +15     +10      +11      +1
+
+
+
+The leader of the Reform Party, Nigel Farage
+                                        Very well    15%     19%        11%        8%     15%     15%     18%     17%    9%      16%     17%      16%
+                                       Quite well    25%     26%        23%       22%     29%     26%     22%     23%   24%      26%     24%      24%
+                                     Quite badly     15%     15%        15%       18%     14%     14%     13%     15%   16%      16%     13%      16%
+                                      Very badly     37%     33%        40%       41%     31%     34%     42%     39%   40%      31%     40%      39%
+                                     Don't know       8%     7%         10%        9%     11%     11%      5%     6%    10%      11%      7%       6%
+                                        Well (All)   40%     45%        34%       31%     44%     41%     40%     40%   34%      42%     41%      40%
+                                       Badly (All)   52%     48%        56%       60%     45%     49%     55%     54%   56%      47%     52%      54%
+                                               Net    -12     -3            -22    -29     -1      -8      -15    -14    -22      -5      -11      -14
+Deltapoll Survey Results
+
+Sample size: 2,027 adults in Great Britain
+Fieldwork: 17th to 20th July 2026
+
+                                                                EU Ref Vote                GE 2024 Vote
+                                                      Total
+                                                              Remain   Leave   Con   Lab     Lib Dem      Reform   Other
+  All Adults in Great Britain Who Intend to Vote      1735     637      645    309   555       128         244      165
+                        Unweighted New Sample         1712     678      607    298   592       116         234      170
+General Election Voting Intention
+[Excluding 'Don't know' and 'Would not vote']
+                                                Con   18%      18%      21%    68%   4%        11%         7%       4%
+                                                Lab   28%      40%      18%    1%    69%       11%         2%       3%
+                                          Lib Dem     10%      15%       6%    2%    7%        64%         1%       5%
+                                             Reform   28%      10%      49%    27%   13%       7%          84%      5%
+                                                SNP    3%      6%        1%    0%    0%        0%          0%      32%
+                                                 PC    1%      1%        1%    0%    0%        0%          0%       5%
+                                              Green   10%      9%        1%    0%    5%        6%          3%      42%
+                                              Other    2%      1%        3%    1%    1%        0%          3%       5%
+                                                                  EU Ref Vote                GE 2024 Vote
+                                                        Total
+                                                                Remain   Leave   Con   Lab     Lib Dem      Reform   Other
+                       All Adults in Great Britain      2027     699      696    338   603       141         250      181
+                             Unweighted Sample          2027     743      665    319   640       132         240      183
+For each of the following, do you think they are
+doing very well in their job, quite well, quite
+badly or very badly?
+The Prime Minister, Keir Starmer
+                                          Very well      8%      9%        6%    3%    13%       5%          5%       7%
+                                         Quite well     20%      28%      10%    8%    35%       21%         5%      22%
+                                       Quite badly      24%      29%      18%    21%   25%       28%         17%     28%
+                                        Very badly      42%      31%      64%    65%   23%       42%         72%     39%
+                                       Don't know        6%      3%        1%    2%    4%        4%          1%       5%
+                                          Well (All)    28%      37%      17%    12%   48%       26%         10%     29%
+                                         Badly (All)    66%      60%      82%    87%   48%       70%         89%     67%
+                                                  Net    -38     -23       -65   -75    0        -44         -79      -38
+
+
+
+The Leader of the Conservative Party, Kemi Badenoch
+                                       Very well 12%             13%      16%    33%   7%        7%          16%      7%
+                                         Quite well     32%      32%      42%    50%   30%       27%         43%     25%
+                                       Quite badly      22%      24%      19%    7%    24%       34%         25%     23%
+                                        Very badly      18%      23%      14%    4%    28%       18%         10%     31%
+                                       Don't know       16%      9%        9%    5%    10%       14%         5%      14%
+                                          Well (All)    45%      44%      58%    83%   38%       34%         59%     32%
+                                         Badly (All)    39%      47%      33%    11%   52%       52%         36%     54%
+                                                  Net    +6       -3      +25    +72   -14       -18         +23      -22
+                                                               EU Ref Vote                GE 2024 Vote
+                                                     Total
+                                                             Remain   Leave   Con   Lab     Lib Dem      Reform   Other
+                      All Adults in Great Britain    2027     699      696    338   603       141         250      181
+                           Unweighted Sample         2027     743      665    319   640       132         240      183
+The Future Prime Minister, Andy Burnham
+                                        Very well    11%      13%       9%    8%    21%       4%          8%       7%
+                                       Quite well    27%      39%      17%    17%   41%       36%         10%     32%
+                                     Quite badly     13%      11%      14%    13%   9%        11%         18%     13%
+                                      Very badly     16%      8%       28%    26%   6%        9%          39%     13%
+                                     Don't know      33%      29%      32%    35%   24%       40%         25%     36%
+                                        Well (All)   38%      52%      26%    25%   61%       40%         18%     39%
+                                       Badly (All)   29%      19%      42%    40%   15%       21%         57%     25%
+                                               Net    +9      +33       -16   -15   +46       +19         -39      +14
+
+
+
+The leader of the Reform Party, Nigel Farage
+                                        Very well    15%      6%       29%    17%   9%        4%          53%      2%
+                                       Quite well    25%      18%      32%    35%   20%       11%         36%     15%
+                                     Quite badly     15%      15%      13%    19%   13%       18%         8%      17%
+                                      Very badly     37%      56%      21%    23%   53%       60%         2%      60%
+                                     Don't know       8%      4%        5%    6%    5%        7%          1%       6%
+                                        Well (All)   40%      24%      61%    53%   29%       16%         89%     18%
+                                       Badly (All)   52%      71%      34%    42%   66%       77%         10%     77%
+                                               Net    -12     -47      +27    +11   -37       -61         +79      -59
+Deltapoll Survey Results
+
+Sample size: 2,027 adults in Great Britain
+Fieldwork: 17th to 20th July 2026
+
+                                                                                         Region
+                                                      Total            Rest of
+                                                              London   South     Midlands     North     Wales   Scotland
+  All Adults in Great Britain Who Intend to Vote      1735     216      580        290            409    76       164
+                        Unweighted New Sample         1712     222      559        285            422    83       141
+General Election Voting Intention
+[Excluding 'Don't know' and 'Would not vote']
+                                                Con   18%      21%      21%        18%            16%   20%       11%
+                                                Lab   28%      36%      24%        26%            38%   19%       17%
+                                          Lib Dem     10%      7%       13%        12%            6%    10%       5%
+                                             Reform   28%      22%      34%        29%            25%   26%       20%
+                                                SNP    3%      0%        0%        0%             0%     0%       36%
+                                                 PC    1%      0%        0%        0%             0%    12%       0%
+                                              Green   10%      12%       6%        14%            11%   12%       7%
+                                              Other    2%      2%        2%        2%             4%     1%       4%
+                                                                                    Voting Intention
+                                                        Total                                                          Would
+                                                                Con   Lab   Lib Dem     Reform         Green   Other   not vote
+                       All Adults in Great Britain      2027    320   488     166         481           169     102      116
+                             Unweighted Sample          2027    304   513     161         453           168     102      147
+For each of the following, do you think they are
+doing very well in their job, quite well, quite
+badly or very badly?
+The Prime Minister, Keir Starmer
+                                          Very well      8%     3%    18%     7%           4%           7%      6%       1%
+                                         Quite well     20%     13%   43%    25%           4%          26%     21%       8%
+                                       Quite badly      24%     26%   24%    39%          15%          34%     15%       18%
+                                        Very badly      42%     56%   11%    25%          75%          30%     49%       44%
+                                       Don't know        6%     2%    3%      4%           1%           3%      9%       29%
+                                          Well (All)    28%     16%   61%    32%           9%          33%     27%       9%
+                                         Badly (All)    66%     82%   35%    64%          90%          64%     64%       62%
+                                                  Net    -38    -66   +26     -32          -81          -31     -37      -53
+
+
+
+The Leader of the Conservative Party, Kemi Badenoch
+                                       Very well 12%            43%   8%      3%          11%           3%      4%       1%
+                                         Quite well     32%     44%   27%    31%          43%          19%     27%       6%
+                                       Quite badly      22%     6%    28%    29%          23%          29%     25%       14%
+                                        Very badly      18%     2%    25%    20%          15%          31%     25%       26%
+                                       Don't know       16%     4%    12%    17%           8%          17%     19%       53%
+                                          Well (All)    45%     87%   35%    34%          54%          23%     32%       6%
+                                         Badly (All)    39%     8%    53%    49%          38%          60%     50%       40%
+                                                  Net    +6     +79   -18     -15         +16           -37     -18      -34
+                                                                                 Voting Intention
+                                                     Total                                                          Would
+                                                             Con   Lab   Lib Dem     Reform         Green   Other   not vote
+                      All Adults in Great Britain    2027    320   488     166         481           169     102      116
+                           Unweighted Sample         2027    304   513     161         453           168     102      147
+The Future Prime Minister, Andy Burnham
+                                        Very well    11%     8%    28%     3%           5%          10%      3%       1%
+                                       Quite well    27%     22%   49%    40%          13%          32%     27%       4%
+                                     Quite badly     13%     19%   6%     15%          19%          14%      9%       9%
+                                      Very badly     16%     21%   2%      5%          35%           9%     21%       17%
+                                     Don't know      33%     30%   15%    37%          28%          35%     40%       68%
+                                        Well (All)   38%     30%   77%    43%          18%          41%     30%       6%
+                                       Badly (All)   29%     40%   8%     20%          54%          23%     30%       26%
+                                               Net    +9     -10   +69     +23          -36          +18      0       -20
+
+
+
+The leader of the Reform Party, Nigel Farage
+                                        Very well    15%     7%    7%      2%          49%           1%      5%       1%
+                                       Quite well    25%     38%   17%     8%          43%           7%     23%       7%
+                                     Quite badly     15%     19%   13%    25%           5%          15%     21%       17%
+                                      Very badly     37%     30%   58%    58%           2%          74%     38%       42%
+                                     Don't know       8%     7%    5%      7%           2%           2%     13%       34%
+                                        Well (All)   40%     45%   24%    10%          91%           8%     28%       7%
+                                       Badly (All)   52%     49%   71%    83%           6%          89%     60%       59%
+                                               Net    -12    -4    -47     -73         +85           -81     -32      -52
+Deltapoll Survey Results
+
+Sample size: 2,027 adults in Great Britain
+Fieldwork: 17th to 20th July 2026
+
+
+
+                                                      Total
+
+  All Adults in Great Britain Who Intend to Vote      1735
+                        Unweighted New Sample         1712
+General Election Voting Intention
+[Excluding 'Don't know' and 'Would not vote']
+                                                Con   18%
+                                                Lab   28%
+                                          Lib Dem     10%
+                                             Reform   28%
+                                                SNP    3%
+                                                 PC    1%
+                                              Green   10%
+                                              Other    2%
+                                                                                           Region
+                                                        Total            Rest of
+                                                                London   South     Midlands     North     Wales   Scotland
+                       All Adults in Great Britain      2027     247      683        341            468    98       190
+                             Unweighted Sample          2027     254      670        343            499    99       162
+For each of the following, do you think they are
+doing very well in their job, quite well, quite
+badly or very badly?
+The Prime Minister, Keir Starmer
+                                          Very well      8%      9%        9%        6%             7%     8%       6%
+                                         Quite well     20%      32%      16%        20%            21%   20%       22%
+                                       Quite badly      24%      27%      23%        24%            25%   16%       24%
+                                        Very badly      42%      28%      45%        45%            42%   43%       42%
+                                       Don't know        6%      4%        7%        5%             6%    13%       7%
+                                          Well (All)    28%      41%      25%        26%            28%   28%       27%
+                                         Badly (All)    66%      55%      69%        70%            66%   58%       66%
+                                                  Net    -38     -14       -44       -44            -38    -30      -39
+
+
+
+The Leader of the Conservative Party, Kemi Badenoch
+                                       Very well 12%             11%      13%        9%             14%   12%       13%
+                                         Quite well     32%      36%      37%        29%            30%   24%       26%
+                                       Quite badly      22%      21%      21%        25%            21%   19%       22%
+                                        Very badly      18%      16%      15%        21%            17%   22%       23%
+                                       Don't know       16%      16%      13%        17%            18%   23%       16%
+                                          Well (All)    45%      47%      51%        38%            44%   36%       40%
+                                         Badly (All)    39%      37%      36%        46%            38%   41%       44%
+                                                  Net    +6      +10      +15         -8            +6     -5        -4
+                                                                                        Region
+                                                     Total            Rest of
+                                                             London   South     Midlands     North     Wales   Scotland
+                      All Adults in Great Britain    2027     247      683        341            468    98       190
+                           Unweighted Sample         2027     254      670        343            499    99       162
+The Future Prime Minister, Andy Burnham
+                                        Very well    11%      8%        7%        10%            19%    9%       8%
+                                       Quite well    27%      36%      26%        27%            28%   14%       25%
+                                     Quite badly     13%      14%      13%        17%            12%   12%       12%
+                                      Very badly     16%      16%      19%        14%            15%   15%       9%
+                                     Don't know      33%      26%      36%        31%            26%   51%       47%
+                                        Well (All)   38%      44%      33%        37%            47%   22%       33%
+                                       Badly (All)   29%      30%      32%        31%            27%   27%       21%
+                                               Net    +9      +14       +1         +6            +20    -5       +12
+
+
+
+The leader of the Reform Party, Nigel Farage
+                                        Very well    15%      16%      17%        12%            16%   10%       13%
+                                       Quite well    25%      26%      26%        26%            24%   18%       19%
+                                     Quite badly     15%      15%      14%        17%            13%   18%       17%
+                                      Very badly     37%      35%      36%        37%            38%   35%       43%
+                                     Don't know       8%      8%        7%        8%             9%    19%       8%
+                                        Well (All)   40%      42%      43%        38%            39%   28%       31%
+                                       Badly (All)   52%      50%      49%        54%            52%   53%       61%
+                                               Net    -12      -8       -6        -16            -13    -25      -30
+

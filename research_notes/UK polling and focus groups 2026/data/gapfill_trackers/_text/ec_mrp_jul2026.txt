@@ -1,0 +1,242 @@
+
+MRP Poll July 2026
+MRP Poll July 2026
+This page first posted 8 July 2026
+On behalf of PLMR, Electoral Calculus has conducted a new MRP poll.
+Polling using MRP, which stands for Multi-level Regression and Post-stratification, is a relatively recent innovation in polling science which have been used to successfully predict the last three British general elections,
+and gives the estimated result in each Westminster constituency.
+Fieldwork was conducted from 23-30 June 2026, with a sample size of over 5,500 people.
+More details at the 
+PLMR website
+.
+1. Headlines
+The poll places Labour and Reform level on 22pc, ahead of the Conservatives on 20pc. On these figures, 
+Labour is predicted to win 217 seats, leaving it 109 seats short of an overall majority,
+while the Conservatives are set to win 151 seats and Reform 127.
+The Liberal Democrats would win 72 seats, and the Greens 30 seats. The SNP would win 28 seats,
+and Plaid Cymru 3 seats.
+The table below gives the prediction in numerical form:
+Party
+GE 2024
+Predicted Election Result
+Votes
+Seats
+MRP Votes
+MRP Seats
+LAB
+35%
+412
+22%
+217
+CON
+24%
+121
+20%
+151
+Reform
+15%
+5
+22%
+127
+LIB
+13%
+72
+11%
+72
+Green
+7%
+4
+10%
+30
+SNP
+3%
+9
+3%
+28
+Plaid
+1%
+4
+1%
+3
+Restore
+0%
+0
+7%
+1
+MIN
+3%
+5
+3%
+3
+Based on the numbers, if a general election were held now, the most likely outcome would be a hung parliament.
+There would be no credible two-party coalition, and even a potential three-way coalition between
+Labour, the Liberal Democrats and the Greens would be seven seats short of an overall majority. 
+Reform's vote share is down to 22pc from 31pc from our 
+January PLMR poll
+.
+This appears to be due to increased support for the new Restore Britain party to the right of Reform,
+which has now been included in the poll for the first time, and received 7pc support nationally.
+Map: Predicted winners by seat
+MPs at risk
+The following Labour cabinet ministers are at risk of losing their seats
+under our calculations:
+(To Green): Sir Keir Starmer, David Lammy, Shabana Mahmood.
+2. Tactical Voting
+Following a major 
+polling project on tactical voting (TV)
+by Electoral Calculus and Find Out Now, we are able to estimate the effect of tactical voting on the
+predicted election result. Our TV analysis shows that:
+Strong anti-Reform tactical voting could cost Reform dozens of seats
+Over a third of Labour voters say they would vote Conservative to keep Reform out
+Otherwise voters on the left and right respectively support other candidates on the same side
+The table shows the predicted vote share and seats won both without tactical voting and with tactical voting.
+Party
+GE 2024
+Predicted Election
+Result (No TV)
+Predicted Election
+Result (With TV)
+Votes
+Seats
+MRP Votes
+MRP Seats
+MRP Votes
+MRP Seats
+LAB
+35%
+412
+22%
+195
+22%
+217
+CON
+24%
+121
+20%
+124
+20%
+151
+Reform
+15%
+5
+22%
+166
+22%
+127
+LIB
+13%
+72
+12%
+71
+11%
+72
+Green
+7%
+4
+12%
+30
+10%
+30
+SNP
+3%
+9
+3%
+39
+3%
+28
+Plaid
+1%
+4
+1%
+3
+1%
+3
+Restore
+0%
+0
+7%
+1
+7%
+1
+MIN
+3%
+5
+3%
+3
+3%
+3
+Without tactical voting, Reform would be in second place ahead of the Conservatives with 166 seats.
+When tactical voting is factored in, Reform drops significantly to 127, a loss of 39 seats. Most of these seats would likely shift to the Conservatives, although some go to Labour as well.
+3. Prime Ministerial Merry-go-Round
+With Prime Ministers increasingly serving short terms we asked our respondents "Do you think it is a good or bad idea to change Prime Ministers frequently?"
+ Over 70pc of people said it was 'bad' or 'very bad', and only 9pc said it was 'good' or 'very good'.
+Response accuracy
+All voters
+Class ABC1
+Class C2DE
+Very bad
+30%
+32%
+29%
+Bad
+41%
+44%
+36%
+Neither good nor bad
+20%
+18%
+23%
+Good
+4%
+4%
+6%
+Very good
+4%
+2%
+7%
+Net Bad
+71%
+76%
+65%
+Net Good
+9%
+6%
+12%
+Table excludes 14pc of people who said "Don't know".
+Those in higher social classes are more likely to think that frequent PM rotation is bad.
+4. Treatment of "Don't Knows"
+Following polling errors in 2024, Electoral Calculus took part in investigations into possible causes,
+co-ordinated by the British Polling Council. Our findings are available
+here
+. In summary,
+Centre-left voters were more likely to over-estimate their likelihood to turnout
+Those who didn't know or refused to answer might have voted according to their GE 2019 preference
+To incorporate these findings into our post-election polling, we have made two assumptions
+about those who answer "don't know" to either the turnout or voting intention questions.
+Those who say "don't know" to the turnout question are assumed to be unlikely to vote
+Those who say "don't know" to the voting intention question are assumed to vote in the same way as GE 2024
+Quotes
+Kevin Craig
+, founder of PLMR, who commissioned the poll said: "These figures suggest Labour has regained momentum at a pivotal moment for both the Labour Party and the country. Keir Starmer deserves huge credit for restoring Labour's credibility, for a historic 2024 General Election victory and for how he has stabilised the country and led it through two very challenging years. His legacy is one of stability and a return to serious government.
+"Looking ahead, Andy Burnham's return to Westminster does appear to have given Labour fresh energy, but our polling also sends a broader message. Voters have little appetite for another period of political turbulence. Britain faces major economic and international challenges, and people want to see politicians rally behind stable leadership and focus on delivering for the country.
+"While another hung Parliament remains the most likely outcome on these figures, the next General Election is still very much up for grabs. Andy Burnham has clearly given Labour fresh momentum, but the challenge now is to translate that optimism into tangible progress. The party that can turn a compelling vision into real delivery will be best placed to earn the public's trust.  The challenge for Labour's next Leader will be to bring the Labour Party back anywhere near to the landslide win that Starmer delivered."
+Martin Baxter
+, founder of Electoral Calculus, said
+"Our figures show that if a general election were held now, it would result in a hung parliament where even a three-way coalition of Labour, the Liberal Democrats, and the Greens would fall short of a majority.
+"For the first time, Restore Britain has been included in our polling, and they are cutting directly into Reform's vote share. That leaves Nigel Farage fighting on two fronts, with the Conservatives also recovering ground. Meanwhile, Burnham's return to Westminster has given Labour a boost, but only time will tell if he can persuade a pessimistic public that another spin of No 10's revolving door will deliver progress, or if it will just leave the country going in circles."
+Technical Details
+Find Out Now polled 5,545 GB adults online between 23-30 June 2026. The sample was weighted to be representative by gender, age, social grade, other demographics and past voting patterns. Regression techniques were used to infer projected seat results.
+Find Out Now and Electoral Calculus are both members of the British Polling Council and abide by its rules.
+Data tables
+ are available here, including full list of seats.
+About Us
+PLMR
+PLMR is an award-winning integrated communications agency founded in 2006, ranked in the Top 50 PR Firms in the UK by PR Week. Our purpose is to make a positive and sustainable difference for our clients, our people and society. Our services include PR, strategic communications, corporate communications, crisis communications and reputation management, public affairs, film and digital, social media, design, media training and more. We are proud to work with organisations across a range of sectors such as technology, health and social care, education and training, energy and sustainability, the built environment and the third sector. 
+Electoral Calculus
+Electoral Calculus is a pollster and political consultancy specialising in quantitative analysis and modelling for electoral and other market research projects. Its pre-poll prediction for the 2019 general election was the most accurate published forecast. It was founded by Martin Baxter, its CEO.
+Electoral Calculus is a member of the British Polling Council and abides by its rules.
+Find Out Now
+Find Out Now is a polling and market research panel with 2.8 million members. Highly profiled respondents can be targeted instantly, with over 100,000 daily responses allowing the delivery of same-day nationally representative sampling. 
+Find Out Now are members of the British Polling Council and Market Research Society, and abide by their rules.
+Regression Polling
+Modern polling analysis often uses statistical regression techniques to get more accurate and geographically detailed results. Also called MRP (multi-level regression and post stratification) they have been used successfully by Electoral Calculus and other pollsters to predict general elections, local elections and the 2019 European elections.

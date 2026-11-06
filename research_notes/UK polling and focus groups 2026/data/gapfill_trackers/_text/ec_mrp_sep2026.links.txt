@@ -1,0 +1,3 @@
+polling project on tactical voting (TV)	pseph_tactical_2025.html
+here	https://www.electoralcalculus.co.uk/blogs/ec_polls2024_20241028.html
+Data tables	DataTables_VISep2026.xlsx

@@ -1,0 +1,279 @@
+YouGov Survey Results
+Sample Size: 2095 Adults in GB / 1026 in France / 2353 in Germany
+/ 1023 Adults in Denmark / 1060 Adults in Spain / 1044 Adults in
+Italy
+Fieldwork: 6th - 31st May 2026
+                                                                                                                         Country
+                                                                      GB      GB      France   France    Germany Germany Denmark Denmark       Spain    Spain     Italy    Italy
+                                               Weighted Sample       2012    2095     1060      1026      2204     2353      1004      1023    1050     1060     1056     1044
+                                             Unweighted Sample       2012    2095     1060      1026      2204     2353      1004      1023    1050     1060     1056     1044
+                                                                      %       %        %         %         %        %         %         %       %        %        %        %
+
+                                                                    14 - 15 19 - 20   9 - 22    7 - 18   10 - 13   8 - 11   10 - 17   20 - 31 13 - 23   6 - 18   7 - 15   7 - 17
+                                                                     Apr     May       Apr       May      Apr       May      Apr       May     Apr       May      Apr      May
+Do you approve or disapprove of the Government's record to
+date?
+                                                        Approve       14      15       14        11        14       12         36       28      37       33       26       28
+                                                     Disapprove       65      68       74        78        78       82         42       52      54       55       57       53
+                                                     Don't know       21      18       12        11         8        6         22       20       9       12       17       20
+
+Do you have a favourable or unfavourable opinion of the
+following?
+[NATIONAL LEADER: Keir Starmer / Emmanuel Macron / Friedrich
+Merz / Mette Frederiksen / Pedro Sánchez / Giorgia Meloni]
+                                                Very favourable       3        3       7          5         5        3        10        11      15       14       13       14
+                                            Somewhat favourable       21      18       16        13        17       13        37        32      23       24       22       24
+                                          TOTAL FAVOURABLE            24      21       23        18        22       16        47        43      38       38       35       38
+                                          Somewhat unfavourable       24      25       24        27        25       26        23        26      14       12       17       19
+                                              Very unfavourable       44      47       48        51        49       54        26        27      45       48       40       36
+                                        TOTAL UNFAVOURABLE            68      72       72        78        74       80        49        53      59       60       57       55
+                                                     Don't know       7        7       5          5         4        3         4         4       3        3       7         7
+Donald Trump
+                                                Very favourable       4        3       4          4         2        2         1         1       3        3       1         1
+                                            Somewhat favourable       7        9       9         11         6        7         3         4       8        8       6         6
+                                          TOTAL FAVOURABLE            11      12       13        15         8        9         4         5      11       11        7        7
+                                          Somewhat unfavourable       13      13       15        16        14       15         8         8      14       15       18       17
+                                              Very unfavourable       73      72       65        65        73       72        86        85      71       70       68       69
+                                        TOTAL UNFAVOURABLE            86      85       80        81        87       87        94        93      85       85       86       86
+                                                     Don't know       4        4       7          5         5        4         2         2       3        4       7         7
+Pope Leo XIV
+                                                Very favourable       x       10        x         9        x        13         x        13       x       14        x       17
+                                            Somewhat favourable       x       30        x        35        x        39         x        32       x       35        x       33
+                                          TOTAL FAVOURABLE            x       40        x        44        x        52         x        45       x       49        x       50
+                                          Somewhat unfavourable       x       10        x         9        x        11         x         8       x       15        x       15
+                                              Very unfavourable       x        8        x         9        x         7         x         4       x        8        x       10
+                                        TOTAL UNFAVOURABLE            x       18        x        18        x        18         x        12       x       23        x       25
+                                                     Don't know       x       42        x        37        x        29         x        43       x       28        x       24
+
+
+
+
+1                                                                                           © 2025 YouGov plc. All Rights Reserved                                                 www.yougov.co.uk
+Sample Size: 2095 Adults in GB / 1026 in France / 2353 in Germany
+/ 1023 Adults in Denmark / 1060 Adults in Spain / 1044 Adults in
+Italy
+Fieldwork: 6th - 31st May 2026
+                                                                                                                                Country
+                                                                              GB       GB      France   France   Germany Germany Denmark Denmark       Spain    Spain     Italy    Italy
+                                                      Weighted Sample         2012    2095     1060     1026      2204    2353      1004      1023     1050     1060     1056     1044
+                                                    Unweighted Sample         2012    2095     1060     1026      2204    2353      1004      1023     1050     1060     1056     1044
+                                                                               %       %        %        %         %       %         %         %        %        %        %        %
+
+If there was a referendum on the [COUNTRY'S] membership of the
+European Union, how would you vote?
+                      I would vote to remain in / join the European Union     52       51       44       48        62      63         78       75       70       71       46       48
+                   I would vote to stay out of / leave the European Union     29       31       32       27        20      19         12       13       11       10       29       25
+                                                           I would not vote   7         6       9         8         5       5          2        2        7        8       10       11
+                                                               Don’t know     10       10       13       14        10       9          7        9       11        9       13       14
+                                                                  Refused     3         3       2         2         4       4          1        2        1        2       2         3
+
+                                                                              3-4    19 - 20   9 - 15   7 - 18    6-9    8 - 11     9 - 16   20 - 31   2 - 19   6 - 18   2 - 11   7 - 17
+                                                                              Feb     May       Feb      May      Feb     May        Feb      May       Feb      May      Feb      May
+Overall, do you have a favourable or unfavourable view of the
+following countries?
+The United States
+                                                       Very favourable        7         6       4         5         3       4          2        3        7        6       4         4
+                                                      Fairly favourable       27       26       22       22        19      21         11       13       22       22       24       19
+                                                TOTAL FAVOURABLE              34       32       26       27        22      25         13       16       29       28       28       23
+                                                    Fairly unfavourable       32       31       35       35        40      34         36       39       30       29       28       32
+                                                     Very unfavourable        27       29       30       28        29      32         44       39       35       34       29       33
+                                              TOTAL UNFAVOURABLE              59       60       65       63        69      66         80       78       65       63       57       65
+                                                             Don’t know       8         8       9        10         9       9          7        6        6        9       14       12
+Russia
+                                                       Very favourable        1         1       3         3         3       4          0        1        2        2       5         5
+                                                      Fairly favourable       5         4       10       11        10      12          2        2        8        7       13       13
+                                                TOTAL FAVOURABLE              6         5       13       14        13      16          2        3       10        9       18       18
+                                                    Fairly unfavourable       18       19       23       22        18      18         11       11       23       27       23       25
+                                                     Very unfavourable        67       68       54       52        60      57         84       83       59       53       46       43
+                                              TOTAL UNFAVOURABLE              85       87       77       74        78      75         95       94       82       80       69       68
+                                                             Don’t know       8         8       10       12         8      10          3        4        7       10       13       14
+China
+                                                       Very favourable        2         3       4         6         2       4          1        3        8        8       5         6
+                                                      Fairly favourable       21       25       23       25        24      22         16       20       36       41       31       34
+                                                TOTAL FAVOURABLE              23       28       27       31        26      26         17       23       44       49       36       40
+                                                    Fairly unfavourable       38       36       32       34        40      36         45       40       25       24       29       24
+                                                     Very unfavourable        22       20       26       19        20      23         24       24       15       12       15       14
+                                              TOTAL UNFAVOURABLE              60       56       58       53        60      59         69       64       40       36       44       38
+                                                             Don’t know       16       16       15       17        15      16         14       13       16       16       19       21
+
+
+
+
+2                                                                                                 © 2025 YouGov plc. All Rights Reserved                                                   www.yougov.co.uk
+Sample Size: 2095 Adults in GB / 1026 in France / 2353 in Germany
+/ 1023 Adults in Denmark / 1060 Adults in Spain / 1044 Adults in
+Italy
+Fieldwork: 6th - 31st May 2026
+                                                                                                                   Country
+                                                                    GB     GB     France   France   Germany Germany Denmark Denmark   Spain   Spain   Italy   Italy
+                                               Weighted Sample      2012   2095   1060     1026      2204    2353      1004   1023    1050    1060    1056    1044
+                                             Unweighted Sample      2012   2095   1060     1026      2204    2353      1004   1023    1050    1060    1056    1044
+                                                                     %      %      %        %         %       %         %      %       %       %       %       %
+India
+                                                 Very favourable    3        2     2         3         3       4          1     2       2       2     3         3
+                                                Fairly favourable   36      36     23       28        38      32         27    25      21      22     26       25
+                                          TOTAL FAVOURABLE          39      38     25       31        41      36         28    27      23      24     29       28
+                                              Fairly unfavourable   28      30     36       33        28      30         37    36      30      31     27       26
+                                               Very unfavourable    13      14     15       12        10      10         10    12      25      19     14       15
+                                        TOTAL UNFAVOURABLE          41      44     51       45        38      40         47    48      55      50     41       41
+                                                       Don’t know   19      18     24       24        21      24         24    26      22      26     30       32
+Japan
+                                                 Very favourable    26      29     19       19        23      22         24    23      30      26     27       26
+                                                Fairly favourable   52      51     49       52        52      51         54    56      47      48     48       47
+                                          TOTAL FAVOURABLE          78      80     68       71        75      73         78    79      77      74     75       73
+                                              Fairly unfavourable   6        6     11        9         9       8          7     5       7       7     7         5
+                                               Very unfavourable    2        2     4         3         2       3          1     2       3       3     3         4
+                                        TOTAL UNFAVOURABLE          8        8     15       12        11      11          8     7      10      10     10        9
+                                                       Don’t know   14      12     17       17        14      16         14    14      13      16     15       18
+Israel
+                                                 Very favourable    5        3     4         5         4       4          4     3       5       4     2         3
+                                                Fairly favourable   14      12     17       15        18      14         13    11      13      11     10        8
+                                          TOTAL FAVOURABLE          19      15     21       20        22      18         17    14      18      15     12       11
+                                              Fairly unfavourable   22      21     26       25        33      30         34    27      19      20     21       17
+                                               Very unfavourable    43      47     34       38        28      37         35    46      52      52     45       52
+                                        TOTAL UNFAVOURABLE          65      68     60       63        61      67         69    73      71      72     66       69
+                                                       Don’t know   17      16     19       18        17      15         14    12      11      13     21       21
+Egypt
+                                                 Very favourable    1        2     2         3         1       3          1     1       2       2     2         2
+                                                Fairly favourable   28      29     29       29        26      25         18    18      23      29     18       19
+                                          TOTAL FAVOURABLE          29      31     31       32        27      28         19    19      25      31     20       21
+                                              Fairly unfavourable   32      32     28       30        36      34         42    41      32      28     31       32
+                                               Very unfavourable    12      13     14        9        13      12         16    14      14      13     19       18
+                                        TOTAL UNFAVOURABLE          44      45     42       39        49      46         58    55      46      41     50       50
+                                                       Don’t know   26      24     27       29        24      26         24    26      29      29     30       30
+Iran
+                                                 Very favourable    1        1     1         2         0       2          0     1       1       1     1         2
+                                                Fairly favourable   5        6     4         6         5       6          3     5       5       7     7         7
+                                          TOTAL FAVOURABLE          6        7     5         8         5       8          3     6       6       8     8         9
+                                              Fairly unfavourable   24      26     24       22        28      24         25    25      24      27     23       24
+                                               Very unfavourable    54      52     58       55        54      56         63    59      57      51     50       47
+                                        TOTAL UNFAVOURABLE          78      78     82       77        82      80         88    84      81      78     73       71
+                                                       Don’t know   16      15     13       14        13      13          9    10      13      14     19       20
+
+
+
+
+3                                                                                    © 2025 YouGov plc. All Rights Reserved                                           www.yougov.co.uk
+Sample Size: 2095 Adults in GB / 1026 in France / 2353 in Germany
+/ 1023 Adults in Denmark / 1060 Adults in Spain / 1044 Adults in
+Italy
+Fieldwork: 6th - 31st May 2026
+                                                                                                                   Country
+                                                                    GB     GB     France   France   Germany Germany Denmark Denmark   Spain   Spain   Italy   Italy
+                                               Weighted Sample      2012   2095   1060      1026     2204    2353      1004   1023    1050    1060    1056    1044
+                                             Unweighted Sample      2012   2095   1060      1026     2204    2353      1004   1023    1050    1060    1056    1044
+                                                                     %      %      %         %        %       %         %      %       %       %       %       %
+South Africa
+                                                 Very favourable    3        3     3          4        3       4          2     2       2       3     4         4
+                                                Fairly favourable   34      31     31        30       36      33         27    28      29      26     29       27
+                                          TOTAL FAVOURABLE          37      34     34        34       39      37         29    30      31      29     33       31
+                                              Fairly unfavourable   30      32     24        25       28      28         32    29      26      26     19       20
+                                               Very unfavourable    10      12     11         8        6       8          9     9      16      13     12       10
+                                        TOTAL UNFAVOURABLE          40      44     35        33       34      36         41    38      42      39     31       30
+                                                       Don’t know   23      23     31        31       27      27         31    32      26      31     37       38
+Turkey
+                                                 Very favourable    2        3     2          3        2       3          1     3       2       3     2         2
+                                                Fairly favourable   35      34     19        23       17      19         18    19      26      30     20       24
+                                          TOTAL FAVOURABLE          37      37     21        26       19      22         19    22      28      33     22       26
+                                              Fairly unfavourable   29      33     35        34       44      42         47    46      34      30     34       29
+                                               Very unfavourable    12      11     24        18       23      22         19    16      15      12     17       15
+                                        TOTAL UNFAVOURABLE          41      44     59        52       67      64         66    62      49      42     51       44
+                                                       Don’t know   22      19     20        22       13      14         15    15      22      26     28       30
+Saudi Arabia
+                                                 Very favourable    1        1     2          4        1       2          0     1       3       3     3         3
+                                                Fairly favourable   13      18     13        19       15      17          8    10      17      18     21       20
+                                          TOTAL FAVOURABLE          14      19     15        23       16      19          8    11      20      21     24       23
+                                              Fairly unfavourable   35      35     35        32       40      37         34    37      30      31     26       29
+                                               Very unfavourable    32      28     32        22       26      25         45    36      33      30     21       18
+                                        TOTAL UNFAVOURABLE          67      63     67        54       66      62         79    73      63      61     47       47
+                                                       Don’t know   19      18     18        22       18      19         13    16      17      19     28       31
+Great Britain
+                                                 Very favourable     x      x      9         13       14      13         18    18      10       9     9        12
+                                                Fairly favourable    x      x      55        52       56      53         56    57      53      50     52       49
+                                          TOTAL FAVOURABLE           x      x      64        65       70      66         74    75      63      59     61       61
+                                              Fairly unfavourable    x      x      16        18       14      16         15    14      18      19     14       15
+                                               Very unfavourable     x      x      5          3        4       4          2     3       9       7     7         5
+                                        TOTAL UNFAVOURABLE           x      x      21        21       18      20         17    17      27      26     21       20
+                                                       Don’t know    x      x      14        13       12      13          8     8      10      15     19       19
+France
+                                                 Very favourable    15      16      x        x        19      17         25    25       8      10     6        10
+                                                Fairly favourable   52      52      x        x        56      54         60    58      49      55     44       47
+                                          TOTAL FAVOURABLE          67      68      x        x        75      71         85    83      57      65     50       57
+                                              Fairly unfavourable   16      16      x        x        12      13          8     8      23      16     22       18
+                                               Very unfavourable    7        7      x        x         4       4          1     2       7       6     10        7
+                                        TOTAL UNFAVOURABLE          23      23      x        x        16      17          9    10      30      22     32       25
+                                                       Don’t know   10       9      x        x         9      11          6     7      12      13     18       18
+
+
+
+
+4                                                                                       © 2025 YouGov plc. All Rights Reserved                                        www.yougov.co.uk
+Sample Size: 2095 Adults in GB / 1026 in France / 2353 in Germany
+/ 1023 Adults in Denmark / 1060 Adults in Spain / 1044 Adults in
+Italy
+Fieldwork: 6th - 31st May 2026
+                                                                                                                   Country
+                                                                    GB     GB     France   France   Germany Germany Denmark Denmark   Spain   Spain   Italy   Italy
+                                               Weighted Sample      2012   2095   1060     1026      2204    2353      1004   1023    1050    1060    1056    1044
+                                             Unweighted Sample      2012   2095   1060     1026      2204    2353      1004   1023    1050    1060    1056    1044
+                                                                     %      %      %        %         %       %         %      %       %       %       %       %
+Germany
+                                                 Very favourable    21      22     11       13        x       x          36    34      17      16     8        10
+                                                Fairly favourable   55      55     58       58        x       x          54    58      57      57     49       49
+                                          TOTAL FAVOURABLE          76      77     69       71        x       x          90    92      74      73     57       59
+                                              Fairly unfavourable   8        9     15       13        x       x           5     4      13      10     19       16
+                                               Very unfavourable    3        3     5         4        x       x           1     1       4       3     7         6
+                                        TOTAL UNFAVOURABLE          11      12     20       17        x       x           6     5      17      13     26       22
+                                                       Don’t know   12      11     11       13        x       x           4     3      10      13     17       19
+Sweden
+                                                 Very favourable    39      40     29       28        43      42         44    43      30      29     25       26
+                                                Fairly favourable   47      47     52       56        46      46         44    46      51      50     51       49
+                                          TOTAL FAVOURABLE          86      87     81       84        89      88         88    89      81      79     76       75
+                                              Fairly unfavourable   2        3     3         3         3       3          6     7       5       4     3         4
+                                               Very unfavourable    1        1     2         1         1       1          2     1       3       2     2         2
+                                        TOTAL UNFAVOURABLE          3        4     5         4         4       4          8     8       8       6     5         6
+                                                       Don’t know   11      10     14       12         7       7          4     3      12      15     18       19
+Finland
+                                                 Very favourable    38      39     26       28        41      42         50    48      32      29     25       28
+                                                Fairly favourable   47      48     56       54        48      45         42    43      47      48     48       46
+                                          TOTAL FAVOURABLE          85      87     82       82        89      87         92    91      79      77     73       74
+                                              Fairly unfavourable   2        2     4         3         2       3          1     0       5       4     4         3
+                                               Very unfavourable    0        0     1         1         1       1          0     1       1       1     2         1
+                                        TOTAL UNFAVOURABLE          2        2     5         4         3       4          1     1       6       5     6         4
+                                                       Don’t know   13      12     13       14         9       9          7     7      14      19     21       21
+Norway
+                                                 Very favourable    41      44     29       29        44      44         54    52      32      32     27       29
+                                                Fairly favourable   45      44     52       55        45      45         39    43      51      50     49       47
+                                          TOTAL FAVOURABLE          86      88     81       84        89      89         93    95      83      82     76       76
+                                              Fairly unfavourable   1        2     4         3         3       2          2     2       3       3     4         3
+                                               Very unfavourable    1        1     2         1         1       1          1     1       2       1     2         2
+                                        TOTAL UNFAVOURABLE          2        3     6         4         4       3          3     3       5       4     6         5
+                                                       Don’t know   12       9     13       13         8       8          4     3      12      14     18       20
+
+
+
+
+5                                                                                    © 2025 YouGov plc. All Rights Reserved                                           www.yougov.co.uk
+Sample Size: 2095 Adults in GB / 1026 in France / 2353 in Germany
+/ 1023 Adults in Denmark / 1060 Adults in Spain / 1044 Adults in
+Italy
+Fieldwork: 6th - 31st May 2026
+                                                                                                                   Country
+                                                                    GB     GB     France   France   Germany Germany Denmark Denmark   Spain   Spain   Italy   Italy
+                                               Weighted Sample      2012   2095   1060     1026      2204    2353      1004   1023    1050    1060    1056    1044
+                                             Unweighted Sample      2012   2095   1060     1026      2204    2353      1004   1023    1050    1060    1056    1044
+                                                                     %      %      %        %         %       %         %      %       %       %       %       %
+Denmark
+                                                 Very favourable    39      39     26       28        42      42         x     x       30      29     25       25
+                                                Fairly favourable   46      49     54       54        47      46         x     x       50      49     50       49
+                                          TOTAL FAVOURABLE          85      88     80       82        89      88         x     x       80      78     75       74
+                                              Fairly unfavourable   2        2     4         3         3       3         x     x        5       3     3         4
+                                               Very unfavourable    1        1     2         1         1       1         x     x        3       2     2         2
+                                        TOTAL UNFAVOURABLE          3        3     6         4         4       4         x     x        8       5     5         6
+                                                       Don’t know   12      10     14       14         7       8         x     x       12      17     19       21
+
+
+
+
+6                                                                                    © 2025 YouGov plc. All Rights Reserved                                           www.yougov.co.uk
+

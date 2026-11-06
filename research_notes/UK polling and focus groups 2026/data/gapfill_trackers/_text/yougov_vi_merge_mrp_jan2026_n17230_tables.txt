@@ -1,0 +1,532 @@
+YouGov Survey Results
+Sample Size: 17230 GB Adults
+Fieldwork: 9th - 14th January 2026
+                                                                      Vote in 2024 GE           EU Ref 2016     Vote in 2024 GE and 2016 EU Ref            Gender            Age (1)                           Age (2)
+
+
+                                                                          Lib Reform                    Conservative Labour Conservative Labour
+                                                      Total   Con   Lab              Green Remain Leave                                         Male Female 18-24 25-49 50-64          65+   18-24 25-29 30-39 40-49 50-59 60-69   70+
+                                                                          Dem   UK                        Remain     Remain    Leave     Leave
+
+                               Weighted Sample 17230 3101 4428 1586              1860   983    6044    6147   849      2478        1891           963    8339   8891   1816 7112 4254 4048 1816 802 2966 3344 2687 3135 2480
+                             Unweighted Sample 17230 3211 4744 1683              1959   985    6815    6475   926      2903        1989           1036   7592   9638   995 6927 4770 4538 995 741 2942 3244 3016 3497 2795
+                                                 %    %    %    %                 %      %      %       %      %        %           %              %      %      %      %    %    %    %    %    %   %    %    %    %    %
+
+HEADLINE VOTING INTENTION
+Westminster Voting Intention
+[Headline voting intention projected by YouGov
+MRP model]
+                                               Con     19     64    4     6       6     3       15      26    73         4           59            7      16     21     10   15   18   29     10    10    13     17      18   22   32
+                                                Lab    18     2     50    5       0     5       28      7     3          56          1             38     19     18     21   22   17   12     21    26    24     20      18   16   11
+                                           Lib Dem     14     5     12    69      1     5       21      7     8          13          3             13     14     15     18   15   13   13     18    13    16     15      14   12   14
+                                               SNP     3      0     1     0       0     0       5       1     0          2           0             2      4      2      1    3    3    3      1     3     4      3       4    3    2
+                                       Plaid Cymru     1      0     2     0       0     1       2       1     1          2           0             1      1      2      2    2    1    1      2     3     2      2       1    1    1
+                                        Reform UK      26     28    10    6       89    4       7       50    12         4           36            27     30     22     9    20   33   34     9     12    16     25      31   36   33
+                                             Green     15     1     18    12      1     79      19      5     2          18          1             10     13     18     37   21   10   5      37    33    23     16      11   7    5
+                                              Other    2      1     2     1       2     2       2       2     1          2           0             2      2      2      2    2    3    2      2     2     3      2       3    2    2
+
+
+Now, thinking specifically about your own
+constituency, if there were a general election
+held tomorrow and these were the parties
+standing, which party would you vote for?
+                                    Conservative       13     53    3     4       5     3       12      19    62         3           49            5      13     14     7    9    13   23     7     7     8      11      12   17   26
+                                           Labour      13     2     38    5       0     4       21      6     3          43          1             29     14     11     14   14   12   9      14    14    15     13      12   12   8
+                                Liberal Democrat       10     4     9     55      1     4       16      5     7          9           2             9      10     9      13   10   9    10     13    7     10     10      9    8    10
+                    Scottish National Party (SNP)      2      0     1     0       0     0       4       1     0          1           0             1      3      1      1    2    2    2      1     2     2      2       3    2    2
+                                      Plaid Cymru      1      0     1     0       0     1       1       1     0          1           0             1      1      1      1    1    1    1      1     1     1      1       1    1    1
+                                       Reform UK       20     26    8     5       80    3       7       42    12         4           34            22     25     16     5    15   26   29     5     9     12     19      25   30   28
+                                            Green      12     1     15    12      1     68      16      4     2          16          1             8      11     13     28   15   8    4      28    22    16     12      8    5    4
+                                Some other party       1      0     1     1       2     2       2       2     1          1           0             2      2      1      1    1    2    1      1     1     2      1       2    2    1
+                                  Would not vote       11     2     4     2       2     2       5       7     1          3           1             5      10     12     9    13   10   8      9     14    13     13      11   9    7
+                                       Don’t know      14     11    17    13      8     12      15      12    12         17          11            18     9      18     11   15   15   11     11    13    14     16      15   13   11
+                                          Refused      4      2     3     2       2     2       2       2     1          2           1             2      3      4      9    5    2    1      9     9     6      3       2    1    1
+
+*Any percentages calculated on bases fewer than
+100 respondents do not represent a wide enough
+cross-section of the target population to be
+considered statistically reliable. These figures
+should not be used.
+
+
+
+
+1                                                                                             © 2026 YouGov plc. All Rights Reserved                                                                             www.yougov.co.uk
+YouGov Survey Results
+Sample Size: 17230 GB Adults
+Fieldwork: 9th - 14th January 2026
+                                                                                        Age and Gender                            Social Grade (1)        Social Grade (2)
+
+
+                                                              18-24    18-24   25-49    25-49   50-64     50-64            65+
+                                                      Total                                                     65+ Men           ABC1      C2DE     AB      C1     C2       DE
+                                                               Men    Women     Men    Women     Men     Women            Women
+
+                               Weighted Sample 17230          916      900     3495    3617     2084     2170    1843     2205    9737      7446 5378 4368 3127 4358
+                             Unweighted Sample 17230          390      605     2935    3992     2250     2520    2017     2521    10289     6914 5703 4592 2933 4002
+                                                 %             %        %       %       %        %        %       %        %        %        %    %    %    %    %
+
+HEADLINE VOTING INTENTION
+Westminster Voting Intention
+[Headline voting intention projected by YouGov
+MRP model]
+                                               Con     19      12      8        13      16       16       21      25       34       20       18      19      21     19       17
+                                                Lab    18      21      21       24      21       17       17      13       12       21       15      22      19     14       16
+                                           Lib Dem     14      17      19       16      15       13       14      11       15       16       12      18      14     13       11
+                                               SNP     3       2       0        4       3        4        3       3        2        3        3       3       3      3        3
+                                       Plaid Cymru     1       1       2        2       2        1        2       1        1        1        1       1       2      1        2
+                                        Reform UK      26      12      5        22      17       37       29      42       28       20       35      17      23     35       35
+                                             Green     15      30      44       17      24       8        12      4        6        17       13      18      16     12       13
+                                              Other    2       3       2        3       2        3        3       2        2        2        3       2       2      3        3
+
+
+Now, thinking specifically about your own
+constituency, if there were a general election
+held tomorrow and these were the parties
+standing, which party would you vote for?
+                                    Conservative       13      10      5        9       9        13       14      21       25       14       12      14      14     13       11
+                                           Labour      13      16      13       16      12       13       11      10       9        15       10      16      13     9        10
+                                Liberal Democrat       10      14      12       11      9        9        9       8        11       12       7       13      9      8        7
+                    Scottish National Party (SNP)      2       2       0        2       2        3        2       3        2        2        2       2       2      2        2
+                                      Plaid Cymru      1       1       1        1       1        1        1       1        1        1        1       1       1      1        1
+                                       Reform UK       20      7       2        19      11       32       21      36       23       16       26      14      18     27       25
+                                            Green      12      25      31       14      16       6        9       4        5        14       9       15      13     8        9
+                                Some other party       1       1       1        2       1        2        2       1        1        1        2       1       1      2        2
+                                  Would not vote       11      10      9        11      15       9        10      7        9        8        14      7       10     13       15
+                                       Don’t know      14      6       17       10      19       10       19      8        14       14       14      13      14     14       13
+                                          Refused      4       9       10       4       6        2        2       1        1        4        3       3       5      3        4
+
+*Any percentages calculated on bases fewer than
+100 respondents do not represent a wide enough
+cross-section of the target population to be
+considered statistically reliable. These figures
+should not be used.
+
+
+
+
+2                                                                                             © 2026 YouGov plc. All Rights Reserved                                              www.yougov.co.uk
+YouGov Survey Results
+Sample Size: 17230 GB Adults
+Fieldwork: 9th - 14th January 2026
+                                                                                                                       Socio-economic Classification (NS-SEC) (1)
+
+                                                              Large employers and                         Lower managerial,                   Small employers       Lower supervisory
+                                                                                    Higher professional                        Intermediate                                             Semi-routine     Routine
+                                                      Total    higher managerial                          administrative and                  and own account         and technical
+                                                                                       occupations                             occupations                                              occupations    occupations
+                                                                  and adminis                               professional                          workers             occupations
+
+                               Weighted Sample 17230                 349                  1891                  3446              1981              1792                  948              1947          2102
+                             Unweighted Sample 17230                 438                  2284                  4464              2660              1318                  992              1771          1090
+                                                 %                    %                    %                     %                 %                 %                     %                %             %
+
+HEADLINE VOTING INTENTION
+Westminster Voting Intention
+[Headline voting intention projected by YouGov
+MRP model]
+                                               Con     19             24                    21                   20                 23               21                    17               18             16
+                                                Lab    18             19                    21                   21                 18               14                    14               16             13
+                                           Lib Dem     14             19                    17                   16                 12               13                    12               12             10
+                                               SNP     3              2                     4                    3                  3                2                     3                3              3
+                                       Plaid Cymru     1              2                     1                    2                  2                1                     1                2              1
+                                        Reform UK      26             19                    18                   20                 26               36                    42               34             43
+                                             Green     15             14                    16                   15                 14               10                    9                14             12
+                                              Other    2              1                     2                    3                  2                3                     2                3              2
+
+
+Now, thinking specifically about your own
+constituency, if there were a general election
+held tomorrow and these were the parties
+standing, which party would you vote for?
+                                    Conservative       13             21                    16                   15                 16               15                    13               13             11
+                                           Labour      13             16                    15                   15                 12               10                    10               11             9
+                                Liberal Democrat       10             14                    13                   11                 8                9                     8                8              7
+                    Scottish National Party (SNP)      2              1                     3                    2                  2                2                     2                2              2
+                                      Plaid Cymru      1              1                     1                    1                  1                1                     1                1              1
+                                       Reform UK       20             17                    15                   15                 18               28                    31               25             31
+                                            Green      12             13                    13                   12                 10               8                     8                10             9
+                                Some other party       1              0                     1                    2                  1                2                     1                2              1
+                                  Would not vote       11             4                     7                    9                  11               10                    11               12             14
+                                       Don’t know      14             12                    14                   14                 17               12                    14               13             11
+                                          Refused      4              1                     3                    3                  4                2                     3                4              4
+
+*Any percentages calculated on bases fewer than
+100 respondents do not represent a wide enough
+cross-section of the target population to be
+considered statistically reliable. These figures
+should not be used.
+
+
+
+
+3                                                                                                © 2026 YouGov plc. All Rights Reserved                                                                              www.yougov.co.uk
+YouGov Survey Results
+Sample Size: 17230 GB Adults
+Fieldwork: 9th - 14th January 2026
+                                                                     Socio-economic Classification (NS-SEC) (2)                                  Education Level (1)                             Education Level (2)
+
+                                                              Higher managerial,                                                                                                       Other
+                                                                                   Intermediate   Routine and manual                GCSE or   A Level or   Higher below
+                                                      Total   administrative and                                       None Other                                       Degree DK   technical   Low    Medium High
+                                                                                   occupations       occupations                     equiv      equiv         degree
+                                                                 professional                                                                                                         things
+
+                               Weighted Sample 17230                5686              3773               4997          992   603     3080       3578         1134      5683 665      1495       4675   6872     5683
+                             Unweighted Sample 17230                7186              3978               3853          855   627     2979       3121         1224      6171 583      1670       4461   6598     6171
+                                                 %                   %                 %                  %             %     %       %          %            %         %    %        %          %      %        %
+
+HEADLINE VOTING INTENTION
+Westminster Voting Intention
+[Headline voting intention projected by YouGov
+MRP model]
+                                               Con     19            20                 23                 17           21   23       21         20            20       16    12       24        21      20      16
+                                                Lab    18            21                 17                 14           8    9        13         16            17       25    18       18        12      17      25
+                                           Lib Dem     14            17                 12                 11           8    11       10         15            17       18    10       14        10      15      18
+                                               SNP     3             3                  3                  3            3    1        2          3             3        4     4        4         2       3       4
+                                       Plaid Cymru     1             2                  2                  1            1    2        1          1             1        2     1        1         1       1       2
+                                        Reform UK      26            19                 29                 39           49   44       40         27            26       13    37       25        42      27      13
+                                             Green     15            16                 13                 12           8    7        10         16            14       21    15       11        9       14      21
+                                              Other    2             2                  2                  2            3    2        2          2             2        2     4        3         2       2       2
+
+
+Now, thinking specifically about your own
+constituency, if there were a general election
+held tomorrow and these were the parties
+standing, which party would you vote for?
+                                    Conservative       13            16                 16                 12           14   17       14         14            14       12    5        18        14      14      12
+                                           Labour      13            15                 11                 10           6    6        9          11            11       18    7        12        8       11      18
+                                Liberal Democrat       10            12                 8                  7            5    7        7          10            11       13    5        10        7       10      13
+                    Scottish National Party (SNP)      2             2                  2                  2            2    1        1          2             2        3     2        3         1       2       3
+                                      Plaid Cymru      1             1                  1                  1            1    1        1          1             1        1     0        1         1       1       1
+                                       Reform UK       20            15                 23                 29           35   32       30         20            20       11    21       20        31      20      11
+                                            Green      12            12                 9                  9            5    5        8          13            10       17    8        9         7       11      17
+                                Some other party       1             1                  1                  1            1    1        2          1             1        1     2        2         1       1       1
+                                  Would not vote       11            8                  11                 13           17   16       14         11            11       7     19       9         15      11      7
+                                       Don’t know      14            14                 14                 12           11   14       13         13            14       14    16       15        12      14      14
+                                          Refused      4             3                  3                  4            3    1        3          3             4        4     15       3         3       4       4
+
+*Any percentages calculated on bases fewer than
+100 respondents do not represent a wide enough
+cross-section of the target population to be
+considered statistically reliable. These figures
+should not be used.
+
+
+
+
+4                                                                                                 © 2026 YouGov plc. All Rights Reserved                                                                               www.yougov.co.uk
+YouGov Survey Results
+Sample Size: 17230 GB Adults
+Fieldwork: 9th - 14th January 2026
+                                                                                              House Tenure                                           Political Attention
+                                                                                                           Rent from a local
+                                                                                                                             Neither - live with
+                                                                             Own with a     Rent from a       authority /                               Medium (3- High (8-
+                                                      Total   Own outright                                                    parents, family Low (0-2)
+                                                                             mortgage     private landlord     housing                                     7)        10)
+                                                                                                                                 or friends
+                                                                                                             association
+                               Weighted Sample 17230             5548          4772           2486              1894             2158          3273       10338        3619
+                             Unweighted Sample 17230             6216          5083           2261              1770             1585          2536       10671        4023
+                                                 %                %             %              %                 %                %             %           %           %
+
+HEADLINE VOTING INTENTION
+Westminster Voting Intention
+[Headline voting intention projected by YouGov
+MRP model]
+                                               Con     19         26            19              13               12               11            18           20            16
+                                                Lab    18         14            22              21               18               22            15           18            22
+                                           Lib Dem     14         14            15              14               11               16            13           15            14
+                                               SNP     3          3             3               2                5                2             2            3             3
+                                       Plaid Cymru     1          1             2               2                2                1             2            1             2
+                                        Reform UK      26         32            22              20               37               16            35           25            23
+                                             Green     15         8             16              25               12               28            13           15            17
+                                              Other    2          2             2               2                3                3             2            2             3
+
+
+Now, thinking specifically about your own
+constituency, if there were a general election
+held tomorrow and these were the parties
+standing, which party would you vote for?
+                                    Conservative       13         20            13              9                7                8             9            15            14
+                                           Labour      13         10            15              13               12               14            7            12            18
+                                Liberal Democrat       10         10            11              9                6                11            5            11            12
+                    Scottish National Party (SNP)      2          2             2               1                3                1             1            2             3
+                                      Plaid Cymru      1          1             1               1                1                1             1            1             1
+                                       Reform UK       20         27            17              15               25               11            19           20            22
+                                            Green      12         6             12              19               8                20            6            12            16
+                                Some other party       1          1             1               1                2                2             1            1             2
+                                  Would not vote       11         8             9               13               18               12            27           8             4
+                                       Don’t know      14         13            15              13               15               13            18           14            8
+                                          Refused      4          1             4               5                3                8             6            4             2
+
+*Any percentages calculated on bases fewer than
+100 respondents do not represent a wide enough
+cross-section of the target population to be
+considered statistically reliable. These figures
+should not be used.
+
+
+
+
+5                                                                                                © 2026 YouGov plc. All Rights Reserved                                         www.yougov.co.uk
+YouGov Survey Results
+Sample Size: 17230 GB Adults
+Fieldwork: 9th - 14th January 2026
+                                                                                                         Household Income (1)
+
+
+                                                              Under    10,000 -   20,000 -    30,000 -      40,000 -     50,000 -   60,000 -   70,000 -   100,000 -
+                                                      Total                                                                                                         150,000+
+                                                              10,000    19,999     29,999      39,999        49,999       59,999     69,999     99,999     149,999
+
+                               Weighted Sample 17230           772      1720       2210        1816          1489         1069       911        1609        824      300
+                             Unweighted Sample 17230           673      1692       2184        1908          1517         1120       978        1733        884      302
+                                                 %              %        %          %           %             %            %          %          %           %        %
+
+HEADLINE VOTING INTENTION
+Westminster Voting Intention
+[Headline voting intention projected by YouGov
+MRP model]
+                                               Con     19      13        20         19          20            19            16        20         18         20        25
+                                                Lab    18      14        15         17          18            19            19        23         22         25        23
+                                           Lib Dem     14      14        11         14          13            13            15        15         18         20        23
+                                               SNP     3       2         3          3           4             3             4         4          3          2         1
+                                       Plaid Cymru     1       3         2          2           2             1             2         1          1          1         1
+                                        Reform UK      26      30        35         30          27            26            26        21         17         15        14
+                                             Green     15      21        11         13          15            16            15        14         19         16        12
+                                              Other    2       4         3          3           3             2             2         2          2          1         2
+
+
+Now, thinking specifically about your own
+constituency, if there were a general election
+held tomorrow and these were the parties
+standing, which party would you vote for?
+                                    Conservative       13      8         14         13          15            14            11        16         14         16        21
+                                           Labour      13      9         10         11          12            14            15        17         17         20        18
+                                Liberal Democrat       10      7         8          9           10            9             10        11         14         15        18
+                    Scottish National Party (SNP)      2       2         2          2           3             2             3         2          3          2         1
+                                      Plaid Cymru      1       2         1          1           1             1             1         1          1          1         0
+                                       Reform UK       20      21        26         24          22            21            22        18         14         12        12
+                                            Green      12      15        9          10          12            12            12        12         16         15        9
+                                Some other party       1       2         2          2           2             1             1         1          1          0         1
+                                  Would not vote       11      19        13         12          10            10            10        8          7          4         6
+                                       Don’t know      14      11        12         13          11            13            11        13         12         13        10
+                                          Refused      4       3         2          2           3             2             3         2          3          3         3
+
+*Any percentages calculated on bases fewer than
+100 respondents do not represent a wide enough
+cross-section of the target population to be
+considered statistically reliable. These figures
+should not be used.
+
+
+
+
+6                                                                                        © 2026 YouGov plc. All Rights Reserved                                                www.yougov.co.uk
+YouGov Survey Results
+Sample Size: 17230 GB Adults
+Fieldwork: 9th - 14th January 2026
+                                                                                         Household income (2)
+
+
+                                                      Total   Under £20,000   £20,000-£29,999 £30,000-£49,999 £50,000-£69,999 £70,000+
+
+
+                               Weighted Sample 17230             2492             2210             3305           1980         2733
+                             Unweighted Sample 17230             2365             2184             3425           2098         2919
+                                                 %                %                %                %              %            %
+
+HEADLINE VOTING INTENTION
+Westminster Voting Intention
+[Headline voting intention projected by YouGov
+MRP model]
+                                               Con     19          18              19               19              18          19
+                                                Lab    18          15              17               18              21          23
+                                           Lib Dem     14          12              14               13              15          19
+                                               SNP     3           3               3                4               4           3
+                                       Plaid Cymru     1           2               2                2               2           1
+                                        Reform UK      26          34              30               26              24          16
+                                             Green     15          14              13               15              14          17
+                                              Other    2           3               3                2               2           1
+
+
+Now, thinking specifically about your own
+constituency, if there were a general election
+held tomorrow and these were the parties
+standing, which party would you vote for?
+                                    Conservative       13          12              13               15              13          15
+                                           Labour      13          10              11               13              16          18
+                                Liberal Democrat       10          7               9                9               11          15
+                    Scottish National Party (SNP)      2           2               2                3               3           2
+                                      Plaid Cymru      1           1               1                1               1           1
+                                       Reform UK       20          24              24               22              20          13
+                                            Green      12          11              10               12              12          15
+                                Some other party       1           2               2                2               1           1
+                                  Would not vote       11          15              12               10              9           6
+                                       Don’t know      14          12              13               12              12          12
+                                          Refused      4           2               2                2               2           3
+
+*Any percentages calculated on bases fewer than
+100 respondents do not represent a wide enough
+cross-section of the target population to be
+considered statistically reliable. These figures
+should not be used.
+
+
+
+
+7                                                                                               © 2026 YouGov plc. All Rights Reserved   www.yougov.co.uk
+                               YouGov Weighting Data
+
+    YouGov weights GB political surveys by (1) age interlocked with gender and education, (2)
+political attention (3) social grade (4) 2024 recalled vote interlocked with region (5) EU referendum
+recalled vote and (6) ethnicity. Weighting targets are YouGov estimates, data sources used in the
+calculation of targets are cited below. Voting intention figures are seperately modelled using MRP.
+                                     The poll was carried out online.
+
+ All polls are subject to a wide range of potential sources of error. On the basis of the historical
+ record of the polls at recent general elections, there is a 9 in 10 chance that the true value of a
+party’s support lies within 4 points of the estimates provided by this poll, and a 2 in 3 chance that
+                                        they lie within 2 points.
+
+                                                       Unweighted no. Weighted no.        Target %
+Age by Gender by Education (Labour Force
+Survey and ONS Mid Year Estimates)
+                                   Men Over 65             2017             1843           10.7%
+                         Men 50-64 High education           737              637            3.7%
+                          Men 50-64 Mid education           826              775            4.5%
+                         Men 50-64 Low education            687              672            3.9%
+                         Men 25-49 High education          1397             1618            9.4%
+                          Men 25-49 Mid education           943             1137            6.6%
+                         Men 25-49 Low education            595              740            4.3%
+                     Men Under 25 High education            118              173            1.0%
+               Men Under 25 Mid & Low education             272              744            4.3%
+                                   Women Over 65           2521             2205           12.8%
+                     Women 50-64 High education             731              603            3.5%
+                      Women 50-64 Mid education            1001              878            5.1%
+                      Women 50-64 Low education             788              689            4.0%
+                     Women 25-49 High education            2099             1739           10.1%
+                      Women 25-49 Mid education            1337             1223            7.1%
+                      Women 25-49 Low education             556              654            3.8%
+                  Women Under 25 High education             171              207            1.2%
+            Women Under 25 Mid & Low education              434              693            4.0%
+
+Political Attention (British Election Study face to
+face element)
+                                         Low (0,1,2)       2536             3273           19.0%
+                                      Medium (3-7)         10671           10338           60.0%
+                                       High (8,9,10)       4023             3619           21.0%
+
+
+Social Grade (NRS and 2011 census)
+                                                 AB        5703             5378           28.0%
+                                                 C1        4592             4368           29.0%
+                                                 C2        2933             3127           21.0%
+                                                 DE        4002             4358           22.0%
+
+EU Referendum Vote (Election Result)
+                                           Remain          6815             6044           35.1%
+                                            Leave          6475             6147           35.7%
+                         Don't Know / Did Not Vote         3940             5039           29.2%
+
+
+
+
+                         © 2025 YouGov Plc. All Rights Reserved
+                               YouGov Weighting Data
+
+    YouGov weights GB political surveys by (1) age interlocked with gender and education, (2)
+political attention (3) social grade (4) 2024 recalled vote interlocked with region (5) EU referendum
+recalled vote and (6) ethnicity. Weighting targets are YouGov estimates, data sources used in the
+calculation of targets are cited below. Voting intention figures are seperately modelled using MRP.
+                                     The poll was carried out online.
+
+ All polls are subject to a wide range of potential sources of error. On the basis of the historical
+ record of the polls at recent general elections, there is a 9 in 10 chance that the true value of a
+party’s support lies within 4 points of the estimates provided by this poll, and a 2 in 3 chance that
+                                        they lie within 2 points.
+
+
+
+Region by 2024 Vote (Election Result and ONS
+Population estimates)
+                                      North Con             644              603            3.5%
+                                          North Lab        1371             1258            7.3%
+                                           North LD         235              207            1.2%
+                                      North Reform          530              500            2.9%
+                                          North Oth         366              345            2.0%
+                                         North DNV         1010             1171            6.8%
+                                      Midlands Con          598              586            3.4%
+                                      Midlands Lab          786              724            4.2%
+                                       Midlands LD          159              155            0.9%
+                                   Midlands Reform          410              379            2.2%
+                                      Midlands Oth          224              224            1.3%
+                                     Midlands DNV           655              758            4.4%
+                                       London Con           304              310            1.8%
+                                        London Lab          626              655            3.8%
+                                         London LD          165              172            1.0%
+                                    London Reform           139              138            0.8%
+                                        London Oth          216              258            1.5%
+                                       London DNV           397              552            3.2%
+                                         South Con         1390             1361            7.9%
+                                          South Lab        1296             1172            6.8%
+                                          South LD          975              913            5.3%
+                                      South Reform          696              672            3.9%
+                                          South Oth         434              414            2.4%
+                                         South DNV         1230             1379            8.0%
+                                         Wales Con          120              103            0.6%
+                                         Wales Lab          242              224            1.3%
+                                          Wales LD           35              34             0.2%
+                                          Wales PC          104              86             0.5%
+                                     Wales Reform           118              103            0.6%
+                                    Wales Oth DNV           277              276            1.6%
+                                      Scotland Con          155              138            0.8%
+                                       Scotland Lab         423              396            2.3%
+                                       Scotland LD          114              103            0.6%
+                                     Scotland SNP           327              327            1.9%
+                                   Scotland Reform           66               69            0.4%
+                                      Scotland Oth           44               52            0.3%
+                                     Scotland DNV           349              413            2.4%
+
+
+
+
+                         © 2025 YouGov Plc. All Rights Reserved
+                                    YouGov Weighting Data
+
+    YouGov weights GB political surveys by (1) age interlocked with gender and education, (2)
+political attention (3) social grade (4) 2024 recalled vote interlocked with region (5) EU referendum
+recalled vote and (6) ethnicity. Weighting targets are YouGov estimates, data sources used in the
+calculation of targets are cited below. Voting intention figures are seperately modelled using MRP.
+                                     The poll was carried out online.
+
+ All polls are subject to a wide range of potential sources of error. On the basis of the historical
+ record of the polls at recent general elections, there is a 9 in 10 chance that the true value of a
+party’s support lies within 4 points of the estimates provided by this poll, and a 2 in 3 chance that
+                                        they lie within 2 points.
+
+
+
+Ethnicity (2021/22 Census)
+
+                                               White                15255                15011        82.4%
+                                               Asian                 822                  918         7.8%
+                                               Black                 295                  343         3.3%
+                                               Mixed                 370                  420         1.7%
+                               Refused/Rather not say                384                  422         3.0%
+                                               Other                 104                  115         1.8%
+
+
+
+
+            YouGov is a member of the British Polling Council and abides by its rules.
+      For more information on the methodology, please go to https://yougov.co.uk/about/panel-methodology
+                            Or visit our website: yougov.co.uk
+
+
+
+
+                            © 2025 YouGov Plc. All Rights Reserved
+

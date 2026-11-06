@@ -1,0 +1,5 @@
+PLMR website	https://plmr.co.uk/theroadto2029/
+January PLMR poll	ec_vipoll_20260113.html
+polling project on tactical voting (TV)	pseph_tactical_2025.html
+here	https://www.electoralcalculus.co.uk/blogs/ec_polls2024_20241028.html
+Data tables	DataTables_VIJul2026.xlsx

@@ -1,0 +1,200 @@
+    YouGov Survey Results
+Sample Size: 2110 GB Adults
+Fieldwork: 21st - 22nd June 2026
+                                                                                                                                                             Socio-economic classification
+                                                                               Vote in 2024 GE           EU Ref 2016     Gender            Age                                                     Country               Region in England
+                                                                                                                                                                      (NS-SEC)
+                                                                               Lib Reform                                                                                                                               Rest of
+                                                              Total    Con Lab            Green Remain Leave Male Female 18-24 25-49 50-64 65+ Higher Intermediate Routine England Wales Scotland North Midlands London
+                                                                               Dem   UK                                                                                                                                 South
+                                      Weighted Sample         2110     380 542 194 228     128   741    753 1019 1091 221 869 521 498 715                 473       631     1825   101     184    500     346     255    724
+                                    Unweighted Sample         2110     306 576 230 240     135   827    737 920 1190 187 705 609 609 813                  487       490     1811   122     177    505     332     195    779
+                                                               %        % %     %    %      %     %      %    %     %     %     %     %     %    %         %         %       %      %       %      %       %       %      %
+
+                                                   12 - 13   21 - 22
+                                                    May       Jun
+Do you have a favourable or unfavourable
+opinion of the following?
+Kemi Badenoch
+                                 Very favourable     7         8       31     2   3        6       2      6      15     9     8     5     5       9    16    10          10          6        8      8        7     6      10        7       10
+                            Somewhat favourable     24        23       42    11 25        48      10     17      35    25    22    16    17      28    32    23          25          26      24     19       18    21      30       20       25
+                          TOTAL FAVOURABLE          31        31       73    13 28        54      12     23      50    34    30    21    22      37    48    33          35          32      32     27       25    27      40       27       35
+                          Somewhat unfavourable     19        17       10    22 27        17      20     18      18    18    17    18    16      18    19    19          17          16      18     22       13    19      16       19       17
+                               Very unfavourable    29        29        7    49 33        16     43      42      18    35    23    30    29      32    25    32          26          25      27     33       42    30      23       32       26
+                        TOTAL UNFAVOURABLE          48        46       17    71 60        33      63     60      36    53    40    48    45      50    44    51          43          41      45     55       55    49      39       51       43
+                                      Don't know    21        22       11    16 13        13      26     16      14    14    30    31    33      13     8    15          23          27      22     19       20    24      22       22       22
+                           NET FAVOURABILITY        -17       -15      56    -58 -32      21     -51     -37     14    -19   -10   -27   -23     -13    4    -18         -8          -9      -13    -28      -30   -22      1       -24      -8
+Keir Starmer
+                                 Very favourable     4         3         1    8    5      2        2      6       2     3     3     2     3       3     5     4           4           2       3      4        4     3      3         5        3
+                            Somewhat favourable     19        19         9   37   34      2      17      30      10    20     19   22    18      22    18    26          21          12      20     19       18    20     17        24       19
+                          TOTAL FAVOURABLE          23        22       10    45    39     4       19     36      12    23    22    24    21      25    23    30          25          14      23     23       22    23     20        29       22
+                          Somewhat unfavourable     22        22        17   27    28     7       36     29      15    21    23    37    20      21    18    26          19          19      22     22       19    24     17        28       21
+                               Very unfavourable    47        45        68   22    28    84       37     28      69    49    41    31    41      49    56    36          46          56      45     47       50    42     51        31       49
+                        TOTAL UNFAVOURABLE          69        67       85    49    56    91       73     57      84    70    64    68    61      70    74    62          65          75      67     69       69    66     68        59       70
+                                      Don't know     8        10         5    6    5      5        8      8       5     7     13    9    18       5     3     8          10          11      10      8       10    12     12        12        8
+                           NET FAVOURABILITY        -46       -45      -75   -4   -17    -87     -54     -21     -72   -47   -42   -44   -40     -45   -51   -32         -40         -61     -44    -46      -47   -43    -48       -30      -48
+Ed Davey
+                                 Very favourable      4        4        0     6   15      1       2       6       2     4    3      5     2       5      4     4         3            3       4      3        4     3      3        4        4
+                            Somewhat favourable      25        23      21    36   49      6      20      34      15    25    22    26    18      24     30    30         24          16      24     21       16    20     24        28       26
+                          TOTAL FAVOURABLE           29        27      21    42   64      7      22      40      17    29    25    31    20      29     34    34         27          19      28     24       20    23     27        32       30
+                          Somewhat unfavourable      19        18      23    18   13     24      21      19      22    20    16    18    14      23     20    20         14          18      17     17       25    19     15        19       17
+                               Very unfavourable     19        18      30     9   4      45       9      11      32    25    12     4    14      21     28    16         20          22      18     23       16    19     22        10       19
+                        TOTAL UNFAVOURABLE           38        36      53    27   17     69      30      30      54    45    28    22    28      44     48    36         34          40      35     40       41    38     37        29       36
+                                      Don't know     34        37      26    31   19     24      48      30      29    26    47    47    52      27     17    29         38          40      37     36       39    39     35        39       35
+                           NET FAVOURABILITY         -9        -9      -32   15   47     -62     -8      10      -37   -16   -3     9    -8      -15   -14    -2         -7          -21     -7     -16      -21   -15    -10       3        -6
+Nigel Farage
+                                 Very favourable    11         9       14     2   2       39       0      2      20    11     7     3     6      13    13     6          10          14       9      8        7    11     14         2        9
+                            Somewhat favourable     16        16       30     6   5       39       6      7      30    16    15     4    13      21    20    14          17          20      16     17       12    16     14        13       18
+                          TOTAL FAVOURABLE          27        25       44     8   7       78       6      9      50    27    22     7    19      34    33    20          27          34      25     25       19    27     28        15       27
+                          Somewhat unfavourable     12        11       19     6   9        8       4      9      14    12    11    10    11      11    12    12          13          10      11     10       10    11     12        13       11
+                               Very unfavourable    52        54       32    81 81         7      84     77      29    55    54    75    54      51    49    63          52          43      53     57       64    51     50        61       54
+                        TOTAL UNFAVOURABLE          64        65       51    87 90        15      88     86      43    67    65    85    65      62    61    75          65          53      64     67       74    62     62        74       65
+                                      Don't know     8        10        6     5   3        7       7      5       8     6    13     8    16       4     6     6           9          14      10      8        7    12     10        11        9
+                           NET FAVOURABILITY        -37       -40      -7    -79 -83      63     -82     -77      7    -40   -43   -78   -46     -28   -28   -55         -38         -19     -39    -42      -55   -35    -34       -59      -38
+
+
+
+
+1                                                                                                      © 2026 YouGov plc. All Rights Reserved                                                                                             www.yougov.com
+Sample Size: 2110 GB Adults
+Fieldwork: 21st - 22nd June 2026
+                                                                                                                                                     Socio-economic classification
+                                                                       Vote in 2024 GE           EU Ref 2016     Gender            Age                                                     Country               Region in England
+                                                                                                                                                              (NS-SEC)
+                                                                       Lib Reform                                                                                                                               Rest of
+                                                       Total   Con Lab            Green Remain Leave Male Female 18-24 25-49 50-64 65+ Higher Intermediate Routine England Wales Scotland North Midlands London
+                                                                       Dem   UK                                                                                                                                 South
+                                     Weighted Sample   2110    380 542 194 228     128   741    753 1019 1091 221 869 521 498 715                 473       631     1825   101     184    500     346     255    724
+                                   Unweighted Sample   2110    306 576 230 240     135   827    737 920 1190 187 705 609 609 813                  487       490     1811   122     177    505     332     195    779
+                                                        %       % %     %    %      %     %      %    %     %     %     %     %     %    %         %         %       %      %       %      %       %       %      %
+Zack Polanski
+                               Very favourable    9     9        1   13    8      1      37      12       2     10    7    27     9       5      3    8           7           6       9      8        5    11      7        12        8
+                          Somewhat favourable    14    12        4   22   21      2      22      21       5     12    13   17    12      15      9   17           7          10      13     15       10     9     15        19       11
+                        TOTAL FAVOURABLE         23    21        5   35    29     3      59      33       7    22    20    44    21      20     12   25          14          16      22     23       15    20     22        31       19
+                        Somewhat unfavourable    13    14       13   18    21    11       9      16      14    15    13    11    13      15     16   18          15          10      14     18       16    11     12        14       16
+                             Very unfavourable   37    33       58   19    23    62       9      24      51    41    25    18    25      39     47   32          35          36      33     31       34    35     36        25       33
+                      TOTAL UNFAVOURABLE         50    47      71    37    44    73      18      40      65    56    38    29    38      54     63   50          50          46      47     49       50    46     48        39       49
+                                    Don't know   27    32       25   27    26    25      24      27      28    22    42    26    41      27     25   24          35          37      32     28       35    34     31        29       32
+                         NET FAVOURABILITY       -27   -26     -66   -2   -15    -70     41      -7      -58   -34   -18   15    -17     -34   -51   -25         -36         -30     -25    -26      -35   -26    -26       -8       -30
+Rachel Reeves
+                               Very favourable    2     1        0  4   1         1        0      2       1     1     2     1     1       2     2     2           2           1       1      2        1     1      1         3        1
+                          Somewhat favourable    12    13        4 26 23          1      11      19       6    15     10   14    12      14    11    18          11          10      12     14       13    11     15        15       12
+                        TOTAL FAVOURABLE         14    14        4 30 24          2       11     21       7    16    12    15    13      16    13    20          13          11      13     16       14    12     16        18       13
+                        Somewhat unfavourable    22    21       16 29 29          6       36     29      14    23    20    28    19      22    20    25          20          16      22     20       16    21     19        22       22
+                             Very unfavourable   43    43       70 23 32         83       24     31      67    47    40    26    34      51    59    41          45          49      43     42       49    43     46        30       46
+                      TOTAL UNFAVOURABLE         65    64      86 52 61          89       60     60      81    70    60    54    53      73    79    66          65          65      65     62       65    64     65        52       68
+                                    Don't know   21    22       10 18 15          9       29     19      12    14    29    31    33      11     8    15          22          24      22     22       21    24     20        29       18
+                         NET FAVOURABILITY       -51   -50     -82 -22 -37       -87     -49     -39     -74   -54   -48   -39   -40     -57   -66   -46         -52         -54     -52    -46      -51   -52    -49       -34      -55
+Mel Stride
+                               Very favourable    0     1       2     0   0       0        1      1       1     1     0     0     1       1     1     1           1           1       1      1        0     1      1         0        0
+                          Somewhat favourable     5     7      17     4   7       7        1      4      10     7     6     7     3       8    10     9           8           5       7      8        5     4      9         7        7
+                        TOTAL FAVOURABLE          5     8      19     4   7       7        2      5      11     8     6     7     4       9    11    10           9           6       8      9        5     5     10         7        7
+                        Somewhat unfavourable    10    10      11    11 11       12       12     12      11    13     8     8     7      10    15    12           9           9      10     11       11    11      7        11       10
+                             Very unfavourable   11    14      13    12 16       18       10     16      15    20     8     5    12      16    17    16          10          15      13     16       16    13     17        11       13
+                      TOTAL UNFAVOURABLE         21    24      24    23 27       30       22     28      26    33    16    13    19      26    32    28          19          24      23     27       27    24     24        22       23
+                                    Don't know   74    69      57    73 67       62       76     67      64    59    78    80    76      64    56    63          72          70      69     65       68    73     65        70       69
+                         NET FAVOURABILITY       -16   -16     -5    -19 -20     -23     -20     -23     -15   -25   -10   -6    -15     -17   -21   -18         -10         -18     -15    -18      -22   -19    -14       -15      -16
+Andy Burnham
+                               Very favourable   10     9       1    22   13      2       4      16       5    10    8      7     7      11    11     12         9            5       9      11       5    12       8       9         8
+                          Somewhat favourable    24     25     17    38   39     10      36      33      17    25    24    30    21      28     25    31         24          18      25      30       22   29      24       25       22
+                        TOTAL FAVOURABLE         34     34     18    60   52     12      40      49      22    35    32    37    28      39     36    43         33          23      34      41       27   41      32       34       30
+                        Somewhat unfavourable    16     19     33    13   18     23      21      17      23    21    17    18    18      19     21    20         19          20      20      11       16   18      19       18       22
+                             Very unfavourable   14     19     32     7   11     45       4      13      33    24    14     6    13      24     29    16         20          24      18      22       25   18      21       12       19
+                      TOTAL UNFAVOURABLE         30     38     65    20   29     68      25      30      56    45    31    24    31      43     50    36         39          44      38      33       41   36      40       30       41
+                                    Don't know   35     29     17    20   19     21      35      22      22    21    36    39    41      18     14    20         29          34      28      26       32   23      29       37       29
+                         NET FAVOURABILITY        4     -4     -47   40   23     -56     15      19      -34   -10   1     13    -3      -4    -14     7         -6          -21     -4       8      -14    5      -8       4        -11
+
+
+
+
+2                                                                                              © 2026 YouGov plc. All Rights Reserved                                                                                             www.yougov.com
+Sample Size: 2110 GB Adults
+Fieldwork: 21st - 22nd June 2026
+                                                                                                                                                        Socio-economic classification
+                                                                          Vote in 2024 GE           EU Ref 2016     Gender            Age                                                     Country               Region in England
+                                                                                                                                                                 (NS-SEC)
+                                                                           Lib Reform                                                                                                                               Rest of
+                                                           Total   Con Lab            Green Remain Leave Male Female 18-24 25-49 50-64 65+ Higher Intermediate Routine England Wales Scotland North Midlands London
+                                                                           Dem   UK                                                                                                                                 South
+                                     Weighted Sample       2110    380 542 194 228     128   741    753 1019 1091 221 869 521 498 715                 473       631     1825   101     184    500     346     255    724
+                                   Unweighted Sample       2110    306 576 230 240     135   827    737 920 1190 187 705 609 609 813                  487       490     1811   122     177    505     332     195    779
+                                                            %       % %     %    %      %     %      %    %     %     %     %     %     %    %         %         %       %      %       %      %       %       %      %
+Angela Rayner
+                               Very favourable     5        4        0   10    4      0       2      7        2    4     3     4     3       5     3     5           2           2       4      2        1     5      3         6        3
+                          Somewhat favourable     17       17        5   33   32      3     24      28        6   19    14    19    15      20    16    22          16          12      17     19       15    16     17        18       17
+                        TOTAL FAVOURABLE          22       21        5   43    36     3      26     35        8   23    17    23    18      25    19    27          18          14      21     21       16    21     20        24       20
+                        Somewhat unfavourable     17       18       18   21    20     6      26     20      15    20    16    24    18      19    16    19          17          17      19     16       16    20     16        23       18
+                             Very unfavourable    38       36       68   14    26   76       18     24      62    39    34    16    27      42    56    36          40          40      36     38       40    36     39        23       39
+                      TOTAL UNFAVOURABLE          55       54      86    35    46   82       44     44      77    59    50    40    45      61    72    55          57          57      55     54       56    56     55        46       57
+                                    Don't know    23       25        9   21   18     14     30      20       15   18    32    38    38      14     9    17          26          29      25     25       28    23     25        30       24
+                         NET FAVOURABILITY        -33      -33     -81    8   -10   -79     -18     -9      -69   -36   -33   -17   -27     -36   -53   -28         -39         -43     -34    -33      -40   -35    -35       -22      -37
+
+                                                 18 - 19
+                                                  Mar
+Jeremy Corbyn
+                               Very favourable     7        7        0   12    8      1     22      11        3    7     8    11     9       5     4     8           6           6       7     12        8     8      7        10        5
+                          Somewhat favourable     17       16        3   30   15      3     28      22        6   16    16    29    19      13     6    16          15          13      16     15       13    15     16        23       14
+                        TOTAL FAVOURABLE          24       23        3   42    23     4     50       33       9   23    24    40    28      18    10    24          21          19      23     27       21    23     23        33       19
+                        Somewhat unfavourable     17       19       15   22    24   16      15       21     16    19    19    23    18      19    17    22          16          17      18     20       23    19     18        15       19
+                             Very unfavourable    47       44       76   28    48   69      19       37     65    49    39    20    31      55    65    45          48          45      44     36       46    42     46        32       48
+                      TOTAL UNFAVOURABLE          64       63      91    50    72   85      34       58     81    68    58    43    49      74    82    67          64          62      62     56       69    61     64        47       67
+                                    Don't know    12       15        6    8    5     11     16        9      10   10    19    16    22       8     7     9          15          18      15     16        9    17     13        19       13
+                         NET FAVOURABILITY        -40      -40     -88   -8   -49   -81     16      -25     -72   -45   -34   -3    -21     -56   -72   -43         -43         -43     -39    -29      -48   -38    -41       -14      -48
+Rupert Lowe
+                               Very favourable     7        7        6  2   1        26       1      2      14     8     6     5     8       7     6     5           7           8       7      5        4     8      9         3        7
+                          Somewhat favourable      7        9       17  4   4        24       2      4      15    10     8     3     7      12    10     8          10          11       9      9        7     7     12        11        8
+                        TOTAL FAVOURABLE          14       16      23   6   5        50       3      6      29    18    14     8    15      19    16    13          17          19      16     14       11    15     21        14       15
+                        Somewhat unfavourable      8       10       19  8   6        10       7      7      14    12     8     8     9      10    13    10          10          12      10      7       11    11      9         9       11
+                             Very unfavourable    19       26       18 36 42         12      36     37      18    36    18    34    21      31    27    31          24          23      26     28       29    26     25        29       25
+                      TOTAL UNFAVOURABLE          27       36      37 44 48          22      43     44      32    48    26    42    30      41    40    41          34          35      36     35       40    37     34        38       36
+                                    Don't know    59       48       40 50 46         28      53     50      39    35    61    50    55      40    44    47          50          46      48     52       49    49     44        48       50
+                         NET FAVOURABILITY        -13      -20     -14 -38 -43       28     -40     -38     -3    -30   -12   -34   -15     -22   -24   -28         -17         -16     -20    -21      -29   -22    -13       -24      -21
+
+                                                 12 - 13
+                                                  May
+Shabana Mahmood
+                               Very favourable     1        1        2  3   3        0        0      2       1     1     1     1     1       1     3     2           1           1       1      2        1     1      1         3        2
+                          Somewhat favourable     10       13       19 16 16        11       13     15      14    17     9     9     9      15    18    16          15           9      13     18        8    12     12        14       14
+                        TOTAL FAVOURABLE          11       14      21 19 19         11       13     17      15    18    10    10    10      16    21    18          16          10      14     20        9    13     13        17       16
+                        Somewhat unfavourable     18       18       22 17 24        20       14     19      20    20    15    14    13      21    23    22          16          15      18     12       16    19     15        17       19
+                             Very unfavourable    22       21       24 15 16        38       23     19      28    27    16    17    19      24    23    19          20          23      21     23       26    20     25        23       18
+                      TOTAL UNFAVOURABLE          40       39      46 32 40         58       37     38      48    47    31    31    32      45    46    41          36          38      39     35       42    39     40        40       37
+                                    Don't know    49       47       33 49 42        31       50     45      37    35    59    58    58      38    33    40          48          51      47     45       49    49     46        44       48
+                         NET FAVOURABILITY        -29      -25     -25 -13 -21      -47     -24     -21     -33   -29   -21   -21   -22     -29   -25   -23         -20         -28     -25    -15      -33   -26    -27       -23      -21
+
+
+
+
+3                                                                                                 © 2026 YouGov plc. All Rights Reserved                                                                                             www.yougov.com
+Sample Size: 2110 GB Adults
+Fieldwork: 21st - 22nd June 2026
+                                                                                                                                                       Socio-economic classification
+                                                                         Vote in 2024 GE           EU Ref 2016     Gender            Age                                                     Country               Region in England
+                                                                                                                                                                (NS-SEC)
+                                                                          Lib Reform                                                                                                                               Rest of
+                                                          Total   Con Lab            Green Remain Leave Male Female 18-24 25-49 50-64 65+ Higher Intermediate Routine England Wales Scotland North Midlands London
+                                                                          Dem   UK                                                                                                                                 South
+                                        Weighted Sample   2110    380 542 194 228     128   741    753 1019 1091 221 869 521 498 715                 473       631     1825   101     184    500     346     255    724
+                                      Unweighted Sample   2110    306 576 230 240     135   827    737 920 1190 187 705 609 609 813                  487       490     1811   122     177    505     332     195    779
+                                                           %       % %     %    %      %     %      %    %     %     %     %     %     %    %         %         %       %      %       %      %       %       %      %
+Wes Streeting
+                                 Very favourable    2      1        0  3   2        0        0      2       1     2     1     1     1       2     2     1           2           1       1      1        1     0      2         2        2
+                            Somewhat favourable    14     12       17 19 21         4        5     17      12    12    12    10     7      15    20    17          14           8      13     10        4     9     14        17       14
+                          TOTAL FAVOURABLE         16     13      17 22 23          4        5     19      13    14    13    11     8      17    22    18          16           9      14     11        5     9     16        19       16
+                          Somewhat unfavourable    23     27       29 32 32        28       24     30      29    30    24    26    23      31    29    32          25          23      27     23       24    31     25        23       27
+                               Very unfavourable   21     24       27 16 21        41       32     22      32    31    18    18    21      26    30    24          21          27      23     32       29    23     24        25       22
+                        TOTAL UNFAVOURABLE         44     51      56 48 53         69       56     52      61    61    42    44    44      57    59    56          46          50      50     55       53    54     49        48       49
+                                      Don't know   40     36       26 30 24        26       38     29      27    25    45    45    48      27    19    25          38          42      35     33       42    36     35        33       35
+                           NET FAVOURABILITY       -28    -38     -39 -26 -30      -65     -51     -33     -48   -47   -29   -33   -36     -40   -37   -38         -30         -41     -36    -44      -48   -45    -33       -29      -33
+
+*Any percentages calculated on bases fewer than
+100 respondents do not represent a wide enough
+cross-section of the target population to be
+considered statistically reliable. These figures
+should not be used.
+
+
+
+
+4                                                                                                © 2026 YouGov plc. All Rights Reserved                                                                                             www.yougov.com
+

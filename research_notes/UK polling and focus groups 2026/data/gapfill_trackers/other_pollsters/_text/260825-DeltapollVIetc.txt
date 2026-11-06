@@ -1,0 +1,1316 @@
+Deltapoll Survey Results
+
+Sample Size: 2,032 Adults in Great Britain
+Fieldwork: 21st - 24th August 2026
+
+
+                                                                                       Gender                                Age
+                                                                          Total
+                                                                                  Male     Female    18 to 24   25 to 34   35 to 54   55 to 64   65+
+
+                     All Adults in Great Britain Who Intend to Vote       2792    1414      1378       297        426       1000        419      650
+                                                 Unweighted Sample        2022    969       1053       183        341        757        353      388
+General Election Voting Intention
+[Excluding 'Don't know' and 'Would not vote']
+                                                         Conservative     20%     18%       21%        7%         14%        17%        26%      30%
+                                                               Labour     30%     32%       28%        33%        35%        34%        27%      22%
+                                                     Liberal Democrat      8%     6%        10%        8%         8%         9%         6%       9%
+                                                            Reform UK     27%     32%       22%        19%        22%        28%        30%      30%
+                                                Scottish National Party    3%     2%            3%     3%         2%         3%         2%       2%
+                                                          Plaid Cymru      1%     1%            1%     1%         1%         1%         1%       0%
+                                                                Green      8%     5%        12%        23%        15%        6%         5%       3%
+                                                                 Other     3%     3%            4%     7%         2%         3%         4%       3%
+                                                                                        Gender                               Age
+                                                                           Total
+                                                                                   Male     Female   18 to 24   25 to 34   35 to 54   55 to 64   65+
+
+                                          All Adults in Great Britain      2020    980       1040      263        295        680        324      459
+                                                Unweighted Sample          2022    969       1053      183        341        757        353      388
+Q1 - For each of the following party leaders, do you think they
+are doing very well in their job, quite well, quite badly or very
+badly?
+The Prime Minister, Andy Burnham
+                                                            Very well      13%     15%       12%       17%        21%        13%        10%      8%
+                                                           Quite well      43%     43%       43%       48%        42%        45%        45%      36%
+                                                         Quite badly       15%     15%       16%       22%        11%        15%        14%      16%
+                                                           Very badly      14%     17%       12%       4%         13%        14%        19%      19%
+                                                          Don’t know       14%     11%       18%       10%        13%        14%        12%      20%
+                                                                    Well   56%     58%       54%       64%        63%        58%        55%      45%
+                                                               Badly       30%     32%       28%       26%        23%        28%        32%      36%
+
+
+
+
+The leader of the Conservative Party, Kemi Badenoch
+                                                            Very well      12%     14%       10%       9%         13%        10%        12%      16%
+                                                           Quite well      36%     38%       35%       28%        35%        36%        35%      44%
+                                                         Quite badly       18%     23%       14%       23%        19%        18%        18%      16%
+                                                           Very badly      17%     18%       16%       18%        14%        20%        16%      14%
+                                                          Don’t know       17%     7%        25%       22%        20%        17%        19%      11%
+                                                                    Well   48%     52%       45%       37%        48%        45%        47%      60%
+                                                               Badly       35%     41%       30%       41%        33%        38%        34%      29%
+                                                                                   Gender                                Age
+                                                                      Total
+                                                                              Male     Female    18 to 24   25 to 34   35 to 54   55 to 64   65+
+
+                                        All Adults in Great Britain   2020    980       1040       263        295        680        324      459
+                                                Unweighted Sample     2022    969       1053       183        341        757        353      388
+The leader of the Reform Party, Nigel Farage
+                                                          Very well   13%     20%           7%     14%        14%        15%        12%      12%
+                                                         Quite well   25%     30%       19%        19%        28%        20%        25%      33%
+                                                       Quite badly    18%     15%       20%        17%        25%        15%        18%      16%
+                                                        Very badly    37%     30%       43%        43%        26%        40%        40%      34%
+                                                        Don’t know     7%     4%        11%        7%         7%         10%        5%       6%
+                                                              Well    38%     51%       26%        33%        42%        35%        37%      44%
+                                                             Badly    54%     45%       63%        60%        51%        55%        58%      50%
+
+
+
+
+Q4 - Now that Andy Burnham has replaced Keir Starmer as Prime
+Minister, should there be a General Election?
+                                                               Yes    59%     61%       57%        54%        61%        60%        50%      65%
+                                                                No    29%     32%       26%        34%        22%        30%        34%      26%
+                                                        Don’t know    12%     7%        17%        12%        16%        11%        16%      9%
+                                                                                   Gender                                Age
+                                                                      Total
+                                                                              Male     Female    18 to 24   25 to 34   35 to 54   55 to 64   65+
+
+                                        All Adults in Great Britain   2020    980       1040       263        295        680        324      459
+                                             Unweighted Sample        2022    969       1053       183        341        757        353      388
+Q5. How do you feel about Andy Burnham becoming the next
+Prime Minister of the United Kingdom?
+                                                           Hopeful    40%     40%       39%        42%        51%        41%        41%      29%
+                                                          Nervous     23%     24%       22%        31%        19%        21%        22%      26%
+                                                         Confident    16%     19%       13%        10%        13%        16%        19%      18%
+                                                        Frustrated    15%     19%       13%        17%        19%        20%        13%      8%
+                                                             Angry    13%     16%       10%        11%        9%         11%        15%      15%
+                                                           Relaxed    11%     14%           7%     18%        13%        9%         8%       9%
+                                                             Afraid   10%     13%           7%     14%        16%        11%        8%       3%
+                                                           Excited     9%     9%            8%     10%        10%        5%         8%       12%
+                                                       Don’t know      5%     3%            8%     5%         5%         6%         6%       5%
+                                                None of the above      8%     4%        12%        10%        7%         9%         5%       10%
+                                                                                     Gender                                Age
+                                                                        Total
+                                                                                Male     Female    18 to 24   25 to 34   35 to 54   55 to 64   65+
+
+                                        All Adults in Great Britain     2020    980       1040       263        295        680        324      459
+                                              Unweighted Sample         2022    969       1053       183        341        757        353      388
+MI1a. What do you think are the most important problems
+FACING YOU AND YOUR FAMILY at the present time?
+                                                   The cost of living   63%     59%       66%        69%        67%        68%        60%      52%
+                                                           The NHS      29%     35%       23%        13%        15%        31%        27%      44%
+                                                      The economy       28%     30%       26%        23%        22%        30%        39%      25%
+                                           Immigration and asylum       28%     23%       32%        12%        25%        24%        32%      41%
+                              The environment and climate change        14%     13%       14%        16%        13%        15%        16%      10%
+                                                           Taxation     13%     15%       11%        5%         15%        15%        16%      11%
+                                               Welfare and benefits     10%     10%       10%        5%         9%         11%        13%      11%
+                                                              Crime      8%     9%            7%     3%         4%         6%         9%       17%
+                                                            Housing      8%     8%            8%     4%         10%        7%         10%      9%
+                                                    Unemployment         8%     8%            8%     1%         5%         6%         16%      11%
+                                              Defence and security       8%     8%            8%     21%        9%         9%         3%       2%
+                                                           Pensions      7%     8%            6%     20%        9%         6%         4%       3%
+                                                   Social inequality     5%     6%            5%     11%        3%         4%         3%       7%
+                                           Family life and childcare     5%     3%            7%     3%         10%        8%         1%       2%
+         The relationship between different ethnic groups in Britain     4%     6%            3%     7%         6%         3%         5%       4%
+                                                          Education      4%     4%            5%     5%         8%         2%         6%       4%
+                                                              Brexit     4%     4%            5%     4%         5%         2%         7%       5%
+                                       Achieving peace in the world      4%     2%            6%     10%        4%         5%         1%       2%
+                                                          Transport      4%     4%            3%     1%         5%         4%         3%       3%
+                                               The situation in Iran     3%     3%            3%     6%         6%         1%         2%       4%
+                                              The situation in Gaza      3%     3%            3%     6%         0%         2%         2%       6%
+                                            The situation in Ukraine     2%     2%            2%     3%         3%         2%         2%       1%
+                          The rights of trans men and trans women        2%     2%            2%     0%         2%         4%         0%       0%
+                                           The COVID 19 pandemic         1%     1%            1%     3%         5%         0%         0%       0%
+                                  There are no important problems       0%    1%    0%    0%    1%    0%    0%    0%
+                                      Reform of the House of Lords      1%    1%    1%    1%    1%    1%    0%    1%
+                                                 None of the above      1%    0%    1%    0%    2%    1%    1%    0%
+                                                        Don't know      1%    1%    2%    1%    1%    1%    1%    4%
+
+
+
+
+MI1b. What do you think are the most important problems
+FACING THE COUNTRY at the present time?
+                                                   The cost of living   48%   46%   50%   47%   48%   53%   43%   45%
+                                           Immigration and asylum       39%   41%   37%   19%   29%   38%   50%   52%
+                                                           The NHS      29%   23%   34%   37%   22%   23%   26%   38%
+                                                      The economy       28%   32%   24%   29%   28%   27%   34%   24%
+                                                              Crime     15%   15%   15%   10%   15%   18%   15%   12%
+                                               Welfare and benefits     13%   15%   12%   5%    8%    8%    17%   26%
+                                              Defence and security      13%   10%   16%   11%   12%   13%   14%   14%
+                              The environment and climate change        13%   13%   13%   4%    11%   10%   15%   21%
+                                                            Housing     10%   11%   9%    21%   12%   13%   4%    4%
+                                                    Unemployment        10%   12%   8%    7%    11%   12%   14%   6%
+                                                           Taxation     9%    10%   9%    19%   19%   10%   2%    3%
+         The relationship between different ethnic groups in Britain    7%    8%    7%    4%    3%    7%    10%   9%
+                                                   Social inequality    7%    7%    7%    8%    11%   6%    8%    4%
+                                               The situation in Iran    4%    6%    2%    4%    7%    5%    1%    2%
+                                                          Education     4%    4%    4%    2%    6%    3%    5%    4%
+                                                              Brexit    4%    3%    4%    3%    1%    1%    8%    6%
+                                            The situation in Ukraine    3%    4%    3%    5%    2%    2%    6%    3%
+                                                           Pensions     3%    5%    2%    9%    4%    4%    1%    1%
+                                       Achieving peace in the world     3%    3%    3%    0%    2%    3%    4%    4%
+                                           Family life and childcare    3%    2%    3%    1%    4%    3%    1%    2%
+                                                          Transport     2%    1%    4%    7%    1%    1%    2%    2%
+                          The rights of trans men and trans women       2%    2%    1%    2%    4%    1%    2%    1%
+           The situation in Gaza   1%   2%   1%   0%   3%   1%   0%   2%
+   Reform of the House of Lords    1%   1%   1%   1%   1%   2%   0%   0%
+        The COVID 19 pandemic      0%   0%   0%   1%   0%   0%   0%   0%
+There are no important problems    0%   0%   0%   0%   1%   1%   0%   0%
+             None of the above     1%   1%   1%   3%   1%   1%   2%   0%
+                    Don't know     0%   0%   0%   0%   0%   0%   0%   0%
+                                                                                     Gender                                Age
+                                                                        Total
+                                                                                Male     Female    18 to 24   25 to 34   35 to 54   55 to 64   65+
+
+                                         All Adults in Great Britain    2020    980       1040       263        295        680        324      459
+                                               Unweighted Sample        2022    969       1053       183        341        757        353      388
+
+Taking everything into account do you personally think it is a
+good or a bad thing that Prince Harry and Meghan, The Duke and
+Duchess of Sussex, and their two children are planning to move
+back to the UK to live?
+                                                     Very good thing     9%     9%        10%        6%         12%        13%        5%       6%
+                                                    Fairly good thing   23%     25%       21%        38%        31%        22%        18%      16%
+                                                     Fairly bad thing   19%     19%       19%        15%        17%        17%        26%      21%
+                                                      Very bad thing    16%     16%       16%        8%         6%         12%        20%      29%
+                                                         Don't know     33%     31%       34%        32%        34%        35%        31%      27%
+                                                          NET: Good     32%     34%       31%        44%        43%        35%        23%      22%
+                                                            NET: Bad    35%     35%       35%        24%        23%        29%        45%      51%
+
+
+
+
+Thinking about Harry and Meghan, the Duke and Duchess of
+Sussex, and taking everything into account, which of the
+following statements comes closest to your own view?
+               They have improved the reputation of the royal family     6%     7%            6%     14%        10%        6%         3%       4%
+               They have damaged the reputation of the royal family     50%     51%       49%        33%        36%        43%        65%      69%
+
+   They have made no difference to the reputation of the royal family   31%     31%       32%        39%        35%        37%        23%      21%
+
+                                                         Don't know     12%     11%       13%        14%        19%        13%        10%      6%
+                                                                                       Gender                                Age
+                                                                          Total
+                                                                                  Male     Female    18 to 24   25 to 34   35 to 54   55 to 64   65+
+
+                                         All Adults in Great Britain      2020    980       1040       263        295        680        324      459
+                                              Unweighted Sample           2022    969       1053       183        341        757        353      388
+
+
+Taking everything into account, who from the following do you
+think has made a positive contribution to the United Kingdom?
+                                                       Prince William     52%     49%       55%        26%        31%        53%        70%      63%
+                                           Princess Catherine (Kate)      48%     44%       52%        17%        36%        45%        65%      64%
+                                                       Princess Anne      37%     31%       42%        11%        17%        27%        53%      67%
+                                                       King Charles III   36%     40%       33%        13%        19%        36%        51%      48%
+                                                       Prince Edward      18%     16%       20%        9%         12%        12%        30%      29%
+                                 Queen Camilla, the Queen Consort         17%     16%       17%        6%         8%         13%        29%      25%
+                                                          Zara Tindall    15%     12%       17%        6%         10%        12%        22%      22%
+                                                         Prince Harry     10%     11%           9%     17%        15%        11%        6%       4%
+                                                        Peter Phillips     5%     5%            5%     9%         3%         5%         6%       4%
+                                     Meghan, the Duchess of Sussex         5%     6%            5%     10%        9%         6%         3%       1%
+                         Andrew Windsor, formerly the Duke of York         2%     3%            1%     3%         3%         1%         1%       1%
+                                                       None of them       15%     15%       15%        30%        19%        16%        9%       8%
+                                                          Don't know       7%     5%            8%     12%        15%        7%         4%       1%
+
+
+
+
+Do you support or oppose UK taxpayers' money being used to
+pay for police protection for each of the following?
+Prince Harry and Meghan, The Duke and Duchess of Sussex, and
+their children
+                                                              Support     23%     26%       21%        33%        36%        27%        12%      12%
+                                                              Oppose      63%     62%       64%        46%        46%        59%        70%      82%
+                                                          Don't know      14%     12%       16%        21%        18%        14%        18%      7%
+                                                                                  Gender                                Age
+                                                                     Total
+                                                                             Male     Female    18 to 24   25 to 34   35 to 54   55 to 64   65+
+
+                                       All Adults in Great Britain   2020    980       1040       263        295        680        324      459
+                                             Unweighted Sample       2022    969       1053       183        341        757        353      388
+King Charles and Queen Camilla
+                                                          Support    60%     63%       57%        32%        45%        61%        71%      73%
+                                                          Oppose     28%     29%       27%        44%        36%        31%        18%      18%
+                                                      Don't know     12%     8%        16%        24%        18%        8%         11%      9%
+
+
+
+
+Prince William and Princess Catherine, The Prince and Princess of
+Wales, and their children
+                                                          Support    66%     65%       68%        43%        57%        66%        78%      75%
+                                                          Oppose     24%     27%       21%        36%        29%        25%        15%      19%
+                                                      Don't know     10%     9%        11%        21%        13%        9%         7%       6%
+
+
+
+
+Andrew Windsor, formerly the Duke of York
+                                                          Support    10%     14%           5%     20%        16%        9%         4%       5%
+                                                          Oppose     78%     75%       81%        52%        65%        80%        85%      89%
+                                                      Don't know     12%     11%       14%        28%        20%        10%        11%      6%
+
+
+
+
+Taking everything into account, of the following who do you
+believe has done more damage to the Royal Family?
+                                                     Prince Harry    18%     20%       16%        33%        19%        11%        16%      23%
+                                                 Andrew Windsor      71%     69%       73%        52%        68%        75%        75%      71%
+                                                      Don't know     11%     11%       11%        15%        12%        13%        9%       5%
+Deltapoll Survey Results
+
+Sample Size: 2,032 Adults in Great Britain
+Fieldwork: 21st - 24th August 2026
+
+
+                                                                                                Generation                   EU Ref Vote
+                                                                          Total                                   Baby
+                                                                                  Gen Z   Mille-nnials   Gen X             Remain   Leave
+                                                                                                                 Boomers
+                     All Adults in Great Britain Who Intend to Vote       2792     474        784         766      717      1022     997
+                                                 Unweighted Sample        2022     343        584         612      459      707      619
+General Election Voting Intention
+[Excluding 'Don't know' and 'Would not vote']
+                                                         Conservative     20%      8%         14%        23%      29%       17%      26%
+                                                               Labour     30%     34%         36%        30%      23%       43%      15%
+                                                     Liberal Democrat      8%      7%         10%         8%       8%       13%       4%
+                                                            Reform UK     27%     18%         28%        28%      31%       12%      46%
+                                                Scottish National Party    3%      3%         4%          3%       3%       4%        2%
+                                                          Plaid Cymru      1%      1%         1%          1%       0%       1%        0%
+                                                                Green      8%     25%         7%          4%       3%       8%        2%
+                                                                 Other     3%      5%         2%          4%       3%       1%        5%
+                                                                                                 Generation                   EU Ref Vote
+                                                                           Total                                   Baby
+                                                                                   Gen Z   Mille-nnials   Gen X             Remain   Leave
+                                                                                                                  Boomers
+                                          All Adults in Great Britain      2020     405        530         556      499      686      613
+                                                Unweighted Sample          2022     343        584         612      459      707      619
+Q1 - For each of the following party leaders, do you think they
+are doing very well in their job, quite well, quite badly or very
+badly?
+The Prime Minister, Andy Burnham
+                                                            Very well      13%     17%         18%        10%       9%       19%       9%
+                                                           Quite well      43%     43%         47%        44%      36%       53%      28%
+                                                         Quite badly       15%     20%         12%        15%      16%       10%      21%
+                                                           Very badly      14%      7%         12%        16%      21%       8%       27%
+                                                          Don’t know       14%     12%         11%        15%      18%       11%      14%
+                                                                    Well   56%     60%         65%        55%      45%       71%      37%
+                                                               Badly       30%     28%         24%        30%      37%       18%      48%
+
+
+
+
+The leader of the Conservative Party, Kemi Badenoch
+                                                            Very well      12%      8%         13%        10%      15%       12%      16%
+                                                           Quite well      36%     32%         31%        38%      42%       31%      49%
+                                                         Quite badly       18%     21%         20%        16%      17%       21%      13%
+                                                           Very badly      17%     18%         18%        18%      14%       22%      12%
+                                                          Don’t know       17%     21%         18%        18%      11%       14%      10%
+                                                                    Well   48%     40%         44%        49%      57%       43%      65%
+                                                               Badly       35%     38%         38%        34%      32%       43%      25%
+                                                                                            Generation                   EU Ref Vote
+                                                                      Total                                   Baby
+                                                                              Gen Z   Mille-nnials   Gen X             Remain   Leave
+                                                                                                             Boomers
+                                        All Adults in Great Britain   2020     405        530         556      499      686      613
+                                                Unweighted Sample     2022     343        584         612      459      707      619
+The leader of the Reform Party, Nigel Farage
+                                                          Very well   13%     13%         15%        14%      11%       7%       24%
+                                                         Quite well   25%     22%         22%        22%      32%       15%      38%
+                                                       Quite badly    18%     22%         20%        13%      16%       18%      16%
+                                                        Very badly    37%     36%         33%        42%      36%       54%      18%
+                                                        Don’t know     7%      6%         10%         8%       6%       5%        4%
+                                                              Well    38%     35%         37%        36%      42%       22%      62%
+                                                             Badly    54%     58%         53%        56%      52%       72%      34%
+
+
+
+
+Q4 - Now that Andy Burnham has replaced Keir Starmer as Prime
+Minister, should there be a General Election?
+                                                               Yes    59%     53%         62%        57%      61%       46%      78%
+                                                                No    29%     32%         25%        31%      29%       41%      20%
+                                                        Don’t know    12%     15%         13%        12%       9%       14%       2%
+                                                                                            Generation                   EU Ref Vote
+                                                                      Total                                   Baby
+                                                                              Gen Z   Mille-nnials   Gen X             Remain   Leave
+                                                                                                             Boomers
+                                        All Adults in Great Britain   2020     405        530         556      499      686      613
+                                             Unweighted Sample        2022     343        584         612      459      707      619
+Q5. How do you feel about Andy Burnham becoming the next
+Prime Minister of the United Kingdom?
+                                                           Hopeful    40%     46%         47%        38%      30%       49%      27%
+                                                          Nervous     23%     27%         19%        23%      25%       23%      25%
+                                                         Confident    16%     10%         12%        21%      18%       13%      27%
+                                                        Frustrated    15%     16%         23%        14%       9%       21%       8%
+                                                             Angry    13%     11%         9%         14%      17%       6%       24%
+                                                           Relaxed    11%     17%         10%         8%       8%       11%      10%
+                                                             Afraid   10%     14%         16%         9%       3%       13%       5%
+                                                           Excited     9%      8%         7%          6%      13%       6%       14%
+                                                       Don’t know      5%      5%         5%          7%       5%       6%        3%
+                                                None of the above      8%      9%         7%          7%      11%       5%        8%
+                                                                                              Generation                   EU Ref Vote
+                                                                        Total                                   Baby
+                                                                                Gen Z   Mille-nnials   Gen X             Remain   Leave
+                                                                                                               Boomers
+                                        All Adults in Great Britain     2020     405        530         556      499      686      613
+                                              Unweighted Sample         2022     343        584         612      459      707      619
+MI1a. What do you think are the most important problems
+FACING YOU AND YOUR FAMILY at the present time?
+                                                   The cost of living   63%     69%         66%        66%      50%       63%      59%
+                                                           The NHS      29%     12%         26%        29%      45%       19%      53%
+                                                      The economy       28%     20%         32%        33%      26%       33%      25%
+                                           Immigration and asylum       28%     19%         18%        32%      39%       30%      32%
+                              The environment and climate change        14%     17%         11%        17%      12%       16%       8%
+                                                           Taxation     13%      7%         17%        14%      12%       11%      16%
+                                               Welfare and benefits     10%      7%         11%        12%      11%       8%       15%
+                                                              Crime      8%      3%         5%          8%      16%       7%       13%
+                                                            Housing      8%      6%         8%         10%       8%       10%       9%
+                                                    Unemployment         8%      2%         6%         11%      11%       10%       9%
+                                              Defence and security       8%     19%         7%          7%       2%       7%        4%
+                                                           Pensions      7%     16%         8%          5%       3%       4%        5%
+                                                   Social inequality     5%      8%         5%          3%       6%       4%        5%
+                                           Family life and childcare     5%      5%         11%         3%       2%       8%        2%
+         The relationship between different ethnic groups in Britain     4%      5%         4%          4%       4%       7%        2%
+                                                          Education      4%      8%         2%          4%       4%       6%        2%
+                                                              Brexit     4%      6%         2%          4%       4%       6%        2%
+                                       Achieving peace in the world      4%      8%         4%          3%       1%       4%        2%
+                                                          Transport      4%      1%         5%          4%       3%       8%        1%
+                                               The situation in Iran     3%      7%         1%          1%       4%       2%        3%
+                                              The situation in Gaza      3%      4%         1%          1%       7%       1%        5%
+                                            The situation in Ukraine     2%      2%         3%          2%       1%       3%        1%
+                          The rights of trans men and trans women        2%      1%         5%          1%       0%       4%        2%
+                                           The COVID 19 pandemic         1%      5%         1%          0%       0%       1%        1%
+                                  There are no important problems       0%    0%    1%    0%    0%    0%    0%
+                                      Reform of the House of Lords      1%    1%    0%    1%    1%    0%    1%
+                                                 None of the above      1%    1%    1%    0%    0%    0%    0%
+                                                        Don't know      1%    0%    1%    1%    3%    2%    1%
+
+
+
+
+MI1b. What do you think are the most important problems
+FACING THE COUNTRY at the present time?
+                                                   The cost of living   48%   50%   44%   56%   42%   56%   39%
+                                           Immigration and asylum       39%   22%   36%   43%   53%   35%   60%
+                                                           The NHS      29%   34%   23%   21%   39%   30%   25%
+                                                      The economy       28%   26%   28%   33%   24%   33%   25%
+                                                              Crime     15%   14%   20%   14%   13%   13%   16%
+                                               Welfare and benefits     13%   5%    10%   11%   25%   13%   20%
+                                              Defence and security      13%   13%   12%   12%   15%   15%   9%
+                              The environment and climate change        13%   5%    9%    14%   21%   12%   19%
+                                                            Housing     10%   18%   11%   10%   3%    8%    7%
+                                                    Unemployment        10%   7%    11%   15%   5%    9%    13%
+                                                           Taxation     9%    19%   14%   5%    2%    9%    6%
+         The relationship between different ethnic groups in Britain    7%    4%    5%    10%   9%    7%    11%
+                                                   Social inequality    7%    8%    9%    7%    4%    8%    4%
+                                               The situation in Iran    4%    6%    4%    3%    2%    6%    1%
+                                                          Education     4%    3%    5%    2%    5%    4%    3%
+                                                              Brexit    4%    2%    1%    4%    6%    4%    4%
+                                            The situation in Ukraine    3%    4%    2%    3%    4%    4%    3%
+                                                           Pensions     3%    6%    3%    3%    1%    3%    1%
+                                       Achieving peace in the world     3%    0%    3%    4%    3%    3%    3%
+                                           Family life and childcare    3%    2%    5%    2%    1%    5%    1%
+                                                          Transport     2%    5%    1%    1%    3%    1%    3%
+                          The rights of trans men and trans women       2%    2%    2%    2%    1%    2%    2%
+           The situation in Gaza   1%   1%   2%   1%   2%   1%   2%
+   Reform of the House of Lords    1%   2%   2%   1%   0%   2%   1%
+        The COVID 19 pandemic      0%   1%   0%   0%   0%   0%   0%
+There are no important problems    0%   0%   0%   1%   0%   0%   0%
+             None of the above     1%   2%   1%   1%   0%   1%   0%
+                    Don't know     0%   0%   0%   0%   0%   0%   0%
+                                                                                              Generation                   EU Ref Vote
+                                                                        Total                                   Baby
+                                                                                Gen Z   Mille-nnials   Gen X             Remain   Leave
+                                                                                                               Boomers
+                                         All Adults in Great Britain    2020     405        530         556      499      686      613
+                                               Unweighted Sample        2022     343        584         612      459      707      619
+
+Taking everything into account do you personally think it is a
+good or a bad thing that Prince Harry and Meghan, The Duke and
+Duchess of Sussex, and their two children are planning to move
+back to the UK to live?
+                                                     Very good thing     9%      6%         14%         9%       6%       11%       9%
+                                                    Fairly good thing   23%     37%         25%        19%      17%       24%      18%
+                                                     Fairly bad thing   19%     17%         17%        20%      19%       19%      21%
+                                                      Very bad thing    16%      7%         11%        15%      29%       10%      25%
+                                                         Don't know     33%     33%         32%        37%      28%       36%      28%
+                                                          NET: Good     32%     43%         40%        28%      24%       35%      26%
+                                                            NET: Bad    35%     24%         28%        36%      48%       29%      46%
+
+
+
+
+Thinking about Harry and Meghan, the Duke and Duchess of
+Sussex, and taking everything into account, which of the
+following statements comes closest to your own view?
+               They have improved the reputation of the royal family     6%     13%         9%          4%       4%       6%        5%
+               They have damaged the reputation of the royal family     50%     32%         40%        54%      67%       46%      62%
+
+   They have made no difference to the reputation of the royal family   31%     40%         36%        30%      22%       36%      25%
+
+                                                         Don't know     12%     14%         15%        12%       7%       11%       9%
+                                                                                                Generation                   EU Ref Vote
+                                                                          Total                                   Baby
+                                                                                  Gen Z   Mille-nnials   Gen X             Remain   Leave
+                                                                                                                 Boomers
+                                         All Adults in Great Britain      2020     405        530         556      499      686      613
+                                              Unweighted Sample           2022     343        584         612      459      707      619
+
+
+Taking everything into account, who from the following do you
+think has made a positive contribution to the United Kingdom?
+                                                       Prince William     52%     25%         48%        59%      64%       52%      62%
+                                           Princess Catherine (Kate)      48%     21%         42%        53%      66%       50%      58%
+                                                       Princess Anne      37%     13%         18%        42%      65%       41%      44%
+                                                       King Charles III   36%     15%         25%        47%      48%       40%      42%
+                                                       Prince Edward      18%      8%         11%        21%      29%       20%      20%
+                                 Queen Camilla, the Queen Consort         17%      5%         10%        20%      26%       19%      20%
+                                                          Zara Tindall    15%      6%         12%        16%      23%       16%      18%
+                                                         Prince Harry     10%     18%         11%         8%       5%       11%       6%
+                                                        Peter Phillips     5%      7%         3%          6%       5%       5%        5%
+                                     Meghan, the Duchess of Sussex         5%      9%         7%          4%       2%       6%        3%
+                         Andrew Windsor, formerly the Duke of York         2%      3%         2%          1%       1%       2%        1%
+                                                       None of them       15%     27%         18%        11%       8%       12%      12%
+                                                          Don't know       7%     13%         9%          6%       2%       7%        2%
+
+
+
+
+Do you support or oppose UK taxpayers' money being used to
+pay for police protection for each of the following?
+Prince Harry and Meghan, The Duke and Duchess of Sussex, and
+their children
+                                                              Support     23%     35%         32%        18%      13%       27%      16%
+                                                              Oppose      63%     44%         56%        64%      79%       58%      75%
+                                                          Don't know      14%     21%         12%        18%       8%       14%       9%
+                                                                                           Generation                   EU Ref Vote
+                                                                     Total                                   Baby
+                                                                             Gen Z   Mille-nnials   Gen X             Remain   Leave
+                                                                                                            Boomers
+                                       All Adults in Great Britain   2020     405        530         556      499      686      613
+                                             Unweighted Sample       2022     343        584         612      459      707      619
+King Charles and Queen Camilla
+                                                          Support    60%     35%         55%        67%      72%       63%      69%
+                                                          Oppose     28%     41%         36%        23%      19%       26%      26%
+                                                      Don't know     12%     23%         9%         11%       9%       11%       6%
+
+
+
+
+Prince William and Princess Catherine, The Prince and Princess of
+Wales, and their children
+                                                          Support    66%     46%         66%        70%      74%       68%      74%
+                                                          Oppose     24%     34%         26%        20%      20%       23%      22%
+                                                      Don't know     10%     20%         8%          9%       6%       8%        4%
+
+
+
+
+Andrew Windsor, formerly the Duke of York
+                                                          Support    10%     19%         13%         6%       5%       9%        7%
+                                                          Oppose     78%     55%         75%        82%      89%       80%      87%
+                                                      Don't know     12%     26%         12%        12%       6%       10%       6%
+
+
+
+
+Taking everything into account, of the following who do you
+believe has done more damage to the Royal Family?
+                                                     Prince Harry    18%     29%         15%        13%      21%       14%      18%
+                                                 Andrew Windsor      71%     55%         73%        76%      72%       78%      73%
+                                                      Don't know     11%     16%         12%        12%       7%       9%        9%
+Deltapoll Survey Results
+
+Sample Size: 2,032 Adults in Great Britain
+Fieldwork: 21st - 24th August 2026
+
+
+                                                                                              GE 2024 Vote
+                                                                          Total
+                                                                                  Con   Lab     Lib Dem      Reform   Other
+
+                     All Adults in Great Britain Who Intend to Vote       2792    577   959       143         400      203
+                                                 Unweighted Sample        2022    314   646       111         225      169
+General Election Voting Intention
+[Excluding 'Don't know' and 'Would not vote']
+                                                         Conservative     20%     67%   4%        10%         5%       3%
+                                                               Labour     30%     3%    69%       5%          1%       4%
+                                                     Liberal Democrat      8%     2%    7%        68%         1%       1%
+                                                            Reform UK     27%     26%   9%        10%         89%      9%
+                                                Scottish National Party    3%     0%    1%        0%          0%      30%
+                                                          Plaid Cymru      1%     0%    0%        0%          0%       6%
+                                                                Green      8%     0%    6%        7%          1%      38%
+                                                                 Other     3%     2%    2%        0%          3%       9%
+                                                                                               GE 2024 Vote
+                                                                           Total
+                                                                                   Con   Lab     Lib Dem      Reform   Other
+
+                                          All Adults in Great Britain      2020    386   619       117         242      120
+                                                Unweighted Sample          2022    314   646       111         225      169
+Q1 - For each of the following party leaders, do you think they
+are doing very well in their job, quite well, quite badly or very
+badly?
+The Prime Minister, Andy Burnham
+                                                            Very well      13%     6%    23%       17%         6%       7%
+                                                           Quite well      43%     31%   58%       41%         25%     42%
+                                                         Quite badly       15%     25%   8%        22%         17%     24%
+                                                           Very badly      14%     20%   5%        12%         44%      5%
+                                                          Don’t know       14%     20%   5%        8%          8%      22%
+                                                                    Well   56%     36%   81%       59%         32%     49%
+                                                               Badly       30%     44%   13%       34%         61%     29%
+
+
+
+
+The leader of the Conservative Party, Kemi Badenoch
+                                                            Very well      12%     35%   7%        6%          8%       5%
+                                                           Quite well      36%     50%   31%       52%         49%     20%
+                                                         Quite badly       18%     6%    24%       23%         18%     17%
+                                                           Very badly      17%     2%    27%       15%         16%     35%
+                                                          Don’t know       17%     8%    10%       4%          10%     22%
+                                                                    Well   48%     85%   38%       58%         57%     25%
+                                                               Badly       35%     7%    51%       39%         34%     52%
+                                                                                          GE 2024 Vote
+                                                                      Total
+                                                                              Con   Lab     Lib Dem      Reform   Other
+
+                                        All Adults in Great Britain   2020    386   619       117         242      120
+                                                Unweighted Sample     2022    314   646       111         225      169
+The leader of the Reform Party, Nigel Farage
+                                                          Very well   13%     14%   7%        3%          54%      5%
+                                                         Quite well   25%     38%   16%       17%         38%     17%
+                                                       Quite badly    18%     23%   17%       22%         4%      12%
+                                                        Very badly    37%     18%   57%       52%         1%      59%
+                                                        Don’t know     7%     7%    3%        5%          3%       6%
+                                                              Well    38%     52%   23%       20%         92%     22%
+                                                             Badly    54%     41%   74%       74%         5%      71%
+
+
+
+
+Q4 - Now that Andy Burnham has replaced Keir Starmer as Prime
+Minister, should there be a General Election?
+                                                               Yes    59%     81%   44%       47%         88%     63%
+                                                                No    29%     17%   48%       47%         5%      21%
+                                                        Don’t know    12%     2%    8%        6%          7%      16%
+                                                                                          GE 2024 Vote
+                                                                      Total
+                                                                              Con   Lab     Lib Dem      Reform   Other
+
+                                        All Adults in Great Britain   2020    386   619       117         242      120
+                                             Unweighted Sample        2022    314   646       111         225      169
+Q5. How do you feel about Andy Burnham becoming the next
+Prime Minister of the United Kingdom?
+                                                           Hopeful    40%     23%   61%       51%         17%     38%
+                                                          Nervous     23%     30%   12%       27%         34%     23%
+                                                         Confident    16%     25%   9%        15%         39%     21%
+                                                        Frustrated    15%     8%    28%       22%         7%       8%
+                                                             Angry    13%     18%   6%        8%          37%      8%
+                                                           Relaxed    11%     10%   14%       13%         7%       7%
+                                                             Afraid   10%     4%    19%       5%          6%       4%
+                                                           Excited     9%     13%   4%        8%          18%      2%
+                                                       Don’t know      5%     6%    3%        8%          3%       4%
+                                                None of the above      8%     8%    3%        2%          3%      18%
+                                                                                            GE 2024 Vote
+                                                                        Total
+                                                                                Con   Lab     Lib Dem      Reform   Other
+
+                                        All Adults in Great Britain     2020    386   619       117         242      120
+                                              Unweighted Sample         2022    314   646       111         225      169
+MI1a. What do you think are the most important problems
+FACING YOU AND YOUR FAMILY at the present time?
+                                                   The cost of living   63%     50%   66%       69%         65%     66%
+                                                           The NHS      29%     46%   17%       15%         68%     13%
+                                                      The economy       28%     31%   33%       24%         21%     26%
+                                           Immigration and asylum       28%     27%   37%       22%         22%     35%
+                              The environment and climate change        14%     13%   15%       13%         7%      21%
+                                                           Taxation     13%     12%   11%       10%         17%     13%
+                                               Welfare and benefits     10%     11%   8%        4%          22%     10%
+                                                              Crime      8%     18%   7%        6%          8%       4%
+                                                            Housing      8%     11%   7%        9%          7%       9%
+                                                    Unemployment         8%     12%   7%        22%         5%       9%
+                                              Defence and security       8%     6%    8%        11%         9%       6%
+                                                           Pensions      7%     4%    8%        14%         3%       1%
+                                                   Social inequality     5%     7%    4%        4%          3%       2%
+                                           Family life and childcare     5%     4%    6%        0%          4%       6%
+         The relationship between different ethnic groups in Britain     4%     1%    8%        4%          0%       8%
+                                                          Education      4%     1%    7%        1%          1%       7%
+                                                              Brexit     4%     2%    5%        4%          5%       8%
+                                       Achieving peace in the world      4%     3%    4%        1%          2%      11%
+                                                          Transport      4%     2%    5%        9%          1%       4%
+                                               The situation in Iran     3%     5%    1%        0%          3%       1%
+                                              The situation in Gaza      3%     5%    2%        0%          2%       0%
+                                            The situation in Ukraine     2%     0%    4%        1%          0%       1%
+                          The rights of trans men and trans women        2%     0%    1%        24%         0%       0%
+                                           The COVID 19 pandemic         1%     0%    1%        0%          2%       5%
+                                  There are no important problems       0%    0%    1%    0%    0%    0%
+                                      Reform of the House of Lords      1%    1%    1%    0%    0%    0%
+                                                 None of the above      1%    0%    1%    0%    1%    0%
+                                                        Don't know      1%    2%    1%    0%    1%    2%
+
+
+
+
+MI1b. What do you think are the most important problems
+FACING THE COUNTRY at the present time?
+                                                   The cost of living   48%   41%   56%   38%   37%   64%
+                                           Immigration and asylum       39%   53%   29%   31%   70%   20%
+                                                           The NHS      29%   22%   34%   33%   20%   36%
+                                                      The economy       28%   33%   31%   29%   25%   33%
+                                                              Crime     15%   15%   10%   30%   28%   11%
+                                               Welfare and benefits     13%   20%   13%   20%   9%    7%
+                                              Defence and security      13%   11%   18%   13%   4%    21%
+                              The environment and climate change        13%   23%   12%   12%   12%   10%
+                                                            Housing     10%   2%    11%   14%   8%    9%
+                                                    Unemployment        10%   8%    9%    10%   16%   4%
+                                                           Taxation     9%    4%    10%   4%    9%    9%
+         The relationship between different ethnic groups in Britain    7%    7%    6%    8%    16%   11%
+                                                   Social inequality    7%    0%    11%   7%    4%    11%
+                                               The situation in Iran    4%    0%    6%    9%    2%    3%
+                                                          Education     4%    2%    5%    1%    4%    2%
+                                                              Brexit    4%    7%    4%    2%    0%    3%
+                                            The situation in Ukraine    3%    2%    4%    5%    1%    3%
+                                                           Pensions     3%    2%    3%    3%    2%    7%
+                                       Achieving peace in the world     3%    3%    2%    8%    4%    2%
+                                           Family life and childcare    3%    2%    2%    4%    4%    6%
+                                                          Transport     2%    3%    2%    0%    0%    2%
+                          The rights of trans men and trans women       2%    1%    2%    1%    4%    1%
+           The situation in Gaza   1%   2%   2%   1%   3%   0%
+   Reform of the House of Lords    1%   1%   0%   0%   1%   3%
+        The COVID 19 pandemic      0%   0%   0%   0%   0%   0%
+There are no important problems    0%   0%   0%   0%   0%   0%
+             None of the above     1%   0%   1%   0%   0%   2%
+                    Don't know     0%   0%   0%   0%   0%   0%
+                                                                                            GE 2024 Vote
+                                                                        Total
+                                                                                Con   Lab     Lib Dem      Reform   Other
+
+                                         All Adults in Great Britain    2020    386   619       117         242      120
+                                               Unweighted Sample        2022    314   646       111         225      169
+
+Taking everything into account do you personally think it is a
+good or a bad thing that Prince Harry and Meghan, The Duke and
+Duchess of Sussex, and their two children are planning to move
+back to the UK to live?
+                                                     Very good thing     9%     8%    12%       13%         10%      5%
+                                                    Fairly good thing   23%     15%   27%       29%         11%     25%
+                                                     Fairly bad thing   19%     25%   18%       22%         25%     11%
+                                                      Very bad thing    16%     24%   11%       9%          25%     23%
+                                                         Don't know     33%     28%   32%       27%         29%     37%
+                                                          NET: Good     32%     23%   39%       41%         21%     30%
+                                                            NET: Bad    35%     49%   29%       32%         50%     33%
+
+
+
+
+Thinking about Harry and Meghan, the Duke and Duchess of
+Sussex, and taking everything into account, which of the
+following statements comes closest to your own view?
+               They have improved the reputation of the royal family     6%     4%    7%        5%          8%       8%
+               They have damaged the reputation of the royal family     50%     66%   46%       51%         59%     48%
+
+   They have made no difference to the reputation of the royal family   31%     22%   37%       38%         22%     29%
+
+                                                         Don't know     12%     8%    10%       6%          10%     15%
+                                                                                              GE 2024 Vote
+                                                                          Total
+                                                                                  Con   Lab     Lib Dem      Reform   Other
+
+                                         All Adults in Great Britain      2020    386   619       117         242      120
+                                              Unweighted Sample           2022    314   646       111         225      169
+
+
+Taking everything into account, who from the following do you
+think has made a positive contribution to the United Kingdom?
+                                                       Prince William     52%     65%   57%       48%         55%     47%
+                                           Princess Catherine (Kate)      48%     61%   52%       48%         48%     51%
+                                                       Princess Anne      37%     52%   38%       35%         43%     32%
+                                                       King Charles III   36%     54%   38%       46%         28%     30%
+                                                       Prince Edward      18%     26%   20%       21%         19%     15%
+                                 Queen Camilla, the Queen Consort         17%     24%   16%       22%         16%     15%
+                                                          Zara Tindall    15%     23%   17%       10%         13%     12%
+                                                         Prince Harry     10%     3%    13%       9%          9%      11%
+                                                        Peter Phillips     5%     5%    6%        8%          6%       2%
+                                     Meghan, the Duchess of Sussex         5%     1%    8%        2%          6%       5%
+                         Andrew Windsor, formerly the Duke of York         2%     2%    1%        0%          2%       1%
+                                                       None of them       15%     4%    13%       17%         17%     20%
+                                                          Don't know       7%     3%    5%        7%          5%       5%
+
+
+
+
+Do you support or oppose UK taxpayers' money being used to
+pay for police protection for each of the following?
+Prince Harry and Meghan, The Duke and Duchess of Sussex, and
+their children
+                                                              Support     23%     16%   27%       32%         17%     22%
+                                                              Oppose      63%     74%   61%       58%         74%     66%
+                                                          Don't know      14%     10%   12%       9%          9%      12%
+                                                                                         GE 2024 Vote
+                                                                     Total
+                                                                             Con   Lab     Lib Dem      Reform   Other
+
+                                       All Adults in Great Britain   2020    386   619       117         242      120
+                                             Unweighted Sample       2022    314   646       111         225      169
+King Charles and Queen Camilla
+                                                          Support    60%     74%   62%       63%         65%     54%
+                                                          Oppose     28%     21%   28%       29%         26%     33%
+                                                      Don't know     12%     6%    10%       7%          9%      13%
+
+
+
+
+Prince William and Princess Catherine, The Prince and Princess of
+Wales, and their children
+                                                          Support    66%     76%   69%       71%         72%     65%
+                                                          Oppose     24%     19%   24%       26%         22%     28%
+                                                      Don't know     10%     6%    7%        3%          6%       6%
+
+
+
+
+Andrew Windsor, formerly the Duke of York
+                                                          Support    10%     10%   11%       8%          6%       9%
+                                                          Oppose     78%     79%   82%       85%         86%     80%
+                                                      Don't know     12%     11%   7%        7%          8%      11%
+
+
+
+
+Taking everything into account, of the following who do you
+believe has done more damage to the Royal Family?
+                                                     Prince Harry    18%     24%   19%       12%         19%      9%
+                                                 Andrew Windsor      71%     65%   75%       80%         74%     78%
+                                                      Don't know     11%     11%   6%        8%          7%      13%
+Deltapoll Survey Results
+
+Sample Size: 2,032 Adults in Great Britain
+Fieldwork: 21st - 24th August 2026
+
+
+                                                                                                             Region
+                                                                          Total            Rest of
+                                                                                  London             Midlands     North     Wales   Scotland
+                                                                                           South
+                     All Adults in Great Britain Who Intend to Vote       2792     361      951        462            653    131      234
+                                                 Unweighted Sample        2022     240      636        339            530    100      177
+General Election Voting Intention
+[Excluding 'Don't know' and 'Would not vote']
+                                                         Conservative     20%      23%      22%        21%            19%   12%       10%
+                                                               Labour     30%      32%      25%        31%            37%   27%       28%
+                                                     Liberal Democrat      8%      9%       11%        8%             4%     7%       5%
+                                                            Reform UK     27%      20%      31%        30%            28%   23%       16%
+                                                Scottish National Party    3%      0%        0%        0%             0%     0%       33%
+                                                          Plaid Cymru      1%      0%        0%        0%             0%    13%       0%
+                                                                Green      8%      14%       7%        6%             10%   13%       3%
+                                                                 Other     3%      1%        4%        4%             2%     5%       4%
+                                                                                                              Region
+                                                                           Total            Rest of
+                                                                                   London             Midlands     North     Wales   Scotland
+                                                                                            South
+                                          All Adults in Great Britain      2020     263      697        318            471    98       173
+                                                Unweighted Sample          2022     240      636        339            530    100      177
+Q1 - For each of the following party leaders, do you think they
+are doing very well in their job, quite well, quite badly or very
+badly?
+The Prime Minister, Andy Burnham
+                                                            Very well      13%      16%      13%        13%            15%   12%       9%
+                                                           Quite well      43%      45%      43%        41%            42%   39%       49%
+                                                         Quite badly       15%      11%      18%        10%            20%    8%       13%
+                                                           Very badly      14%      13%      12%        20%            13%   16%       14%
+                                                          Don’t know       14%      16%      14%        16%            10%   25%       14%
+                                                                    Well   56%      61%      55%        53%            57%   51%       58%
+                                                               Badly       30%      24%      31%        30%            33%   24%       28%
+
+
+
+
+The leader of the Conservative Party, Kemi Badenoch
+                                                            Very well      12%      13%      11%        11%            13%   14%       7%
+                                                           Quite well      36%      39%      40%        32%            34%   33%       33%
+                                                         Quite badly       18%      14%      19%        20%            19%   11%       21%
+                                                           Very badly      17%      18%      14%        19%            16%   16%       25%
+                                                          Don’t know       17%      15%      15%        18%            18%   26%       14%
+                                                                    Well   48%      52%      52%        43%            48%   48%       40%
+                                                               Badly       35%      32%      33%        39%            34%   26%       46%
+                                                                                                         Region
+                                                                      Total            Rest of
+                                                                              London             Midlands     North     Wales   Scotland
+                                                                                       South
+                                        All Adults in Great Britain   2020     263      697        318            471    98       173
+                                                Unweighted Sample     2022     240      636        339            530    100      177
+The leader of the Reform Party, Nigel Farage
+                                                          Very well   13%      16%      14%        18%            11%   14%       7%
+                                                         Quite well   25%      30%      26%        20%            25%   14%       23%
+                                                       Quite badly    18%      9%       20%        18%            18%   14%       21%
+                                                        Very badly    37%      37%      34%        37%            36%   49%       43%
+                                                        Don’t know     7%      9%        6%        7%             9%     9%       5%
+                                                              Well    38%      46%      40%        37%            37%   28%       30%
+                                                             Badly    54%      46%      54%        55%            54%   63%       64%
+
+
+
+
+Q4 - Now that Andy Burnham has replaced Keir Starmer as Prime
+Minister, should there be a General Election?
+                                                               Yes    59%      53%      60%        63%            58%   64%       56%
+                                                                No    29%      38%      25%        28%            29%   29%       34%
+                                                        Don’t know    12%      9%       16%        9%             12%    8%       10%
+                                                                                                         Region
+                                                                      Total            Rest of
+                                                                              London             Midlands     North     Wales   Scotland
+                                                                                       South
+                                        All Adults in Great Britain   2020     263      697        318            471    98       173
+                                             Unweighted Sample        2022     240      636        339            530    100      177
+Q5. How do you feel about Andy Burnham becoming the next
+Prime Minister of the United Kingdom?
+                                                           Hopeful    40%      45%      43%        34%            37%   44%       36%
+                                                          Nervous     23%      21%      25%        24%            26%   15%       16%
+                                                         Confident    16%      12%      17%        12%            17%   21%       18%
+                                                        Frustrated    15%      20%      16%        14%            13%   13%       18%
+                                                             Angry    13%      14%      14%        14%            9%    14%       10%
+                                                           Relaxed    11%      11%      12%        9%             10%    6%       10%
+                                                             Afraid   10%      17%       8%        10%            10%    8%       8%
+                                                           Excited     9%      7%        6%        14%            11%    5%       6%
+                                                       Don’t know      5%      4%        5%        7%             5%     3%       9%
+                                                None of the above      8%      11%       7%        8%             7%    19%       8%
+                                                                                                           Region
+                                                                        Total            Rest of
+                                                                                London             Midlands     North     Wales   Scotland
+                                                                                         South
+                                        All Adults in Great Britain     2020     263      697        318            471    98       173
+                                              Unweighted Sample         2022     240      636        339            530    100      177
+MI1a. What do you think are the most important problems
+FACING YOU AND YOUR FAMILY at the present time?
+                                                   The cost of living   63%      60%      67%        70%            54%   74%       57%
+                                                           The NHS      29%      18%      31%        30%            33%   23%       24%
+                                                      The economy       28%      27%      28%        27%            28%   37%       28%
+                                           Immigration and asylum       28%      18%      29%        25%            30%   36%       32%
+                              The environment and climate change        14%      18%      15%        10%            16%   10%       7%
+                                                           Taxation     13%      14%      13%        13%            12%   17%       12%
+                                               Welfare and benefits     10%      12%       8%        10%            13%    9%       11%
+                                                              Crime      8%      4%       12%        6%             10%    2%       4%
+                                                            Housing      8%      4%        6%        9%             11%   11%       11%
+                                                    Unemployment         8%      3%       12%        4%             8%     6%       8%
+                                              Defence and security       8%      7%        8%        15%            6%     1%       7%
+                                                           Pensions      7%      12%       9%        7%             4%     6%       2%
+                                                   Social inequality     5%      11%       4%        6%             3%    15%       4%
+                                           Family life and childcare     5%      3%        4%        7%             6%     9%       4%
+         The relationship between different ethnic groups in Britain     4%      13%       2%        5%             1%     5%       11%
+                                                          Education      4%      6%        2%        4%             5%     3%       11%
+                                                              Brexit     4%      7%        3%        5%             3%     6%       10%
+                                       Achieving peace in the world      4%      3%        5%        5%             3%     0%       8%
+                                                          Transport      4%      5%        3%        3%             4%     3%       4%
+                                               The situation in Iran     3%      9%        2%        0%             4%     3%       0%
+                                              The situation in Gaza      3%      5%        1%        4%             4%     4%       3%
+                                            The situation in Ukraine     2%      2%        3%        3%             1%     1%       1%
+                          The rights of trans men and trans women        2%      2%        4%        1%             0%     0%       0%
+                                           The COVID 19 pandemic         1%      0%        1%        2%             2%     0%       0%
+                                  There are no important problems       0%    0%    0%    0%    1%    1%    0%
+                                      Reform of the House of Lords      1%    1%    1%    0%    1%    1%    0%
+                                                 None of the above      1%    2%    0%    0%    0%    1%    1%
+                                                        Don't know      1%    1%    1%    0%    3%    0%    2%
+
+
+
+
+MI1b. What do you think are the most important problems
+FACING THE COUNTRY at the present time?
+                                                   The cost of living   48%   43%   50%   54%   43%   54%   48%
+                                           Immigration and asylum       39%   29%   39%   43%   45%   23%   42%
+                                                           The NHS      29%   23%   31%   26%   31%   22%   32%
+                                                      The economy       28%   31%   26%   23%   28%   30%   39%
+                                                              Crime     15%   15%   17%   22%   9%    16%   9%
+                                               Welfare and benefits     13%   5%    15%   15%   16%   9%    11%
+                                              Defence and security      13%   15%   13%   13%   12%   17%   9%
+                              The environment and climate change        13%   12%   13%   11%   11%   18%   17%
+                                                            Housing     10%   19%   10%   6%    8%    15%   8%
+                                                    Unemployment        10%   11%   13%   6%    7%    10%   9%
+                                                           Taxation     9%    14%   8%    11%   9%    8%    4%
+         The relationship between different ethnic groups in Britain    7%    7%    8%    6%    8%    3%    4%
+                                                   Social inequality    7%    13%   3%    6%    8%    16%   8%
+                                               The situation in Iran    4%    8%    3%    4%    2%    1%    6%
+                                                          Education     4%    5%    5%    1%    3%    3%    2%
+                                                              Brexit    4%    6%    2%    3%    3%    3%    10%
+                                            The situation in Ukraine    3%    2%    2%    4%    5%    7%    5%
+                                                           Pensions     3%    1%    4%    2%    3%    9%    5%
+                                       Achieving peace in the world     3%    0%    4%    5%    2%    0%    3%
+                                           Family life and childcare    3%    0%    3%    3%    3%    4%    0%
+                                                          Transport     2%    7%    0%    2%    4%    2%    0%
+                          The rights of trans men and trans women       2%    2%    2%    2%    1%    0%    1%
+           The situation in Gaza   1%   1%   1%   2%   2%   0%   2%
+   Reform of the House of Lords    1%   0%   2%   1%   1%   0%   1%
+        The COVID 19 pandemic      0%   0%   0%   1%   0%   0%   0%
+There are no important problems    0%   0%   0%   0%   1%   1%   0%
+             None of the above     1%   1%   1%   2%   1%   1%   2%
+                    Don't know     0%   0%   0%   0%   0%   0%   0%
+                                                                                                           Region
+                                                                        Total            Rest of
+                                                                                London             Midlands     North     Wales   Scotland
+                                                                                         South
+                                         All Adults in Great Britain    2020     263      697        318            471    98       173
+                                               Unweighted Sample        2022     240      636        339            530    100      177
+
+Taking everything into account do you personally think it is a
+good or a bad thing that Prince Harry and Meghan, The Duke and
+Duchess of Sussex, and their two children are planning to move
+back to the UK to live?
+                                                     Very good thing     9%      14%       8%        8%             11%    8%       6%
+                                                    Fairly good thing   23%      31%      24%        22%            19%   20%       24%
+                                                     Fairly bad thing   19%      15%      18%        17%            25%   18%       16%
+                                                      Very bad thing    16%      13%      18%        16%            15%   20%       16%
+                                                         Don't know     33%      28%      33%        36%            30%   34%       39%
+                                                          NET: Good     32%      44%      31%        30%            30%   28%       29%
+                                                            NET: Bad    35%      28%      36%        34%            40%   38%       32%
+
+
+
+
+Thinking about Harry and Meghan, the Duke and Duchess of
+Sussex, and taking everything into account, which of the
+following statements comes closest to your own view?
+               They have improved the reputation of the royal family     6%      9%        4%        6%             9%     6%       7%
+               They have damaged the reputation of the royal family     50%      40%      49%        53%            54%   57%       51%
+
+   They have made no difference to the reputation of the royal family   31%      38%      34%        26%            27%   30%       36%
+
+                                                         Don't know     12%      14%      13%        15%            11%    8%       7%
+                                                                                                             Region
+                                                                          Total            Rest of
+                                                                                  London             Midlands     North     Wales   Scotland
+                                                                                           South
+                                         All Adults in Great Britain      2020     263      697        318            471    98       173
+                                              Unweighted Sample           2022     240      636        339            530    100      177
+
+
+Taking everything into account, who from the following do you
+think has made a positive contribution to the United Kingdom?
+                                                       Prince William     52%      44%      58%        47%            54%   41%       51%
+                                           Princess Catherine (Kate)      48%      39%      55%        43%            49%   39%       51%
+                                                       Princess Anne      37%      24%      40%        31%            41%   39%       42%
+                                                       King Charles III   36%      35%      39%        29%            41%   36%       32%
+                                                       Prince Edward      18%      22%      19%        17%            16%   14%       20%
+                                 Queen Camilla, the Queen Consort         17%      15%      17%        17%            17%   14%       16%
+                                                          Zara Tindall    15%      9%       19%        13%            15%   15%       15%
+                                                         Prince Harry     10%      12%       8%        8%             13%   11%       9%
+                                                        Peter Phillips     5%      7%        7%        3%             5%     2%       3%
+                                     Meghan, the Duchess of Sussex         5%      11%       3%        3%             6%     6%       3%
+                         Andrew Windsor, formerly the Duke of York         2%      3%        1%        2%             1%     2%       1%
+                                                       None of them       15%      14%      15%        15%            14%   26%       13%
+                                                          Don't know       7%      6%        5%        10%            6%     3%       9%
+
+
+
+
+Do you support or oppose UK taxpayers' money being used to
+pay for police protection for each of the following?
+Prince Harry and Meghan, The Duke and Duchess of Sussex, and
+their children
+                                                              Support     23%      38%      20%        26%            20%   19%       19%
+                                                              Oppose      63%      52%      67%        57%            66%   73%       62%
+                                                          Don't know      14%      10%      13%        18%            15%    8%       19%
+                                                                                                        Region
+                                                                     Total            Rest of
+                                                                             London             Midlands     North     Wales   Scotland
+                                                                                      South
+                                       All Adults in Great Britain   2020     263      697        318            471    98       173
+                                             Unweighted Sample       2022     240      636        339            530    100      177
+King Charles and Queen Camilla
+                                                          Support    60%      64%      60%        60%            59%   57%       58%
+                                                          Oppose     28%      29%      29%        29%            26%   28%       30%
+                                                      Don't know     12%      7%       11%        12%            15%   15%       12%
+
+
+
+
+Prince William and Princess Catherine, The Prince and Princess of
+Wales, and their children
+                                                          Support    66%      69%      70%        62%            65%   72%       58%
+                                                          Oppose     24%      25%      22%        26%            24%   20%       29%
+                                                      Don't know     10%      7%        8%        12%            11%    7%       12%
+
+
+
+
+Andrew Windsor, formerly the Duke of York
+                                                          Support    10%      17%      10%        7%             10%    5%       5%
+                                                          Oppose     78%      67%      79%        77%            80%   84%       82%
+                                                      Don't know     12%      16%      11%        16%            11%   11%       14%
+
+
+
+
+Taking everything into account, of the following who do you
+believe has done more damage to the Royal Family?
+                                                     Prince Harry    18%      28%      19%        15%            15%   17%       13%
+                                                 Andrew Windsor      71%      60%      69%        74%            76%   71%       79%
+                                                      Don't know     11%      12%      12%        11%            9%    13%       9%
+Deltapoll Survey Results
+
+Sample Size: 2,032 Adults in Great Britain
+Fieldwork: 21st - 24th August 2026
+
+
+                                                                                  Social Grade            Voting Intention
+                                                                          Total
+                                                                                  ABC1   C2DE    Con    Lab    Lib Dem Reform   Green
+
+                     All Adults in Great Britain Who Intend to Vote       2792    1911    844    549    840      227     758     232
+                                                 Unweighted Sample        2022    1177    829    275    568      125     433     162
+General Election Voting Intention
+[Excluding 'Don't know' and 'Would not vote']
+                                                         Conservative     20%     21%     16%    100%   0%       0%      0%      0%
+                                                               Labour     30%     30%     29%    0%     100%     0%      0%      0%
+                                                     Liberal Democrat      8%     9%      6%     0%     0%      100%     0%      0%
+                                                            Reform UK     27%     25%     32%    0%     0%       0%     100%     0%
+                                                Scottish National Party    3%     3%      3%     0%     0%       0%      0%      0%
+                                                          Plaid Cymru      1%     1%      1%     0%     0%       0%      0%      0%
+                                                                Green      8%     8%      9%     0%     0%       0%      0%     100%
+                                                                 Other     3%     3%      5%     0%     0%       0%      0%      0%
+                                                                                   Social Grade           Voting Intention
+                                                                           Total
+                                                                                   ABC1   C2DE    Con   Lab   Lib Dem Reform   Green
+
+                                          All Adults in Great Britain      2020    1352    653    342   516     156      462    169
+                                                Unweighted Sample          2022    1177    829    275   568     125      433    162
+Q1 - For each of the following party leaders, do you think they
+are doing very well in their job, quite well, quite badly or very
+badly?
+The Prime Minister, Andy Burnham
+                                                            Very well      13%     12%     16%    8%    32%     12%      5%     8%
+                                                           Quite well      43%     46%     37%    37%   58%     60%      27%   44%
+                                                         Quite badly       15%     15%     16%    22%   7%      9%       20%   20%
+                                                           Very badly      14%     15%     14%    14%   1%      6%       37%    8%
+                                                          Don’t know       14%     13%     17%    20%   3%      12%      11%   19%
+                                                                    Well   56%     58%     53%    45%   90%     72%      32%   52%
+                                                               Badly       30%     30%     30%    36%   7%      15%      57%   28%
+
+
+
+
+The leader of the Conservative Party, Kemi Badenoch
+                                                            Very well      12%     13%     8%     39%   7%      4%       10%    3%
+                                                           Quite well      36%     37%     37%    46%   30%     38%      50%   11%
+                                                         Quite badly       18%     19%     17%    8%    20%     29%      19%   27%
+                                                           Very badly      17%     18%     16%    0%    26%     11%      12%   37%
+                                                          Don’t know       17%     13%     23%    7%    16%     18%      10%   22%
+                                                                    Well   48%     50%     45%    85%   38%     42%      59%   14%
+                                                               Badly       35%     37%     32%    8%    46%     40%      31%   64%
+                                                                              Social Grade           Voting Intention
+                                                                      Total
+                                                                              ABC1   C2DE    Con   Lab   Lib Dem Reform   Green
+
+                                        All Adults in Great Britain   2020    1352    653    342   516     156      462    169
+                                                Unweighted Sample     2022    1177    829    275   568     125      433    162
+The leader of the Reform Party, Nigel Farage
+                                                          Very well   13%     13%     15%    5%    6%      1%       44%    5%
+                                                         Quite well   25%     24%     26%    29%   18%     9%       44%    5%
+                                                       Quite badly    18%     19%     15%    30%   17%     24%      8%    15%
+                                                        Very badly    37%     38%     34%    26%   54%     61%      2%    72%
+                                                        Don’t know     7%     6%      11%    9%    4%      6%       2%     3%
+                                                              Well    38%     38%     40%    35%   24%     10%      87%   11%
+                                                             Badly    54%     57%     49%    57%   71%     85%      10%   87%
+
+
+
+
+Q4 - Now that Andy Burnham has replaced Keir Starmer as Prime
+Minister, should there be a General Election?
+                                                               Yes    59%     58%     60%    76%   33%     47%      87%   49%
+                                                                No    29%     30%     28%    20%   56%     36%      8%    28%
+                                                        Don’t know    12%     12%     12%    3%    11%     18%      4%    22%
+                                                                              Social Grade           Voting Intention
+                                                                      Total
+                                                                              ABC1   C2DE    Con   Lab   Lib Dem Reform   Green
+
+                                        All Adults in Great Britain   2020    1352    653    342   516     156      462    169
+                                             Unweighted Sample        2022    1177    829    275   568     125      433    162
+Q5. How do you feel about Andy Burnham becoming the next
+Prime Minister of the United Kingdom?
+                                                           Hopeful    40%     40%     40%    33%   69%     42%      21%   38%
+                                                          Nervous     23%     24%     23%    25%   9%      37%      32%   32%
+                                                         Confident    16%     16%     16%    21%   2%      9%       32%   15%
+                                                        Frustrated    15%     16%     15%    10%   37%     16%      5%     9%
+                                                             Angry    13%     12%     13%    11%   3%      1%       34%    8%
+                                                           Relaxed    11%     11%     10%    9%    19%     9%       8%    10%
+                                                             Afraid   10%     10%     10%    7%    26%     3%       4%     5%
+                                                           Excited     9%     9%      8%     12%   3%      8%       15%    8%
+                                                       Don’t know      5%     4%      6%     5%    2%      5%       1%     3%
+                                                None of the above      8%     8%      9%     9%    2%      6%       5%    13%
+                                                                                Social Grade           Voting Intention
+                                                                        Total
+                                                                                ABC1   C2DE    Con   Lab   Lib Dem Reform   Green
+
+                                        All Adults in Great Britain     2020    1352    653    342   516     156      462    169
+                                              Unweighted Sample         2022    1177    829    275   568     125      433    162
+MI1a. What do you think are the most important problems
+FACING YOU AND YOUR FAMILY at the present time?
+                                                   The cost of living   63%     60%     70%    49%   64%     80%      60%   79%
+                                                           The NHS      29%     30%     26%    27%   11%     11%      68%    4%
+                                                      The economy       28%     29%     28%    35%   29%     27%      24%   30%
+                                           Immigration and asylum       28%     27%     28%    25%   33%     23%      21%   28%
+                              The environment and climate change        14%     16%     9%     17%   18%     10%      7%    32%
+                                                           Taxation     13%     15%     9%     15%   10%     15%      15%    9%
+                                               Welfare and benefits     10%     9%      12%    9%    7%      7%       15%    5%
+                                                              Crime      8%     10%     5%     15%   6%      15%      11%    2%
+                                                            Housing      8%     7%      9%     12%   6%      3%       9%     7%
+                                                    Unemployment         8%     7%      11%    10%   7%      16%      6%     4%
+                                              Defence and security       8%     7%      9%     6%    7%      8%       9%     9%
+                                                           Pensions      7%     6%      10%    3%    9%      12%      6%     9%
+                                                   Social inequality     5%     5%      6%     5%    5%      7%       7%    12%
+                                           Family life and childcare     5%     5%      5%     6%    7%      0%       3%     4%
+         The relationship between different ethnic groups in Britain     4%     5%      5%     1%    9%      3%       2%     6%
+                                                          Education      4%     6%      1%     7%    7%      5%       2%     7%
+                                                              Brexit     4%     5%      3%     5%    3%      3%       3%    13%
+                                       Achieving peace in the world      4%     3%      5%     4%    3%      1%       3%     7%
+                                                          Transport      4%     4%      3%     5%    4%      12%      1%     4%
+                                               The situation in Iran     3%     4%      1%     9%    4%      0%       2%     1%
+                                              The situation in Gaza      3%     4%      2%     5%    5%      1%       2%     0%
+                                            The situation in Ukraine     2%     2%      3%     1%    3%      5%       0%     1%
+                          The rights of trans men and trans women        2%     1%      3%     1%    1%      14%      1%     0%
+                                           The COVID 19 pandemic         1%     1%      2%     0%    2%      0%       1%     6%
+                                  There are no important problems       0%    0%    0%    0%    1%    0%    0%    0%
+                                      Reform of the House of Lords      1%    0%    1%    1%    1%    0%    0%    0%
+                                                 None of the above      1%    0%    1%    0%    1%    0%    0%    1%
+                                                        Don't know      1%    1%    2%    1%    2%    0%    0%    0%
+
+
+
+
+MI1b. What do you think are the most important problems
+FACING THE COUNTRY at the present time?
+                                                   The cost of living   48%   48%   48%   44%   52%   60%   37%   59%
+                                           Immigration and asylum       39%   38%   41%   40%   23%   29%   67%   11%
+                                                           The NHS      29%   29%   29%   21%   38%   33%   20%   30%
+                                                      The economy       28%   31%   23%   38%   29%   20%   27%   25%
+                                                              Crime     15%   14%   17%   12%   10%   24%   21%   7%
+                                               Welfare and benefits     13%   14%   11%   23%   13%   22%   12%   1%
+                                              Defence and security      13%   14%   10%   9%    17%   15%   6%    31%
+                              The environment and climate change        13%   14%   10%   17%   9%    6%    17%   8%
+                                                            Housing     10%   8%    14%   2%    15%   8%    10%   13%
+                                                    Unemployment        10%   10%   10%   8%    9%    13%   15%   2%
+                                                           Taxation     9%    10%   9%    9%    9%    7%    11%   22%
+         The relationship between different ethnic groups in Britain    7%    7%    7%    4%    5%    9%    12%   8%
+                                                   Social inequality    7%    6%    9%    4%    13%   7%    3%    16%
+                                               The situation in Iran    4%    4%    3%    4%    3%    11%   2%    4%
+                                                          Education     4%    4%    2%    1%    4%    1%    6%    9%
+                                                              Brexit    4%    4%    2%    9%    3%    2%    2%    4%
+                                            The situation in Ukraine    3%    3%    4%    2%    5%    4%    2%    4%
+                                                           Pensions     3%    3%    4%    3%    3%    3%    2%    5%
+                                       Achieving peace in the world     3%    2%    5%    3%    2%    6%    2%    1%
+                                           Family life and childcare    3%    3%    2%    3%    3%    4%    2%    2%
+                                                          Transport     2%    3%    2%    4%    4%    0%    0%    4%
+                          The rights of trans men and trans women       2%    1%    2%    2%    2%    2%    2%    1%
+           The situation in Gaza   1%   1%   2%   1%   1%   1%   2%   1%
+   Reform of the House of Lords    1%   1%   0%   1%   2%   0%   1%   2%
+        The COVID 19 pandemic      0%   0%   0%   0%   0%   0%   0%   0%
+There are no important problems    0%   0%   0%   0%   0%   0%   0%   0%
+             None of the above     1%   1%   2%   0%   1%   0%   0%   3%
+                    Don't know     0%   0%   0%   0%   0%   0%   0%   0%
+                                                                                Social Grade
+                                                                        Total
+                                                                                ABC1   C2DE
+
+                                         All Adults in Great Britain    2020    1352    653
+                                               Unweighted Sample        2022    1177    829
+
+Taking everything into account do you personally think it is a
+good or a bad thing that Prince Harry and Meghan, The Duke and
+Duchess of Sussex, and their two children are planning to move
+back to the UK to live?
+                                                     Very good thing     9%     9%      9%
+                                                    Fairly good thing   23%     21%     25%
+                                                     Fairly bad thing   19%     21%     17%
+                                                      Very bad thing    16%     15%     17%
+                                                         Don't know     33%     33%     31%
+                                                          NET: Good     32%     31%     35%
+                                                            NET: Bad    35%     36%     34%
+
+
+
+
+Thinking about Harry and Meghan, the Duke and Duchess of
+Sussex, and taking everything into account, which of the
+following statements comes closest to your own view?
+               They have improved the reputation of the royal family     6%     7%      6%
+               They have damaged the reputation of the royal family     50%     53%     47%
+
+   They have made no difference to the reputation of the royal family   31%     31%     33%
+
+                                                         Don't know     12%     9%      15%
+                                                                                  Social Grade
+                                                                          Total
+                                                                                  ABC1   C2DE
+
+                                         All Adults in Great Britain      2020    1352    653
+                                              Unweighted Sample           2022    1177    829
+
+
+Taking everything into account, who from the following do you
+think has made a positive contribution to the United Kingdom?
+                                                       Prince William     52%     56%     48%
+                                           Princess Catherine (Kate)      48%     52%     43%
+                                                       Princess Anne      37%     42%     30%
+                                                       King Charles III   36%     40%     32%
+                                                       Prince Edward      18%     21%     14%
+                                 Queen Camilla, the Queen Consort         17%     19%     13%
+                                                          Zara Tindall    15%     17%     12%
+                                                         Prince Harry     10%     12%     7%
+                                                        Peter Phillips     5%     6%      4%
+                                     Meghan, the Duchess of Sussex         5%     6%      4%
+                         Andrew Windsor, formerly the Duke of York         2%     2%      1%
+                                                       None of them       15%     13%     18%
+                                                          Don't know       7%     4%      9%
+
+
+
+
+Do you support or oppose UK taxpayers' money being used to
+pay for police protection for each of the following?
+Prince Harry and Meghan, The Duke and Duchess of Sussex, and
+their children
+                                                              Support     23%     24%     23%
+                                                              Oppose      63%     65%     60%
+                                                          Don't know      14%     11%     17%
+                                                                             Social Grade
+                                                                     Total
+                                                                             ABC1   C2DE
+
+                                       All Adults in Great Britain   2020    1352    653
+                                             Unweighted Sample       2022    1177    829
+King Charles and Queen Camilla
+                                                          Support    60%     64%     56%
+                                                          Oppose     28%     26%     31%
+                                                      Don't know     12%     11%     13%
+
+
+
+
+Prince William and Princess Catherine, The Prince and Princess of
+Wales, and their children
+                                                          Support    66%     69%     63%
+                                                          Oppose     24%     23%     25%
+                                                      Don't know     10%     8%      12%
+
+
+
+
+Andrew Windsor, formerly the Duke of York
+                                                          Support    10%     10%     9%
+                                                          Oppose     78%     80%     76%
+                                                      Don't know     12%     10%     15%
+
+
+
+
+Taking everything into account, of the following who do you
+believe has done more damage to the Royal Family?
+                                                     Prince Harry    18%     19%     17%
+                                                 Andrew Windsor      71%     72%     70%
+                                                      Don't know     11%     9%      14%
+

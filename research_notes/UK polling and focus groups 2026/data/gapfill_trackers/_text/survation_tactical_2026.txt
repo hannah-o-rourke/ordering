@@ -1,0 +1,171 @@
+
+Survation | Who's in Second Place? Estimating Tactical Voting in an Era of Extreme Volatility: | Survation
+Home
+About
+Services
+Our Work
+Clients
+Archive
+Blog
+Careers
+Contact
+Home
+About
+Services
+Our Work
+Clients
+Archive
+Blog
+Careers
+Contact
+Survation Panel
+Search for:
+Blog
+Who’s in Second Place? Estimating Tactical Voting in an Era of Extreme Volatility:
+In 2024, most top two contests were Labour vs Conservatives – now it’s Labour vs Reform
+In 2024, almost half of all seats were Labour–Conservative top-two contests. Since 2010, the two parties have been the top two in at least 45% of seats, peaking at 82% in 2017.
+Survation’s MRP for 38 Degrees, published in the Guardian today, estimates that just 10% of seats would now be fought between the two parties that have dominated British politics for a century.
+The MRP was run via an online poll of 8,124 adults between 20 August and 4 September 2026.
+While the next elections seems likely to deliver an electoral shakeup, our MRP estimate is just that – a central estimate that will be affected by many factors, including tactical voting.
+This estimate can be explored in the interactive map below:
+Few voters are voting tactically yet. Comparing each voter’s choice with their own ranking of the parties, 3.5% are voting tactically today. A further 18% say they would switch in a two-horse race, and they are in one, and are not yet doing so. Spreading the tactical votes already being cast evenly across every seat where a voter’s own party cannot win, with no extra tactical voters, would cost Reform UK 18 seats. If everyone who says they would switch did so, Reform would fall from 153 seats to 62, fourth behind the Liberal Democrats.
+Labour leads, but is short of a majority
+Our model currently puts Labour on 272 seats, Reform on 153 and the Conservatives on 85, with the Liberal Democrats on 69, the SNP on 40, Plaid Cymru on 8 and the Greens on 3. Labour’s 28% of the vote against Reform’s 24% becomes a lead of 119 seats. Labour would be 54 short of a majority.
+The lead is very marginal – 
+Our July MRP for HOPE not hate put Reform on 216 expected seats and Labour on 206 (published as 227 and 197, a count of the seats each party led). Since then Reform’s share in our MRP has fallen two points, from 26% to 24%, and Labour’s has risen two, from 26% to 28%. Reform’s expected seat total is down 63 and Labour’s up 66. Two hundred seats are now decided by fewer than five points, up from 170 in July, and 88 by under two.
+Most don’t vote tactically
+We asked voters to rank parties by how much they would like each to win, as well as how they intend to vote, and contextualised these answers against the top contenders in their constituency based on our voting intention MRP. A vote counts as tactical only when three conditions are met, following the definition set out by the political scientist and one of the brains behind the UK’s general election exit poll model, Stephen Fisher: 
+the voter is not backing their first choice; the party they are backing is one of the two that can win locally; and their first choice is not.
+Based on this definition, 3.5% of voters are voting tactically. 40% back a first-choice party that cannot win their seat. 21% are in that position and say that, in a two-horse race without their own party, they would switch to one of the two front-runners. The 18 points between those who say they would switch and those who do is five times the tactical vote being cast today.
+Among voters whose own party cannot win locally, 19% of those who say they would vote to defeat the party they like least are already voting tactically, against 5% of those who say they would stick with their original party.
+Tactical voting is driven by how much voters care, not how close the race is
+The standard account of tactical voting, from Anthony Downs and developed by Gary Cox, treats it as a calculation: the closer the race between the two contenders, the more a vote for one of them is worth, and the more likely a voter is to switch.
+Our data shows that tactical voting rises with how strongly a voter prefers one contender to the other: 6.5% of voters who rate the two equally vote tactically, against 15% of those three or four points apart on a five-point like-dislike scale. It does not rise with how close the local race is, whether closeness is measured on our 2026 estimates or on the 2024 result.
+Voters can usually tell if their own party is out of contention (if they are voting for a small party which isn’t usually competitive), but they are less able to tell which two parties are in contention where they live, and how close they are, especially in seats where the top two parties have changed since 2024.
+The potential impact of tactical voting
+Given the fragmentation in the electorate, and the way that the 2024 General Election played out, it is likely that at the next election, we will see significant levels of tactical voting. The impact that this could have depends on how many of the voters who are willing to vote tactically end up doing so. If half did, Reform would fall to around 101 seats. If all did, Reform would fall to 62 (90% credible interval 35 to 93) and Labour would rise to 319, seven short of a majority, with the Conservatives on 131 and the Liberal Democrats on 68.
+This isn’t one-sided. In the seats Reform loses under full take-up, its own vote share rises, from 32% to 36% on average. It loses because the other contender rises further, as progressive voters move behind Labour in Labour-Reform seats and Conservative-leaning voters behind the Conservatives in Conservative-Reform seats. Of the 91 seats Reform loses, 46 go to the Conservatives and 43 to Labour.
+A neutral campaign helps Reform consolidate the right
+A campaign that tells every voter which two parties can win their seat also tells Conservative voters in Labour-Reform seats that Reform is their realistic option. Just over half of those Conservative voters prefer Reform to Labour.
+We modelled the two approaches separately. At half take-up, a campaign aimed only at progressive voters leaves Reform on around 90 seats, against around 101 under a neutral one. Labour finishes on around 346 seats rather than 295, and the Conservatives on 70 rather than 117. A progressive-only campaign leaves Reform with fewer seats than a neutral one at every level of take-up below about 90%.
+Open-Hearted Idealists are the easiest group to coordinate
+In our Progressive Majority segmentation, created in partnership with 38 Degrees, the voters who would seriously consider Labour, the Liberal Democrats, the Greens, the SNP or Plaid Cymru, divide into five groups, and their tactical behaviour also differs.
+Open-Hearted Idealists have the largest reservoir: 25% would switch, could, and are not. 89% keep their second preference inside the progressive parties, and 95% rank the Conservatives above Reform, the highest of the five groups.
+Quiet Persuadables have almost as large a reservoir, at 23%, and the highest rate of tactical voting today, at 7%. But only 64% keep their second preference among the progressive parties, and 14% put Reform second. An appeal that gives them no reason to prefer the alternative will move some of them towards Reform.
+Rooted Traditionalists have the smallest reservoir, at 14%. More than half say they would stick with their original party, and 15% have Reform as their first preference.
+What this doesn’t tell us
+These estimates come from a single survey, taken outside an election campaign, when tactical voting is usually at its lowest and no tactical voting sites are operating. Our model is restrictive in that it combines a range of self-reported attitudes and voting behaviour at a time when voters are largely unaware of the main contenders in their constituencies on either side of the political spectrum. As this is a model, we don’t capture local factors, such as progressive voters in a Labour-held seat declining to back a Conservative challenger. Whether willing voters act once told their real local contest can only be tested with a field experiment. One thing is certain: the current picture is vastly different to 2024 and fragmentation across the parties means that a third of constituencies would be decided by a margin of 5 points or less which means that tactical voting would play a large role in deciding which party comes on top.
+Get the data
+Survation conducted a multilevel regression and post-stratification (MRP) model of Westminster voting intention on behalf of 38 Degrees, based on a poll of 8,124 adults living in the UK. Fieldwork was conducted between 20th August 2026 – 4th September 2026. Data tables can be downloaded 
+here
+ and MRP estimates for voting intention can be downloaded 
+here
+.
+If you are interested in commissioning a poll or MRP or to learn more about Survation’s research capabilities, please contact John Gibb on 020 3818 9661, email researchteam@survation.com or visit our services page.
+For press enquiries, please call 0203 818 9661 or email media@survation.com
+Survation. is an MRS company partner, a member of the British Polling Council and abides by their rules. To find out more about Survation’s services, and how you can conduct a telephone or online poll for your research needs, please visit our services page.
+< Back
+Authors
+PJ Stock
+PJ Stock is a Research and Data Analyst at Survation
+Published: 
+25/09/26
+Survation on X
+Posts by @Survation
+Survation
+Independent research, polling and insight
+For general enquiries, please call 0203 142 7640 or email 
+enquiry@survation.com
+.
+For press enquiries, please phone 0203 818 9664 or email 
+media@survation.com
+.
+For an immediate quote for a research project, call us on 0203 818 9661 or email 
+researchteam@survation.com
+ and we’ll call you right back.
+Log In to the Survation Panel here.
+Survation are an equal opportunities employer. Read our policy 
+here
+.
+Our Latest Polling News
+Subscribe
+Alternatively fill out your details
+below and we’ll come back to you
+Your Name*
+Your Email*
+Your Phone
+Comments
+Send
+Δ
+Survation.
+Contact
+For technical support about our panel:
+Contact our tech team 
+here
+For general enquiries:
+Please call 0203 142 7640 or email enquiry@survation.com
+For press enquiries:
+Please call 0203 818 9664 or email media@survation.com.
+For an immediate quote for a research project:
+Please call 0203 818 9661 or email researchteam@survation.com
+Survation is an MRS Company Partner and member of the British Polling Council
+Survation is proud to be an accredited London Living Wage employer
+© 2026 Survation
+Survation Pages
+Home
+About
+Services
+Our Work
+Clients
+Archive
+Blog
+Careers
+Contact
+Categories
+Blog
+Charities & Campaign Groups
+Consumer, Media & Technology
+Elections
+Europe
+Labour Members
+Misc
+Panel
+Politics, Government & Current Affairs
+Research services
+Social Media
+starmer
+Survation
+Recent Posts
+Survation is Hiring a Senior Research Manager
+Health Misinformation: Who Is Hit Hardest, and Where 
+What UK Teenagers think in 2026: AI, the social media ban and their job prospects
+Search for:
+GDPR Cookie Banner
+We are using cookies to give you the best experience on our website.
+You can find out more about which cookies we are using or switch them off in 
+settings
+.
+Accept
+Reject
+Settings
+Close GDPR Cookie Settings
+Privacy Overview
+Strictly Necessary Cookies
+Analytics
+Powered by  
+GDPR Cookie Compliance
+ (opens in a new tab)
+Privacy Overview
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+Strictly Necessary Cookies
+These are necessary for the core functionality of the site, such as logging in, remembering preferences, and providing access to secure areas.
+Enabled
+Disabled
+Analytics
+This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+Keeping this cookie enabled helps us to improve our website.
+Enabled
+Disabled
+Enable All
+Reject All
+Save Changes

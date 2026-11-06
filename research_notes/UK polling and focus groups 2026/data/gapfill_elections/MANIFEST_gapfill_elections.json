@@ -1,0 +1,1797 @@
+{
+ "generated": "2026-11-06",
+ "note": "Scraped 6 Nov 2026 with curl + pandas.read_html (lxml); footnote markers stripped; a source_url column was appended to every CSV. Rows whose first column holds an event description (e.g. leadership changes) are Wikipedia timeline rows, not polls.",
+ "csv_files": [
+  {
+   "file": "wikipedia_byelection_aberdeen_south_2026_result.csv",
+   "rows": 12,
+   "cols": 7,
+   "bytes": 1348,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Aberdeen_South_by-election",
+   "columns": [
+    "Party",
+    "Party.1",
+    "Candidate",
+    "Votes",
+    "%",
+    "±%",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_byelection_arbroath_2026_result.csv",
+   "rows": 10,
+   "cols": 7,
+   "bytes": 1236,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Arbroath_and_Broughty_Ferry_by-election",
+   "columns": [
+    "Party",
+    "Party.1",
+    "Candidate",
+    "Votes",
+    "%",
+    "±%",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_byelection_clacton_2026_polls.csv",
+   "rows": 3,
+   "cols": 9,
+   "bytes": 425,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Clacton_by-election",
+   "columns": [
+    "Date(s) conducted",
+    "Pollster",
+    "Sample size",
+    "Reform",
+    "Binface",
+    "Reclaim",
+    "Other",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_byelection_clacton_2026_result.csv",
+   "rows": 39,
+   "cols": 7,
+   "bytes": 3728,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Clacton_by-election",
+   "columns": [
+    "Party",
+    "Party.1",
+    "Candidate",
+    "Votes",
+    "%",
+    "±%",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_byelection_gorton_denton_2026_polls.csv",
+   "rows": 6,
+   "cols": 12,
+   "bytes": 1540,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Gorton_and_Denton_by-election",
+   "columns": [
+    "Date(s) conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Labour",
+    "Reform",
+    "Green",
+    "Cons",
+    "Lib Dem",
+    "Others",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_byelection_gorton_denton_2026_polls_hypothetical_burnham.csv",
+   "rows": 3,
+   "cols": 12,
+   "bytes": 574,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Gorton_and_Denton_by-election",
+   "columns": [
+    "Date(s) conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Labour (Burnham)",
+    "Reform",
+    "Green",
+    "Cons",
+    "Lib Dem",
+    "Other",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_byelection_gorton_denton_2026_result.csv",
+   "rows": 16,
+   "cols": 7,
+   "bytes": 1793,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Gorton_and_Denton_by-election",
+   "columns": [
+    "Party",
+    "Party.1",
+    "Candidate",
+    "Votes",
+    "%",
+    "±%",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_byelection_holborn_2026_polls.csv",
+   "rows": 5,
+   "cols": 13,
+   "bytes": 1044,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Holborn_and_St_Pancras_by-election",
+   "columns": [
+    "Date(s) conducted",
+    "Pollster",
+    "Client | Sample size",
+    "Sample size",
+    "Lab",
+    "Grn",
+    "Con",
+    "Ref",
+    "LD",
+    "WPB",
+    "Others",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_byelection_holborn_2026_result.csv",
+   "rows": 20,
+   "cols": 7,
+   "bytes": 2276,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Holborn_and_St_Pancras_by-election",
+   "columns": [
+    "Party",
+    "Party.1",
+    "Candidate",
+    "Votes",
+    "%",
+    "±%",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_byelection_makerfield_2026_polls.csv",
+   "rows": 7,
+   "cols": 13,
+   "bytes": 1215,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Makerfield_by-election",
+   "columns": [
+    "Date(s) conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Labour",
+    "Reform",
+    "Cons",
+    "LD",
+    "Green",
+    "Restore",
+    "Others",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_byelection_makerfield_2026_result.csv",
+   "rows": 19,
+   "cols": 7,
+   "bytes": 1953,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Makerfield_by-election",
+   "columns": [
+    "Party",
+    "Party.1",
+    "Candidate",
+    "Votes",
+    "%",
+    "±%",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_2026_composition_before_dissolution.csv",
+   "rows": 10,
+   "cols": 6,
+   "bytes": 1017,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election",
+   "columns": [
+    "Affiliation",
+    "Affiliation | Affiliation.1",
+    "Members | Elected in 2021",
+    "Members | Before dissolution",
+    "Members | Differ­ence",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_2026_constituencies_changed_hands.csv",
+   "rows": 9,
+   "cols": 6,
+   "bytes": 939,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election",
+   "columns": [
+    "Constituency",
+    "Gain",
+    "Gain.1",
+    "Loss",
+    "Loss.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_2026_final_aggregator_projections.csv",
+   "rows": 5,
+   "cols": 9,
+   "bytes": 769,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Scottish_Parliament_election",
+   "columns": [
+    "Organisation",
+    "SNP",
+    "Con",
+    "Lab",
+    "Grn",
+    "LD",
+    "Ref",
+    "Majority",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_2026_mrp_polls.csv",
+   "rows": 11,
+   "cols": 12,
+   "bytes": 1997,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Scottish_Parliament_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "SNP",
+    "Con",
+    "Lab",
+    "Grn",
+    "LD",
+    "Ref",
+    "Majority",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_2026_msps_lost_seats.csv",
+   "rows": 22,
+   "cols": 6,
+   "bytes": 3098,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election",
+   "columns": [
+    "MSP",
+    "Constituency/Region",
+    "First elected",
+    "Party",
+    "Party.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_2026_yougov_demographics_constituency.csv",
+   "rows": 76,
+   "cols": 10,
+   "bytes": 11482,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election",
+   "columns": [
+    "Category",
+    "SNP",
+    "Lab",
+    "Ref",
+    "Con",
+    "LD",
+    "Grn",
+    "Others",
+    "Margin",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_2026_yougov_demographics_regional.csv",
+   "rows": 75,
+   "cols": 10,
+   "bytes": 11430,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election",
+   "columns": [
+    "Category",
+    "SNP",
+    "Ref",
+    "Lab",
+    "Grn",
+    "Con",
+    "LD",
+    "Others",
+    "Margin",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_result_2026.csv",
+   "rows": 37,
+   "cols": 11,
+   "bytes": 4657,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election",
+   "columns": [
+    "Party",
+    "Party | Party.1",
+    "Constituency | Votes",
+    "Constituency | %",
+    "Constituency | Seats",
+    "Regional | Votes",
+    "Regional | %",
+    "Regional | Seats",
+    "Total seats",
+    "+/–",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_result_2026_constituency_by_seat.csv",
+   "rows": 73,
+   "cols": 16,
+   "bytes": 18292,
+   "source_url": "https://en.wikipedia.org/wiki/Results_of_the_2026_Scottish_Parliament_election",
+   "columns": [
+    "Seat",
+    "SNP",
+    "SNP.1",
+    "Labour",
+    "Labour.1",
+    "Conservative",
+    "Conservative.1",
+    "Greens",
+    "Greens.1",
+    "Lib Dem",
+    "Lib Dem.1",
+    "Reform UK",
+    "Reform UK.1",
+    "Other",
+    "Other.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_result_2026_members_elected.csv",
+   "rows": 90,
+   "cols": 13,
+   "bytes": 41377,
+   "source_url": "https://en.wikipedia.org/wiki/Results_of_the_2026_Scottish_Parliament_election",
+   "columns": [
+    "Seat",
+    "No.",
+    "SNP",
+    "Labour",
+    "Conservative",
+    "Greens",
+    "Lib Dems",
+    "Reform UK",
+    "Liberate Scotland",
+    "Scottish Family",
+    "SSP",
+    "Other",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_result_2026_regional_pct_by_region.csv",
+   "rows": 8,
+   "cols": 10,
+   "bytes": 1167,
+   "source_url": "https://en.wikipedia.org/wiki/Results_of_the_2026_Scottish_Parliament_election",
+   "columns": [
+    "Seat",
+    "SNP",
+    "Lab.",
+    "Con.",
+    "Grn.",
+    "Lib.",
+    "Ref.",
+    "Oth.",
+    "Total",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_result_2026_regional_votes_by_region.csv",
+   "rows": 8,
+   "cols": 10,
+   "bytes": 1265,
+   "source_url": "https://en.wikipedia.org/wiki/Results_of_the_2026_Scottish_Parliament_election",
+   "columns": [
+    "Seat",
+    "SNP",
+    "Labour",
+    "Conservative",
+    "Greens",
+    "Lib Dems",
+    "Reform UK",
+    "Other",
+    "Total",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_vi_2026_constituency.csv",
+   "rows": 159,
+   "cols": 14,
+   "bytes": 35383,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Scottish_Parliament_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "SNP",
+    "Con",
+    "Lab",
+    "Lib Dems",
+    "Greens",
+    "Alba",
+    "Ref",
+    "Others",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_vi_2026_regional.csv",
+   "rows": 160,
+   "cols": 14,
+   "bytes": 36720,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Scottish_Parliament_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "SNP",
+    "Con",
+    "Lab",
+    "Greens",
+    "Lib Dems",
+    "Alba",
+    "Ref",
+    "Others",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_vi_post_election_2026_constituency.csv",
+   "rows": 9,
+   "cols": 13,
+   "bytes": 2092,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Scottish_Parliament_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "SNP",
+    "Lab",
+    "Ref",
+    "Greens",
+    "Con",
+    "Lib Dems",
+    "Others",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_vi_post_election_2026_mrp.csv",
+   "rows": 2,
+   "cols": 11,
+   "bytes": 428,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Scottish_Parliament_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Pollsters Analysis",
+    "Sample size",
+    "SNP",
+    "Lab",
+    "Ref",
+    "Greens",
+    "Con",
+    "Lib Dems",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_holyrood_vi_post_election_2026_regional.csv",
+   "rows": 9,
+   "cols": 13,
+   "bytes": 2105,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Scottish_Parliament_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Pollsters Analysis",
+    "Sample size",
+    "SNP",
+    "Lab",
+    "Ref",
+    "Greens",
+    "Con",
+    "Lib Dems",
+    "Others",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_county_councils.csv",
+   "rows": 7,
+   "cols": 20,
+   "bytes": 1885,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Council",
+    "Seats",
+    "Election details",
+    "Council control before election | Lab",
+    "Council control before election | Con",
+    "Council control before election | LD",
+    "Council control before election | Grn",
+    "Council control before election | Ref",
+    "Council control before election | Other",
+    "Council control before election | Administration",
+    "Council control before election | Administration | Administration.1",
+    "Council control after election | Lab",
+    "Council control after election | Con",
+    "Council control after election | LD",
+    "Council control after election | Grn",
+    "Council control after election | Ref",
+    "Council control after election | Other",
+    "Council control after election | Administration",
+    "Council control after election | Administration | Administration.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_district_all_out.csv",
+   "rows": 4,
+   "cols": 20,
+   "bytes": 1410,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Council",
+    "Seats",
+    "Election details",
+    "Council control before election | Lab",
+    "Council control before election | Con",
+    "Council control before election | LD",
+    "Council control before election | Grn",
+    "Council control before election | Ref",
+    "Council control before election | Other",
+    "Council control before election | Administration",
+    "Council control before election | Administration | Administration.1",
+    "Council control after election | Lab",
+    "Council control after election | Con",
+    "Council control after election | LD",
+    "Council control after election | Grn",
+    "Council control after election | Ref",
+    "Council control after election | Other",
+    "Council control after election | Administration",
+    "Council control after election | Administration | Administration.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_district_halves.csv",
+   "rows": 8,
+   "cols": 21,
+   "bytes": 2159,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Council",
+    "Seats | up",
+    "Seats | of",
+    "Election details",
+    "Council control before election | Lab",
+    "Council control before election | Con",
+    "Council control before election | LD",
+    "Council control before election | Grn",
+    "Council control before election | Ref",
+    "Council control before election | Other",
+    "Council control before election | Administration",
+    "Council control before election | Administration | Administration.1",
+    "Council control after election | Lab",
+    "Council control after election | Con",
+    "Council control after election | LD",
+    "Council control after election | Grn",
+    "Council control after election | Ref",
+    "Council control after election | Other",
+    "Council control after election | Administration",
+    "Council control after election | Administration | Administration.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_district_thirds.csv",
+   "rows": 39,
+   "cols": 21,
+   "bytes": 8129,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Council",
+    "Seats | up",
+    "Seats | of",
+    "Election details",
+    "Council control before election | Lab",
+    "Council control before election | Con",
+    "Council control before election | LD",
+    "Council control before election | Grn",
+    "Council control before election | Ref",
+    "Council control before election | Other",
+    "Council control before election | Administration",
+    "Council control before election | Administration | Administration.1",
+    "Council control after election | Lab",
+    "Council control after election | Con",
+    "Council control after election | LD",
+    "Council control after election | Grn",
+    "Council control after election | Ref",
+    "Council control after election | Other",
+    "Council control after election | Administration",
+    "Council control after election | Administration | Administration.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_london_boroughs.csv",
+   "rows": 33,
+   "cols": 27,
+   "bytes": 6700,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Council",
+    "Seats",
+    "Council control before election | Lab",
+    "Council control before election | Con",
+    "Council control before election | LD",
+    "Council control before election | Grn",
+    "Council control before election | Ref",
+    "Council control before election | Other",
+    "Council control before election | Administration",
+    "Council control before election | Administration | Administration.1",
+    "Seats | Seats.1",
+    "Council control after election | Lab",
+    "Council control after election | Con",
+    "Council control after election | LD",
+    "Council control after election | Grn",
+    "Council control after election | Ref",
+    "Council control after election | Other",
+    "Council control after election | Administration",
+    "Council control after election | Administration | Administration.1",
+    "Council control after election | Election Details",
+    "Council control after election",
+    "Council control after election.1",
+    "Council control after election.2",
+    "Council control after election.3",
+    "Council control after election.4",
+    "Council control after election.5",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_mayors.csv",
+   "rows": 6,
+   "cols": 7,
+   "bytes": 876,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Council",
+    "Mayor before",
+    "Mayor before.1",
+    "Elected mayor",
+    "Elected mayor.1",
+    "Details",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_metropolitan_all_out.csv",
+   "rows": 17,
+   "cols": 20,
+   "bytes": 3649,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Council",
+    "Seats",
+    "Council control before election | Lab",
+    "Council control before election | Con",
+    "Council control before election | LD",
+    "Council control before election | Grn",
+    "Council control before election | Ref",
+    "Council control before election | Other",
+    "Council control before election | Administration",
+    "Council control before election | Administration | Administration.1",
+    "Election details",
+    "Council control after election | Lab",
+    "Council control after election | Con",
+    "Council control after election | LD",
+    "Council control after election | Grn",
+    "Council control after election | Ref",
+    "Council control after election | Other",
+    "Council control after election | Administration",
+    "Council control after election | Administration | Administration.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_metropolitan_thirds.csv",
+   "rows": 17,
+   "cols": 21,
+   "bytes": 3682,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Council",
+    "Seats | up",
+    "Seats | of",
+    "Council control before election | Lab",
+    "Council control before election | Con",
+    "Council control before election | LD",
+    "Council control before election | Grn",
+    "Council control before election | Ref",
+    "Council control before election | Other",
+    "Council control before election | Administration",
+    "Council control before election | Administration | Administration.1",
+    "Election details",
+    "Council control after election | Lab",
+    "Council control after election | Con",
+    "Council control after election | LD",
+    "Council control after election | Grn",
+    "Council control after election | Ref",
+    "Council control after election | Other",
+    "Council control after election | Administration",
+    "Council control after election | Administration | Administration.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_seat_projection_polls.csv",
+   "rows": 4,
+   "cols": 12,
+   "bytes": 680,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Date(s) conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Area",
+    "Lab",
+    "Con",
+    "LD",
+    "Grn",
+    "Ref",
+    "Others",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_seats_contested_by_party.csv",
+   "rows": 12,
+   "cols": 3,
+   "bytes": 1228,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Party",
+    "Seats",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_unitary_all_out.csv",
+   "rows": 21,
+   "cols": 20,
+   "bytes": 7246,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Council",
+    "Seats",
+    "Council control before election | Lab",
+    "Council control before election | Con",
+    "Council control before election | LD",
+    "Council control before election | Grn",
+    "Council control before election | Ref",
+    "Council control before election | Other",
+    "Council control before election | Administration",
+    "Council control before election | Administration | Administration.1",
+    "Election details",
+    "Council control after election | Lab",
+    "Council control after election | Con",
+    "Council control after election | LD",
+    "Council control after election | Grn",
+    "Council control after election | Ref",
+    "Council control after election | Other",
+    "Council control after election | Administration",
+    "Council control after election | Administration | Administration.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_local_elections_2026_unitary_thirds.csv",
+   "rows": 13,
+   "cols": 21,
+   "bytes": 3146,
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections",
+   "columns": [
+    "Council",
+    "Seats | up",
+    "Seats | of",
+    "Council control before election | Lab",
+    "Council control before election | Con",
+    "Council control before election | LD",
+    "Council control before election | Grn",
+    "Council control before election | Ref",
+    "Council control before election | Other",
+    "Council control before election | Administration",
+    "Council control before election | Administration | Administration.1",
+    "Election details",
+    "Council control after election | Lab",
+    "Council control after election | Con",
+    "Council control after election | LD",
+    "Council control after election | Grn",
+    "Council control after election | Ref",
+    "Council control after election | Other",
+    "Council control after election | Administration",
+    "Council control after election | Administration | Administration.1",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_london_local_2026_council_control.csv",
+   "rows": 33,
+   "cols": 8,
+   "bytes": 3794,
+   "source_url": "https://en.wikipedia.org/wiki/2026_London_local_elections",
+   "columns": [
+    "Council",
+    "Seats",
+    "Party control | Previous",
+    "Party control | Previous.1",
+    "Party control | New",
+    "Party control | New.1",
+    "Details",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_london_local_2026_councillor_comparison_2022.csv",
+   "rows": 36,
+   "cols": 22,
+   "bytes": 5228,
+   "source_url": "https://en.wikipedia.org/wiki/2026_London_local_elections",
+   "columns": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_london_local_2026_mayors.csv",
+   "rows": 5,
+   "cols": 7,
+   "bytes": 697,
+   "source_url": "https://en.wikipedia.org/wiki/2026_London_local_elections",
+   "columns": [
+    "Council",
+    "Mayor before",
+    "Mayor before.1",
+    "Elected mayor",
+    "Elected mayor.1",
+    "Details",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_london_local_2026_opinion_polls.csv",
+   "rows": 5,
+   "cols": 13,
+   "bytes": 982,
+   "source_url": "https://en.wikipedia.org/wiki/2026_London_local_elections",
+   "columns": [
+    "Date(s) conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Area",
+    "Lab",
+    "Con",
+    "LD",
+    "Grn",
+    "Ref",
+    "Others",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_london_local_2026_seat_projections.csv",
+   "rows": 3,
+   "cols": 12,
+   "bytes": 548,
+   "source_url": "https://en.wikipedia.org/wiki/2026_London_local_elections",
+   "columns": [
+    "Date(s) conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Area",
+    "Lab",
+    "Con",
+    "LD",
+    "Grn",
+    "Ref",
+    "Others",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_ni_assembly_vi.csv",
+   "rows": 34,
+   "cols": 19,
+   "bytes": 14845,
+   "source_url": "https://en.wikipedia.org/wiki/Next_Northern_Ireland_Assembly_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "SF N",
+    "DUP U",
+    "APNI O",
+    "UUP U",
+    "SDLP N",
+    "TUV U",
+    "Green O",
+    "Aontú N",
+    "PBP O",
+    "Other",
+    "Lead",
+    "N",
+    "U",
+    "O",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_ni_leader_ratings_executive_ministers.csv",
+   "rows": 15,
+   "cols": 19,
+   "bytes": 16958,
+   "source_url": "https://en.wikipedia.org/wiki/Next_Northern_Ireland_Assembly_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Michelle O'Neill First Minister",
+    "Caoimhe Archibald Economy Minister",
+    "Liz Kimmins Infrastructure Minister",
+    "Conor Murphy",
+    "John O'Dowd Finance Minister",
+    "Emma Little-Pengelly deputy First Minister",
+    "Paul Givan Education Minister",
+    "Gordon Lyons Communities Minister",
+    "Naomi Long Justice Minister",
+    "Andrew Muir AERA Minister",
+    "Mike Nesbitt Health Minister",
+    "Matthew O'Toole Leader of the Opposition",
+    "Northern Ireland Executive",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_ni_leader_ratings_ni_leaders.csv",
+   "rows": 19,
+   "cols": 17,
+   "bytes": 17540,
+   "source_url": "https://en.wikipedia.org/wiki/Next_Northern_Ireland_Assembly_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Michelle O'Neill Sinn Féin VP First Minister",
+    "Gavin Robinson DUP leader (2024–)",
+    "Emma Little-Pengelly deputy First Minister",
+    "Naomi Long Alliance leader",
+    "Jon Burrows UUP Leader (2026–)",
+    "Mike Nesbitt UUP Leader (2024–2026)",
+    "Doug Beattie UUP Leader (2021–2024)",
+    "Claire Hanna SDLP Leader (2024–)",
+    "Colum Eastwood SDLP Leader (2015–2024)",
+    "Jim Allister TUV Leader",
+    "Northern Ireland Executive",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_ni_leader_ratings_uk_ireland_leaders.csv",
+   "rows": 15,
+   "cols": 13,
+   "bytes": 8200,
+   "source_url": "https://en.wikipedia.org/wiki/Next_Northern_Ireland_Assembly_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Micheál Martin Taoiseach (2020–2022; 2025– )",
+    "Simon Harris Taoiseach (2024–2025)",
+    "Mary Lou McDonald Sinn Féin President",
+    "Hilary Benn Secretary of State (2024–2026)",
+    "Chris Heaton-Harris Secretary of State (2022–2024)",
+    "Keir Starmer UK Prime Minister (2024–2026)",
+    "Rishi Sunak UK Prime Minister (2022–2024)",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_scotland_westminster_mrp.csv",
+   "rows": 24,
+   "cols": 10,
+   "bytes": 4085,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_in_Scotland_for_the_next_United_Kingdom_general_election",
+   "columns": [
+    "Date(s) conducted",
+    "Pollster",
+    "Client",
+    "Lab",
+    "SNP",
+    "Con",
+    "LD",
+    "Ref",
+    "Grn",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_scotland_westminster_vi_2026.csv",
+   "rows": 221,
+   "cols": 14,
+   "bytes": 37778,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_in_Scotland_for_the_next_United_Kingdom_general_election",
+   "columns": [
+    "Date(s) conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Lab",
+    "SNP",
+    "Con",
+    "LD",
+    "Ref",
+    "Grn",
+    "RB",
+    "Others",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_scottish_independence_polls_all.csv",
+   "rows": 376,
+   "cols": 10,
+   "bytes": 67774,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_on_Scottish_independence",
+   "columns": [
+    "Date(s) conducted",
+    "Polling organisation",
+    "Client",
+    "Sample size",
+    "Should Scotland be an independent country? | Yes",
+    "Should Scotland be an independent country? | No",
+    "Should Scotland be an independent country? | Undecided",
+    "Lead",
+    "Notes",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_scottish_independence_referendum_timing_polls.csv",
+   "rows": 27,
+   "cols": 22,
+   "bytes": 6514,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_on_Scottish_independence",
+   "columns": [
+    "Date(s) conducted",
+    "Polling organisation/client",
+    "Sample size",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | In 2023 | Yes",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | In 2023 | No",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | In 2023 | D/K",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | Next 12 Months | Yes",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | Next 12 Months | No",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | Next 12 Months | D/K",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | Next 2 Years | Yes",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | Next 2 Years | No",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | Next 2 Years | D/K",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | In the next 2–5 years | Yes",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | In the next 2–5 years | No",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | In the next 2–5 years | D/K",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | More than 5 Years | Yes",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | More than 5 Years | No",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | More than 5 Years | D/K",
+    "Pollsters have asked various questions re when/if next Independence might happen, they have used various timeframes as below. | No Referendum",
+    "Lead",
+    "Notes",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_scottish_independence_remain_leave_polls.csv",
+   "rows": 15,
+   "cols": 9,
+   "bytes": 2453,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_on_Scottish_independence",
+   "columns": [
+    "Date(s) conducted",
+    "Polling organisation/client",
+    "Sample size",
+    "Should Scotland remain in the United Kingdom or leave the United Kingdom? | Leave",
+    "Should Scotland remain in the United Kingdom or leave the United Kingdom? | Remain",
+    "Should Scotland remain in the United Kingdom or leave the United Kingdom? | Undecided",
+    "Lead",
+    "Notes",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_senedd_2026_members_lost_seats.csv",
+   "rows": 16,
+   "cols": 7,
+   "bytes": 1924,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Senedd_election",
+   "columns": [
+    "MS",
+    "Former constituency/region",
+    "First elected",
+    "Party",
+    "Party.1",
+    "Constituency",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_senedd_2026_seat_projections.csv",
+   "rows": 12,
+   "cols": 11,
+   "bytes": 1863,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Senedd_election",
+   "columns": [
+    "Organisation",
+    "Dates conducted",
+    "Lab",
+    "Con",
+    "PC",
+    "Grn",
+    "LD",
+    "Ref",
+    "Others",
+    "Majority",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_senedd_2026_yougov_demographics.csv",
+   "rows": 77,
+   "cols": 10,
+   "bytes": 9685,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Senedd_election",
+   "columns": [
+    "Category",
+    "PC",
+    "Ref",
+    "Lab",
+    "Con",
+    "Grn",
+    "LD",
+    "Others",
+    "Margin",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_senedd_result_2026.csv",
+   "rows": 21,
+   "cols": 7,
+   "bytes": 1898,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Senedd_election",
+   "columns": [
+    "Party",
+    "Party.1",
+    "Votes",
+    "%",
+    "Seats",
+    "+/–",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_senedd_result_2026_by_constituency.csv",
+   "rows": 16,
+   "cols": 15,
+   "bytes": 3785,
+   "source_url": "https://en.wikipedia.org/wiki/2026_Senedd_election",
+   "columns": [
+    "Constituency",
+    "Votes | PC",
+    "Votes | Reform",
+    "Votes | Labour",
+    "Votes | Cons",
+    "Votes | Green",
+    "Votes | Lib Dem",
+    "Votes | Other",
+    "Members | 1",
+    "Members | 2",
+    "Members | 3",
+    "Members | 4",
+    "Members | 5",
+    "Members | 6",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_senedd_vi_2026.csv",
+   "rows": 43,
+   "cols": 13,
+   "bytes": 9469,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Senedd_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "Lab",
+    "Con",
+    "PC",
+    "Grn",
+    "LD",
+    "Ref",
+    "Others",
+    "Lead",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_senedd_vi_post_election_2026.csv",
+   "rows": 5,
+   "cols": 16,
+   "bytes": 2034,
+   "source_url": "https://en.wikipedia.org/wiki/Next_Senedd_election",
+   "columns": [
+    "Dates conducted",
+    "Pollster",
+    "Client",
+    "Sample size",
+    "PC",
+    "Ref",
+    "Lab",
+    "Con",
+    "Grn",
+    "LD",
+    "Others",
+    "Lead",
+    "Unnamed: 12_level_0",
+    "Unnamed: 13_level_0",
+    "Unnamed: 14_level_0",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_united_ireland_lucidtalk_2025_by_age.csv",
+   "rows": 3,
+   "cols": 6,
+   "bytes": 365,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_on_a_United_Ireland",
+   "columns": [
+    "Answer",
+    "Age band | <35",
+    "Age band | 35–44",
+    "Age band | 45–54",
+    "Age band | 55+",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_united_ireland_polls_ni_future_question.csv",
+   "rows": 6,
+   "cols": 10,
+   "bytes": 1095,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_on_a_United_Ireland",
+   "columns": [
+    "Date",
+    "Polling organisation/client",
+    "Sample",
+    "Yes",
+    "No",
+    "Undecided",
+    "Will not vote",
+    "Lead",
+    "Non standard question",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_united_ireland_polls_northern_ireland.csv",
+   "rows": 44,
+   "cols": 11,
+   "bytes": 11250,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_on_a_United_Ireland",
+   "columns": [
+    "Date",
+    "Polling organisation/client",
+    "Sample size",
+    "Yes",
+    "No",
+    "Undecided",
+    "Will not vote",
+    "Lead",
+    "Excluding don't know",
+    "Notes",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_united_ireland_polls_republic_of_ireland.csv",
+   "rows": 11,
+   "cols": 10,
+   "bytes": 1929,
+   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_on_a_United_Ireland",
+   "columns": [
+    "Date",
+    "Polling organisation/client",
+    "Sample size",
+    "Yes",
+    "No",
+    "Undecided",
+    "Will not vote",
+    "Lead",
+    "Notes",
+    "source_url"
+   ]
+  },
+  {
+   "file": "wikipedia_westminster_byelections_2024_present_list.csv",
+   "rows": 8,
+   "cols": 10,
+   "bytes": 2231,
+   "source_url": "https://en.wikipedia.org/wiki/List_of_United_Kingdom_by-elections_(2010%E2%80%93present)",
+   "columns": [
+    "By-election",
+    "Date",
+    "Incumbent",
+    "Party",
+    "Party.1",
+    "Winner",
+    "Party.2",
+    "Party.3",
+    "Cause",
+    "source_url"
+   ]
+  }
+ ],
+ "raw_files": [
+  {
+   "path": "raw_html/wp_aberdeen_south_by.html",
+   "bytes": 256748
+  },
+  {
+   "path": "raw_html/wp_arbroath_by.html",
+   "bytes": 199937
+  },
+  {
+   "path": "raw_html/wp_byelections_2024present.html",
+   "bytes": 669622
+  },
+  {
+   "path": "raw_html/wp_clacton_by.html",
+   "bytes": 568028
+  },
+  {
+   "path": "raw_html/wp_gorton_denton_by.html",
+   "bytes": 850938
+  },
+  {
+   "path": "raw_html/wp_holborn_by.html",
+   "bytes": 341073
+  },
+  {
+   "path": "raw_html/wp_holyrood_election_2026.html",
+   "bytes": 1658571
+  },
+  {
+   "path": "raw_html/wp_holyrood_results_2026.html",
+   "bytes": 579342
+  },
+  {
+   "path": "raw_html/wp_holyrood_vi_2026.html",
+   "bytes": 608587
+  },
+  {
+   "path": "raw_html/wp_holyrood_vi_next.html",
+   "bytes": 211779
+  },
+  {
+   "path": "raw_html/wp_local_elections_2026.html",
+   "bytes": 1560541
+  },
+  {
+   "path": "raw_html/wp_london_local_2026.html",
+   "bytes": 391571
+  },
+  {
+   "path": "raw_html/wp_makerfield_by.html",
+   "bytes": 680810
+  },
+  {
+   "path": "raw_html/wp_ni_assembly_next.html",
+   "bytes": 666748
+  },
+  {
+   "path": "raw_html/wp_reform_uk_scotland.html",
+   "bytes": 134038
+  },
+  {
+   "path": "raw_html/wp_scot_indy_polls.html",
+   "bytes": 785804
+  },
+  {
+   "path": "raw_html/wp_scotland_westminster_vi.html",
+   "bytes": 1605897
+  },
+  {
+   "path": "raw_html/wp_senedd_election_2026.html",
+   "bytes": 1206107
+  },
+  {
+   "path": "raw_html/wp_senedd_vi_2026.html",
+   "bytes": 326978
+  },
+  {
+   "path": "raw_html/wp_senedd_vi_next.html",
+   "bytes": 233262
+  },
+  {
+   "path": "raw_html/wp_united_ireland.html",
+   "bytes": 969024
+  },
+  {
+   "path": "raw_html/wp_united_ireland_polls.html",
+   "bytes": 526623
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_green_breakthrough.html",
+   "bytes": 132349
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_holyrood2026.html",
+   "bytes": 139200
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_indy5050.html",
+   "bytes": 127930
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_local2026.html",
+   "bytes": 142377
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_local_results.html",
+   "bytes": 136442
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_mrp2026.html",
+   "bytes": 129422
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_news.html",
+   "bytes": 164403
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_news_holyrood.html",
+   "bytes": 127155
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_reform_regions.html",
+   "bytes": 137312
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_scotland.html",
+   "bytes": 120127
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_snp_survival.html",
+   "bytes": 133870
+  },
+  {
+   "path": "raw_html/pollsters/britpolls_wales.html",
+   "bytes": 119669
+  },
+  {
+   "path": "raw_html/pollsters/ec_blog.html",
+   "bytes": 5298
+  },
+  {
+   "path": "raw_html/pollsters/ec_homepage.html",
+   "bytes": 27333
+  },
+  {
+   "path": "raw_html/pollsters/ec_pseph_transition2026aug.html",
+   "bytes": 8748
+  },
+  {
+   "path": "raw_html/pollsters/ec_rrose_20260529.html",
+   "bytes": 6045
+  },
+  {
+   "path": "raw_html/pollsters/ec_scot_20260506.html",
+   "bytes": 5071
+  },
+  {
+   "path": "raw_html/pollsters/ec_scotmrp_20260407.html",
+   "bytes": 11516
+  },
+  {
+   "path": "raw_html/pollsters/ec_vipoll_20260708.html",
+   "bytes": 12039
+  },
+  {
+   "path": "raw_html/pollsters/ec_wales_20260506.html",
+   "bytes": 5322
+  },
+  {
+   "path": "raw_html/pollsters/ers_20months_polls.html",
+   "bytes": 99746
+  },
+  {
+   "path": "raw_html/pollsters/ers_blog2.html",
+   "bytes": 85843
+  },
+  {
+   "path": "raw_html/pollsters/ers_blog_list.html",
+   "bytes": 94937
+  },
+  {
+   "path": "raw_html/pollsters/ers_cymru.html",
+   "bytes": 93524
+  },
+  {
+   "path": "raw_html/pollsters/ers_home.html",
+   "bytes": 90537
+  },
+  {
+   "path": "raw_html/pollsters/ers_how_wales_voted.html",
+   "bytes": 103829
+  },
+  {
+   "path": "raw_html/pollsters/ers_scotland.html",
+   "bytes": 95537
+  },
+  {
+   "path": "raw_html/pollsters/ipsos_scotland.html",
+   "bytes": 42809
+  },
+  {
+   "path": "raw_html/pollsters/ipsos_uk_scot.html",
+   "bytes": 43435
+  },
+  {
+   "path": "raw_html/pollsters/markpack_byelection_scorecard_2026_27.html",
+   "bytes": 88354
+  },
+  {
+   "path": "raw_html/pollsters/markpack_council_by.html",
+   "bytes": 69179
+  },
+  {
+   "path": "raw_html/pollsters/markpack_labour_recovery_byelections.html",
+   "bytes": 74286
+  },
+  {
+   "path": "raw_html/pollsters/markpack_polls.html",
+   "bytes": 96653
+  },
+  {
+   "path": "raw_html/pollsters/mic_burnham_coalition.html",
+   "bytes": 102873
+  },
+  {
+   "path": "raw_html/pollsters/mic_drumcree_ni.html",
+   "bytes": 118699
+  },
+  {
+   "path": "raw_html/pollsters/mic_drumcree_ni_oct2026_report.pdf",
+   "bytes": 13412563
+  },
+  {
+   "path": "raw_html/pollsters/mic_drumcree_ni_oct2026_report.txt",
+   "bytes": 64802
+  },
+  {
+   "path": "raw_html/pollsters/mic_drumcree_ni_oct2026_tables.xlsx",
+   "bytes": 672906
+  },
+  {
+   "path": "raw_html/pollsters/mic_greens_next.html",
+   "bytes": 98918
+  },
+  {
+   "path": "raw_html/pollsters/mic_news.html",
+   "bytes": 121835
+  },
+  {
+   "path": "raw_html/pollsters/mic_plaid_coalition_deck_oct2026.pdf",
+   "bytes": 3116658
+  },
+  {
+   "path": "raw_html/pollsters/mic_plaid_coalition_deck_oct2026.txt",
+   "bytes": 8237
+  },
+  {
+   "path": "raw_html/pollsters/mic_plaid_wales.html",
+   "bytes": 101215
+  },
+  {
+   "path": "raw_html/pollsters/mic_polling_tables.html",
+   "bytes": 721763
+  },
+  {
+   "path": "raw_html/pollsters/mic_research.html",
+   "bytes": 121835
+  },
+  {
+   "path": "raw_html/pollsters/mic_research_p2.html",
+   "bytes": 123677
+  },
+  {
+   "path": "raw_html/pollsters/mic_scot_approval.html",
+   "bytes": 71823
+  },
+  {
+   "path": "raw_html/pollsters/mic_scotland.html",
+   "bytes": 71823
+  },
+  {
+   "path": "raw_html/pollsters/mic_sept2026_mrp.html",
+   "bytes": 140255
+  },
+  {
+   "path": "raw_html/pollsters/mic_snp_coalition.html",
+   "bytes": 99684
+  },
+  {
+   "path": "raw_html/pollsters/mic_wales.html",
+   "bytes": 68588
+  },
+  {
+   "path": "raw_html/pollsters/pollcheck.html",
+   "bytes": 24939
+  },
+  {
+   "path": "raw_html/pollsters/pollingreport_home.html",
+   "bytes": 33405
+  },
+  {
+   "path": "raw_html/pollsters/pr_articles.html",
+   "bytes": 47070
+  },
+  {
+   "path": "raw_html/pollsters/pr_burnham_bounce.html",
+   "bytes": 37507
+  },
+  {
+   "path": "raw_html/pollsters/pr_makerfield1.html",
+   "bytes": 41385
+  },
+  {
+   "path": "raw_html/pollsters/pr_makerfield2.html",
+   "bytes": 37560
+  },
+  {
+   "path": "raw_html/pollsters/pr_makerfield3.html",
+   "bytes": 36591
+  },
+  {
+   "path": "raw_html/pollsters/pr_models.html",
+   "bytes": 26616
+  },
+  {
+   "path": "raw_html/pollsters/survation_accuracy.html",
+   "bytes": 88295
+  },
+  {
+   "path": "raw_html/pollsters/survation_ai_holyrood.html",
+   "bytes": 83769
+  },
+  {
+   "path": "raw_html/pollsters/survation_elections_cat.html",
+   "bytes": 78449
+  },
+  {
+   "path": "raw_html/pollsters/survation_news.html",
+   "bytes": 87687
+  },
+  {
+   "path": "raw_html/pollsters/survation_scot_referendum54.html",
+   "bytes": 88942
+  },
+  {
+   "path": "raw_html/pollsters/survation_scot_update.html",
+   "bytes": 86631
+  },
+  {
+   "path": "raw_html/pollsters/survation_scotland.html",
+   "bytes": 82500
+  },
+  {
+   "path": "raw_html/pollsters/survation_search.html",
+   "bytes": 81250
+  },
+  {
+   "path": "raw_html/pollsters/yougov_54735_welsh_seat_projection.html",
+   "bytes": 606054
+  },
+  {
+   "path": "raw_html/pollsters/yougov_54738_scottish_call.html",
+   "bytes": 612769
+  },
+  {
+   "path": "raw_html/pollsters/yougov_54778_track_record.html",
+   "bytes": 595982
+  },
+  {
+   "path": "raw_html/pollsters/yougov_55758_scotland_snapshot_oct2026.html",
+   "bytes": 622131
+  },
+  {
+   "path": "raw_html/pollsters/yougov_55761_wales_snapshot_oct2026.html",
+   "bytes": 610792
+  }
+ ]
+}

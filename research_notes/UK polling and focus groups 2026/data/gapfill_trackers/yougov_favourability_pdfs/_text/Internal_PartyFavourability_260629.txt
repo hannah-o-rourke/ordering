@@ -1,0 +1,101 @@
+    YouGov Survey Results
+Sample Size: 2207 GB Adults
+Fieldwork: 28th - 29th June 2026
+                                                                                                                                                        Socio-economic classification
+                                                                           Vote in 2024 GE          EU Ref 2016     Gender            Age                                                     Country               Region in England
+                                                                                                                                                                 (NS-SEC)
+
+                                                                           Lib Reform                                                                                                                               Rest of
+                                                          Total    Con Lab            Green Remain Leave Male Female 18-24 25-49 50-64 65+ Higher Intermediate Routine England Wales Scotland North Midlands London
+                                                                           Dem   UK                                                                                                                                 South
+                                     Weighted Sample      2207     397 567 203 238     137   775    788 1066 1141 232 909 545 521 748                 494       660     1909   106     192    523     362     267    757
+                                   Unweighted Sample      2207     341 623 220 261     137   879    801 987 1220 186 729 640 652 889                  498       483     1877   126     204    545     381     178    773
+                                                           %        % %     %    %      %     %      %    %     %     %     %     %     %    %         %         %       %      %       %      %       %       %      %
+
+                                                   1-2   28 - 29
+                                                   Jun    Jun
+Do you have a favourable or unfavourable
+opinion of the following?
+Conservative Party
+                                 Very favourable    5      6       23     2   3       3        1     5       9     6     6     3     3       8    11     6           7           5       6      1        4     6      8         5        7
+                            Somewhat favourable    22     23       56     7   14     38        5    16      36    21    24     6    18      24    36    24          28          21      23     19       19    21     25        20       25
+                          TOTAL FAVOURABLE         27     29       79     9   17     41        6    21      45    27    30     9    21      32    47    30          35          26      29     20       23    27     33        25       32
+                          Somewhat unfavourable    25     23       12    25 34       31       19    26      22    23    23    28    25      23    18    26          23          20      23     33       19    21     25        21       24
+                               Very unfavourable   39     39        4    63 45       24      70     48      29    44    35    51    42      38    30    38          33           41     38     37       51    43     33        43       36
+                        TOTAL UNFAVOURABLE         64     62       16    88 79       55      89     74      51    67    58    79    67      61    48    64          56          61      61     70       70    64     58        64       60
+                                      Don't know    8      9        5     4   4       3        4     4       5     6    12    12    12       6     5     6           9           13      9     10        7     9     10        11        8
+                           NET FAVOURABILITY       -37    -33      63    -79 -62     -14     -83    -53     -6    -40   -28   -70   -46     -29   -1    -34         -21         -35     -32    -50      -47   -37    -25       -39      -28
+Labour Party
+                                 Very favourable    5      5        0    15    5      0        4     9       2     7     4     4     5       6     6     7           5           3       6      4        2     7      4        10        4
+                            Somewhat favourable    23     23        4    47   36      2      33     37       9    23    23    32    24      23    19    28          23          18      23     27       24    24     21        28       22
+                          TOTAL FAVOURABLE         28     28        4    62    41     2      37     46      11    30    27    36    29      29    25    35          28          21      29     31       26    31     25        38       26
+                          Somewhat unfavourable    22     22       22    20    31     8       42    26      16    22    22    33    25      18    17    23          19          18      22     20       27    20     24        22       22
+                               Very unfavourable   43     41       73    13    24    87       18    23      69    42    39    19    34      47    56    36          45          49      41     39       41    40     43        30       45
+                        TOTAL UNFAVOURABLE         65     63       95    33    55    95      60     49      85    64    61    52    59      65    73    59          64          67      63     59       68    60     67        52       67
+                                      Don't know    8      8        1     5    5      3        2     5       4     5    11    11    12       6     2     6           7          12       8     10        7     9      8        10        7
+                           NET FAVOURABILITY       -37    -35      -91   29   -14    -93     -23    -3      -74   -34   -34   -16   -30     -36   -48   -24         -36         -46     -34    -28      -42   -29    -42       -14      -41
+Liberal Democrats
+                                 Very favourable   6       5        1     4   31      0       2      9       1     7    3     12     4       4      4     7         5            2       6      2        2     3      4        6        8
+                            Somewhat favourable    32     29       15    47   55      7      49     44      17    29    30    37    29      29     27    34         31          21      30     24       30    29     25        31       32
+                          TOTAL FAVOURABLE         38     34       16    51   86      7      51     53      18    36    33    49    33      33     31    41         36          23      36     26       32    32     29        37       40
+                          Somewhat unfavourable    25     24       37    25   8      25      25     24      29    25    23    20    23      24     27    27         21          24      24     23       28    23     24        26       23
+                               Very unfavourable   21     24       34    11   1      60      13     11      41    30    19    13    21      29     30    21         24          32      24     35       24    27     25        14       25
+                        TOTAL UNFAVOURABLE         46     48       71    36   9      85      38     35      70    55    42    33    44      53     57    48         45          56      48     58       52    50     49        40       48
+                                      Don't know   16     17       13    13   5       8      12     12      12    10    24    19    22      14     11    12         20          21      17     15       16    19     22        23       13
+                           NET FAVOURABILITY       -8     -14      -55   15   77     -78     13     18      -52   -19   -9    16    -11     -20   -26    -7         -9          -33     -12    -32      -20   -18    -20       -3       -8
+Reform UK
+                                 Very favourable   12     13       15     4   2       56       1     3      28    16    10     3    11      16    18     9          15          18      13     15       10    13     16        10       13
+                            Somewhat favourable    16     16       32     6   5       32       1     8      27    16    15     4    14      17    23    13          15          21      16     16       16    15     17        12       17
+                          TOTAL FAVOURABLE         28     29       47    10   7       88       2    11      55    32    25     7    25      33    41    22          30          39      29     31       26    28     33        22       30
+                          Somewhat unfavourable     9     10       19     6   9        7       3     8      14     9    10     8     7      12    12     9          12           9      10      5        7    10     10        11       10
+                               Very unfavourable   54     53       30    80 81         2      91    77      26    54    53    77    57      48    41    63          49          41      52     55       60    53     47        57       53
+                        TOTAL UNFAVOURABLE         63     63       49    86 90         9     94     85      40    63    63    85    64      60    53    72          61          50      62     60       67    63     57        68       63
+                                      Don't know    9      9        4     4   2        2       3     4       5     5    12     8    12       6     5     5           9          11       9      9        8     9     11        10        7
+                           NET FAVOURABILITY       -35    -34      -2    -76 -83      79     -92    -74     15    -31   -38   -78   -39     -27   -12   -50         -31         -11     -33    -29      -41   -35    -24       -46      -33
+
+
+
+
+1                                                                                                  © 2026 YouGov plc. All Rights Reserved                                                                                            www.yougov.com
+Sample Size: 2207 GB Adults
+Fieldwork: 28th - 29th June 2026
+                                                                                                                                                     Socio-economic classification
+                                                                        Vote in 2024 GE          EU Ref 2016     Gender            Age                                                     Country               Region in England
+                                                                                                                                                              (NS-SEC)
+
+                                                                         Lib Reform                                                                                                                               Rest of
+                                                         Total   Con Lab            Green Remain Leave Male Female 18-24 25-49 50-64 65+ Higher Intermediate Routine England Wales Scotland North Midlands London
+                                                                         Dem   UK                                                                                                                                 South
+                                       Weighted Sample   2207    397 567 203 238     137   775    788 1066 1141 232 909 545 521 748                 494       660     1909   106     192    523     362     267    757
+                                     Unweighted Sample   2207    341 623 220 261     137   879    801 987 1220 186 729 640 652 889                  498       483     1877   126     204    545     381     178    773
+                                                          %       % %     %    %      %     %      %    %     %     %     %     %     %    %         %         %       %      %       %      %       %       %      %
+Green Party
+                                 Very favourable   13    11       0    14   11     1      51     16        2    12   10    31    14       6      3   13           8           7      12      8        8    12      8        19       10
+                            Somewhat favourable    23    25       9    41   39     3      34     38       12    23   26    28    27      26    17    28          24           21     24     27       32    24     26        25       22
+                          TOTAL FAVOURABLE         36    36       9    55   50     4      85     54      14    35    36    59    41      32     20    41         32          28      36     35       40    36     34        44       32
+                          Somewhat unfavourable    17    18      20    20   25    13       4     19      17    17    18    15    16      18     21    20         17          18      18     11       16    16     17        20       19
+                               Very unfavourable   34    34      58    15   19    78       6     18      57    41    26    15    27      40     47    31         33          38      33     39       32    33     34        24       37
+                        TOTAL UNFAVOURABLE         51    52      78    35   44    91      10     37      74    58    44    30    43      58     68    51         50          56      51     50       48    49     51        44       56
+                                      Don't know   13    13      13     9   7      6       4      9      11     7    19    11    16      10     12     8         18          15      13     15       12    16     15        11       12
+                           NET FAVOURABILITY       -15   -16     -69   20   6     -87     75     17      -60   -23   -8    29    -2      -26   -48   -10         -18         -28     -15    -15      -8    -13    -17       0        -24
+Restore Britain
+                                 Very favourable    8     9       9   3   2        29       1     3      16    10     8     4    10      11     7     6           8          14       9      7        9     8     12         8        8
+                            Somewhat favourable    10    10      13   4   3        29       2     4      16    12     8     5     8      11    13     7          11          13      10     13        9    10     10         6       10
+                          TOTAL FAVOURABLE         18    19      22   7   5        58       3     7      32    22    16     9    18      22    20    13          19          27      19     20       18    18     22        14       18
+                          Somewhat unfavourable     9    10      18   7   9        12       3     8      14    11     9     5     8      11    15    11           9          11      10      7       11     9     11         8       11
+                               Very unfavourable   39    45      34 65 70          12      69    62      28    51    40    64    43      42    43    55          38          37      45     48       42    48     39        52       44
+                        TOTAL UNFAVOURABLE         48    55      52 72 79          24     72     70      42    62    49    69    51      53    58    66          47          48      55     55       53    57     50        60       55
+                                      Don't know   35    26      27 22 15          18      25    23      26    17    35    21    30      26    22    21          33          25      26     25       29    24     28        27       26
+                           NET FAVOURABILITY       -30   -36     -30 -65 -74       34     -69    -63     -10   -40   -33   -60   -33     -31   -38   -53         -28         -21     -36    -35      -35   -39    -28       -46      -37
+
+*Any percentages calculated on bases fewer than
+100 respondents do not represent a wide enough
+cross-section of the target population to be
+considered statistically reliable. These figures
+should not be used.
+
+
+
+
+2                                                                                               © 2026 YouGov plc. All Rights Reserved                                                                                            www.yougov.com
+

@@ -1,0 +1,61 @@
+Home	https://www.survation.com/
+About	https://www.survation.com/who-are-we/
+Services	https://www.survation.com/our-services/
+Our Work	https://www.survation.com/ourwork/
+Clients	https://www.survation.com/clients/
+Archive	https://www.survation.com/archive/
+Blog	https://www.survation.com/news/blog/
+Careers	https://www.survation.com/careers/
+Contact	https://www.survation.com/contact/
+Home	https://www.survation.com/
+About	https://www.survation.com/who-are-we/
+Services	https://www.survation.com/our-services/
+Our Work	https://www.survation.com/ourwork/
+Clients	https://www.survation.com/clients/
+Archive	https://www.survation.com/archive/
+Blog	https://www.survation.com/news/blog/
+Careers	https://www.survation.com/careers/
+Contact	https://www.survation.com/contact/
+Survation Panel	https://panel.survation.com/
+	#1
+	https://www.survation.com
+here	https://cdn.survation.com/wp-content/uploads/2026/09/24110417/38Degrees_2026-09-07_Tables.xlsx
+here	https://cdn.survation.com/wp-content/uploads/2026/09/24104957/38Degrees_MRP_workbook_VI_2026-09-24.xlsx
+< Back	javascript:history.back()
+	
+PJ Stock	
+Survation on X	https://x.com/Survation
+Posts by @Survation	https://x.com/Survation
+enquiry@survation.com	mailto:enquiry@survation.com
+media@survation.com	mailto:media@survation.com
+researchteam@survation.com	mailto:researchteam@survation.com
+Log In to the Survation Panel here.	https://panel.survation.com/
+here	http://survation.com/equal-opportunities-policy/
+here	https://www.survation.com/panel-technical-support/
+Home	https://www.survation.com/
+About	https://www.survation.com/who-are-we/
+Services	https://www.survation.com/our-services/
+Our Work	https://www.survation.com/ourwork/
+Clients	https://www.survation.com/clients/
+Archive	https://www.survation.com/archive/
+Blog	https://www.survation.com/news/blog/
+Careers	https://www.survation.com/careers/
+Contact	https://www.survation.com/contact/
+Blog	https://www.survation.com/news/blog/
+Charities & Campaign Groups	https://www.survation.com/news/charities-and-campaign-groups/
+Consumer, Media & Technology	https://www.survation.com/news/consumer-media-technology/
+Elections	https://www.survation.com/news/elections/
+Europe	https://www.survation.com/news/europe/
+Labour Members	https://www.survation.com/news/politics-government-current-affairs/labour-members/
+Misc	https://www.survation.com/news/misc/
+Panel	https://www.survation.com/news/panel/
+Politics, Government & Current Affairs	https://www.survation.com/news/politics-government-current-affairs/
+Research services	https://www.survation.com/news/research-services/
+Social Media	https://www.survation.com/news/social-media/
+starmer	https://www.survation.com/news/starmer/
+Survation	https://www.survation.com/news/blog/survation/
+Survation is Hiring a Senior Research Manager	https://www.survation.com/survation-is-hiring-a-senior-research-manager/
+Health Misinformation: Who Is Hit Hardest, and Where	https://www.survation.com/health-misinformation-who-is-hit-hardest-and-where/
+What UK Teenagers think in 2026: AI, the social media ban and their job prospect	https://www.survation.com/what-uk-teenagers-think-in-2026-ai-the-social-media-ban-and-their-job-prospects/
+	https://panel.survation.com/
+Powered by GDPR Cookie Compliance (opens in a new tab)	https://wordpress.org/plugins/gdpr-cookie-compliance/

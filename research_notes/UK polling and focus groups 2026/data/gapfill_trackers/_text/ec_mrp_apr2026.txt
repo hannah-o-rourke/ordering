@@ -1,0 +1,220 @@
+
+MRP Poll April 2026
+MRP Poll April 2026
+This page first posted 23 April 2026
+On behalf of PLMR, Electoral Calculus has conducted a new MRP poll.
+Polling using MRP, which stands for Multi-level Regression and Post-stratification, is a relatively recent innovation in polling science which have been used to successfully predict the last three British general elections,
+and gives the estimated result in each Westminster constituency.
+Fieldwork was conducted from 27 March to 7 April 2026, with a sample size of over 5,500 people.
+More details at the 
+PLMR website
+.
+1. Headlines
+The poll places Reform on 24pc, ahead of the Conservatives on 21pc with Labour in third place on 17pc. On these figures, Reform is predicted to secure 188 seats, leaving it 138 short of an overall majority while the Conservatives are set to win 159 seats and Labour 86.
+The Green Party is pushing ahead on 71 seats, moving past the Liberal Democrats who are holding steady on 61 but in fifth place. Plaid Cymru have also gained momentum, rising to 17 seats as Labour's woes continue in Wales.
+The table below gives the prediction in numerical form:
+Party
+GE 2024
+Predicted Election Result
+Votes
+Seats
+MRP Votes
+MRP Seats
+Reform
+15%
+5
+24%
+188
+CON
+24%
+121
+21%
+159
+LAB
+35%
+412
+17%
+86
+Green
+7%
+4
+15%
+71
+LIB
+13%
+72
+11%
+61
+SNP
+3%
+9
+3%
+44
+Plaid
+1%
+4
+1%
+17
+Other
+3%
+5
+8%
+6
+Based on the numbers, if a general election were held now, the most likely outcome would be a Reform and Conservative coalition with Nigel Farage as Prime Minister and a workable parliamentary majority of 44 seats, with the Conservatives emerging as a more equal partner and potentially important in shaping the direction of government.
+Reform's vote share is down to 24pc from 31pc from our 
+last PLMR poll
+ in January. This may partly
+be due to increased support for the new Restore Britain party to the right of Reform.
+Map: Predicted winners by seat
+MPs at risk
+The following Labour cabinet ministers are at risk of losing their seats
+under our calculations:
+(To Green): Sir Keir Starmer, David Lammy, Shabana Mahmood, Darren Jones, Steve Reed, Liz Kendall, Hilary Benn, Jo Stevens
+(To Reform): Yvette Cooper, Pat McFadden, John Healey, Bridget Phillipson, Heidi Alexander, Lisa Nandy, Jonathan Reynolds
+(Other): Emma Reynolds (to CON), Wes Streeting (to Ind), Douglas Alexander (to SNP)
+And the following prominent Conservative is also at risk (to Reform):
+James Cleverly (Shadow Housing)
+2. Tactical Voting
+Following a major 
+polling project on tactical voting (TV)
+by Electoral Calculus and Find Out Now, we are able to estimate the effect of tactical voting on the
+predicted election result. Our TV analysis shows that:
+Strong anti-Reform tactical voting could cost Reform dozens of seats
+Over a third of Labour voters say they would vote Conservative to keep Reform out
+Otherwise voters on the left and right respectively support other candidates on the same side
+The table shows the predicted vote share and seats won both without tactical voting and with tactical voting.
+Party
+GE 2024
+Predicted Election
+Result (No TV)
+Predicted Election
+Result (With TV)
+Votes
+Seats
+MRP Votes
+MRP Seats
+MRP Votes
+MRP Seats
+Reform
+15%
+5
+24%
+273
+24%
+188
+CON
+24%
+121
+19%
+90
+21%
+159
+LAB
+35%
+412
+18%
+77
+17%
+86
+Green
+7%
+4
+16%
+71
+15%
+71
+LIB
+13%
+72
+11%
+57
+11%
+61
+SNP
+3%
+9
+3%
+45
+3%
+44
+Plaid
+1%
+4
+1%
+13
+1%
+17
+Other
+3%
+5
+8%
+6
+8%
+6
+Without tactical voting, Reform would still fall short of a majority with 273 seats and may have to consider a coalition partner. When tactical voting is factored in, Reform drops significantly to 188, a loss of 85 seats. Most of these seats would likely shift to the Conservatives, although some go to Labour as well.
+With or without tactical voting, Reform still emerges as the largest party but short of a majority and considerably reduced. While Farage is still likely to lead the next government on these numbers, he'll do so from a far weaker position.
+3. Who runs your council?
+With local elections coming up on 7 May, we wanted to see how much people were aware of politics in their local area.
+We asked them "As far as you know, which political party currently leads your local council or local authority?"
+ Nearly a third of voters (30pc) admitted that they don't know which party currently leads their local council. Of those who gave an answer, 46pc correctly identified the leading party while 24pc were wrong.
+Response accuracy
+All voters
+Class ABC1
+Class C2DE
+Correct
+46%
+50%
+40%
+Wrong
+24%
+25%
+23%
+Don't know
+30%
+25%
+37%
+Those in higher social classes were less likely to say they don't know than those in lower classes, although they were slightly more likely to give an incorrect answer.
+For councils without a majority we accepted either the name of the leading party (as given by 
+Open Council Data
+ on 9 April 2026), or "No overall control" as both correct.
+4. Treatment of "Don't Knows"
+Following polling errors in 2024, Electoral Calculus took part in investigations into possible causes,
+co-ordinated by the British Polling Council. Our findings are available
+here
+. In summary,
+Centre-left voters were more likely to over-estimate their likelihood to turnout
+Those who didn't know or refused to answer might have voted according to their GE 2019 preference
+To incorporate these findings into our post-election polling, we have made two assumptions
+about those who answer "don't know" to either the turnout or voting intention questions.
+Those who say "don't know" to the turnout question are assumed to be unlikely to vote
+Those who say "don't know" to the voting intention question are assumed to vote in the same way as GE 2024
+Quotes
+Kevin Craig
+, founder of PLMR, who commissioned the poll said:
+"When it comes to pinpointing who voters want making decisions on their behalf, it is clear that Reform UK do not have the trust of the public."
+"Reform's momentum appears to be slowing, which points towards a more competitive environment and the likelihood of a hung parliament. The message right now looking ahead to the General Election is that it is all up for grabs."
+"PLMR's latest polling also highlights a critical challenge ahead of the local elections – many voters simply don't know who is running their local council. When fewer than half can correctly identify who is in charge, it becomes much harder for parties to rely on their local record to win support."
+"For the Government, the priority now is to rebuild that connection with voters, showing clearly how decisions taken nationally and locally are making a difference to people's everyday lives. Demonstrating progress on the issues that matter most will be key to winning back support in what is becoming an increasingly competitive political landscape."
+Martin Baxter
+, founder of Electoral Calculus, said
+"Reform remains the largest party, but is noticeably less popular than at its peak last year,
+with its national support sliding back to where it was at the start of 2025.
+Nigel Farage now faces the challenge of holding on to some voters drifting back to the Conservatives on his left and others
+possibly shifting towards Restore Britain as a new right-wing alternative."
+"If fragmentation on the right increases, Reform could face similar challenges to those Labour has experienced due to the vote splitting on the left."
+Technical Details
+Find Out Now polled 5,599 GB adults online between 27 March and 7 April 2026. The sample was weighted to be representative by gender, age, social grade, other demographics and past voting patterns. Regression techniques were used to infer projected seat results.
+Find Out Now and Electoral Calculus are both members of the British Polling Council and abide by its rules.
+Data tables
+ are available here, including full list of seats.
+About Us
+PLMR
+PLMR is an award-winning integrated communications agency founded in 2006, ranked in the Top 50 PR Firms in the UK by PR Week. Our purpose is to make a positive and sustainable difference for our clients, our people and society. Our services include PR, strategic communications, corporate communications, crisis communications and reputation management, public affairs, film and digital, social media, design, media training and more. We are proud to work with organisations across a range of sectors such as technology, health and social care, education and training, energy and sustainability, the built environment and the third sector. 
+Electoral Calculus
+Electoral Calculus is a pollster and political consultancy specialising in quantitative analysis and modelling for electoral and other market research projects. Its pre-poll prediction for the 2019 general election was the most accurate published forecast. It was founded by Martin Baxter, its CEO.
+Electoral Calculus is a member of the British Polling Council and abides by its rules.
+Find Out Now
+Find Out Now is a polling and market research panel with 2.8 million members. Highly profiled respondents can be targeted instantly, with over 100,000 daily responses allowing the delivery of same-day nationally representative sampling. 
+Find Out Now are members of the British Polling Council and Market Research Society, and abide by their rules.
+Regression Polling
+Modern polling analysis often uses statistical regression techniques to get more accurate and geographically detailed results. Also called MRP (multi-level regression and post stratification) they have been used successfully by Electoral Calculus and other pollsters to predict general elections, local elections and the 2019 European elections.

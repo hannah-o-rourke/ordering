@@ -1,0 +1,17 @@
+All polls	/gb-polls
+Full polling trends	/gb-polls
+All approval ratings	/favourability-ratings
+Seat calculator	/demographic-swingometer/
+Seat trends	/seat-tracker
+Full polling trends	/gb-polls
+All pollsters	/gb-polls
+All 632 constituencies	/constituencies/
+US MIDTERMS RESULTS · UPDATED 15:53 UK US midterms results Senate races: 8 compl	/us-midterms-2026/results
+All council by-elections	/by-elections/council/
+All US polls	/us-midterms-2026
+Seat tracker What each published poll implies for Westminster seats.	/seat-tracker
+Demographic swingometer Project seats from polls and Census demographics.	/demographic-swingometer/
+Approval ratings Leader favourability and net approval.	/favourability-ratings
+Council control map Political control of UK councils.	/council-control-map
+Path to No10 Regional and demographic polling.	/path-to-no10
+Holborn & St Pancras by-election Labour hold on 45.2%, Green second on 32.8%, tu	/by-elections/holborn-and-st-pancras

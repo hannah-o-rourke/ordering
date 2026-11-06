@@ -1,0 +1,168 @@
+Skip to main content	#main
+United Kingdom	https://yougov.com/en-gb
+United States	https://yougov.com/en-us
+Deutschland	https://yougov.com/de-de
+France	https://yougov.com/fr-fr
+España	https://yougov.com/es-es
+Italia	https://yougov.com/it-it
+International	https://yougov.com/
+United Kingdom	https://yougov.com/en-gb
+United States	https://yougov.com/en-us
+Deutschland	https://yougov.com/de-de
+France	https://yougov.com/fr-fr
+España	https://yougov.com/es-es
+Italia	https://yougov.com/it-it
+International	https://yougov.com/
+Panelist support	https://yougov.zendesk.com/hc/en-gb/requests/new
+Contact sales	/en-gb/?marketo=contact
+	https://yougov.com/en-gb
+If there were a general election held tomorrow, which party would you vote for?	https://yougov.com/en-gb/trackers/voting-intention
+Consumer & retail	https://yougov.com/en-gb/content/consumer
+Economy & business	https://yougov.com/en-gb/content/economy
+Entertainment, arts, & media	https://yougov.com/en-gb/content/entertainment
+Health & pharma	https://yougov.com/en-gb/content/health
+Politics & current affairs	https://yougov.com/en-gb/content/politics
+Society & lifestyle	https://yougov.com/en-gb/content/society
+Sports & esports	https://yougov.com/en-gb/content/sports
+Technology & digital	https://yougov.com/en-gb/content/technology
+Travel & transport	https://yougov.com/en-gb/content/travel
+Articles	https://yougov.com/en-gb/articles
+Daily questions	https://yougov.com/en-gb/daily-results
+Events	https://yougov.com/en-gb/events
+Ratings	https://yougov.com/en-gb/ratings
+Reports	https://yougov.com/en-gb/reports
+Survey results	https://yougov.com/en-gb/survey-results
+Trackers	https://yougov.com/en-gb/trackers
+All content	https://yougov.com/content
+Audience activation	https://yougov.com/en-gb/business/solutions/audience-activation
+Data integrations	https://yougov.com/en-gb/business/products/profiles/profiles-api
+Market & category intelligence	https://yougov.com/en-gb/business/solutions/market-intelligence
+Media, comms & channel strategy	https://yougov.com/en-gb/business/solutions/channel-strategy
+Persona creation	https://yougov.com/en-gb/business/solutions/persona-creation
+Understanding an audience	https://yougov.com/en-gb/business/solutions/audience-intelligence
+Brand health tracking	https://yougov.com/en-gb/business/solutions/brand-tracking
+Campaign measurement & attribution	https://yougov.com/en-gb/business/solutions/campaign-measurement
+Competitor tracking	https://yougov.com/en-gb/business/solutions/competitor-monitoring
+PR & crisis management	https://yougov.com/en-gb/business/solutions/public-relations
+Sponsorship valuation	https://yougov.com/en-gb/business/solutions/sports-sponsorship
+Creative & ad testing	https://yougov.com/en-gb/business/solutions/ad-testing
+Emerging trends	https://yougov.com/en-gb/business/solutions/trend-monitoring
+Product development	https://yougov.com/en-gb/business/solutions/product-development
+Qualitative research	https://yougov.com/en-gb/business/products/qualitative-research
+Quantitative research	https://yougov.com/en-gb/business/solutions/research-surveys
+Category management	https://yougov.com/en-gb/business/solutions/category-management
+Customer satisfaction	https://yougov.com/en-gb/business/solutions/customer-satisfaction
+Path to purchase	https://yougov.com/en-gb/business/solutions/purchase-path
+Price & promotion strategy	https://yougov.com/en-gb/business/solutions/price-promotion-strategy
+Shopper insights	https://yougov.com/en-gb/business/solutions/shopper
+Profiles Discover our flagship audience tool: deep audience understanding	https://yougov.com/en-gb/business/products/profiles
+Profiles API & MCP Ingest YouGov Profiles data directly into your systems, AI mo	https://yougov.com/en-gb/business/products/profiles/profiles-api
+CategoryView Brand, industry, and audience tracking.	https://yougov.com/en-gb/business/products/categoryview
+BrandIndex Discover our flagship tool: daily brand and competitor tracking acros	https://yougov.com/en-gb/business/products/brandindex
+BrandIndex API & MCP Infuse BrandIndex data directly into your in-house systems,	https://yougov.com/en-gb/business/products/brandindex/brandindex-api
+Custom Tracking Dynamic, integrated performance monitoring for your brand.	https://yougov.com/en-gb/business/products/custom-trackers
+New: YouGov Parallax AI twins answer all your questions instantly. Live panelist	https://yougov.com/en-gb/business/products/parallax
+Surveys Run research to nat rep or targeted audiences with research-supported op	https://yougov.com/en-gb/business/solutions/research-surveys
+Custom quantitative Bespoke market research with end-to-end expert support.	https://yougov.com/en-gb/business/products/custom-research
+YouGov Voices AI Interviewer AI-powered interviewing tool that enables brands to	https://yougov.com/en-gb/business/products/brandindex/voices
+Video Voices Add qualitative video answers to your next YouGov survey.	https://yougov.com/en-gb/business/products/qualitative-research/video-voices-uk
+Custom qualitative Bespoke market research with end-to-end expert support.	https://yougov.com/en-gb/business/products/custom-research
+YouGov Surveys: Self-Serve market research, built for speed Launch a targeted su	https://yougov.com/en-gb/business/products/self-serve-surveys
+Academia & non-profits	https://yougov.com/en-gb/business/sectors/academia
+Agencies	https://yougov.com/en-gb/business/sectors/agencies
+Financial services	https://yougov.com/en-gb/business/sectors/financial-services
+Government & politics	https://yougov.com/en-gb/business/sectors/politics
+Health & pharma	https://yougov.com/en-gb/business/sectors/health-pharmaceutical
+Media & entertainment	https://yougov.com/en-gb/business/sectors/media
+Retail & FMCG	https://yougov.com/en-gb/business/sectors/consumer
+Sport & esports	https://yougov.com/en-gb/business/sectors/sports
+Technology	https://yougov.com/en-gb/business/sectors/technology
+Travel, transport, & auto	https://yougov.com/en-gb/business/sectors/travel
+Data accuracy	https://yougov.com/en-gb/business/data
+Panel quality	https://yougov.com/en-gb/business/panel
+Technology & innovation	https://yougov.com/en-gb/business/ai-innovation
+YouGov Thinking	https://yougov.com/en-gb/business/expertise
+About YouGov	https://yougov.com/en-gb/about
+Investor relations	https://corporate.yougov.com/
+Our methodology	https://yougov.com/en-gb/about/methodology
+Our panel	https://yougov.com/en-gb/about/panel
+Work with us	https://jobs.yougov.com/
+Client case studies	https://yougov.com/en-gb/case-studies
+Industry events	https://yougov.com/en-gb/events
+How-to guides	https://yougov.com/en-gb/guides
+Industry reports	https://yougov.com/en-gb/reports
+Contact	https://yougov.com/en-gb/about/contact
+Panel member support	https://yougov.zendesk.com/hc/en-001/requests/new
+	https://yougov.com/en-gb/search
+Log in	https://account.yougov.com/gb-en/login/email?sourceid=3631580
+Log in	https://platform.yougov.com/
+Register	https://account.yougov.com/gb-en/join/main?sourceid=3631580
+Register	https://platform.yougov.com/register/home
+Skip to main content	#main
+United Kingdom	https://yougov.com/en-gb
+United States	https://yougov.com/en-us
+Deutschland	https://yougov.com/de-de
+France	https://yougov.com/fr-fr
+España	https://yougov.com/es-es
+Italia	https://yougov.com/it-it
+International	https://yougov.com/
+United Kingdom	https://yougov.com/en-gb
+United States	https://yougov.com/en-us
+Deutschland	https://yougov.com/de-de
+France	https://yougov.com/fr-fr
+España	https://yougov.com/es-es
+Italia	https://yougov.com/it-it
+International	https://yougov.com/
+	https://yougov.com/en-gb
+Panelist support	https://yougov.zendesk.com/hc/en-gb/requests/new
+Contact sales	/en-gb/?marketo=contact
+Search	https://yougov.com/en-gb/search
+Methodology	https://yougov.com/en-gb/about/methodology
+Download full data set	https://api-test.yougov.com/public-data/v5/uk/trackers/government-approval/download/
+Methodology	https://yougov.com/en-gb/about/methodology
+Download full data set	https://api-test.yougov.com/public-data/v5/uk/trackers/government-approval/download/
+Government of the United Kingdom	/en-gb/topics/government/Government_of_the_United_Kingdom
+British Politics	/en-gb/topics/topic/British_Politics
+UK General Election 2024	/en-gb/topics/event/UK_General_Election_2024
+How would Britons feel about potential coalition governments, October 2026? Arti	/en-gb/articles/55799-how-would-britons-feel-about-potential-coalition-governments-october-2026
+Do you approve or disapprove of the UK government's decision to ban the import o	/en-gb/daily-results/20260909-8d692-1
+How well is Keir Starmer doing as Labour leader? Tracker	/en-gb/trackers/keir-starmer-approval-rating
+How well or badly is Jeremy Hunt doing as Chancellor of the Exchequer? Tracker	/en-gb/trackers/jeremy-hunt-approval-rating
+Who do people THINK will win the next election Tracker	/en-gb/trackers/who-do-people-think-will-win-the-next-election
+Most Britons still say Reform UK are ‘very sleazy’ Article	/en-gb/articles/55518-most-britons-still-say-reform-uk-are-very-sleazy
+How do Britons see Reform UK and Nigel Farage, ahead of the party’s 2026 confere	/en-gb/articles/55472-how-do-britons-see-reform-uk-and-nigel-farage-ahead-of-the-partys-2026-conference
+Do you think that Zack Polanski is right or wrong to stand for parliament in the	/en-gb/daily-results/20260903-08ebc-3
+Which of the following comes closest to your view on Keir Starmer resigning as a	/en-gb/daily-results/20260903-08ebc-2
+	https://bsky.app/profile/yougov.co.uk
+	https://facebook.com/YouGovUS
+	https://twitter.com/YouGov
+	https://www.linkedin.com/company/yougov
+	https://yougov.com/en-gb/rss
+About us	https://yougov.com/en-gb/about/
+Methodology	https://yougov.com/en-gb/about/methodology
+Our Panel	https://yougov.com/en-gb/about/panel
+Our team	https://yougov.com/en-gb/about/team
+Contact	https://yougov.com/en-gb/about/contact
+All products	https://yougov.com/en-gb/business/products
+Join the Panel	https://account.yougov.com/region
+Panelist support	https://yougov.zendesk.com/hc/en-gb/requests/new
+Careers	https://jobs.yougov.com
+Investor relations	https://corporate.yougov.com
+Website terms	https://yougov.com/en-gb/about/terms/website
+Privacy notice	https://yougov.com/en-gb/about/terms/privacy
+Public data licence	https://yougov.com/en-gb/about/terms/public-data-license
+Modern slavery act	https://corporate.yougov.com/modern-slavery-act-statement
+About us	https://yougov.com/en-gb/about/
+Methodology	https://yougov.com/en-gb/about/methodology
+Our Panel	https://yougov.com/en-gb/about/panel
+Our team	https://yougov.com/en-gb/about/team
+Contact	https://yougov.com/en-gb/about/contact
+All products	https://yougov.com/en-gb/business/products
+Join the Panel	https://account.yougov.com/region
+Panelist support	https://yougov.zendesk.com/hc/en-gb/requests/new
+Careers	https://jobs.yougov.com
+Investor relations	https://corporate.yougov.com
+Website terms	https://yougov.com/en-gb/about/terms/website
+Privacy notice	https://yougov.com/en-gb/about/terms/privacy
+Public data licence	https://yougov.com/en-gb/about/terms/public-data-license
+Modern slavery act	https://corporate.yougov.com/modern-slavery-act-statement

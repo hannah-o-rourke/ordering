@@ -1,0 +1,206 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Articles</TITLE>
+<META name="elcalc:shorttitle" content="Articles">
+<META name="elcalc:parent" content="homepage.html">
+<META name="date" content="2020-11-19T09:57:50Z">
+<SCRIPT> var breadcrumbs=[["Home", "homepage.html"], ["Articles", "blogs/index.html"]]; </SCRIPT>
+<LINK REL=STYLESHEET TYPE="text/css" href="../elcalc.css" TITLE="Style">
+<STYLE>
+	#buttonbar {
+		margin-right: 40px;
+		margin-bottom: 0px;
+		height: auto;
+	}
+	#topicbox {
+		width: 192px;
+		margin-right: 20px;
+	}
+	.yearbox {
+		width: 130px;
+		margin-right: 10px;
+	}
+	#submit_button {
+		width: 123px;
+		padding: 10px 20px 7px 20px;
+	}
+	#topicbox, .yearbox, #submit_button, #form_blog_search {
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	#form_blog_search {
+		width: calc(var(--onecolwidth) - 50px);
+	}
+</STYLE>
+<SCRIPT src="../jsroutines.js"></SCRIPT>
+</HEAD>
+<BODY>
+<SCRIPT>PageStart("../")</SCRIPT>
+
+<H1 id="title">Articles</H1>
+
+
+<DIV class="flexrow" id="buttonbar">
+	<form method=GET name="blogform" onsubmit="load_blogs('filter'); return false;">
+		<DIV class="flexrow">
+			<DIV class="custom-select" id="topicbox">
+				<SELECT name="topics" multiple>
+					<OPTION value="">Choose some topics</OPTION>
+					<OPTION value="analysis" selected>Analysis</OPTION>
+					<OPTION value="models" selected>Models</OPTION>
+					<OPTION value="polls" selected>Polls</OPTION>
+					<OPTION value="campaign" selected>Campaign</OPTION>
+					<OPTION value="brexit" selected>Brexit</OPTION>
+				</SELECT>
+			</DIV>
+			
+			<DIV class="flexrow nowrap">
+				<DIV class="custom-select yearbox">
+					<SELECT name="lowyear" size=1>
+						<OPTION Value="2005">Year from</OPTION>
+					</SELECT>
+				</DIV>
+				
+				<DIV class="custom-select yearbox">
+					<SELECT name="highyear" size=1>
+						<OPTION Value="2020">Year to</OPTION>
+					</SELECT>
+				</DIV>
+				<DIV>
+					&emsp;
+				</DIV>
+			</DIV>
+			
+			<DIV>
+				<INPUT class="button" id="submit_button" type="submit" value="Sort &amp; Filter">
+			</DIV>
+		</DIV>
+	</form>
+	
+	<DIV class="flexrow nowrap onecolwidth nojustify">
+		<DIV class="large">or&emsp;</DIV>
+		<FORM id="form_blog_search" onsubmit="load_blogs('search'); return false;">
+			<DIV class="input_button">
+				<INPUT type="text" class="fullwidth" name="q" id="search_tag" maxlength="255"
+					placeholder="Or enter keyword search string" >
+				<DIV class="button" onclick="form_go('form_blog_search');"><IMG src="../icon_search_white.svg"></DIV>
+			</DIV>
+		</FORM>
+	</DIV>
+
+</DIV>
+
+<BR>
+
+<div id="brickarea">
+</div> <!-- #brickarea -->
+
+<div id="end_button">
+<INPUT type="button" onclick="show_more();" value="Show more posts">
+</div>
+
+
+
+<SCRIPT>PageEnd("../", "hiderhs")</SCRIPT>
+
+<SCRIPT>
+	var RetData = new Array();
+	var display_size;
+	
+	var StartYear = 2005;
+	var thisdate = new Date();
+	var EndYear = thisdate.getFullYear();
+		
+	document.getElementById("end_button").style.display = 'None';
+	
+	set_year_options();
+	load_blogs();
+	
+
+	function set_year_options()
+	{
+		var loselect = document.blogform.lowyear;
+		for (var yr = StartYear;yr<=EndYear;yr++)
+		{
+			loselect.options[yr-StartYear+1] = new Option(yr.toString());
+		}
+		CSInit(loselect);
+		
+		var hiselect = document.blogform.highyear;
+		hiselect.options[0] = new Option("Year to", EndYear.toString());
+		for (var yr = EndYear;yr>=StartYear;yr--)
+		{
+			hiselect.options[EndYear+1-yr] = new Option(yr.toString());
+		}
+		CSInit(hiselect);
+		return;
+	}
+
+	function load_blogs(loadtype = "filter")
+	{
+		var query;
+		if (loadtype == "filter")
+		{
+			// read taglist
+			var taglist = document.blogform.topics.selectedOptions;
+			var tags = "";
+			for (var i=0;i<taglist.length;i++) { tags = tags + taglist[i].value + " "; }
+			if (tags != "") { tags = tags.substring(0, tags.length-1); }
+			
+			var lowyear = document.blogform.lowyear.value;
+			var highyear = document.blogform.highyear.value;
+			
+			var lowdate = lowyear + "0101";
+			var highdate = highyear + "1231";
+			
+			query = "../cgi-bin/blogindex.py?tags=" + tags + "&lowdate=" + lowdate + "&highdate=" + highdate;
+		}
+		else if (loadtype == "search")
+		{
+			var qvalue = document.getElementById("search_tag").value;
+			query = "../cgi-bin/blogindex.py?q=" + qvalue;
+		}
+		
+		DataLoadStart(RetData, query, blog_load, null);
+		display_size = 12;
+		return false;
+	}
+	
+	function blog_load()
+	{
+		// remove focus from button once data received
+		var buttonelt = document.getElementById("submit_button");
+		buttonelt.blur();
+	
+		var elt = document.getElementById("brickarea");
+		var belt = document.getElementById("end_button");
+		
+		belt.querySelector("INPUT").blur();
+		
+		var newtext = '<div class="masonry_container">';
+		var num_to_show = Math.min(display_size, RetData.length);
+		for (var i=0;i<num_to_show;i++)
+		{
+			if (((i % 50) == 0) && (i > 0)) { newtext = newtext + '</div><div class="masonry_container">'; }
+			newtext = newtext + RetData[i].HTML;
+		}
+		newtext = newtext + "</div>";
+		elt.innerHTML = newtext;
+		if (RetData.length > display_size) { belt.style.display = "block"; }
+			else { belt.style.display = "None"; }
+		BrickResizeAllItems();
+		return;
+	}
+	
+	function show_more()
+	{
+		display_size = display_size + 12;
+		blog_load();
+		return;
+	}
+	
+</SCRIPT>
+
+</BODY>
+</HTML>

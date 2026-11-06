@@ -1,0 +1,300 @@
+
+MRP Poll September 2026
+MRP Poll September 2026
+24 September 2026
+On behalf of Restore Britain, Electoral Calculus has conducted a new MRP poll.
+Polling using MRP, which stands for Multi-level Regression and Post-stratification, is a relatively recent innovation in polling science which have been used to successfully predict the last three British general elections,
+and gives the estimated result in each Westminster constituency.
+Fieldwork was conducted from 4-11 September 2026, with a sample size of over 5,500 people.
+1. Headlines
+The poll places Labour in first place on 25pc, with Reform on 22pc, Conservatives on 20pc and Restore Britain
+on 7pc. On these figures, 
+Labour is predicted to win 288 seats, leaving it 38 seats short of an overall majority,
+while the Conservatives are set to win 165 seats, Reform 84, and Restore 1 (Great Yarmouth).
+The Liberal Democrats would win 61 seats, and the Greens 7 seats. The SNP would win 18 seats,
+and Plaid Cymru 7 seats.
+The table below gives the prediction in numerical form:
+Party
+GE 2024
+Predicted Election Result
+Votes
+Seats
+MRP Votes
+MRP Seats
+LAB
+35%
+412
+25%
+288
+CON
+24%
+121
+20%
+165
+Reform
+15%
+5
+22%
+84
+LIB
+13%
+72
+10%
+61
+Green
+7%
+4
+9%
+7
+Restore
+0%
+0
+7%
+1
+SNP
+3%
+9
+3%
+18
+Plaid
+1%
+4
+1%
+7
+MIN
+3%
+5
+3%
+1
+Based on the numbers, if a general election were held now, the most likely outcome would 
+be that no party has an overall majority. But the Labour party would be well-placed to form
+a coalition with the Liberal Democrats, which together would have a majority of 48 seats
+in the House of Commons. 
+Map: Predicted winners by seat
+2. Tactical Voting
+Following a major 
+polling project on tactical voting (TV)
+by Electoral Calculus and Find Out Now, we are able to estimate the effect of tactical voting on the
+predicted election result. Our TV analysis shows that:
+Strong anti-Reform tactical voting could cost Reform dozens of seats
+Over a third of Labour voters say they would vote Conservative to keep Reform out
+Otherwise voters on the left and right respectively support other candidates on the same side
+The table shows the predicted vote share and seats won both without tactical voting and with tactical voting.
+Party
+GE 2024
+Predicted Election
+Result (No TV)
+Predicted Election
+Result (With TV)
+Votes
+Seats
+MRP Votes
+MRP Seats
+MRP Votes
+MRP Seats
+LAB
+35%
+412
+24%
+261
+25%
+288
+Reform
+15%
+5
+21%
+127
+22%
+84
+CON
+24%
+121
+20%
+145
+20%
+165
+LIB
+13%
+72
+11%
+53
+10%
+61
+Green
+7%
+4
+11%
+7
+9%
+7
+Restore
+0%
+0
+7%
+1
+7%
+1
+SNP
+3%
+9
+3%
+31
+3%
+18
+MIN
+3%
+5
+3%
+1
+3%
+1
+Plaid
+1%
+4
+1%
+6
+1%
+7
+Without tactical voting, Reform would have 127 seats, but
+when tactical voting is factored in, Reform drops significantly to 84, a loss of 43 seats.
+Most of these seats would likely shift to the Conservatives, although some go to Labour as well.
+3. Other Questions
+Q3. "How likely would you be to vote for Restore Britain if there was a general election?"
+Response
+All voters
+CON
+LAB
+Reform
+LIB
+Very likely
+7%
+7%
+4%
+23%
+3%
+Likely
+5%
+5%
+3%
+17%
+3%
+Neither likely not unlikely
+7%
+11%
+4%
+17%
+4%
+Unlikely
+7%
+13%
+4%
+14%
+5%
+Very unlikely
+50%
+53%
+75%
+18%
+77%
+Don't know
+22%
+11%
+10%
+11%
+9%
+Net Likely
+13%
+12%
+7%
+40%
+6%
+Net Unlikely
+58%
+66%
+79%
+32%
+82%
+If a general election were held now, 40pc of Reform voters would be likely to vote for Restore Britain, including almost a quarter (23pc) who would be "very likely" to do so. That figure drops to 12pc among Conservative voters who said they would be likely to vote for Restore Britain. Labour and Liberal Democrat voters were lowest, at 7pc and 6pc respectively.
+Across the electorate as a whole, 13pc of voters said they would be likely to vote for Restore Britain, against 58pc who said they would be unlikely to. But with almost a quarter (22pc) still unsure, the figures suggest Reform remains Restore Britain's main target base, with potential to attract those who are undecided.
+Q4. "Do you have a favourable or unfavourable opinion of Rupert Lowe, leader of Restore Britain?"
+Response
+All voters
+CON
+LAB
+Reform
+LIB
+Very favourable
+6%
+5%
+2%
+22%
+2%
+Favourable
+6%
+7%
+3%
+23%
+2%
+Neither favourable nor unfavourable
+19%
+31%
+12%
+29%
+14%
+Unfavourable
+7%
+13%
+7%
+6%
+10%
+Very unfavourable
+27%
+16%
+54%
+5%
+48%
+Don't know
+36%
+28%
+21%
+16%
+25%
+Net Favourable
+12%
+12%
+5%
+45%
+4%
+Net Unfavourable
+34%
+29%
+61%
+11%
+57%
+When voters were asked whether they have a favourable or unfavourable opinion of Rupert Lowe, most voters (36pc) were undecided compared with 34pc who have an unfavourable opinion and only 12pc who have a favourable one.
+Views differ sharply by party support. Nearly half (45pc) of Reform voters hold a favourable opinion of Lowe compared with just 11pc who say unfavourable. Conservative voters are a little more divided, with 29pc holding an unfavourable opinion, compared with 28pc who don’t know and 12pc who hold a favourable opinion. Unsurprisingly, the majority of Labour voters (61pc) and Liberal Democrat voters (57pc) have an unfavourable opinion.
+4. Treatment of "Don't Knows"
+Following polling errors in 2024, Electoral Calculus took part in investigations into possible causes,
+co-ordinated by the British Polling Council. Our findings are available
+here
+. In summary,
+Centre-left voters were more likely to over-estimate their likelihood to turnout
+Those who didn't know or refused to answer might have voted according to their GE 2019 preference
+To incorporate these findings into our post-election polling, we have made two assumptions
+about those who answer "don't know" to either the turnout or voting intention questions.
+Those who say "don't know" to the turnout question are assumed to be unlikely to vote
+Those who say "don't know" to the voting intention question are assumed to vote in the same way as GE 2024
+Technical Details
+Find Out Now polled 5,549 GB adults online between 4-11 September 2026. The sample was weighted to be representative by gender, age, social grade, other demographics and past voting patterns. Regression techniques were used to infer projected seat results.
+Find Out Now and Electoral Calculus are both members of the British Polling Council and abide by its rules.
+Data tables
+ are available here, including full list of seats.
+About Us
+Electoral Calculus
+Electoral Calculus is a pollster and political consultancy specialising in quantitative analysis and modelling for electoral and other market research projects. Its pre-poll prediction for the 2019 general election was the most accurate published forecast. It was founded by Martin Baxter, its CEO.
+Electoral Calculus is a member of the British Polling Council and abides by its rules.
+Find Out Now
+Find Out Now is a polling and market research panel with 2.8 million members. Highly profiled respondents can be targeted instantly, with over 100,000 daily responses allowing the delivery of same-day nationally representative sampling. 
+Find Out Now are members of the British Polling Council and Market Research Society, and abide by their rules.
+Regression Polling
+Modern polling analysis often uses statistical regression techniques to get more accurate and geographically detailed results. Also called MRP (multi-level regression and post stratification) they have been used successfully by Electoral Calculus and other pollsters to predict general elections, local elections and the 2019 European elections.

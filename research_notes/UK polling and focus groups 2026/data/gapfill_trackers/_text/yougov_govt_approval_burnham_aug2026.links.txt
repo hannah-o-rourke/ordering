@@ -1,0 +1,198 @@
+Skip to main content	#main
+United Kingdom	https://yougov.com/en-gb
+United States	https://yougov.com/en-us
+Deutschland	https://yougov.com/de-de
+France	https://yougov.com/fr-fr
+España	https://yougov.com/es-es
+Italia	https://yougov.com/it-it
+International	https://yougov.com/
+United Kingdom	https://yougov.com/en-gb
+United States	https://yougov.com/en-us
+Deutschland	https://yougov.com/de-de
+France	https://yougov.com/fr-fr
+España	https://yougov.com/es-es
+Italia	https://yougov.com/it-it
+International	https://yougov.com/
+Panelist support	https://yougov.zendesk.com/hc/en-gb/requests/new
+Contact sales	https://yougov.com/?marketo=contact
+	https://yougov.com/en-gb
+If there were a general election held tomorrow, which party would you vote for?	https://yougov.com/en-gb/trackers/voting-intention
+Consumer & retail	https://yougov.com/en-gb/content/consumer
+Economy & business	https://yougov.com/en-gb/content/economy
+Entertainment, arts, & media	https://yougov.com/en-gb/content/entertainment
+Health & pharma	https://yougov.com/en-gb/content/health
+Politics & current affairs	https://yougov.com/en-gb/content/politics
+Society & lifestyle	https://yougov.com/en-gb/content/society
+Sports & esports	https://yougov.com/en-gb/content/sports
+Technology & digital	https://yougov.com/en-gb/content/technology
+Travel & transport	https://yougov.com/en-gb/content/travel
+Articles	https://yougov.com/en-gb/articles
+Daily questions	https://yougov.com/en-gb/daily-results
+Events	https://yougov.com/en-gb/events
+Ratings	https://yougov.com/en-gb/ratings
+Reports	https://yougov.com/en-gb/reports
+Survey results	https://yougov.com/en-gb/survey-results
+Trackers	https://yougov.com/en-gb/trackers
+All content	https://yougov.com/content
+Audience activation	https://yougov.com/en-gb/business/solutions/audience-activation
+Data integrations	https://yougov.com/en-gb/business/products/profiles/profiles-api
+Market & category intelligence	https://yougov.com/en-gb/business/solutions/market-intelligence
+Media, comms & channel strategy	https://yougov.com/en-gb/business/solutions/channel-strategy
+Persona creation	https://yougov.com/en-gb/business/solutions/persona-creation
+Understanding an audience	https://yougov.com/en-gb/business/solutions/audience-intelligence
+Brand health tracking	https://yougov.com/en-gb/business/solutions/brand-tracking
+Campaign measurement & attribution	https://yougov.com/en-gb/business/solutions/campaign-measurement
+Competitor tracking	https://yougov.com/en-gb/business/solutions/competitor-monitoring
+PR & crisis management	https://yougov.com/en-gb/business/solutions/public-relations
+Sponsorship valuation	https://yougov.com/en-gb/business/solutions/sports-sponsorship
+Creative & ad testing	https://yougov.com/en-gb/business/solutions/ad-testing
+Emerging trends	https://yougov.com/en-gb/business/solutions/trend-monitoring
+Product development	https://yougov.com/en-gb/business/solutions/product-development
+Qualitative research	https://yougov.com/en-gb/business/products/qualitative-research
+Quantitative research	https://yougov.com/en-gb/business/solutions/research-surveys
+Category management	https://yougov.com/en-gb/business/solutions/category-management
+Customer satisfaction	https://yougov.com/en-gb/business/solutions/customer-satisfaction
+Path to purchase	https://yougov.com/en-gb/business/solutions/purchase-path
+Price & promotion strategy	https://yougov.com/en-gb/business/solutions/price-promotion-strategy
+Shopper insights	https://yougov.com/en-gb/business/solutions/shopper
+Profiles Discover our flagship audience tool: deep audience understanding	https://yougov.com/en-gb/business/products/profiles
+Profiles API & MCP Ingest YouGov Profiles data directly into your systems, AI mo	https://yougov.com/en-gb/business/products/profiles/profiles-api
+CategoryView Brand, industry, and audience tracking.	https://yougov.com/en-gb/business/products/categoryview
+BrandIndex Discover our flagship tool: daily brand and competitor tracking acros	https://yougov.com/en-gb/business/products/brandindex
+BrandIndex API & MCP Infuse BrandIndex data directly into your in-house systems,	https://yougov.com/en-gb/business/products/brandindex/brandindex-api
+Custom Tracking Dynamic, integrated performance monitoring for your brand.	https://yougov.com/en-gb/business/products/custom-trackers
+New: YouGov Parallax AI twins answer all your questions instantly. Live panelist	https://yougov.com/en-gb/business/products/parallax
+Surveys Run research to nat rep or targeted audiences with research-supported op	https://yougov.com/en-gb/business/solutions/research-surveys
+Custom quantitative Bespoke market research with end-to-end expert support.	https://yougov.com/en-gb/business/products/custom-research
+YouGov Voices AI Interviewer AI-powered interviewing tool that enables brands to	https://yougov.com/en-gb/business/products/brandindex/voices
+Video Voices Add qualitative video answers to your next YouGov survey.	https://yougov.com/en-gb/business/products/qualitative-research/video-voices-uk
+Custom qualitative Bespoke market research with end-to-end expert support.	https://yougov.com/en-gb/business/products/custom-research
+YouGov Surveys: Self-Serve market research, built for speed Launch a targeted su	https://yougov.com/en-gb/business/products/self-serve-surveys
+Academia & non-profits	https://yougov.com/en-gb/business/sectors/academia
+Agencies	https://yougov.com/en-gb/business/sectors/agencies
+Financial services	https://yougov.com/en-gb/business/sectors/financial-services
+Government & politics	https://yougov.com/en-gb/business/sectors/politics
+Health & pharma	https://yougov.com/en-gb/business/sectors/health-pharmaceutical
+Media & entertainment	https://yougov.com/en-gb/business/sectors/media
+Retail & FMCG	https://yougov.com/en-gb/business/sectors/consumer
+Sport & esports	https://yougov.com/en-gb/business/sectors/sports
+Technology	https://yougov.com/en-gb/business/sectors/technology
+Travel, transport, & auto	https://yougov.com/en-gb/business/sectors/travel
+Data accuracy	https://yougov.com/en-gb/business/data
+Panel quality	https://yougov.com/en-gb/business/panel
+Technology & innovation	https://yougov.com/en-gb/business/ai-innovation
+YouGov Thinking	https://yougov.com/en-gb/business/expertise
+About YouGov	https://yougov.com/en-gb/about
+Investor relations	https://corporate.yougov.com/
+Our methodology	https://yougov.com/en-gb/about/methodology
+Our panel	https://yougov.com/en-gb/about/panel
+Work with us	https://jobs.yougov.com/
+Client case studies	https://yougov.com/en-gb/case-studies
+Industry events	https://yougov.com/en-gb/events
+How-to guides	https://yougov.com/en-gb/guides
+Industry reports	https://yougov.com/en-gb/reports
+Contact	https://yougov.com/en-gb/about/contact
+Panel member support	https://yougov.zendesk.com/hc/en-001/requests/new
+	https://yougov.com/en-gb/search
+Log in	https://account.yougov.com/gb-en/login/email?sourceid=3669494
+Log in	https://platform.yougov.com/
+Register	https://account.yougov.com/gb-en/join/main?sourceid=3669494
+Register	https://platform.yougov.com/register/home
+Skip to main content	#main
+United Kingdom	https://yougov.com/en-gb
+United States	https://yougov.com/en-us
+Deutschland	https://yougov.com/de-de
+France	https://yougov.com/fr-fr
+España	https://yougov.com/es-es
+Italia	https://yougov.com/it-it
+International	https://yougov.com/
+United Kingdom	https://yougov.com/en-gb
+United States	https://yougov.com/en-us
+Deutschland	https://yougov.com/de-de
+France	https://yougov.com/fr-fr
+España	https://yougov.com/es-es
+Italia	https://yougov.com/it-it
+International	https://yougov.com/
+	https://yougov.com/en-gb
+Panelist support	https://yougov.zendesk.com/hc/en-gb/requests/new
+Contact sales	https://yougov.com/?marketo=contact
+Search	https://yougov.com/en-gb/search
+Archie Lievesley	https://yougov.com/en-gb/about/team/archie-lievesley
+tracker data	https://yougov.com/en-gb/trackers/government-approval
+Burnham’s most recent favourability ratings see him at net +13	https://yougov.com/en-gb/articles/55382-political-favourability-ratings-august-2026
+See the full results here	https://ygo-assets-websites-editorial-emea.yougov.net/documents/YouGov_GovernmentApproval_260818.pdf
+Sign up here.	https://account.yougov.com/gb-en/join/main?sourceid=2942194
+Explore our survey services here.	https://yougov.com/business/solutions/research-surveys
+Subscribe to the YouGov newsletter	https://yougov.com/en-gb/articles/55457-why-is-government-approval-so-low-when-andy-burnhams-personal-ratings-are-so-high?marketo=newsletter
+Join YouGov today	https://account.yougov.com/gb-en/join/main?sourceid=3669494
+Andy Burnham	https://yougov.com/en-gb/topics/public_figure/Andy_Burnham
+British Politics	https://yougov.com/en-gb/topics/topic/British_Politics
+Ahead of COP31, where do Europeans stand on climate change? Article	https://yougov.com/en-gb/articles/55908-ahead-of-cop31-where-do-europeans-stand-on-climate-change
+How popular are national leaders in Europe? October 2026 Article	https://yougov.com/en-gb/articles/55904-how-popular-are-national-leaders-in-europe-october-2026
+YouGov News Tracker: 1 - 2 November 2026 Article	https://yougov.com/en-gb/articles/55901-yougov-news-tracker-1-2-november-2026
+Britons support ban on porn depicting strangulation, incest or people who appear	https://yougov.com/en-gb/articles/55900-britons-support-ban-on-porn-depicting-strangulation-incest-or-people-who-appear-or-are-pretending-to-be-under-16
+How popular is Donald Trump in Europe? October 2026 Article	https://yougov.com/en-gb/articles/55905-how-popular-is-donald-trump-in-europe-october-2026
+What do Britons make of remembrance poppies? Article	https://yougov.com/en-gb/articles/55898-what-do-britons-make-of-remembrance-poppies
+Britons support slavery apology, but oppose reparations Article	https://yougov.com/en-gb/articles/55891-britons-support-slavery-apology-but-oppose-reparations
+What do Britons make of the US midterm elections? Article	https://yougov.com/en-gb/articles/55889-what-do-britons-make-of-the-us-midterm-elections
+Voting intention, 1-2 November 2026: Lab 26%, Con 24%, Ref 21%, LD 11%, Grn 10% 	https://yougov.com/en-gb/articles/55883-voting-intention-1-2-november-2026-lab-26-con-24-ref-21-ld-11-grn-10
+Overlapping majorities: is there a perfect median voter who speaks for a silent 	https://yougov.com/en-gb/articles/55881-overlapping-majorities-is-there-a-perfect-median-voter-who-speaks-for-a-silent-majority
+What the Spanish public are thinking ahead of the 2026 general election Article	https://yougov.com/en-gb/articles/55855-what-the-spanish-public-are-thinking-ahead-of-the-2026-general-election
+How have Britons reacted to the 2026 Budget? Article	https://yougov.com/en-gb/articles/55845-how-have-britons-reacted-to-the-2026-budget
+What do Britons think about UK military involvement in conflicts overseas – in t	https://yougov.com/en-gb/articles/55858-what-do-britons-think-about-uk-military-involvement-in-conflicts-overseas-in-their-own-words
+What do Britons think about stockpiling emergency supplies – in their own words 	https://yougov.com/en-gb/articles/55851-what-do-britons-think-about-stockpiling-emergency-supplies-in-their-own-words
+Royal family favourability trackers, October 2026 Article	https://yougov.com/en-gb/articles/55828-royal-family-favourability-trackers-october-2026
+YouGov News Tracker: 25 - 26 October 2026 Article	https://yougov.com/en-gb/articles/55843-yougov-news-tracker-25-26-october-2026
+Tracker: European attitudes towards other countries Article	https://yougov.com/en-gb/articles/55311-tracker-european-attitudes-towards-other-countries
+Income tax, VAT and National Insurance: which would Britons raise if they had to	https://yougov.com/en-gb/articles/55839-income-tax-vat-and-national-insurance-which-would-britons-raise-if-they-had-to-pick-one
+What do Britons think about the minimum wage – in their own words Article	https://yougov.com/en-gb/articles/55859-what-do-britons-think-about-the-minimum-wage-in-their-own-words
+How far do Britons support nationalising water companies? Article	https://yougov.com/en-gb/articles/55821-how-far-do-britons-support-nationalising-water-companies
+Voting intention, 25-26 October 2026: Lab 27%, Con 22%, Ref 20%, LD 11%, Grn 10%	https://yougov.com/en-gb/articles/55822-voting-intention-25-26-october-2026-lab-27-con-22-ref-20-ld-11-grn-10
+How would Britons feel about potential coalition governments, October 2026? Arti	https://yougov.com/en-gb/articles/55799-how-would-britons-feel-about-potential-coalition-governments-october-2026
+YouGov News Tracker: 18 - 19 October 2026 Article	https://yougov.com/en-gb/articles/55798-yougov-news-tracker-18---19-october-2026
+Ahead of the 2026 Budget, the public are divided on tax and spend Article	https://yougov.com/en-gb/articles/55790-ahead-of-the-2026-budget-the-public-are-divided-on-tax-and-spend
+Political favourability ratings, October 2026 Article	https://yougov.com/en-gb/articles/55782-political-favourability-ratings-october-2026
+Voting intention, 18-19 October 2026: Lab 27%, Con 23%, Ref 22%, LD 11%, Grn 10%	https://yougov.com/en-gb/articles/55781-voting-intention-18-19-october-2026-lab-27-con-23-ref-22-ld-11-grn-10
+Wales political snapshot, October 2026 Article	https://yougov.com/en-gb/articles/55761-wales-political-snapshot-october-2026
+YouGov News Tracker: 11 - 12 October 2026 Article	https://yougov.com/en-gb/articles/55752-yougov-news-tracker-11-12-october-2026
+Scotland political snapshot, October 2026 Article	https://yougov.com/en-gb/articles/55758-scotland-political-snapshot-october-2026
+Ahead of the 2026 Budget, Labour’s economic reputation has improved since last y	https://yougov.com/en-gb/articles/55744-ahead-of-the-2026-budget-labours-economic-reputation-has-improved-since-last-year
+Britons increasingly believe Greens are prejudiced against Jewish people Article	https://yougov.com/en-gb/articles/55732-britons-increasingly-believe-greens-are-prejudiced-against-jewish-people
+Voting intention, 11-12 October 2026: Lab 24%, Con 23%, Ref 21%, LD 12%, Grn 11%	https://yougov.com/en-gb/articles/55731-voting-intention-11-12-october-2026-lab-24-con-23-ref-21-ld-12-grn-11
+If the government decides to rejoin EU, Britons say there should be a referendum	https://yougov.com/en-gb/articles/55712-if-the-government-decides-to-rejoin-eu-britons-say-there-should-be-a-referendum
+YouGov News Tracker: 4 - 5 October 2026 Article	https://yougov.com/en-gb/articles/55698-yougov-news-tracker-4-5-october-2026
+Do Britons support a tourist tax? Article	https://yougov.com/en-gb/articles/55692-do-britons-support-a-tourist-tax
+Voting intention, 4-5 October 2026: Lab 27%, Ref 22%, Con 20%, LD 11%, Grn 11% A	https://yougov.com/en-gb/articles/55688-voting-intention-4-5-october-2026-lab-27-ref-22-con-20-ld-11-grn-11
+	https://bsky.app/profile/yougov.co.uk
+	https://facebook.com/YouGovUS
+	https://twitter.com/YouGov
+	https://www.linkedin.com/company/yougov
+	https://yougov.com/en-gb/rss
+About us	https://yougov.com/en-gb/about/
+Methodology	https://yougov.com/en-gb/about/methodology
+Our Panel	https://yougov.com/en-gb/about/panel
+Our team	https://yougov.com/en-gb/about/team
+Contact	https://yougov.com/en-gb/about/contact
+All products	https://yougov.com/en-gb/business/products
+Join the Panel	https://account.yougov.com/region
+Panelist support	https://yougov.zendesk.com/hc/en-gb/requests/new
+Careers	https://jobs.yougov.com
+Investor relations	https://corporate.yougov.com
+Website terms	https://yougov.com/en-gb/about/terms/website
+Privacy notice	https://yougov.com/en-gb/about/terms/privacy
+Public data licence	https://yougov.com/en-gb/about/terms/public-data-license
+Modern slavery act	https://corporate.yougov.com/modern-slavery-act-statement
+About us	https://yougov.com/en-gb/about/
+Methodology	https://yougov.com/en-gb/about/methodology
+Our Panel	https://yougov.com/en-gb/about/panel
+Our team	https://yougov.com/en-gb/about/team
+Contact	https://yougov.com/en-gb/about/contact
+All products	https://yougov.com/en-gb/business/products
+Join the Panel	https://account.yougov.com/region
+Panelist support	https://yougov.zendesk.com/hc/en-gb/requests/new
+Careers	https://jobs.yougov.com
+Investor relations	https://corporate.yougov.com
+Website terms	https://yougov.com/en-gb/about/terms/website
+Privacy notice	https://yougov.com/en-gb/about/terms/privacy
+Public data licence	https://yougov.com/en-gb/about/terms/public-data-license
+Modern slavery act	https://corporate.yougov.com/modern-slavery-act-statement
