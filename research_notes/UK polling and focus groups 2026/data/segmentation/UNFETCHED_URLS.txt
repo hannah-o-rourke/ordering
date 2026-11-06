@@ -1,0 +1,60 @@
+# Cross-tab / report files attempted on 2026-11-06 and NOT downloaded.
+# Reason: session network proxy returned "CONNECT tunnel failed, response 403" (policy denial) for every host below;
+# WebFetch returned ENOTFOUND for the same hosts. Retry from an unrestricted network.
+# Suggested local filename -> URL
+
+MoreInCommon_Reform_Deck_Full_Sep2026.pdf -> https://www.moreincommon.org.uk/wp-content/uploads/2026/09/Reform-Deck-Full.pdf
+MoreInCommon_Conservative_Deck_Oct2026.pdf -> https://www.moreincommon.org.uk/wp-content/uploads/2026/10/Conservative-Deck-2026-2-1.pdf
+MoreInCommon_Labour_coalition_Jun2026.pdf -> https://www.moreincommon.org.uk/wp-content/uploads/2026/06/labour-s-coalition.pdf
+MoreInCommon_Labour_coalition_changed_May2026.pdf -> https://www.moreincommon.org.uk/wp-content/uploads/2026/05/lab_9-coalition.pdf
+MoreInCommon_DissentingDisruptors_May2026.pdf -> https://www.moreincommon.org.uk/wp-content/uploads/2026/05/dissenting-disruptors-more-in-common.pdf
+MoreInCommon_UCL_WhereNextForTheRight_May2026.pdf -> https://www.moreincommon.org.uk/wp-content/uploads/2026/05/where-next-for-the-right_-more-in-common-ucl.pdf
+MoreInCommon_LocalDevolved_Climate_Jun2026.pdf -> https://www.moreincommon.org.uk/wp-content/uploads/2026/06/Local-and-Devolved-Elections-Climate-Report-%E2%80%93-v2_compressed.pdf
+MoreInCommon_GortonDenton_dispatch_2026.pdf -> https://www.moreincommon.org.uk/wp-content/uploads/2026/04/gorton-and-denton-by-election-dispatch.pdf
+MoreInCommon_Brexit10_webinar_Jun2026.pdf -> https://www.moreincommon.org.uk/wp-content/uploads/2026/06/Brexit-10th-anniversary-webinar.pdf
+MoreInCommon_WhatsChanged_Jul2025_context.pdf -> https://www.moreincommon.org.uk/wp-content/uploads/2026/04/what-s-changed_pdf.pdf
+MoreInCommon_April2026_MRP.html -> https://www.moreincommon.org.uk/latest-insights/more-in-common-s-april-2026-mrp/
+MoreInCommon_Sept2026_MRP.html -> https://www.moreincommon.org.uk/research/more-in-commons-september-2026-mrp/
+MoreInCommon_Jan2026_MRP.html -> https://www.moreincommon.org.uk/latest-insights/more-in-common-s-january-mrp/
+MoreInCommon_London_MRP_2026.html -> https://www.moreincommon.org.uk/research/more-in-commons-2026-london-mrp/
+YouGov_MRP_merge_Jan2026_tables_n17230.pdf -> https://ygo-assets-websites-editorial-emea.yougov.net/documents/VotingIntention_Merge_MRP_Jan26_w.pdf
+YouGov_VI_tables_11-12Oct2026_n2393.pdf -> https://ygo-assets-websites-editorial-emea.yougov.net/documents/VotingIntention_Results_261012_w.pdf
+YouGov_start_of_2026_demographics.html -> https://yougov.com/en-gb/articles/53923-how-would-britain-vote-at-the-start-of-2026
+YouGov_BigVoterStudy_Reform.html -> https://yougov.com/en-gb/articles/55153-big-yougov-voter-study-2026-how-solid-is-reform-uks-rise
+YouGov_BigVoterStudy_Labour.html -> https://yougov.com/en-gb/articles/55150-big-yougov-voter-study-2026-which-voters-abandoned-labour-over-keir-starmers-premiership-and-why
+YouGov_BigVoterStudy_Conservatives.html -> https://yougov.com/en-gb/articles/55152-big-yougov-voter-study-2026-what-has-happened-to-the-conservatives-2024-voters
+YouGov_BigVoterStudy_Greens.html -> https://yougov.com/en-gb/articles/55154-big-yougov-voter-study-2026-what-do-green-voters-think-of-the-party
+YouGov_BigVoterStudy_LibDems.html -> https://yougov.com/en-gb/articles/55156-big-yougov-voter-study-2026-how-has-the-lib-dem-coalition-changed-over-the-last-two-years
+YouGov_BigVoterStudy_Restore.html -> https://yougov.com/en-gb/articles/55157-big-yougov-voter-study-2026-what-do-restore-britain-supporters-see-in-the-party
+YouGov_local_elections_coalition_May2026.html -> https://yougov.com/en-gb/articles/54811-labours-voter-coalition-broke-more-to-left-than-right-at-2026-local-elections
+YouGov_two_years_since_2024.html -> https://yougov.com/en-gb/articles/55084-how-would-britain-vote-two-years-since-the-2024-election
+YouGov_MRP_Sept2026.html -> https://yougov.com/en-gb/articles/55618-yougov-mrp-shows-labour-would-be-the-largest-party-in-a-hung-parliament-were-an-election-held-tomorrow
+YouGov_tactical_Feb2026.html -> https://yougov.com/en-gb/articles/54117-what-is-the-tactical-voting-landscape-in-february-2026
+YouGov_tactical_Sept2026.html -> https://yougov.com/en-gb/articles/55613-what-is-the-tactical-voting-landscape-in-september-2026
+YouGov_how_Scotland_voted_2026.html -> https://yougov.com/en-gb/articles/54908-how-scotland-voted-in-the-2026-holyrood-election
+YouGov_how_Wales_voted_2026.html -> https://yougov.com/en-gb/articles/54913-how-wales-voted-at-the-2026-senedd-election
+Ipsos_PoliticalMonitor_Jan2026_charts.pdf -> https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Ipsos%20Jan%202026_Political%20Monitor%20charts_Release%201_V1_Int%20Use%20Only.pdf
+Ipsos_PoliticalMonitor_Mar2026_charts.pdf -> https://www.ipsos.com/sites/default/files/ct/news/documents/2026-03/Ipsos%20Mar%202026_Political%20Monitor%20charts.pdf
+Ipsos_PoliticalMonitor_Apr2026_charts.pdf -> https://www.ipsos.com/sites/default/files/ct/news/documents/2026-04/Ipsos%20Apr%202026_Political%20Monitor%20charts_Public.pdf
+Ipsos_PoliticalMonitor_May2026_charts.pdf -> https://www.ipsos.com/sites/default/files/ct/news/documents/2026-05/Ipsos%20May%202026_Political%20Monitor%20charts_Release%201_IntUseOnly.pdf
+Ipsos_Oct2026_VI_release.html -> https://www.ipsos.com/en-uk/labour-now-lead-8-points-conservatives-second-place-latest-voting-intention-polling
+PersuasionUK_RevoltOnTheLeft_Mar2026.pdf -> https://cdn.persuasionuk.org/Persuasion_labour_progressive_defectors_march2026_81ef9bbfa4.pdf
+PersuasionUK_May2026_elections_analysis.pdf -> https://cdn.persuasionuk.org/May_2026_elections_preliminary_analysis_7325311b0f.pdf
+PersuasionUK_Reform_message_testing_2025_context.pdf -> https://cdn.persuasionuk.org/Reform_message_testing_for_publication_1646cb775d.pdf
+BritishFuture_ImmigrationTracker_AfterTheFall_May2026.pdf -> https://www.britishfuture.org/wp-content/uploads/2026/05/Tracker-report-2026.Final_-1.pdf
+HopeNotHate_StateOfHate_2026.pdf -> https://hopenothate.org.uk/wp-content/uploads/2026/03/state-of-hate-2026-PDF.pdf
+NatCen_BSA43_WhoSupportsReform_2026.pdf -> https://natcen.ac.uk/sites/default/files/2026-06/bsa-43-%7C-who-supports-reform%3F-1932.pdf
+NatCen_BSA43_Reform_and_Addendum_Sep2026.pdf -> https://natcen.ac.uk/sites/default/files/2026-09/BSA-43-Reform-and-Addendum.pdf
+Fabians_UnevenGround_Apr2026.pdf -> https://fabians.org.uk/wp-content/uploads/2026/04/Eneven-Ground-final.pdf
+Fabians_CommonEndeavour_Apr2026.pdf -> https://fabians.org.uk/wp-content/uploads/2026/04/Common-Endeavour-Web-fixed-14-april.pdf
+Compass_EndingBusinessAsUsual_Sep2026.pdf -> https://www.compassonline.org.uk/wp-content/uploads/2026/09/Ending-Business-As-Usual-Official.pdf
+ElectoralCalculus_MRP_Jan2026.html -> https://www.electoralcalculus.co.uk/blogs/ec_vipoll_20260113.html
+ElectoralCalculus_MRP_Apr2026.html -> https://www.electoralcalculus.co.uk/blogs/ec_vipoll_20260423.html
+ElectoralCalculus_MRP_Jul2026.html -> https://www.electoralcalculus.co.uk/blogs/ec_vipoll_20260708.html
+ElectoralCalculus_MRP_Sep2026.html -> https://www.electoralcalculus.co.uk/blogs/ec_vipoll_20260924.html
+ElectoralCalculus_MRP_Oct2026.html -> https://www.electoralcalculus.co.uk/blogs/ec_vipoll_20261016.html
+ElectoralCalculus_TacticalVoting_PR_2026.html -> https://www.electoralcalculus.co.uk/blogs/pseph_tactical_2026.html
+Survation_MRP_HopeNotHate_Jul2026.html -> https://www.survation.com/first-past-the-post-but-only-just-reforms-marginal-lead-and-our-latest-mrp-findings/
+Survation_tactical_voting_2026.html -> https://www.survation.com/whos-in-second-place-estimating-tactical-voting-in-an-era-of-extreme-volatility/
+Opinium_VI_28Oct2026_tables.html -> https://www.opinium.com/resource-center/voting-intention-28th-october-2026/
+britpolls_demographics_aggregator.html -> https://britpolls.co.uk/polls/demographics/
